@@ -1,0 +1,54 @@
+# Top-level experiment outputs
+/logs/
+/artifacts/
+/runs/
+
+# Keep report docs tracked but ignore generated assets
+/reports/*.png
+/reports/*.jpg
+/reports/*.pdf
+
+# DiMA runtime outputs and caches
+/DiMA/outputs/
+/DiMA/wandb/
+/DiMA/wandb_artifacts/
+/DiMA/.cache/
+/DiMA/generated_sequences/
+/DiMA/pdb_files/
+/DiMA/exps/
+
+# Downloaded datasets and heavy intermediates
+/DiMA/data/AFDB-v2/
+/DiMA/data/swissprot/
+/DiMA/data/**/*.arrow
+/DiMA/data/**/dataset_info.json
+/DiMA/data/**/state.json
+
+# Binary model/checkpoint files
+*.pth
+*.pt
+*.ckpt
+*.pkl
+
+# Job and runtime logs
+*.out
+*.err
+slurm-*.out
+slurm-*.err
+
+# Python and notebook noise
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment and local machine files
+.env
+.env.*
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp*/
+*.tmp
