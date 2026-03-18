@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=dima-base-1g
+#SBATCH --job-name=dima-decoder-1g
 #SBATCH --output=/ocean/projects/cis260039p/aguda1/nndl/project/logs/%x-%j.out
 #SBATCH --error=/ocean/projects/cis260039p/aguda1/nndl/project/logs/%x-%j.err
 #SBATCH --partition=GPU-shared
@@ -8,8 +8,8 @@
 #SBATCH --cpus-per-task=5
 #SBATCH --mem=48G
 #SBATCH --gpus=v100-32:1
-#SBATCH --time=24:00:00
-#SBATCH --time-min=08:00:00
+#SBATCH --time=12:00:00
+#SBATCH --time-min=02:00:00
 #SBATCH --chdir=/ocean/projects/cis260039p/aguda1/nndl/project
 
 set -euo pipefail
@@ -30,11 +30,9 @@ fi
 
 python -c "import torch; print('Using Python:', __import__('sys').executable)"
 
-# Prefer conda-shipped shared libraries over older system libstdc++.
-export LD_LIBRARY_PATH="${CONDA_PREFIX}/lib:${LD_LIBRARY_PATH:-}"
-
 export OMP_NUM_THREADS="${SLURM_CPUS_PER_TASK:-1}"
-export RUN_NAME="${RUN_NAME:-baseline_full_ft_single_gpu}"
+export RUN_NAME="${RUN_NAME:-decoder_pretrain}"
 export WANDB_PROJECT="${WANDB_PROJECT:-dima-course}"
+export DISABLE_WANDB="${DISABLE_WANDB:-1}"
 
-bash scripts/launch_baseline_single_gpu.sh
+bash scripts/launch_train_decoder.sh

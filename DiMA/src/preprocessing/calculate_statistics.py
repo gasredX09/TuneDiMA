@@ -2,6 +2,7 @@ import os
 import torch
 from tqdm import tqdm
 import argparse
+from contextlib import nullcontext
 from hydra.utils import instantiate
 
 from src.utils.hydra_utils import setup_config
@@ -16,6 +17,13 @@ def compute_mean_std(
 ):
     encoder.eval()
 
+    if device.type == "cuda":
+        bf16_supported = hasattr(torch.cuda, "is_bf16_supported") and torch.cuda.is_bf16_supported()
+        amp_dtype = torch.bfloat16 if bf16_supported else torch.float16
+        amp_ctx = lambda: torch.autocast(device_type='cuda', dtype=amp_dtype)
+    else:
+        amp_ctx = nullcontext
+
     encodings_sum = torch.zeros(config.encoder.config.embedding_dim, device=device)
     encodings_sum_of_squares = torch.zeros(config.encoder.config.embedding_dim, device=device)
     encodings_count = torch.Tensor([0.0]).to(device)
@@ -23,7 +31,7 @@ def compute_mean_std(
     T = tqdm(train_loader)
 
     for i, batch in enumerate(T):
-        with torch.no_grad(), torch.autocast(device_type='cuda', dtype=torch.bfloat16):
+        with torch.no_grad(), amp_ctx():
             clean_X, attention_mask, _ = encoder.batch_encode(batch, max_sequence_len=config.datasets.max_sequence_len)
             attention_mask = attention_mask.int()
 
@@ -47,9 +55,17 @@ def compute_mean_std(
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--config_path", type=str)
+    parser.add_argument("--project_path", type=str, default=None)
+    parser.add_argument("--data_dir", type=str, default=None)
     args = parser.parse_args()
 
     config = setup_config(config_path=args.config_path)
+
+    if args.project_path is not None:
+        config.project.path = args.project_path
+
+    if args.data_dir is not None:
+        config.datasets.data_dir = args.data_dir
 
     seed_everything(config.project.seed)
 

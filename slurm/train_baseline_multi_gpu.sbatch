@@ -14,11 +14,21 @@
 
 set -euo pipefail
 
-# Activate your environment. Adjust these lines if your cluster uses modules.
-if command -v conda >/dev/null 2>&1; then
+CONDA_ENV_NAME="${CONDA_ENV:-chiu-lab}"
+CONDA_ENV_PREFIX="${CONDA_ENV_PREFIX:-$HOME/.conda/envs/$CONDA_ENV_NAME}"
+
+if [[ -d "$CONDA_ENV_PREFIX" ]]; then
+  export PATH="$CONDA_ENV_PREFIX/bin:$PATH"
+  export CONDA_PREFIX="$CONDA_ENV_PREFIX"
+elif command -v conda >/dev/null 2>&1; then
   eval "$(conda shell.bash hook)"
-  conda activate "${CONDA_ENV:-dima_env}"
+  conda activate "$CONDA_ENV_NAME"
+else
+  echo "[ERROR] Conda environment not found: $CONDA_ENV_PREFIX"
+  exit 1
 fi
+
+python -c "import torch; print('Using Python:', __import__('sys').executable)"
 
 # Prefer conda-shipped shared libraries over older system libstdc++.
 export LD_LIBRARY_PATH="${CONDA_PREFIX}/lib:${LD_LIBRARY_PATH:-}"

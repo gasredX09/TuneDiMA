@@ -50,9 +50,13 @@ class EncNormalizer(nn.Module):
 
     def normalize(self, encoding: FloatTensor) -> FloatTensor:
         self._ensure_identity_stats(encoding)
-        enc_std = torch.where(self.enc_std < 1e-5, 1, self.enc_std)
-        return (encoding - self.enc_mean) / enc_std
+        enc_mean = self.enc_mean.to(device=encoding.device, dtype=encoding.dtype)
+        enc_std = self.enc_std.to(device=encoding.device, dtype=encoding.dtype)
+        enc_std = torch.where(enc_std < 1e-5, 1, enc_std)
+        return (encoding - enc_mean) / enc_std
 
     def denormalize(self, pred_x_0: FloatTensor) -> FloatTensor:
         self._ensure_identity_stats(pred_x_0)
-        return pred_x_0 * self.enc_std + self.enc_mean
+        enc_mean = self.enc_mean.to(device=pred_x_0.device, dtype=pred_x_0.dtype)
+        enc_std = self.enc_std.to(device=pred_x_0.device, dtype=pred_x_0.dtype)
+        return pred_x_0 * enc_std + enc_mean
