@@ -37,4 +37,12 @@ export OMP_NUM_THREADS="${SLURM_CPUS_PER_TASK:-1}"
 export RUN_NAME="${RUN_NAME:-baseline_full_ft_single_gpu}"
 export WANDB_PROJECT="${WANDB_PROJECT:-dima-course}"
 
+# Copy encoder statistics to local checkpoint directory for faster I/O if training locally
+STATS_SRC="/ocean/projects/cis260039p/aguda1/nndl/project/DiMA/checkpoints/statistics/encodings-ESM2-3B.pth"
+if [[ -f "$STATS_SRC" && -n "${LOCAL:-}" && -d "${LOCAL:-}" ]]; then
+  STATS_DIR="${LOCAL}/${RUN_NAME}/checkpoints/statistics"
+  mkdir -p "$STATS_DIR"
+  cp -v "$STATS_SRC" "$STATS_DIR/" 2>/dev/null || true
+fi
+
 bash scripts/launch_baseline_single_gpu.sh

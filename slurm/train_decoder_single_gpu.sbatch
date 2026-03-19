@@ -8,7 +8,7 @@
 #SBATCH --cpus-per-task=5
 #SBATCH --mem=48G
 #SBATCH --gpus=v100-32:1
-#SBATCH --time=12:00:00
+#SBATCH --time=24:00:00
 #SBATCH --time-min=02:00:00
 #SBATCH --chdir=/ocean/projects/cis260039p/aguda1/nndl/project
 
