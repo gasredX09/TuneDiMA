@@ -24,6 +24,7 @@ class ESM2EncoderModel(Encoder):
             add_enc_normalizer=add_enc_normalizer,
         )
         self.main_config = main_config
+        self._use_transformer_decoder = False
 
         esm_model = EsmForMaskedLM.from_pretrained(
             config.encoder_model_name, 
@@ -36,13 +37,17 @@ class ESM2EncoderModel(Encoder):
         
         if self.decoder_type == "transformer":
             decoder_path = self.main_config.decoder.decoder_path
-            self.sequence_decoder = TransformerDecoder(
-                config=self.main_config
-            )
             if decoder_path is not None and os.path.exists(decoder_path):
+                self.sequence_decoder = TransformerDecoder(
+                    config=self.main_config
+                )
                 self.sequence_decoder.load_state_dict(torch.load(decoder_path)["decoder"])
+                self._use_transformer_decoder = True
             else:
-                print("Decoder wasn't initialized")
+                # Fall back to ESM lm_head if a trained transformer decoder is unavailable.
+                # Using a randomly initialized decoder can yield mostly empty invalid outputs.
+                print("Decoder checkpoint was not found; falling back to ESM lm_head for decoding")
+                self.sequence_decoder = esm_model.lm_head
         else:
             self.sequence_decoder = esm_model.lm_head
         self.sequence_decoder = self.sequence_decoder.to(device)
@@ -73,7 +78,10 @@ class ESM2EncoderModel(Encoder):
 
     def batch_decode(self, encodings, attention_mask=None):
         encodings = self.enc_normalizer.denormalize(encodings)
-        logits = self.sequence_decoder(x=encodings, mask=attention_mask)
+        if self._use_transformer_decoder:
+            logits = self.sequence_decoder(x=encodings, mask=attention_mask)
+        else:
+            logits = self.sequence_decoder(encodings)
 
         token_ids = logits.argmax(axis=-1).detach().cpu().tolist()
         if attention_mask is not None:
@@ -89,7 +97,7 @@ class ESM2EncoderModel(Encoder):
     def batch_get_logits(self, encodings: torch.Tensor, attention_mask: Optional[torch.Tensor] = None) -> torch.Tensor:
         if self.enc_normalizer is not None:
             encodings = self.enc_normalizer.denormalize(encodings)
-        if self.decoder_type == "transformer":
+        if self._use_transformer_decoder:
             logits = self.sequence_decoder(x=encodings, mask=attention_mask)
         else:
             logits = self.sequence_decoder(encodings)

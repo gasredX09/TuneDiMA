@@ -64,6 +64,35 @@ Goal: run a reliable DiMA baseline, then move to high-return improvements (decod
 - Persistent checkpoint available for resume:
   - `artifacts/domain_adaptive_denoiser/checkpoints/diffusion_checkpoints/domain_adaptive_denoiser/1000.pth`
 
+### 8) Domain-Adaptive Recovery + Completion
+
+- Resumed from step-1000 checkpoint with reduced generation load (`GEN_SAMPLES=64`) and completed full 5000-step schedule.
+- Recovery run job: `38067100` (state: COMPLETED, elapsed: 05:32:08).
+- No CUDA OOM during eval/generation after generation sample reduction.
+- Final step-5000 metrics:
+  - `fid: 8.80376`
+  - `mmd: 1.49501`
+  - `esm_pppl: 244.63275`
+  - `plddt: 35.59927`
+- Best observed checkpoint by FID/MMD tradeoff in this run: step `4500`.
+- Promoted best model artifact for downstream comparison:
+  - `artifacts/domain_adaptive_denoiser/selected/best_by_fid_mmd_step4500.pth`
+  - `artifacts/domain_adaptive_denoiser/selected/best_by_fid_mmd_step4500_samples.json`
+- Accidental comparability submission (`job 38073338`) was cancelled to avoid unintended retraining.
+
+### 9) Reference DiMA Comparability (In Progress)
+
+- First reference attempt (`job 38073350`) completed but was invalid for comparison because it did not load a checkpoint (`training.init_se` empty and no `Checkpoint is loaded from ...` line).
+- Added fail-fast reference checkpoint staging in `slurm/train_baseline_single_gpu.sbatch`:
+  - New env controls: `REF_CKPT_SRC`, `REF_CKPT_NAME`
+  - If `REF_CKPT_SRC` is missing, job exits early.
+  - If present, checkpoint is copied into the exact run folder used by `load_checkpoint()`.
+- Launched corrected reference run: `job 38075574`.
+- Verified from log that this corrected run is using the staged checkpoint (not scratch retraining):
+  - `[INFO] Reference checkpoint staged: /local/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth`
+  - `Checkpoint is loaded from /local/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth`
+  - `Evaluation of loaded checkpoint`
+
 
 ## Current Status (Now)
 
@@ -72,20 +101,29 @@ Goal: run a reliable DiMA baseline, then move to high-return improvements (decod
 - ✅ Decoder pretraining (50k steps): job 38060424 completed successfully with checkpoint/resume support.
 - ✅ Sanity retrain (500 iterations): job 38065104 completed successfully with healthy loss curve (0.826 → 0.098). Encoder stats fallback to identity normalization (no critical impact for validation).
 - ✅ Job infrastructure: Baseline SLURM script now copies encoder statistics to local scratch run directory when `LOCAL` is available.
-- ⚠️ Domain-adaptive run (job 38065249) stopped early due to CUDA OOM during eval/sample generation after saving step-1000 checkpoint.
+- ✅ Domain-adaptive run recovered and completed: job 38067100 reached step 5000 with stable eval metrics and persisted checkpoints (`500` ... `5000`).
+- ✅ Selected checkpoint promoted for downstream use: `artifacts/domain_adaptive_denoiser/selected/best_by_fid_mmd_step4500.pth`.
+- ✅ Official DiMA reference checkpoint staged at `artifacts/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth`.
+- ⚠️ Reference attempt `38073350`: completed but invalid comparison run (checkpoint not loaded).
+- ⏳ Corrected reference comparability run `38075574` is running with checkpoint-load confirmed in logs.
 
-## Next Milestone: Domain-Adaptive Fine-Tuning
+## Next Milestone: Apples-to-Apples DiMA Comparability
 
-Ready to launch domain-adaptive denoiser fine-tuning on target protein subset. Configuration complete, all infrastructure validated.
+Finalize corrected reference run (`38075574`), validate metric health (finite `esm_pppl`, non-zero `plddt`, non-empty generated sequences), then report side-by-side deltas against selected checkpoint `best_by_fid_mmd_step4500.pth`.
 
 ## Recommended Next Step (Immediate)
 
-Resume domain-adaptive fine-tuning from saved step-1000 checkpoint and reduce generation sample count to avoid eval OOM:
+Evaluate the selected checkpoint against an official DiMA reference in the same local pipeline:
 
 ```bash
 cd /ocean/projects/cis260039p/aguda1/nndl/project
-sbatch --export=ALL,CONDA_ENV=chiu-lab,DISABLE_WANDB=1,RUN_NAME=domain_adaptive_denoiser,DATASET_NAME=AFDB-v2,TRAINING_ITERS=5000,EVAL_INTERVAL=500,SAVE_INTERVAL=500,GEN_SAMPLES=64,INIT_SE=/ocean/projects/cis260039p/aguda1/nndl/project/artifacts/domain_adaptive_denoiser/checkpoints/diffusion_checkpoints/domain_adaptive_denoiser/1000.pth slurm/train_baseline_single_gpu.sbatch
+# 1) place the official DiMA checkpoint at:
+#    artifacts/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth
+# 2) run evaluation in the same local pipeline (checkpoint must exist first)
+sbatch --export=ALL,CONDA_ENV=chiu-lab,DISABLE_WANDB=1,RUN_NAME=reference_dima_eval,DATASET_NAME=AFDB-v2,TRAINING_ITERS=5000,EVAL_INTERVAL=5000,SAVE_INTERVAL=5000,GEN_SAMPLES=64 slurm/train_baseline_single_gpu.sbatch
 ```
+
+If the checkpoint in step (1) is missing, do not submit step (2): it will start a fresh training run.
 
 
 ## Operational Notes
