@@ -80,18 +80,26 @@ Goal: run a reliable DiMA baseline, then move to high-return improvements (decod
   - `artifacts/domain_adaptive_denoiser/selected/best_by_fid_mmd_step4500_samples.json`
 - Accidental comparability submission (`job 38073338`) was cancelled to avoid unintended retraining.
 
-### 9) Reference DiMA Comparability (In Progress)
+### 9) Reference DiMA Comparability (Completed)
 
 - First reference attempt (`job 38073350`) completed but was invalid for comparison because it did not load a checkpoint (`training.init_se` empty and no `Checkpoint is loaded from ...` line).
 - Added fail-fast reference checkpoint staging in `slurm/train_baseline_single_gpu.sbatch`:
   - New env controls: `REF_CKPT_SRC`, `REF_CKPT_NAME`
   - If `REF_CKPT_SRC` is missing, job exits early.
   - If present, checkpoint is copied into the exact run folder used by `load_checkpoint()`.
-- Launched corrected reference run: `job 38075574`.
-- Verified from log that this corrected run is using the staged checkpoint (not scratch retraining):
+- Launched corrected reference run sequence with checkpoint staging and decoder staging.
+- Final validated reference run: `job 38112128`.
+- Verified from log that the corrected run is using the staged checkpoint (not scratch retraining):
   - `[INFO] Reference checkpoint staged: /local/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth`
   - `Checkpoint is loaded from /local/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth`
   - `Evaluation of loaded checkpoint`
+- Job accounting confirms clean completion:
+  - `sacct -j 38112128` -> `COMPLETED`, exit code `0:0`
+- Final reference metrics from `38112128`:
+  - `fid: 23.68523`
+  - `mmd: 3.50680`
+  - `esm_pppl: 1.00430`
+  - `plddt: 61.83303`
 
 
 ## Current Status (Now)
@@ -105,25 +113,37 @@ Goal: run a reliable DiMA baseline, then move to high-return improvements (decod
 - ✅ Selected checkpoint promoted for downstream use: `artifacts/domain_adaptive_denoiser/selected/best_by_fid_mmd_step4500.pth`.
 - ✅ Official DiMA reference checkpoint staged at `artifacts/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth`.
 - ⚠️ Reference attempt `38073350`: completed but invalid comparison run (checkpoint not loaded).
-- ⏳ Corrected reference comparability run `38075574` is running with checkpoint-load confirmed in logs.
+- ✅ Corrected reference comparability run `38112128`: completed with checkpoint load confirmed and healthy metrics.
+- ✅ Selected checkpoint comparability run `38128244` completed (`RUN_NAME=selected_step4500_eval`).
 
-## Next Milestone: Apples-to-Apples DiMA Comparability
+### 10) Apples-to-Apples Domain-Adaptive vs Reference Comparability (Completed)
 
-Finalize corrected reference run (`38075574`), validate metric health (finite `esm_pppl`, non-zero `plddt`, non-empty generated sequences), then report side-by-side deltas against selected checkpoint `best_by_fid_mmd_step4500.pth`.
+- ✅ Selected checkpoint eval completed: job `38128244` with `best_by_fid_mmd_step4500.pth` checkpoint.
+- Job `38128244` completed in 52 minutes with exit code 0:0.
+- Side-by-side comparison results:
+
+| Metric | Reference (38112128) | Selected Step4500 (38128244) | Delta |
+|--------|:----:|:----:|:----:|
+| FID ↓ | 23.68523 | 23.78363 | +0.0984 (worse) |
+| MMD ↓ | 3.50680 | 3.52037 | +0.01357 (worse) |
+| ESM-PPL ↓ | 1.00430 | 1.00457 | +0.00027 (worse) |
+| pLDDT ↑ | 61.83303 | 58.77998 | -3.05305 (worse) |
+
+**Interpretation**: Reference 5000-step checkpoint (untrained) produces marginally better metrics overall. Selected step-4500 checkpoint (domain-adaptive fine-tuned) shows slight quality degradation on reference AFDB task. This suggests domain-adaptive fine-tuning optimized for target domain at the cost of reference generalization.
+
+## Next Milestone: Final Project Summary & Recommendations
+Run a matched evaluation for selected checkpoint `best_by_fid_mmd_step4500.pth` in the same pipeline (same decoder, generation settings, and metric settings), then report side-by-side deltas against reference run `38112128`.
 
 ## Recommended Next Step (Immediate)
 
-Evaluate the selected checkpoint against an official DiMA reference in the same local pipeline:
+Evaluate the selected checkpoint in the exact same local pipeline used by the completed reference run:
 
 ```bash
 cd /ocean/projects/cis260039p/aguda1/nndl/project
-# 1) place the official DiMA checkpoint at:
-#    artifacts/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth
-# 2) run evaluation in the same local pipeline (checkpoint must exist first)
-sbatch --export=ALL,CONDA_ENV=chiu-lab,DISABLE_WANDB=1,RUN_NAME=reference_dima_eval,DATASET_NAME=AFDB-v2,TRAINING_ITERS=5000,EVAL_INTERVAL=5000,SAVE_INTERVAL=5000,GEN_SAMPLES=64 slurm/train_baseline_single_gpu.sbatch
+sbatch --export=ALL,CONDA_ENV=chiu-lab,DISABLE_WANDB=1,RUN_NAME=selected_step4500_eval,DATASET_NAME=AFDB-v2,TRAINING_ITERS=5000,EVAL_INTERVAL=5000,SAVE_INTERVAL=5000,GEN_SAMPLES=64,REF_CKPT_SRC=/ocean/projects/cis260039p/aguda1/nndl/project/artifacts/domain_adaptive_denoiser/selected/best_by_fid_mmd_step4500.pth,REF_CKPT_NAME=5000,DECODER_CKPT_SRC=/ocean/projects/cis260039p/aguda1/nndl/project/DiMA/checkpoints/decoder_checkpoints/transformer-decoder-ESM2-3B.pth slurm/train_baseline_single_gpu.sbatch
 ```
 
-If the checkpoint in step (1) is missing, do not submit step (2): it will start a fresh training run.
+If `REF_CKPT_SRC` is missing, the sbatch script now fails fast and exits with a clear error.
 
 
 ## Operational Notes

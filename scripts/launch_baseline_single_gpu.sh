@@ -103,4 +103,5 @@ DISABLE_WANDB="$DISABLE_WANDB" python "$PROJECT_ROOT/scripts/run_dima_train.py" 
   training.batch_size_per_gpu="$BATCH_SIZE_PER_GPU" \
   dataloader.num_workers="$NUM_WORKERS" \
   generation.N_steps="$GEN_STEPS" \
-  generation.num_gen_samples="$GEN_SAMPLES"
+  generation.num_gen_samples="$GEN_SAMPLES" \
+  project.decoder_checkpoints_folder="$RUN_ROOT/checkpoints/decoder_checkpoints"

@@ -49,12 +49,13 @@ class Encoder(nn.Module):
 
     def get_attention_mask_for_lens(self, lens: List[int], max_sequence_len: int) -> torch.Tensor:
         max_len_with_special_tokens = max_sequence_len + 2
-        max_len_in_batch = min(max(lens), max_len_with_special_tokens)
-        
+        # Length sampler returns amino-acid lengths; add CLS/EOS to match training tokenization.
+        lengths_with_special = [min(int(l) + 2, max_len_with_special_tokens) for l in lens]
+        max_len_in_batch = max(lengths_with_special)
+
         attention_mask = torch.zeros((len(lens), max_len_in_batch), device=self.device)
-        for i, l in enumerate(lens):
-            for j in range(min(l, max_len_in_batch)):
-                attention_mask[i, j] = 1
+        for i, l in enumerate(lengths_with_special):
+            attention_mask[i, :l] = 1
         return attention_mask
 
     def batch_get_logits(self, encodings: torch.Tensor, attention_mask: Optional[torch.Tensor] = None) -> torch.Tensor:

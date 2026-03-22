@@ -65,7 +65,11 @@ if [[ -n "${REF_CKPT_SRC:-}" ]]; then
   REF_DST_FILE="${REF_DST_DIR}/${REF_CKPT_NAME}.pth"
 
   mkdir -p "${REF_DST_DIR}"
-  cp -v "${REF_CKPT_SRC}" "${REF_DST_FILE}"
+  if [[ "$(readlink -f "${REF_CKPT_SRC}")" == "$(readlink -f "${REF_DST_FILE}")" ]]; then
+    echo "[INFO] Reference checkpoint already in place: ${REF_DST_FILE}"
+  else
+    cp -v "${REF_CKPT_SRC}" "${REF_DST_FILE}"
+  fi
 
   if [[ ! -s "${REF_DST_FILE}" ]]; then
     echo "[ERROR] Staged reference checkpoint is missing/empty: ${REF_DST_FILE}"
@@ -87,7 +91,11 @@ if [[ -n "${DECODER_CKPT_SRC:-}" ]]; then
   DECODER_DST_FILE="${DECODER_DST_DIR}/${DECODER_CKPT_NAME}"
 
   mkdir -p "${DECODER_DST_DIR}"
-  cp -v "${DECODER_CKPT_SRC}" "${DECODER_DST_FILE}"
+  if [[ "$(readlink -f "${DECODER_CKPT_SRC}")" == "$(readlink -f "${DECODER_DST_FILE}")" ]]; then
+    echo "[INFO] Decoder checkpoint already in place: ${DECODER_DST_FILE}"
+  else
+    cp -v "${DECODER_CKPT_SRC}" "${DECODER_DST_FILE}"
+  fi
 
   if [[ ! -s "${DECODER_DST_FILE}" ]]; then
     echo "[ERROR] Staged decoder checkpoint is missing/empty: ${DECODER_DST_FILE}"

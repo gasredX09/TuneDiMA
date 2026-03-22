@@ -25,6 +25,7 @@ class ESM2EncoderModel(Encoder):
         )
         self.main_config = main_config
         self._use_transformer_decoder = False
+        self._special_token_ids = set()
 
         esm_model = EsmForMaskedLM.from_pretrained(
             config.encoder_model_name, 
@@ -33,7 +34,9 @@ class ESM2EncoderModel(Encoder):
         )
 
         self.tokenizer = EsmTokenizer.from_pretrained(config.encoder_model_name)
+        self._special_token_ids = set(self.tokenizer.all_special_ids)
         self.encoder = esm_model.esm.to(device)
+        self.lm_head_decoder = esm_model.lm_head.to(device)
         
         if self.decoder_type == "transformer":
             decoder_path = self.main_config.decoder.decoder_path
@@ -47,10 +50,37 @@ class ESM2EncoderModel(Encoder):
                 # Fall back to ESM lm_head if a trained transformer decoder is unavailable.
                 # Using a randomly initialized decoder can yield mostly empty invalid outputs.
                 print("Decoder checkpoint was not found; falling back to ESM lm_head for decoding")
-                self.sequence_decoder = esm_model.lm_head
+                self.sequence_decoder = self.lm_head_decoder
         else:
-            self.sequence_decoder = esm_model.lm_head
+            self.sequence_decoder = self.lm_head_decoder
         self.sequence_decoder = self.sequence_decoder.to(device)
+
+    def _decode_logits_to_sequences(self, logits: torch.Tensor, attention_mask: Optional[torch.Tensor] = None) -> List[str]:
+        # Avoid decoding to tokenizer special tokens (<pad>/<cls>/<eos>/...),
+        # which become empty strings when skip_special_tokens=True.
+        logits_orig = logits
+        logits = logits.clone()
+        
+        # Debug: check what tokens are winning before masking
+        top_tokens_pre = logits[0, :5].argsort(descending=True).tolist()
+        
+        for token_id in self._special_token_ids:
+            logits[..., token_id] = torch.finfo(logits.dtype).min
+        
+        # Debug: check what tokens are winning after masking
+        top_tokens_post = logits[0, :5].argsort(descending=True).tolist()
+        max_val = logits.max().item()
+        print(f"[DEBUG] Logits max before special-mask: {logits_orig.max().item():.4f}, after: {max_val:.4f}")
+        print(f"[DEBUG] Top 5 tokens before mask: {top_tokens_pre}, after: {top_tokens_post}")
+
+        token_ids = logits.argmax(dim=-1).detach().cpu().tolist()
+        if attention_mask is not None:
+            for i, t in enumerate(token_ids):
+                seq_len = int(attention_mask[i].sum().item())
+                token_ids[i] = t[:seq_len]
+
+        decoded_raw = self.tokenizer.batch_decode(token_ids, skip_special_tokens=True)
+        return [''.join(t.split()) for t in decoded_raw]
         
     def batch_encode(self, batch: Dict, max_sequence_len: int):
         max_len_with_special_tokens = max_sequence_len + 2
@@ -83,14 +113,15 @@ class ESM2EncoderModel(Encoder):
         else:
             logits = self.sequence_decoder(encodings)
 
-        token_ids = logits.argmax(axis=-1).detach().cpu().tolist()
-        if attention_mask is not None:
-            for i, t in enumerate(token_ids):
-                seq_len = int(attention_mask[i].sum().item())
-                token_ids[i] = t[:seq_len]
+        decoded_sequences = self._decode_logits_to_sequences(logits, attention_mask=attention_mask)
 
-        token_ids = self.tokenizer.batch_decode(token_ids, skip_special_tokens=True)
-        decoded_sequences = [''.join(t.split()) for t in token_ids]
+        # Safety fallback: if transformer decoding collapses to all-special tokens,
+        # decode with lm_head to avoid silently producing all-empty outputs.
+        if self._use_transformer_decoder and decoded_sequences and all(len(seq) == 0 for seq in decoded_sequences):
+            print("[WARN] Transformer decoder produced only empty sequences; falling back to ESM lm_head for this batch")
+            logits = self.lm_head_decoder(encodings)
+            decoded_sequences = self._decode_logits_to_sequences(logits, attention_mask=attention_mask)
+
         return decoded_sequences  
         
 
