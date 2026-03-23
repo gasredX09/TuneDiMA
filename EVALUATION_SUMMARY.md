@@ -80,7 +80,28 @@ Two reference configurations have been validated in the same evaluation pipeline
 
 All planned comparability runs have been executed and validated. Reference checkpoint is confirmed as the superior configuration for this task.
 
-**Next steps** (optional):
-- Publish findings in project report.
-- Archive evaluation logs and metrics to artifact store.
-- Plan domain-adaptation iteration if further exploration is desired.
+## Update: Partial Fine-Tuning Ablation In Progress
+
+To test whether controlled fine-tuning can reduce degradation versus full domain-adaptive updates, a one-at-a-time partial-fine-tuning ablation was started from the validated reference checkpoint.
+
+### Ablation Plan
+
+- Start from reference diffusion checkpoint `5000.pth` with same decoder and evaluation settings.
+- Fine-tune only top denoiser layers (`ft_mode=last_n`) for controlled adaptation.
+- Run one job at a time to isolate failures and keep debugging deterministic.
+
+### Pipeline Fixes Applied During Ablation Bring-Up
+
+- Numeric `INIT_SE` values are now resolved to explicit checkpoint file paths before launch.
+- Automatic checkpoint resume is skipped when `training.init_se` is provided explicitly.
+- EMA object is recreated after trainable-parameter masking to avoid shape mismatch in partial FT.
+
+### Current Run State
+
+- Active one-at-a-time run: `job 38131704`
+- Run name: `ft_last2_from_ref_5k_r4`
+- State at last check: `PENDING`
+
+**Next steps**:
+- Wait for `38131704` completion and extract FID/MMD/ESM-PPL/pLDDT.
+- If stable, run `last_n=4` with the same corrected flow and compare both against reference `38112128`.

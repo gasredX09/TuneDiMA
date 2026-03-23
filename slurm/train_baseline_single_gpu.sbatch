@@ -78,6 +78,19 @@ if [[ -n "${REF_CKPT_SRC:-}" ]]; then
   echo "[INFO] Reference checkpoint staged: ${REF_DST_FILE}"
 fi
 
+# If INIT_SE is provided as a step index (e.g. 5000), resolve it to a checkpoint file path.
+# DiMA expects training.init_se to be a path for torch.load().
+if [[ -n "${INIT_SE:-}" && "${INIT_SE}" =~ ^[0-9]+$ ]]; then
+  INIT_SE_PATH="${RUN_ROOT}/checkpoints/diffusion_checkpoints/${RUN_NAME}/${INIT_SE}.pth"
+  if [[ -f "${INIT_SE_PATH}" ]]; then
+    export INIT_SE="${INIT_SE_PATH}"
+    echo "[INFO] INIT_SE step resolved to checkpoint path: ${INIT_SE}"
+  else
+    echo "[ERROR] INIT_SE is numeric (${INIT_SE}) but checkpoint file not found: ${INIT_SE_PATH}"
+    exit 1
+  fi
+fi
+
 # Optional staging for decoder checkpoint. Useful when RUN_ROOT is on LOCAL scratch.
 # If not staged and decoder_type=transformer, decoding may fall back to lm_head.
 if [[ -n "${DECODER_CKPT_SRC:-}" ]]; then

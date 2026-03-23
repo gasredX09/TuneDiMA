@@ -115,6 +115,10 @@ Goal: run a reliable DiMA baseline, then move to high-return improvements (decod
 - ⚠️ Reference attempt `38073350`: completed but invalid comparison run (checkpoint not loaded).
 - ✅ Corrected reference comparability run `38112128`: completed with checkpoint load confirmed and healthy metrics.
 - ✅ Selected checkpoint comparability run `38128244` completed (`RUN_NAME=selected_step4500_eval`).
+- ✅ Partial fine-tuning controls added for denoiser ablation (`FT_MODE`, `FT_LAST_N_LAYERS`).
+- ✅ Replay-mix controls added (`REPLAY_DATA_DIR`, `REPLAY_RATIO`, `REPLAY_SEED`) for future anti-forgetting experiments.
+- ⚠️ Initial partial fine-tuning runs failed (jobs `38131626`, `38131636`, `38131675`, `38131676`, `38131699`) and were used to fix pipeline issues.
+- 🚧 One-at-a-time corrected rerun is pending: job `38131704` (`RUN_NAME=ft_last2_from_ref_5k_r4`).
 
 ### 10) Apples-to-Apples Domain-Adaptive vs Reference Comparability (Completed)
 
@@ -131,25 +135,102 @@ Goal: run a reliable DiMA baseline, then move to high-return improvements (decod
 
 **Interpretation**: Reference 5000-step checkpoint (untrained) produces marginally better metrics overall. Selected step-4500 checkpoint (domain-adaptive fine-tuned) shows slight quality degradation on reference AFDB task. This suggests domain-adaptive fine-tuning optimized for target domain at the cost of reference generalization.
 
-## Next Milestone: Final Project Summary & Recommendations
-Run a matched evaluation for selected checkpoint `best_by_fid_mmd_step4500.pth` in the same pipeline (same decoder, generation settings, and metric settings), then report side-by-side deltas against reference run `38112128`.
+### 11) Partial Fine-Tuning Ablation Setup + Debugging (In Progress)
+
+Goal: run controlled one-at-a-time ablations from the validated reference checkpoint using partial denoiser fine-tuning.
+
+Implemented:
+
+- Added fine-tuning controls in training config/launch path:
+  - `training.ft_mode` (`full` or `last_n`)
+  - `training.ft_last_n_layers`
+- Added optional replay controls for later anti-forgetting experiments:
+  - `training.replay_data_dir`, `training.replay_ratio`, `training.replay_seed`
+- Added numeric `INIT_SE` resolution in SLURM launcher:
+  - if `INIT_SE=5000`, it resolves to `${RUN_ROOT}/checkpoints/diffusion_checkpoints/${RUN_NAME}/5000.pth`
+
+Failure chain and fixes:
+
+1) `torch.load(int)` crash when `INIT_SE` was passed as a number.
+- Fix: resolve numeric `INIT_SE` to checkpoint path in `slurm/train_baseline_single_gpu.sbatch`.
+
+2) Optimizer state mismatch when auto-resume loaded checkpoint after partial freezing.
+- Fix: skip automatic `load_checkpoint()` when `training.init_se` is explicitly set.
+
+3) EMA shape mismatch after changing trainable parameter set.
+- Fix: recreate EMA after applying fine-tune masking so shadow params match `requires_grad` parameters.
+
+Current status:
+
+- One-at-a-time rerun submitted with all fixes:
+  - Job `38131704`, run `ft_last2_from_ref_5k_r4`, state `PENDING`.
+
+## Next Milestone: Partial Fine-Tuning Results
+
+Complete and evaluate the one-at-a-time `last_n=2` run (`38131704`). If stable, launch `last_n=4` using the same corrected flow and compare both against reference `38112128`.
 
 ## Recommended Next Step (Immediate)
 
-Evaluate the selected checkpoint in the exact same local pipeline used by the completed reference run:
+Monitor job `38131704` to completion and extract the four metrics (FID, MMD, ESM-PPL, pLDDT). Then decide whether to launch the second one-at-a-time ablation (`last_n=4`).
 
 ```bash
 cd /ocean/projects/cis260039p/aguda1/nndl/project
-sbatch --export=ALL,CONDA_ENV=chiu-lab,DISABLE_WANDB=1,RUN_NAME=selected_step4500_eval,DATASET_NAME=AFDB-v2,TRAINING_ITERS=5000,EVAL_INTERVAL=5000,SAVE_INTERVAL=5000,GEN_SAMPLES=64,REF_CKPT_SRC=/ocean/projects/cis260039p/aguda1/nndl/project/artifacts/domain_adaptive_denoiser/selected/best_by_fid_mmd_step4500.pth,REF_CKPT_NAME=5000,DECODER_CKPT_SRC=/ocean/projects/cis260039p/aguda1/nndl/project/DiMA/checkpoints/decoder_checkpoints/transformer-decoder-ESM2-3B.pth slurm/train_baseline_single_gpu.sbatch
+sacct -j 38131704 --format=JobID,State,ExitCode,Elapsed
 ```
-
-If `REF_CKPT_SRC` is missing, the sbatch script now fails fast and exits with a clear error.
 
 
 ## Operational Notes
 
-- Use conda env `chiu-lab` for all SLURM jobs.
-- Ignore stale shell snippets that source `.venv`; the `.venv` was removed.
-- Main logs are under `project/logs/`.
-- Persisted artifacts/checkpoints are under `project/artifacts/`.
+
+## Experiments You Can Run (Quick Reference)
+
+### 1. Baseline DiMA Diffusion Run
+- **Purpose:** Establishes a reference for all future experiments.
+- **How:** Use `slurm/train_baseline_single_gpu.sbatch` with default config.
+- **Status:** Completed (2000 steps, metrics logged).
+
+### 2. Encoder Statistics Generation
+- **Purpose:** Precompute encoder normalization stats.
+- **How:** Run encoder stats job (see scripts/ or slurm/).
+- **Status:** Completed, stats at `DiMA/checkpoints/statistics/encodings-ESM2-3B.pth`.
+
+### 3. Decoder Pretraining
+- **Purpose:** Pretrain the decoder for 50k steps.
+- **How:** Use decoder training SLURM script.
+- **Status:** Completed, checkpoints every 5k steps.
+
+### 4. Sanity Retrain
+- **Purpose:** Quick 500-iteration retrain to verify pipeline.
+- **How:** Use baseline script with `training_iters=500`.
+- **Status:** Completed, healthy loss curve.
+
+### 5. Domain-Adaptive Fine-Tuning
+- **Purpose:** Adapt model to a new domain.
+- **How:** Use baseline script, set `RUN_NAME=domain_adaptive_denoiser`, resume from checkpoint if needed.
+- **Status:** Completed, best checkpoint at step 4500.
+
+### 6. Reference Checkpoint Evaluation
+- **Purpose:** Apples-to-apples comparison with official reference.
+- **How:** Use baseline script, set `training.init_se` to reference checkpoint.
+- **Status:** Completed, metrics logged.
+
+### 7. Selected Checkpoint Evaluation
+- **Purpose:** Compare best domain-adapted model to reference.
+- **How:** Use baseline script, set `training.init_se` to selected checkpoint.
+- **Status:** Completed, metrics logged.
+
+### 8. Partial Fine-Tuning Ablations
+- **Purpose:** Fine-tune only last N layers for ablation study.
+- **How:** Use baseline script, set `ft_mode=last_n`, `ft_last_n_layers=N`.
+- **Status:** In progress; last-2-layers run submitted, last-4-layers recommended next.
+
+### 9. Eval-Only/Hardening Runs
+- **Purpose:** Test model stability, NaN/Inf safety, and eval-only mode.
+- **How:** Use baseline script with `eval_only=1`, optionally disable AMP/self-cond.
+- **Status:** Completed; non-finite logits warning persists but is handled.
+
+---
+
+**See the README_PROGRESS.md for full details, job IDs, and recommended next steps.**
+For any experiment, check the corresponding SLURM script and set the right environment variables as described above.
 - Decoder intermediate checkpoints are expected under `project/artifacts/<RUN_NAME>/decoder_checkpoints/`.

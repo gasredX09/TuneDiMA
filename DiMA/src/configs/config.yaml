@@ -44,6 +44,13 @@ training:
   ema_rate: 0.9999
   grad_clip_norm: 1.0
   init_se: ""
+  replay_data_dir: ""
+  replay_ratio: 0.0
+  replay_seed: 42
+  ft_mode: "full"
+  ft_last_n_layers: 0
+  use_amp: true
+  eval_only: false
 
 
 generation:

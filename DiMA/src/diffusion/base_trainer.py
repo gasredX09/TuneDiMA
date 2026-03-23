@@ -4,7 +4,7 @@ import torch
 import torch.distributed as dist
 from omegaconf import DictConfig
 from hydra.utils import instantiate
-from datasets import load_from_disk
+from datasets import concatenate_datasets, load_from_disk
 from tqdm import trange
 import json
 from tqdm import tqdm
@@ -59,16 +59,80 @@ class BaseDiffusionTrainer:
         self.logger = RankedLogger(name="trainer", rank_zero_only=False, rank=self.config.ddp.global_rank)
 
     def _amp_autocast(self):
+        use_amp = bool(getattr(self.config.training, "use_amp", True))
+        if not use_amp:
+            return nullcontext()
         if self.device.type == "cuda":
             return torch.autocast(device_type="cuda", dtype=self.amp_dtype)
         return nullcontext()
 
     def _setup_training_utils(self):
+        self._apply_finetune_mode()
+        # Recreate EMA after trainable-mask changes so shadow params align with
+        # the current requires_grad parameter set.
+        self.ema = ExponentialMovingAverage(self.score_estimator.parameters(), self.config.training.ema_rate)
         trainable_params = filter(lambda p: p.requires_grad, self.score_estimator.parameters())
         self.optimizer = instantiate(self.config.optimizer, params=trainable_params)
         self.scheduler = instantiate(self.config.lr_scheduler, optimizer=self.optimizer)
         self.step = 0
         self._setup_ddp()
+
+    def _apply_finetune_mode(self):
+        mode = str(getattr(self.config.training, "ft_mode", "full") or "full").strip().lower()
+        last_n = int(getattr(self.config.training, "ft_last_n_layers", 0) or 0)
+
+        for p in self.score_estimator.parameters():
+            p.requires_grad = True
+
+        if mode == "full":
+            return
+
+        if mode != "last_n":
+            self.logger.warning(f"Unknown ft_mode={mode}. Falling back to full fine-tuning.")
+            return
+
+        if last_n <= 0:
+            self.logger.warning("ft_mode=last_n but ft_last_n_layers <= 0. Falling back to full fine-tuning.")
+            return
+
+        for p in self.score_estimator.parameters():
+            p.requires_grad = False
+
+        enc = self.score_estimator.encoder
+        num_output_blocks = len(enc.output_blocks)
+        num_layers = len(enc.time_layers)
+        use_self_cond = hasattr(enc, "self_cond_layers")
+
+        block_start = max(0, num_output_blocks - last_n)
+        layer_start = max(0, num_layers - last_n)
+
+        for i in range(block_start, num_output_blocks):
+            for p in enc.output_blocks[i].parameters():
+                p.requires_grad = True
+
+        for i in range(layer_start, num_layers):
+            for p in enc.time_layers[i].parameters():
+                p.requires_grad = True
+
+        if use_self_cond:
+            for i in range(layer_start, len(enc.self_cond_layers)):
+                for p in enc.self_cond_layers[i].parameters():
+                    p.requires_grad = True
+
+        # Keep output mapping trainable so adapted hidden states can map back to embedding space.
+        if hasattr(self.score_estimator, "output_projector_x_t"):
+            for p in self.score_estimator.output_projector_x_t.parameters():
+                p.requires_grad = True
+
+        total = sum(p.numel() for p in self.score_estimator.parameters())
+        trainable = sum(p.numel() for p in self.score_estimator.parameters() if p.requires_grad)
+        self.logger.info(
+            "Applied ft_mode=last_n: last_n=%d trainable=%d/%d (%.2f%%)",
+            last_n,
+            trainable,
+            total,
+            100.0 * trainable / max(total, 1),
+        )
 
     def _setup_ddp(self):
         if self.config.ddp.enabled:
@@ -85,6 +149,48 @@ class BaseDiffusionTrainer:
     def _setup_train_data_generator(self):
         if not hasattr(self, "train_dataset"):
             self.train_dataset = load_from_disk(os.path.join(self.config.datasets.data_dir, "train"))
+
+            replay_data_dir = str(getattr(self.config.training, "replay_data_dir", "") or "").strip()
+            replay_ratio = float(getattr(self.config.training, "replay_ratio", 0.0) or 0.0)
+            replay_seed = int(getattr(self.config.training, "replay_seed", 42) or 42)
+
+            if replay_data_dir and replay_ratio > 0.0:
+                main_dir = os.path.realpath(self.config.datasets.data_dir)
+                replay_dir = os.path.realpath(replay_data_dir)
+                if replay_dir == main_dir:
+                    self.logger.warning("Replay data dir matches primary dataset dir; skipping replay mix.")
+                else:
+                    replay_train_path = os.path.join(replay_data_dir, "train")
+                    if not os.path.isdir(replay_train_path):
+                        self.logger.warning(f"Replay train split not found at {replay_train_path}; skipping replay mix.")
+                    else:
+                        replay_dataset = load_from_disk(replay_train_path)
+                        main_size = len(self.train_dataset)
+                        replay_size = len(replay_dataset)
+                        target_replay_size = int(main_size * replay_ratio)
+
+                        if target_replay_size <= 0 or replay_size == 0:
+                            self.logger.warning("Replay mix requested but target size is zero; skipping replay mix.")
+                        else:
+                            chunks = []
+                            remaining = target_replay_size
+                            offset = 0
+                            while remaining > 0:
+                                shard_size = min(remaining, replay_size)
+                                shard = replay_dataset.shuffle(seed=replay_seed + offset).select(range(shard_size))
+                                chunks.append(shard)
+                                remaining -= shard_size
+                                offset += 1
+
+                            sampled_replay = chunks[0] if len(chunks) == 1 else concatenate_datasets(chunks)
+                            self.train_dataset = concatenate_datasets([self.train_dataset, sampled_replay]).shuffle(seed=replay_seed)
+                            self.logger.info(
+                                "Replay mix enabled: main=%d replay_added=%d ratio=%.3f replay_dir=%s",
+                                main_size,
+                                len(sampled_replay),
+                                replay_ratio,
+                                replay_data_dir,
+                            )
 
         if self.config.ddp.enabled:
             self.sampler_train = torch.utils.data.DistributedSampler(
@@ -173,7 +279,20 @@ class BaseDiffusionTrainer:
         self.init_checkpoint()
 
         self._setup_training_utils()
-        is_loaded = self.load_checkpoint()
+        eval_only = bool(getattr(self.config.training, "eval_only", False))
+        init_se = str(getattr(self.config.training, "init_se", "") or "").strip()
+        is_loaded = False
+        if not init_se:
+            is_loaded = self.load_checkpoint()
+        else:
+            self.logger.info("Skipping automatic checkpoint resume because training.init_se is set.")
+
+        if eval_only:
+            self.logger.info("Eval-only mode enabled; running validation and training_estimation without optimizer updates")
+            self.validate()
+            self.training_estimation()
+            return
+
         if is_loaded:
             self.logger.info("Evaluation of loaded checkpoint")
             self.validate()
@@ -200,6 +319,9 @@ class BaseDiffusionTrainer:
                 batch = next(self.train_loader_iter, None)
             
             total_loss, loss_dict, stat_dict = self.calc_loss(batch)
+            if not torch.isfinite(total_loss):
+                self.logger.error(f"Non-finite total_loss detected at step {self.step}: {total_loss}")
+                raise RuntimeError("Non-finite total_loss detected; aborting run.")
             optimizer_stat_dict = self.optimizer_step(total_loss)
 
             # Logging
@@ -222,12 +344,13 @@ class BaseDiffusionTrainer:
         with torch.no_grad(), self._amp_autocast():
             clean_X, attention_mask, _ = self.encoder.batch_encode(batch, max_sequence_len=self.config.datasets.max_sequence_len)
             attention_mask = attention_mask.int()
+            clean_X = torch.nan_to_num(clean_X, nan=0.0, posinf=1e4, neginf=-1e4)
 
         # Noizing
         batch_size = clean_X.size(0)
         t = self.sample_time(batch_size)
         marg_forward = self.dynamic.marginal(clean_X, t)
-        x_t = marg_forward['x_t']
+        x_t = torch.nan_to_num(marg_forward['x_t'], nan=0.0, posinf=1e4, neginf=-1e4)
 
         # self-cond estimation
         x_0_self_cond = torch.zeros_like(x_t, dtype=x_t.dtype)
@@ -251,6 +374,7 @@ class BaseDiffusionTrainer:
                 attention_mask=attention_mask,
                 x_0_self_cond=x_0_self_cond,
             )
+            x_0 = torch.nan_to_num(x_0, nan=0.0, posinf=1e4, neginf=-1e4)
 
         # MSE losses
         loss_x_0 = mse_loss(clean_X, x_0, attention_mask)
@@ -363,40 +487,18 @@ class BaseDiffusionTrainer:
     def init_checkpoint(self):
         if not self.config.training.init_se:
             return
-        
-        state_dict = torch.load(self.config.training.init_se)
 
-        base_config = deepcopy(self.config.model)
-        base_model = instantiate(config=base_config).to(self.device)
-        base_ema = ExponentialMovingAverage(base_model.parameters(), self.config.training.ema_rate)
-        base_ema.load_state_dict(state_dict["ema"])
-        base_ema.copy_to(base_model.parameters())
-        
-        # Find differences between state dicts
-        score_dict = self.score_estimator.state_dict()
-        base_dict = base_model.state_dict()
-        
-        diff_keys = []
-        for key in score_dict:
-            if key not in base_dict:
-                diff_keys.append(f"Only in score_estimator: {key}")
-            elif score_dict[key].shape != base_dict[key].shape:
-                diff_keys.append(f"Shape mismatch for {key}: {score_dict[key].shape} vs {base_dict[key].shape}")
-                
-        for key in base_dict:
-            if key not in score_dict:
-                diff_keys.append(f"Only in base_model: {key}")
-        
-        if diff_keys:
-            self.logger.info("State dict differences:")
-            for diff in diff_keys:
-                self.logger.info(diff)
+        checkpoint = torch.load(self.config.training.init_se, map_location="cpu")
+        load_state = checkpoint["model"] if isinstance(checkpoint, dict) and "model" in checkpoint else checkpoint
 
-        self.score_estimator.cpu()
-        self.score_estimator.load_state_dict(base_model.state_dict(), strict=False)
+        missing_keys, unexpected_keys = self.score_estimator.load_state_dict(load_state, strict=False)
+        if missing_keys:
+            self.logger.info(f"init_checkpoint missing keys: {len(missing_keys)}")
+        if unexpected_keys:
+            self.logger.info(f"init_checkpoint unexpected keys: {len(unexpected_keys)}")
+
         self.ema = ExponentialMovingAverage(self.score_estimator.parameters(), self.config.training.ema_rate)
         self.ema.cuda()
-        self.score_estimator.cuda()
 
         if self.config.ddp.enabled:
             self._setup_ddp()

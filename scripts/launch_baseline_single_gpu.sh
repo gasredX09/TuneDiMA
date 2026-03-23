@@ -44,6 +44,21 @@ DATASET_NAME="${DATASET_NAME:-AFDB-v2}"
 DATA_ROOT_PERSIST="${DATA_ROOT_PERSIST:-$DIMA_ROOT/data}"
 DATASET_DIR="$DATA_ROOT_PERSIST/$DATASET_NAME"
 LENGTH_DISTRIB_PATH="$DATA_ROOT_PERSIST/distributions/$DATASET_NAME.npy"
+REPLAY_DATASET_NAME="${REPLAY_DATASET_NAME:-}"
+REPLAY_DATA_DIR="${REPLAY_DATA_DIR:-}"
+REPLAY_RATIO="${REPLAY_RATIO:-0}"
+REPLAY_SEED="${REPLAY_SEED:-42}"
+FT_MODE="${FT_MODE:-full}"
+FT_LAST_N_LAYERS="${FT_LAST_N_LAYERS:-0}"
+USE_AMP="${USE_AMP:-1}"
+EVAL_ONLY="${EVAL_ONLY:-0}"
+OPT_LR="${OPT_LR:-}"
+MODEL_USE_SELF_COND="${MODEL_USE_SELF_COND:-}"
+GRAD_CLIP_NORM="${GRAD_CLIP_NORM:-}"
+
+if [[ -z "$REPLAY_DATA_DIR" && -n "$REPLAY_DATASET_NAME" ]]; then
+  REPLAY_DATA_DIR="$DATA_ROOT_PERSIST/$REPLAY_DATASET_NAME"
+fi
 
 if [[ ! -d "$DATASET_DIR/train" || ! -d "$DATASET_DIR/test" ]]; then
   echo "[INFO] Dataset split not found at $DATASET_DIR. Downloading from Hugging Face..."
@@ -87,6 +102,30 @@ trap cleanup EXIT
 cd "$DIMA_ROOT"
 export HYDRA_FULL_ERROR=1
 
+EXTRA_OVERRIDES=()
+if [[ -n "$REPLAY_DATA_DIR" ]]; then
+  if [[ ! -d "$REPLAY_DATA_DIR/train" ]]; then
+    echo "[ERROR] REPLAY_DATA_DIR missing train split: $REPLAY_DATA_DIR/train"
+    exit 1
+  fi
+
+  EXTRA_OVERRIDES+=("training.replay_data_dir=$REPLAY_DATA_DIR")
+  EXTRA_OVERRIDES+=("training.replay_ratio=$REPLAY_RATIO")
+  EXTRA_OVERRIDES+=("training.replay_seed=$REPLAY_SEED")
+fi
+
+if [[ -n "$OPT_LR" ]]; then
+  EXTRA_OVERRIDES+=("optimizer.lr=$OPT_LR")
+fi
+
+if [[ -n "$MODEL_USE_SELF_COND" ]]; then
+  EXTRA_OVERRIDES+=("model.config.use_self_cond=$MODEL_USE_SELF_COND")
+fi
+
+if [[ -n "$GRAD_CLIP_NORM" ]]; then
+  EXTRA_OVERRIDES+=("training.grad_clip_norm=$GRAD_CLIP_NORM")
+fi
+
 DISABLE_WANDB="$DISABLE_WANDB" python "$PROJECT_ROOT/scripts/run_dima_train.py" \
   ddp.enabled=false \
   project.path="$RUN_ROOT" \
@@ -104,4 +143,9 @@ DISABLE_WANDB="$DISABLE_WANDB" python "$PROJECT_ROOT/scripts/run_dima_train.py" 
   dataloader.num_workers="$NUM_WORKERS" \
   generation.N_steps="$GEN_STEPS" \
   generation.num_gen_samples="$GEN_SAMPLES" \
-  project.decoder_checkpoints_folder="$RUN_ROOT/checkpoints/decoder_checkpoints"
+  training.ft_mode="$FT_MODE" \
+  training.ft_last_n_layers="$FT_LAST_N_LAYERS" \
+  training.use_amp="$USE_AMP" \
+  training.eval_only="$EVAL_ONLY" \
+  project.decoder_checkpoints_folder="$RUN_ROOT/checkpoints/decoder_checkpoints" \
+  "${EXTRA_OVERRIDES[@]}"

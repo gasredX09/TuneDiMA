@@ -60,6 +60,11 @@ class ESM2EncoderModel(Encoder):
         # which become empty strings when skip_special_tokens=True.
         logits_orig = logits
         logits = logits.clone()
+
+        # Guard generation against non-finite values from decoder outputs.
+        non_finite_before = (~torch.isfinite(logits)).any().item()
+        if non_finite_before:
+            logits = torch.nan_to_num(logits, nan=0.0, posinf=1e4, neginf=-1e4)
         
         # Debug: check what tokens are winning before masking
         top_tokens_pre = logits[0, :5].argsort(descending=True).tolist()
@@ -69,8 +74,11 @@ class ESM2EncoderModel(Encoder):
         
         # Debug: check what tokens are winning after masking
         top_tokens_post = logits[0, :5].argsort(descending=True).tolist()
-        max_val = logits.max().item()
-        print(f"[DEBUG] Logits max before special-mask: {logits_orig.max().item():.4f}, after: {max_val:.4f}")
+        max_before = torch.nan_to_num(logits_orig, nan=0.0, posinf=1e4, neginf=-1e4).max().item()
+        max_after = logits.max().item()
+        if non_finite_before:
+            print("[WARN] Non-finite logits detected before decode; applied nan_to_num safeguard")
+        print(f"[DEBUG] Logits max before special-mask: {max_before:.4f}, after: {max_after:.4f}")
         print(f"[DEBUG] Top 5 tokens before mask: {top_tokens_pre}, after: {top_tokens_post}")
 
         token_ids = logits.argmax(dim=-1).detach().cpu().tolist()

@@ -13,7 +13,8 @@ def mse_loss(inputs: torch.Tensor, targets: torch.Tensor, mask: Optional[torch.T
         )
     losses = torch.mean(torch.square(inputs - targets), dim=-1)
     losses = losses * mask
-    loss = torch.sum(losses) / torch.sum(mask)
+    denom = torch.clamp(torch.sum(mask), min=1)
+    loss = torch.sum(losses) / denom
     return loss
 
 
