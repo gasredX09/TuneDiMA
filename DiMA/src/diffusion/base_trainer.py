@@ -224,8 +224,9 @@ class BaseDiffusionTrainer:
         self.optimizer.zero_grad()
         total_loss.backward()
 
-        grad_norm = torch.sqrt(sum([torch.sum(t.grad ** 2) for t in self.score_estimator.parameters() if t.requires_grad]))
-
+        # in base_trainer.py line 227, change to:
+        grad_norm = torch.sqrt(sum([torch.sum(t.grad ** 2) for t in self.score_estimator.parameters() if t.requires_grad and t.grad is not None]))
+        
         if self.config.training.grad_clip_norm is not None:
             torch.nn.utils.clip_grad_norm_(
                 self.score_estimator.parameters(),

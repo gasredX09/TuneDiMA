@@ -52,7 +52,7 @@ STATS_PATH_DEFAULT="$PROJECT_PATH/checkpoints/statistics/encodings-ESM2-3B.pth"
 STATS_PATH="${STATS_PATH:-$STATS_PATH_DEFAULT}"
 if [[ ! -f "$STATS_PATH" ]]; then
   echo "[ERROR] Missing encoder statistics at $STATS_PATH"
-  echo "Run: sbatch --export=ALL,CONDA_ENV=chiu-lab,DATASET_NAME=$DATASET_NAME slurm/calculate_statistics_single_gpu.sbatch"
+  echo "Run: sbatch --export=ALL,CONDA_ENV=nndl,DATASET_NAME=$DATASET_NAME slurm/calculate_statistics_single_gpu.sbatch"
   exit 1
 fi
 

@@ -178,6 +178,34 @@ cd /ocean/projects/cis260039p/aguda1/nndl/project
 sacct -j 38131704 --format=JobID,State,ExitCode,Elapsed
 ```
 
+### 12) Environment Setup and Dependency Validation (Completed)
+
+- Created and activated `nndl` conda environment from `DiMA/environment.yaml`.
+- Verified core dependencies: torch 2.1.2, hydra-core 1.3.2, wandb 0.25.1, numpy, pandas, transformers, etc.
+- Confirmed CUDA availability on compute nodes (not login node).
+- Resolved import issues: hydra, wandb now loadable in `nndl` env.
+
+### 13) Ablation Script Development (Completed)
+
+- Created three new ablation launch scripts in `scripts/`:
+  - `launch_ablation_selfcond.sh`: Varies `model.config.use_self_cond` (0/1) to test self-conditioning impact.
+  - `launch_ablation_noise_schedule.sh`: Varies `generation.noise_schedule` (cosine/linear) to test noise schedule effects.
+  - `launch_ablation_ft_lastn.sh`: Varies `training.ft_last_n_layers` (2/4/8) with `training.ft_mode=last_n` for partial fine-tuning ablations.
+- Scripts are based on `launch_baseline_single_gpu.sh`, with added env vars and Hydra overrides.
+- All scripts support SLURM submission and artifact sync.
+
+### 14) Ablation Study Planning (In Progress)
+
+- Identified key ablation axes from DiMA paper: self-conditioning, noise schedule, partial FT layers, replay ratio, etc.
+- Planned controlled experiments: one variable at a time, compare FID/MMD/ESM-PPL/pLDDT against reference (job 38112128).
+- Next: Run first ablation (e.g., self-cond off) on compute node, collect metrics, update evaluation summary.
+
+## Next Steps: Ablation Execution
+
+1. Submit first ablation job using new scripts (e.g., `launch_ablation_selfcond.sh` with `MODEL_USE_SELF_COND=0`).
+2. Monitor via `sacct`, extract metrics from logs.
+3. Compare to reference in `EVALUATION_SUMMARY.md`.
+4. Iterate: noise schedule, then FT layers, then replay.
 
 ## Operational Notes
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=dima-stats-1g
-#SBATCH --output=/ocean/projects/cis260039p/aguda1/nndl/project/logs/%x-%j.out
-#SBATCH --error=/ocean/projects/cis260039p/aguda1/nndl/project/logs/%x-%j.err
+#SBATCH --output=slurm/%x-%j.out
+#SBATCH --error=slurm/%x-%j.err
 #SBATCH --partition=GPU-shared
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
@@ -10,11 +10,14 @@
 #SBATCH --gpus=v100-32:1
 #SBATCH --time=06:00:00
 #SBATCH --time-min=01:00:00
-#SBATCH --chdir=/ocean/projects/cis260039p/aguda1/nndl/project
 
 set -euo pipefail
 
-CONDA_ENV_NAME="${CONDA_ENV:-chiu-lab}"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+cd "$PROJECT_ROOT"
+
+CONDA_ENV_NAME="${CONDA_ENV:-nndl}"
 CONDA_ENV_PREFIX="${CONDA_ENV_PREFIX:-$HOME/.conda/envs/$CONDA_ENV_NAME}"
 
 if [[ -d "$CONDA_ENV_PREFIX" ]]; then
@@ -30,4 +33,4 @@ fi
 
 python -c "import torch; print('Using Python:', __import__('sys').executable)"
 
-bash scripts/launch_calculate_statistics.sh
+bash "$PROJECT_ROOT/scripts/launch_calculate_statistics.sh"

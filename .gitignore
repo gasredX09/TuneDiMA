@@ -2,6 +2,7 @@
 /logs/
 /artifacts/
 /runs/
+/conda_pkgs/
 
 # Keep report docs tracked but ignore generated assets
 /reports/*.png
@@ -52,3 +53,51 @@ Thumbs.db
 # Temporary files
 tmp*/
 *.tmp
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.build/
+dist/
+build/
+.venv/
+venv/
+env/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env / local configs
+.env
+.env.*
+*.local
+
+# Logs / outputs
+logs/
+*.log
+*.out
+*.err
+
+# Training artifacts
+artifacts/
+wandb/
+runs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+ruff_cache/
+
+# OS/editor
+.DS_Store
+.vscode/

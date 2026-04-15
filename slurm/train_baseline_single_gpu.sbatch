@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=dima-base-1g
-#SBATCH --output=/ocean/projects/cis260039p/aguda1/nndl/project/logs/%x-%j.out
-#SBATCH --error=/ocean/projects/cis260039p/aguda1/nndl/project/logs/%x-%j.err
+#SBATCH --output=slurm/%x-%j.out
+#SBATCH --error=slurm/%x-%j.err
 #SBATCH --partition=GPU-shared
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
@@ -10,11 +10,14 @@
 #SBATCH --gpus=v100-32:1
 #SBATCH --time=24:00:00
 #SBATCH --time-min=08:00:00
-#SBATCH --chdir=/ocean/projects/cis260039p/aguda1/nndl/project
 
 set -euo pipefail
 
-CONDA_ENV_NAME="${CONDA_ENV:-chiu-lab}"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+cd "$PROJECT_ROOT"
+
+CONDA_ENV_NAME="${CONDA_ENV:-nndl}"
 CONDA_ENV_PREFIX="${CONDA_ENV_PREFIX:-$HOME/.conda/envs/$CONDA_ENV_NAME}"
 
 if [[ -d "$CONDA_ENV_PREFIX" ]]; then
@@ -37,7 +40,6 @@ export OMP_NUM_THREADS="${SLURM_CPUS_PER_TASK:-1}"
 export RUN_NAME="${RUN_NAME:-baseline_full_ft_single_gpu}"
 export WANDB_PROJECT="${WANDB_PROJECT:-dima-course}"
 
-PROJECT_ROOT="/ocean/projects/cis260039p/aguda1/nndl/project"
 if [[ -n "${LOCAL:-}" && -d "${LOCAL:-}" ]]; then
   RUN_ROOT="${LOCAL}/${RUN_NAME}"
 else
@@ -45,7 +47,7 @@ else
 fi
 
 # Copy encoder statistics to local checkpoint directory for faster I/O if training locally
-STATS_SRC="/ocean/projects/cis260039p/aguda1/nndl/project/DiMA/checkpoints/statistics/encodings-ESM2-3B.pth"
+STATS_SRC="${PROJECT_ROOT}/DiMA/checkpoints/statistics/encodings-ESM2-3B.pth"
 if [[ -f "$STATS_SRC" && -n "${LOCAL:-}" && -d "${LOCAL:-}" ]]; then
   STATS_DIR="${LOCAL}/${RUN_NAME}/checkpoints/statistics"
   mkdir -p "$STATS_DIR"
@@ -117,4 +119,4 @@ if [[ -n "${DECODER_CKPT_SRC:-}" ]]; then
   echo "[INFO] Decoder checkpoint staged: ${DECODER_DST_FILE}"
 fi
 
-bash scripts/launch_baseline_single_gpu.sh
+bash "$PROJECT_ROOT/scripts/launch_baseline_single_gpu.sh"
