@@ -45,7 +45,7 @@ Target platform:
 
 Environment assumptions:
 
-- Conda environment name defaults to `chiu-lab`.
+- Conda environment name defaults to `nndl`.
 - Conda activation is handled inside sbatch scripts with robust fallback logic.
 - `.venv` is intentionally not used.
 
@@ -162,7 +162,7 @@ Example:
 
 ```bash
 cd /ocean/projects/cis260039p/aguda1/nndl/project
-sbatch --export=ALL,CONDA_ENV=chiu-lab,DISABLE_WANDB=1,RUN_NAME=reference_dima_eval,DATASET_NAME=AFDB-v2,TRAINING_ITERS=5000,EVAL_INTERVAL=5000,SAVE_INTERVAL=5000,GEN_SAMPLES=64,REF_CKPT_SRC=/ocean/projects/cis260039p/aguda1/nndl/project/artifacts/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth,DECODER_CKPT_SRC=/ocean/projects/cis260039p/aguda1/nndl/project/DiMA/checkpoints/decoder_checkpoints/transformer-decoder-ESM2-3B.pth slurm/train_baseline_single_gpu.sbatch
+sbatch --export=ALL,CONDA_ENV=nndl,DISABLE_WANDB=1,RUN_NAME=reference_dima_eval,DATASET_NAME=AFDB-v2,TRAINING_ITERS=5000,EVAL_INTERVAL=5000,SAVE_INTERVAL=5000,GEN_SAMPLES=64,REF_CKPT_SRC=/ocean/projects/cis260039p/aguda1/nndl/project/artifacts/reference_dima_eval/checkpoints/diffusion_checkpoints/reference_dima_eval/5000.pth,DECODER_CKPT_SRC=/ocean/projects/cis260039p/aguda1/nndl/project/DiMA/checkpoints/decoder_checkpoints/transformer-decoder-ESM2-3B.pth slurm/train_baseline_single_gpu.sbatch
 ```
 
 ## 8) Metrics and Interpretation

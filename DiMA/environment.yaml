@@ -1,4 +1,4 @@
-name: dima_env
+name: nndl
 channels:
   - pytorch
   - nvidia
