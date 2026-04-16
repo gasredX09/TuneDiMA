@@ -1,0 +1,9 @@
+Run Name,Job ID,Variant,FID,MMD,ESM PPPL,pLDDT,Training Iters,Status,Config
+Reference Baseline (38110284),38110284,Reference,23.6852,3.5068,1.0043,61.83,5000,Validated,"Full Model, AMP=1"
+Reference Baseline (38112128),38112128,Reference,23.6852,3.5068,1.0043,61.83,5000,Validated,"Full Model, AMP=1"
+Reference Early (38107929),38107929,Reference,23.6544,3.5031,1.0042,61.97,5000,Initial,"Full Model, AMP=1"
+FT Last-2 Safe (38134593),38134593,FT Last-2,23.6852,3.5068,1.0043,61.83,5000,Success,"FT last_n=2, AMP=0"
+Step 4500 Eval (38128244),38128244,Checkpoint Selection,23.7836,3.5204,1.0046,58.78,5000,Checkpoint Study,Eval only at step 4500
+Domain-Adaptive Resume (38067100),38067100,Domain-Adaptive,8.8038,1.495,244.63,35.6,5000,Partial,Full Model Resume from 1000
+Eval Guard v2 (38147436),38147436,Eval Guard,23.6852,3.5068,1.0043,61.83,20000,Guard Test,"Eval only, AMP=1"
+Eval Guard v3 Safe (38147492),38147492,Eval Guard,23.6852,3.5068,1.0043,61.83,20000,Guard Test,"Eval only, AMP=0"

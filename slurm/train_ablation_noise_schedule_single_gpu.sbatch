@@ -10,16 +10,14 @@
 #SBATCH --mem=48G
 #SBATCH --gpus=v100-32:1
 #SBATCH --time=36:00:00
-#SBATCH --time-min=08:00:00
 #SBATCH -A cis260039p
 
 set -euo pipefail
 
-# Fixed project root for this workspace
-PROJECT_ROOT="/ocean/projects/cis260039p/sdhanuka/TuneDiMA"
+PROJECT_ROOT="${SLURM_SUBMIT_DIR:-$(pwd)}"
 cd "$PROJECT_ROOT"
 
-CONDA_ENV_NAME="${CONDA_ENV:-nndl}"
+CONDA_ENV_NAME="${CONDA_ENV:-chiu-lab}"
 CONDA_ENV_PREFIX="${CONDA_ENV_PREFIX:-$HOME/.conda/envs/$CONDA_ENV_NAME}"
 
 if [[ -d "$CONDA_ENV_PREFIX" ]]; then
@@ -115,4 +113,4 @@ if [[ -n "${DECODER_CKPT_SRC:-}" ]]; then
   echo "[INFO] Decoder checkpoint staged: ${DECODER_DST_FILE}"
 fi
 
-bash "/ocean/projects/cis260039p/sdhanuka/TuneDiMA/scripts/launch_ablation_noise_schedule.sh"
+bash "$PROJECT_ROOT/scripts/launch_ablation_noise_schedule.sh"

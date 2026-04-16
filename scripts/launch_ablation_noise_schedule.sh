@@ -54,7 +54,7 @@ USE_AMP="${USE_AMP:-1}"
 EVAL_ONLY="${EVAL_ONLY:-0}"
 OPT_LR="${OPT_LR:-}"
 MODEL_USE_SELF_COND="${MODEL_USE_SELF_COND:-1}"
-NOISE_SCHEDULE="${NOISE_SCHEDULE:-cosine}"
+NOISE_SCHEDULE="${NOISE_SCHEDULE:-linear}"
 GRAD_CLIP_NORM="${GRAD_CLIP_NORM:-}"
 
 if [[ -z "$REPLAY_DATA_DIR" && -n "$REPLAY_DATASET_NAME" ]]; then
@@ -145,6 +145,6 @@ DISABLE_WANDB="$DISABLE_WANDB" python "$PROJECT_ROOT/scripts/run_dima_train.py" 
   training.use_amp="$USE_AMP" \
   training.eval_only="$EVAL_ONLY" \
   model.config.use_self_cond="$MODEL_USE_SELF_COND" \
-  ++generation.noise_schedule="$NOISE_SCHEDULE" \
+  scheduler="$NOISE_SCHEDULE" \
   project.decoder_checkpoints_folder="$RUN_ROOT/checkpoints/decoder_checkpoints" \
   "${EXTRA_OVERRIDES[@]}"

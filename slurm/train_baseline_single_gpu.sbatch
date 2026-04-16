@@ -9,15 +9,13 @@
 #SBATCH --mem=48G
 #SBATCH --gpus=v100-32:1
 #SBATCH --time=24:00:00
-#SBATCH --time-min=08:00:00
 
 set -euo pipefail
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+PROJECT_ROOT="${SLURM_SUBMIT_DIR:-$(pwd)}"
 cd "$PROJECT_ROOT"
 
-CONDA_ENV_NAME="${CONDA_ENV:-nndl}"
+CONDA_ENV_NAME="${CONDA_ENV:-chiu-lab}"
 CONDA_ENV_PREFIX="${CONDA_ENV_PREFIX:-$HOME/.conda/envs/$CONDA_ENV_NAME}"
 
 if [[ -d "$CONDA_ENV_PREFIX" ]]; then
