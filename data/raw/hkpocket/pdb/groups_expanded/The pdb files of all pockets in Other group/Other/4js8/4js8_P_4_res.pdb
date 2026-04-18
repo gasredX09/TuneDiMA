@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.99   3.86  33.27 with max radius 6.70
+ATOM   1523  CH2 TRP A 718      12.444   5.372  31.250  0.00  0.00           C
+ATOM   1777  O   PRO A 750      17.365  -1.539  36.253  0.00  0.00           O
+ATOM   1791  C   HIS A 752      17.028  -2.479  32.026  0.00  0.00           C
+ATOM   1792  O   HIS A 752      16.475  -1.375  32.039  0.00  0.00           O
+ATOM   1799  N   GLU A 753      18.331  -2.644  31.762  0.00  0.00           N
+ATOM   1800  CA  GLU A 753      19.238  -1.546  31.440  0.00  0.00           C
+ATOM   1801  C   GLU A 753      19.020  -1.062  30.007  0.00  0.00           C
+ATOM   1803  CB  GLU A 753      20.700  -1.979  31.649  0.00  0.00           C
+ATOM   1804  CG  GLU A 753      21.669  -0.824  31.839  0.00  0.00           C
+ATOM   1805  CD  GLU A 753      23.128  -1.228  31.920  0.00  0.00           C
+ATOM   1808  N   ILE A 754      18.785   0.252  29.845  0.00  0.00           N
+ATOM   1809  CA  ILE A 754      18.604   0.881  28.535  0.00  0.00           C
+ATOM   1810  C   ILE A 754      19.999   1.043  27.919  0.00  0.00           C
+ATOM   1811  O   ILE A 754      20.898   1.577  28.573  0.00  0.00           O
+ATOM   1812  CB  ILE A 754      17.816   2.227  28.627  0.00  0.00           C
+ATOM   1813  CG1 ILE A 754      16.442   2.032  29.312  0.00  0.00           C
+ATOM   1814  CG2 ILE A 754      17.649   2.874  27.240  0.00  0.00           C
+ATOM   1815  CD1 ILE A 754      15.916   3.248  30.085  0.00  0.00           C
+ATOM   1832  CD2 PHE A 756      21.861   4.630  28.298  0.00  0.00           C
+ATOM   1833  CE1 PHE A 756      20.230   6.530  27.122  0.00  0.00           C
+ATOM   1834  CE2 PHE A 756      20.652   4.995  28.899  0.00  0.00           C
+ATOM   1835  CZ  PHE A 756      19.846   5.944  28.307  0.00  0.00           C
+ATOM   1927  O   LEU A 768      18.668   9.559  28.625  0.00  0.00           O
+ATOM   1933  CA  LYS A 769      20.993   9.085  30.191  0.00  0.00           C
+ATOM   1934  C   LYS A 769      20.240   9.788  31.325  0.00  0.00           C
+ATOM   1935  O   LYS A 769      19.553   9.127  32.102  0.00  0.00           O
+ATOM   1936  CB  LYS A 769      22.462   8.863  30.592  0.00  0.00           C
+ATOM   1937  CG  LYS A 769      23.163   7.768  29.802  0.00  0.00           C
+ATOM   1954  CA  LEU A 772      15.752   8.365  30.780  0.00  0.00           C
+ATOM   1955  C   LEU A 772      16.046   7.716  32.148  0.00  0.00           C
+ATOM   1956  O   LEU A 772      16.190   6.495  32.237  0.00  0.00           O
+ATOM   1957  CB  LEU A 772      16.213   7.468  29.615  0.00  0.00           C
+ATOM   1959  CD1 LEU A 772      16.542   7.257  27.131  0.00  0.00           C
+ATOM   1961  N   LYS A 773      16.045   8.529  33.220  0.00  0.00           N
+ATOM   1962  CA  LYS A 773      16.184   8.055  34.598  0.00  0.00           C
+ATOM   1963  C   LYS A 773      14.782   7.698  35.087  0.00  0.00           C
+ATOM   1965  CB  LYS A 773      16.856   9.113  35.503  0.00  0.00           C
+ATOM   1966  CG  LYS A 773      18.341   9.359  35.229  0.00  0.00           C
+ATOM   1967  CD  LYS A 773      19.250   8.353  35.931  0.00  0.00           C
+ATOM   1968  CE  LYS A 773      20.694   8.508  35.521  0.00  0.00           C
+ATOM   1969  NZ  LYS A 773      21.537   7.405  36.055  0.00  0.00           N
+ATOM   1970  N   ARG A 774      14.544   6.406  35.410  0.00  0.00           N
+ATOM   1971  CA  ARG A 774      13.238   5.878  35.840  0.00  0.00           C
+ATOM   1974  CB  ARG A 774      13.303   4.369  36.102  0.00  0.00           C
+ATOM   1975  CG  ARG A 774      13.332   3.559  34.815  0.00  0.00           C
+ATOM   1976  CD  ARG A 774      13.619   2.089  35.046  0.00  0.00           C
+ATOM   1977  NE  ARG A 774      13.522   1.331  33.797  0.00  0.00           N
+ATOM   1978  CZ  ARG A 774      14.542   1.093  32.978  0.00  0.00           C
+ATOM   1979  NH1 ARG A 774      15.759   1.535  33.275  0.00  0.00           N
+ATOM   1980  NH2 ARG A 774      14.356   0.400  31.863  0.00  0.00           N

@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -31.12   4.94 -15.21 with max radius 6.41
+ATOM    117  CD1 LEU A 479     -31.195   9.955 -15.898  0.00  0.00           C
+ATOM    195  CG  LYS A 489     -35.395   8.677 -18.178  0.00  0.00           C
+ATOM    196  CD  LYS A 489     -35.221   7.810 -16.940  0.00  0.00           C
+ATOM    197  CE  LYS A 489     -35.336   6.331 -17.268  0.00  0.00           C
+ATOM    198  NZ  LYS A 489     -35.156   5.483 -16.056  0.00  0.00           N
+ATOM    609  CD1 TYR A 555     -32.198   5.859 -19.989  0.00  0.00           C
+ATOM    611  CE1 TYR A 555     -31.503   6.025 -18.805  0.00  0.00           C
+ATOM    613  CZ  TYR A 555     -30.333   6.758 -18.798  0.00  0.00           C
+ATOM    614  OH  TYR A 555     -29.637   6.925 -17.622  0.00  0.00           O
+ATOM    620  SG  CYS A 556     -30.596   2.148 -19.120  0.00  0.00           S
+ATOM    637  N   GLY A 559     -31.593   0.560 -16.100  0.00  0.00           N
+ATOM    638  CA  GLY A 559     -30.659   1.358 -15.325  0.00  0.00           C
+ATOM    639  C   GLY A 559     -29.227   1.206 -15.806  0.00  0.00           C
+ATOM    640  O   GLY A 559     -28.973   0.538 -16.808  0.00  0.00           O
+ATOM    641  N   ASP A 560     -28.288   1.826 -15.097  0.00  0.00           N
+ATOM    642  CA  ASP A 560     -26.879   1.731 -15.474  0.00  0.00           C
+ATOM    645  CB  ASP A 560     -26.105   3.003 -15.092  0.00  0.00           C
+ATOM    646  CG  ASP A 560     -26.089   3.264 -13.594  0.00  0.00           C
+ATOM    647  OD1 ASP A 560     -26.576   4.336 -13.177  0.00  0.00           O
+ATOM   1088  CD2 LEU A 622     -27.193   4.233 -19.034  0.00  0.00           C
+ATOM   1229  CZ  ARG A 638     -29.092   8.789 -12.730  0.00  0.00           C
+ATOM   1230  NH1 ARG A 638     -28.646   7.605 -13.126  0.00  0.00           N
+ATOM   1231  NH2 ARG A 638     -30.288   8.889 -12.168  0.00  0.00           N

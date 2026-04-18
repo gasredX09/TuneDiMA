@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -12.22  43.74  34.74 with max radius 6.90
+ATOM   1675  CB  GLU A 349     -13.030  38.964  32.325  0.00  0.00           C
+ATOM   1676  CG  GLU A 349     -13.326  38.612  30.892  0.00  0.00           C
+ATOM   1709  CA  LEU A 354     -16.310  40.764  35.727  0.00  0.00           C
+ATOM   1710  C   LEU A 354     -16.978  41.412  34.525  0.00  0.00           C
+ATOM   1711  O   LEU A 354     -16.870  42.636  34.325  0.00  0.00           O
+ATOM   1712  CB  LEU A 354     -14.796  40.979  35.643  0.00  0.00           C
+ATOM   1713  CG  LEU A 354     -14.085  40.581  36.929  0.00  0.00           C
+ATOM   1714  CD1 LEU A 354     -12.576  40.514  36.699  0.00  0.00           C
+ATOM   1715  CD2 LEU A 354     -14.400  41.515  38.056  0.00  0.00           C
+ATOM   1718  C   GLY A 355     -17.372  40.602  31.397  0.00  0.00           C
+ATOM   1719  O   GLY A 355     -16.149  40.533  31.593  0.00  0.00           O
+ATOM   2094  C   HIS A 401      -8.818  44.069  39.976  0.00  0.00           C
+ATOM   2095  O   HIS A 401      -9.983  44.283  40.265  0.00  0.00           O
+ATOM   2099  CD2 HIS A 401      -8.027  45.304  36.828  0.00  0.00           C
+ATOM   2101  NE2 HIS A 401      -7.210  44.944  35.775  0.00  0.00           N
+ATOM   2102  N   MET A 402      -8.465  42.945  39.370  0.00  0.00           N
+ATOM   2103  CA  MET A 402      -9.471  41.962  39.059  0.00  0.00           C
+ATOM   2106  CB  MET A 402      -8.988  41.015  37.936  0.00  0.00           C
+ATOM   2107  CG  MET A 402      -8.697  41.723  36.614  0.00  0.00           C
+ATOM   2108  SD  MET A 402      -8.043  40.716  35.251  0.00  0.00           S
+ATOM   2109  CE  MET A 402      -9.483  39.858  34.584  0.00  0.00           C
+ATOM   2131  CB  LYS A 405     -13.330  44.368  40.398  0.00  0.00           C
+ATOM   2132  CG  LYS A 405     -13.095  45.865  40.347  0.00  0.00           C
+ATOM   2133  CD  LYS A 405     -12.488  46.358  39.046  0.00  0.00           C
+ATOM   2134  CE  LYS A 405     -12.332  47.879  39.086  0.00  0.00           C
+ATOM   2624  CG  ASP A 461      -7.347  44.747  31.925  0.00  0.00           C
+ATOM   2628  OD2 ASP A 461      -7.913  45.072  33.004  0.00  0.00           O
+ATOM   2635  CG  PRO A 462     -11.186  42.169  30.550  0.00  0.00           C
+ATOM   2636  CD  PRO A 462      -9.846  42.008  31.282  0.00  0.00           C

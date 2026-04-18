@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  49.49  14.95  76.01 with max radius 5.78
+ATOM   1105  CA  ILE A 122      50.024  16.207  81.352  0.00  0.00           C
+ATOM   1107  C   ILE A 122      49.243  17.355  80.718  0.00  0.00           C
+ATOM   1109  CB  ILE A 122      49.071  15.209  82.035  0.00  0.00           C
+ATOM   1113  CG2 ILE A 122      47.983  14.766  81.068  0.00  0.00           C
+ATOM   1117  N   ILE A 123      49.321  17.457  79.395  0.00  0.00           N
+ATOM   1118  CA  ILE A 123      48.597  18.497  78.597  0.00  0.00           C
+ATOM   1119  C   ILE A 123      47.373  17.787  78.026  0.00  0.00           C
+ATOM   1120  O   ILE A 123      47.452  16.611  77.637  0.00  0.00           O
+ATOM   1121  CB  ILE A 123      49.473  19.069  77.476  0.00  0.00           C
+ATOM   1122  CG1 ILE A 123      50.621  19.887  78.133  0.00  0.00           C
+ATOM   1123  CG2 ILE A 123      48.730  19.982  76.474  0.00  0.00           C
+ATOM   1124  CD1 ILE A 123      51.690  20.359  77.134  0.00  0.00           C
+ATOM   1125  N   HIS A 124      46.237  18.468  77.982  0.00  0.00           N
+ATOM   1126  CA  HIS A 124      45.053  17.841  77.358  0.00  0.00           C
+ATOM   1127  C   HIS A 124      45.186  17.879  75.839  0.00  0.00           C
+ATOM   1128  O   HIS A 124      45.098  16.860  75.145  0.00  0.00           O
+ATOM   1139  CB  ARG A 125      46.784  18.508  73.254  0.00  0.00           C
+ATOM   1140  CG  ARG A 125      47.636  19.294  72.278  0.00  0.00           C
+ATOM   1141  CD  ARG A 125      48.662  18.457  71.541  0.00  0.00           C
+ATOM   1142  NE  ARG A 125      48.015  17.364  70.870  0.00  0.00           N
+ATOM   1292  C   PHE A 145      43.841  13.304  75.405  0.00  0.00           C
+ATOM   1294  CB  PHE A 145      43.833  13.358  77.946  0.00  0.00           C
+ATOM   1301  N   GLY A 146      44.649  14.210  74.864  0.00  0.00           N
+ATOM   1302  CA  GLY A 146      45.424  13.921  73.639  0.00  0.00           C
+ATOM   1303  C   GLY A 146      46.535  12.871  73.777  0.00  0.00           C
+ATOM   1304  O   GLY A 146      47.491  12.890  73.005  0.00  0.00           O
+ATOM   1305  N   PHE A 147      46.415  11.960  74.747  0.00  0.00           N
+ATOM   1306  CA  PHE A 147      47.324  10.812  74.872  0.00  0.00           C
+ATOM   1309  CB  PHE A 147      48.189  10.935  76.149  0.00  0.00           C
+ATOM   1310  CG  PHE A 147      47.438  10.720  77.447  0.00  0.00           C
+ATOM   1312  CD2 PHE A 147      47.100  11.799  78.253  0.00  0.00           C
+ATOM   1314  CE2 PHE A 147      46.425  11.603  79.449  0.00  0.00           C
+ATOM   1474  OH  TYR A 179      51.873  17.919  71.662  0.00  0.00           O

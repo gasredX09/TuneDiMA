@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  12.76 -58.49 -24.80 with max radius 5.74
+ATOM     28  C   LEU A  15      12.207 -53.726 -21.686  0.00  0.00           C
+ATOM     29  O   LEU A  15      11.631 -54.678 -21.162  0.00  0.00           O
+ATOM     30  CB  LEU A  15      11.745 -53.345 -24.112  0.00  0.00           C
+ATOM     32  CD1 LEU A  15      10.994 -53.636 -26.477  0.00  0.00           C
+ATOM     34  N   SER A  16      13.463 -53.398 -21.404  0.00  0.00           N
+ATOM     35  CA  SER A  16      14.282 -54.195 -20.491  0.00  0.00           C
+ATOM    353  O   VAL A  58      10.876 -61.280 -29.913  0.00  0.00           O
+ATOM    354  CB  VAL A  58       9.066 -59.015 -28.499  0.00  0.00           C
+ATOM    355  CG1 VAL A  58       9.838 -59.803 -27.452  0.00  0.00           C
+ATOM    356  CG2 VAL A  58       9.646 -57.647 -28.677  0.00  0.00           C
+ATOM    390  CG  GLU A  63      12.252 -55.583 -29.187  0.00  0.00           C
+ATOM    391  CD  GLU A  63      13.466 -55.883 -28.321  0.00  0.00           C
+ATOM    392  OE1 GLU A  63      14.030 -56.994 -28.453  0.00  0.00           O
+ATOM    393  OE2 GLU A  63      13.824 -55.034 -27.474  0.00  0.00           O
+ATOM    623  CG1 ILE A  90       8.604 -57.506 -22.322  0.00  0.00           C
+ATOM    624  CG2 ILE A  90       9.487 -59.800 -21.950  0.00  0.00           C
+ATOM    625  CD1 ILE A  90       9.947 -57.157 -22.915  0.00  0.00           C
+ATOM    641  CD  LYS A  92      12.797 -62.323 -20.462  0.00  0.00           C
+ATOM    642  CE  LYS A  92      14.193 -62.150 -21.037  0.00  0.00           C
+ATOM    643  NZ  LYS A  92      14.505 -63.207 -22.037  0.00  0.00           N
+ATOM    690  CB  ASP A  99      10.279 -62.277 -24.839  0.00  0.00           C
+ATOM    691  CG  ASP A  99      11.505 -62.856 -24.150  0.00  0.00           C
+ATOM    692  OD1 ASP A  99      12.497 -62.115 -23.970  0.00  0.00           O

@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  36.36   3.41  -1.77 with max radius 6.12
+ATOM    126  O   LEU A 599      30.945   1.434  -3.841  0.00  0.00           O
+ATOM    769  O   LYS A 893      35.449   6.747  -5.707  0.00  0.00           O
+ATOM    785  CG  ASN A 895      38.243   7.639  -1.406  0.00  0.00           C
+ATOM    787  ND2 ASN A 895      37.620   6.702  -0.686  0.00  0.00           N
+ATOM    802  CD  LYS A 897      42.360   4.373   0.736  0.00  0.00           C
+ATOM    810  CG  ASP A 898      40.143   5.819  -4.578  0.00  0.00           C
+ATOM    811  OD1 ASP A 898      40.717   4.780  -4.175  0.00  0.00           O
+ATOM    812  OD2 ASP A 898      38.894   5.967  -4.531  0.00  0.00           O
+ATOM   1162  CA  SER A 941      38.508   7.192   2.856  0.00  0.00           C
+ATOM   1164  O   SER A 941      36.099   7.257   2.787  0.00  0.00           O
+ATOM   1165  CB  SER A 941      38.635   5.709   3.243  0.00  0.00           C
+ATOM   1191  CE1 PHE A 944      33.658   8.117  -2.117  0.00  0.00           C
+ATOM   1193  CZ  PHE A 944      34.061   7.577  -0.896  0.00  0.00           C
+ATOM   1299  CA  LEU A 958      32.613   2.149   1.798  0.00  0.00           C
+ATOM   1300  C   LEU A 958      33.918   1.412   2.089  0.00  0.00           C
+ATOM   1301  O   LEU A 958      35.006   1.879   1.738  0.00  0.00           O
+ATOM   1302  CB  LEU A 958      32.704   2.952   0.490  0.00  0.00           C
+ATOM   1303  CG  LEU A 958      31.483   3.729  -0.025  0.00  0.00           C
+ATOM   1304  CD1 LEU A 958      31.814   4.437  -1.338  0.00  0.00           C
+ATOM   1313  N   THR A 960      36.627  -1.206   1.525  0.00  0.00           N
+ATOM   1317  CB  THR A 960      38.005  -0.853  -0.489  0.00  0.00           C

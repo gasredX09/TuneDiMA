@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  31.27  34.22  -8.54 with max radius 6.73
+ATOM     13  C   SER A 186      25.116  35.583 -10.094  0.00  0.00           C
+ATOM     14  O   SER A 186      26.249  35.103  -9.967  0.00  0.00           O
+ATOM     15  CB  SER A 186      25.689  36.743 -12.251  0.00  0.00           C
+ATOM     16  OG  SER A 186      25.942  38.012 -11.669  0.00  0.00           O
+ATOM     18  CA  GLY A 187      24.661  35.324  -7.719  0.00  0.00           C
+ATOM     19  C   GLY A 187      25.523  36.340  -7.011  0.00  0.00           C
+ATOM     20  O   GLY A 187      25.669  37.479  -7.464  0.00  0.00           O
+ATOM     21  N   ILE A 188      26.079  35.944  -5.877  0.00  0.00           N
+ATOM     22  CA  ILE A 188      26.947  36.802  -5.100  0.00  0.00           C
+ATOM     23  C   ILE A 188      28.387  36.540  -5.559  0.00  0.00           C
+ATOM     24  O   ILE A 188      28.743  35.408  -5.874  0.00  0.00           O
+ATOM     29  N   ASP A 189      29.207  37.590  -5.605  0.00  0.00           N
+ATOM     30  CA  ASP A 189      30.610  37.427  -5.983  0.00  0.00           C
+ATOM     31  C   ASP A 189      31.380  36.909  -4.793  0.00  0.00           C
+ATOM     33  CB  ASP A 189      31.212  38.767  -6.417  0.00  0.00           C
+ATOM     34  CG  ASP A 189      32.564  38.612  -7.078  0.00  0.00           C
+ATOM     35  OD1 ASP A 189      33.376  37.737  -6.692  0.00  0.00           O
+ATOM     37  N   PHE A 190      31.967  35.729  -4.946  0.00  0.00           N
+ATOM     38  CA  PHE A 190      32.758  35.075  -3.908  0.00  0.00           C
+ATOM     39  C   PHE A 190      33.928  35.922  -3.377  0.00  0.00           C
+ATOM     41  CB  PHE A 190      33.272  33.742  -4.448  0.00  0.00           C
+ATOM     43  CD1 PHE A 190      35.378  33.026  -3.272  0.00  0.00           C
+ATOM     48  N   LYS A 191      34.505  36.724  -4.271  0.00  0.00           N
+ATOM     53  CG  LYS A 191      36.751  37.219  -6.159  0.00  0.00           C
+ATOM     54  CD  LYS A 191      36.996  37.938  -7.482  0.00  0.00           C
+ATOM     55  CE  LYS A 191      37.414  36.959  -8.574  0.00  0.00           C
+ATOM    595  O   ALA A 256      25.593  33.258  -5.310  0.00  0.00           O
+ATOM    598  CA  CYS A 257      28.052  31.896  -5.127  0.00  0.00           C
+ATOM    599  C   CYS A 257      28.073  30.713  -6.071  0.00  0.00           C
+ATOM    601  CB  CYS A 257      29.370  31.963  -4.352  0.00  0.00           C
+ATOM    602  SG  CYS A 257      29.438  33.341  -3.251  0.00  0.00           S
+ATOM    603  N   GLN A 258      27.954  31.014  -7.356  0.00  0.00           N
+ATOM    604  CA  GLN A 258      27.923  29.968  -8.350  0.00  0.00           C
+ATOM    605  C   GLN A 258      29.351  29.446  -8.546  0.00  0.00           C
+ATOM    606  O   GLN A 258      30.331  30.208  -8.432  0.00  0.00           O
+ATOM    607  CB  GLN A 258      27.324  30.488  -9.655  0.00  0.00           C
+ATOM    608  CG  GLN A 258      25.948  31.119  -9.426  0.00  0.00           C
+ATOM    609  CD  GLN A 258      25.258  31.614 -10.658  0.00  0.00           C
+ATOM    611  NE2 GLN A 258      25.931  31.577 -11.814  0.00  0.00           N
+ATOM    625  N   PRO A 261      32.024  30.625 -11.255  0.00  0.00           N
+ATOM    626  CA  PRO A 261      33.463  30.823 -11.062  0.00  0.00           C
+ATOM    627  C   PRO A 261      33.991  30.652  -9.642  0.00  0.00           C
+ATOM    628  O   PRO A 261      35.214  30.691  -9.463  0.00  0.00           O
+ATOM    629  CB  PRO A 261      33.660  32.264 -11.507  0.00  0.00           C
+ATOM    630  CG  PRO A 261      32.441  32.924 -11.073  0.00  0.00           C
+ATOM    631  CD  PRO A 261      31.334  31.917 -11.365  0.00  0.00           C
+ATOM    632  N   ALA A 262      33.119  30.469  -8.639  0.00  0.00           N
+ATOM    633  CA  ALA A 262      33.587  30.289  -7.251  0.00  0.00           C
+ATOM    636  CB  ALA A 262      32.432  30.454  -6.233  0.00  0.00           C
+ATOM    643  CD  PRO A 263      35.708  29.844  -5.152  0.00  0.00           C

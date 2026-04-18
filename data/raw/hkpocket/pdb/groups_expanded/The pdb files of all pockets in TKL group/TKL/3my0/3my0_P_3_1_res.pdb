@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  47.86 -71.50 -27.68 with max radius 6.10
+ATOM    467  NE2 HIS A 253      53.319 -69.552 -27.316  0.00  0.00           N
+ATOM    865  CA  CYS A 308      49.909 -67.549 -31.381  0.00  0.00           C
+ATOM    866  C   CYS A 308      50.048 -66.830 -30.042  0.00  0.00           C
+ATOM    867  O   CYS A 308      49.654 -67.354 -29.018  0.00  0.00           O
+ATOM    868  CB  CYS A 308      51.229 -68.193 -31.807  0.00  0.00           C
+ATOM    869  SG  CYS A 308      50.921 -69.460 -33.021  0.00  0.00           S
+ATOM    883  CA  ALA A 311      45.839 -67.399 -28.153  0.00  0.00           C
+ATOM    884  C   ALA A 311      46.430 -67.797 -26.806  0.00  0.00           C
+ATOM    885  O   ALA A 311      45.710 -68.261 -25.910  0.00  0.00           O
+ATOM    886  CB  ALA A 311      46.063 -68.513 -29.165  0.00  0.00           C
+ATOM    887  N   HIS A 312      47.745 -67.630 -26.681  0.00  0.00           N
+ATOM    888  CA  HIS A 312      48.450 -67.990 -25.474  0.00  0.00           C
+ATOM    891  CB  HIS A 312      49.959 -67.831 -25.660  0.00  0.00           C
+ATOM    892  CG  HIS A 312      50.746 -68.188 -24.438  0.00  0.00           C
+ATOM    894  CD2 HIS A 312      50.961 -69.382 -23.841  0.00  0.00           C
+ATOM    919  CB  VAL A 315      44.354 -70.735 -23.901  0.00  0.00           C
+ATOM    920  CG1 VAL A 315      45.857 -70.851 -23.708  0.00  0.00           C
+ATOM    921  CG2 VAL A 315      43.723 -72.081 -23.608  0.00  0.00           C
+ATOM   2210  CD1 LEU A 483      43.879 -72.718 -30.289  0.00  0.00           C
+ATOM   2211  CD2 LEU A 483      42.126 -73.360 -28.617  0.00  0.00           C
+ATOM   2237  CD  LYS A 486      47.370 -71.215 -31.965  0.00  0.00           C
+ATOM   2238  CE  LYS A 486      47.960 -72.603 -31.686  0.00  0.00           C
+ATOM   2239  NZ  LYS A 486      49.176 -72.669 -30.777  0.00  0.00           N

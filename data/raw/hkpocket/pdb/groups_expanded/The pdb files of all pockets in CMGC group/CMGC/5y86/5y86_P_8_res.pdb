@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  27.59  28.25   1.76 with max radius 7.77
+ATOM   1032  O   GLN A 263      32.502  32.312   4.201  0.00  0.00           O
+ATOM   1039  CA  ASP A 264      30.353  33.606   5.244  0.00  0.00           C
+ATOM   1040  C   ASP A 264      30.698  34.844   4.396  0.00  0.00           C
+ATOM   1043  CG  ASP A 264      27.896  34.123   5.372  0.00  0.00           C
+ATOM   1044  OD1 ASP A 264      27.923  34.068   4.155  0.00  0.00           O
+ATOM   1046  N   LYS A 265      30.064  34.884   3.261  0.00  0.00           N
+ATOM   1049  O   LYS A 265      28.099  34.655   1.988  0.00  0.00           O
+ATOM   1051  CG  LYS A 265      32.069  34.592   1.437  0.00  0.00           C
+ATOM   1067  CA  SER A 268      23.477  32.620   1.673  0.00  0.00           C
+ATOM   1068  C   SER A 268      23.385  31.397   2.580  0.00  0.00           C
+ATOM   1069  O   SER A 268      22.627  30.536   2.276  0.00  0.00           O
+ATOM   1070  CB  SER A 268      24.383  32.293   0.513  0.00  0.00           C
+ATOM   1071  OG  SER A 268      25.733  32.427   0.988  0.00  0.00           O
+ATOM   1072  N   MET A 269      24.070  31.366   3.722  0.00  0.00           N
+ATOM   1073  CA  MET A 269      24.017  30.178   4.534  0.00  0.00           C
+ATOM   1074  C   MET A 269      22.777  29.938   5.373  0.00  0.00           C
+ATOM   1076  CB  MET A 269      25.276  29.947   5.360  0.00  0.00           C
+ATOM   1077  CG  MET A 269      25.811  31.029   6.147  0.00  0.00           C
+ATOM   1078  SD  MET A 269      27.324  30.446   7.051  0.00  0.00           S
+ATOM   1079  CE  MET A 269      28.565  29.897   5.918  0.00  0.00           C
+ATOM   1506  CA  GLN A 321      21.376  26.045   2.152  0.00  0.00           C
+ATOM   1507  C   GLN A 321      22.109  26.010   3.456  0.00  0.00           C
+ATOM   1508  O   GLN A 321      23.321  26.068   3.484  0.00  0.00           O
+ATOM   1509  CB  GLN A 321      20.877  27.446   1.830  0.00  0.00           C
+ATOM   1510  CG  GLN A 321      20.270  27.554   0.469  0.00  0.00           C
+ATOM   1511  CD  GLN A 321      21.272  27.435  -0.616  0.00  0.00           C
+ATOM   1512  OE1 GLN A 321      22.446  27.855  -0.445  0.00  0.00           O
+ATOM   1513  NE2 GLN A 321      20.862  26.871  -1.745  0.00  0.00           N
+ATOM   1529  CA  ASP A 324      25.249  22.729   2.762  0.00  0.00           C
+ATOM   1530  C   ASP A 324      26.390  23.518   3.384  0.00  0.00           C
+ATOM   1531  O   ASP A 324      27.528  23.093   3.344  0.00  0.00           O
+ATOM   1532  CB  ASP A 324      24.877  23.283   1.396  0.00  0.00           C
+ATOM   1533  CG  ASP A 324      25.996  23.089   0.361  0.00  0.00           C
+ATOM   1535  OD2 ASP A 324      26.237  24.061  -0.380  0.00  0.00           O
+ATOM   1536  N   ALA A 325      26.076  24.649   3.983  0.00  0.00           N
+ATOM   1537  CA  ALA A 325      27.062  25.435   4.722  0.00  0.00           C
+ATOM   1538  C   ALA A 325      27.688  24.667   5.853  0.00  0.00           C
+ATOM   1539  O   ALA A 325      28.924  24.640   6.004  0.00  0.00           O
+ATOM   1540  CB  ALA A 325      26.436  26.715   5.235  0.00  0.00           C
+ATOM   1563  CB  LYS A 328      30.950  23.455   2.897  0.00  0.00           C
+ATOM   1564  CG  LYS A 328      30.288  23.172   1.598  0.00  0.00           C
+ATOM   1565  CD  LYS A 328      29.837  24.526   0.992  0.00  0.00           C
+ATOM   1566  CE  LYS A 328      29.964  24.571  -0.533  0.00  0.00           C
+ATOM   1567  NZ  LYS A 328      28.682  24.411  -1.280  0.00  0.00           N
+ATOM   1573  CG  ASN A 329      32.309  25.807   6.877  0.00  0.00           C
+ATOM   1575  ND2 ASN A 329      31.313  26.308   6.181  0.00  0.00           N
+ATOM   3082  CD1 LEU A 517      22.228  22.975  -2.124  0.00  0.00           C

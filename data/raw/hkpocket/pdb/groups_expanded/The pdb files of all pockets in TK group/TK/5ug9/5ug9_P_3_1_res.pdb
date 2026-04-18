@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  12.26  26.95 -24.71 with max radius 6.11
+ATOM    999  O   GLU A 829      10.525  22.204 -25.491  0.00  0.00           O
+ATOM   1001  CG  GLU A 829      10.342  22.030 -22.288  0.00  0.00           C
+ATOM   1024  N   ARG A 832       9.503  23.110 -28.042  0.00  0.00           N
+ATOM   1025  CA  ARG A 832       9.444  24.547 -27.781  0.00  0.00           C
+ATOM   1026  C   ARG A 832       8.007  25.063 -27.740  0.00  0.00           C
+ATOM   1027  O   ARG A 832       7.747  26.238 -28.009  0.00  0.00           O
+ATOM   1028  CB  ARG A 832      10.241  25.314 -28.841  0.00  0.00           C
+ATOM   1029  CG  ARG A 832      11.686  24.860 -28.970  0.00  0.00           C
+ATOM   1030  CD  ARG A 832      12.485  25.787 -29.870  0.00  0.00           C
+ATOM   1031  NE  ARG A 832      12.569  27.135 -29.317  0.00  0.00           N
+ATOM   1032  CZ  ARG A 832      13.422  27.502 -28.367  0.00  0.00           C
+ATOM   1033  NH1 ARG A 832      13.426  28.751 -27.923  0.00  0.00           N
+ATOM   1034  NH2 ARG A 832      14.274  26.620 -27.859  0.00  0.00           N
+ATOM   1271  CB  LEU A 862       9.235  29.535 -27.551  0.00  0.00           C
+ATOM   1272  CG  LEU A 862       8.341  29.522 -26.309  0.00  0.00           C
+ATOM   1273  CD1 LEU A 862       9.177  29.176 -25.088  0.00  0.00           C
+ATOM   1295  C   GLU A 866      12.315  32.301 -25.620  0.00  0.00           C
+ATOM   1296  O   GLU A 866      12.237  31.090 -25.825  0.00  0.00           O
+ATOM   1303  CA  LYS A 867      12.376  32.009 -23.196  0.00  0.00           C
+ATOM   1304  C   LYS A 867      10.977  32.022 -22.584  0.00  0.00           C
+ATOM   1305  O   LYS A 867      10.636  31.170 -21.764  0.00  0.00           O
+ATOM   1308  CD  LYS A 867      14.156  30.456 -21.005  0.00  0.00           C
+ATOM   1309  CE  LYS A 867      15.643  30.668 -21.240  0.00  0.00           C
+ATOM   1533  CD2 HIS A 893       9.900  25.584 -22.214  0.00  0.00           C
+ATOM   1534  CE1 HIS A 893       8.389  25.045 -23.710  0.00  0.00           C
+ATOM   1535  NE2 HIS A 893       9.605  25.537 -23.555  0.00  0.00           N

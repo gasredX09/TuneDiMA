@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   6.37  14.33 -20.55 with max radius 6.64
+ATOM    667  CA  TYR A 676       6.109  18.794 -19.124  0.00  0.00           C
+ATOM    668  C   TYR A 676       5.228  17.615 -18.753  0.00  0.00           C
+ATOM    669  O   TYR A 676       5.727  16.498 -18.589  0.00  0.00           O
+ATOM    670  CB  TYR A 676       7.160  18.991 -18.037  0.00  0.00           C
+ATOM    671  CG  TYR A 676       8.338  19.828 -18.454  0.00  0.00           C
+ATOM    672  CD1 TYR A 676       8.857  19.742 -19.741  0.00  0.00           C
+ATOM    678  N   GLY A 677       3.935  17.871 -18.609  0.00  0.00           N
+ATOM    679  CA  GLY A 677       2.923  16.829 -18.444  0.00  0.00           C
+ATOM    680  C   GLY A 677       2.940  16.180 -17.065  0.00  0.00           C
+ATOM    682  N   ASP A 678       2.347  14.984 -16.997  0.00  0.00           N
+ATOM    683  CA  ASP A 678       2.136  14.260 -15.755  0.00  0.00           C
+ATOM    684  C   ASP A 678       3.333  13.400 -15.402  0.00  0.00           C
+ATOM    685  O   ASP A 678       4.070  12.943 -16.308  0.00  0.00           O
+ATOM    686  CB  ASP A 678       0.922  13.365 -15.914  0.00  0.00           C
+ATOM    687  CG  ASP A 678       1.234  12.129 -16.765  0.00  0.00           C
+ATOM    688  OD1 ASP A 678       1.171  12.197 -18.010  0.00  0.00           O
+ATOM    709  CA  THR A 681       4.391   9.420 -18.297  0.00  0.00           C
+ATOM    710  C   THR A 681       5.885   9.744 -18.261  0.00  0.00           C
+ATOM    711  O   THR A 681       6.701   9.097 -18.929  0.00  0.00           O
+ATOM    712  CB  THR A 681       3.680  10.336 -19.284  0.00  0.00           C
+ATOM    713  OG1 THR A 681       2.265  10.123 -19.144  0.00  0.00           O
+ATOM    714  CG2 THR A 681       4.052   9.935 -20.717  0.00  0.00           C
+ATOM    715  N   TYR A 682       6.236  10.766 -17.493  0.00  0.00           N
+ATOM    716  CA  TYR A 682       7.635  11.144 -17.345  0.00  0.00           C
+ATOM    719  CB  TYR A 682       7.762  12.300 -16.373  0.00  0.00           C
+ATOM    720  CG  TYR A 682       9.173  12.809 -16.194  0.00  0.00           C
+ATOM    722  CD2 TYR A 682       9.698  13.772 -17.049  0.00  0.00           C
+ATOM    724  CE2 TYR A 682      11.028  14.250 -16.873  0.00  0.00           C
+ATOM    749  CD1 TYR A 685       7.949  11.050 -21.690  0.00  0.00           C
+ATOM    751  CE1 TYR A 685       6.797  11.407 -22.436  0.00  0.00           C
+ATOM    753  CZ  TYR A 685       6.190  10.460 -23.249  0.00  0.00           C
+ATOM    754  OH  TYR A 685       5.061  10.818 -23.965  0.00  0.00           O
+ATOM    816  CG  PRO A 692      12.644  11.793 -18.625  0.00  0.00           C
+ATOM    817  CD  PRO A 692      12.465  11.752 -20.105  0.00  0.00           C
+ATOM   1142  CD1 LEU A 731       7.340  15.566 -15.037  0.00  0.00           C

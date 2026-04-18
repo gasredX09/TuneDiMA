@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -20.56  16.17   1.26 with max radius 7.03
+ATOM   1518  NE1 TRP A 862     -22.131  21.107   2.315  0.00  0.00           N
+ATOM   1519  CE2 TRP A 862     -22.917  20.231   3.026  0.00  0.00           C
+ATOM   1521  CZ2 TRP A 862     -23.388  18.957   2.682  0.00  0.00           C
+ATOM   1522  CZ3 TRP A 862     -24.482  18.874   4.853  0.00  0.00           C
+ATOM   1523  CH2 TRP A 862     -24.147  18.289   3.612  0.00  0.00           C
+ATOM   1553  CD1 ILE A 866     -18.520  20.402   1.251  0.00  0.00           C
+ATOM   1661  CD1 TYR A 879     -19.494  15.954  -3.791  0.00  0.00           C
+ATOM   1663  CE1 TYR A 879     -20.023  16.144  -2.515  0.00  0.00           C
+ATOM   1664  CE2 TYR A 879     -19.441  18.470  -2.633  0.00  0.00           C
+ATOM   1665  CZ  TYR A 879     -19.991  17.397  -1.935  0.00  0.00           C
+ATOM   1666  OH  TYR A 879     -20.541  17.601  -0.666  0.00  0.00           O
+ATOM   1752  C   ALA A 890     -25.670  12.855  -2.260  0.00  0.00           C
+ATOM   1755  N   VAL A 891     -25.436  14.132  -1.945  0.00  0.00           N
+ATOM   1756  CA  VAL A 891     -25.524  14.667  -0.590  0.00  0.00           C
+ATOM   1759  CB  VAL A 891     -25.275  16.209  -0.588  0.00  0.00           C
+ATOM   1760  CG1 VAL A 891     -25.765  16.825   0.674  0.00  0.00           C
+ATOM   1761  CG2 VAL A 891     -23.811  16.525  -0.801  0.00  0.00           C
+ATOM   1786  C   TYR A 895     -22.276  11.676   0.926  0.00  0.00           C
+ATOM   1787  O   TYR A 895     -22.820  12.779   0.943  0.00  0.00           O
+ATOM   1790  CD1 TYR A 895     -21.029  11.863  -1.887  0.00  0.00           C
+ATOM   1792  CE1 TYR A 895     -19.779  12.070  -2.377  0.00  0.00           C
+ATOM   1796  N   ARG A 896     -21.035  11.453   1.364  0.00  0.00           N
+ATOM   1797  CA  ARG A 896     -20.133  12.533   1.762  0.00  0.00           C
+ATOM   1798  C   ARG A 896     -18.766  12.381   1.103  0.00  0.00           C
+ATOM   1800  CB  ARG A 896     -19.960  12.617   3.301  0.00  0.00           C
+ATOM   1801  CG  ARG A 896     -21.226  12.956   4.068  0.00  0.00           C
+ATOM   1802  CD  ARG A 896     -21.754  14.328   3.732  0.00  0.00           C
+ATOM   1803  NE  ARG A 896     -22.975  14.627   4.489  0.00  0.00           N
+ATOM   1804  CZ  ARG A 896     -24.220  14.509   4.016  0.00  0.00           C
+ATOM   1805  NH1 ARG A 896     -24.437  14.084   2.779  0.00  0.00           N
+ATOM   1807  N   LEU A 897     -18.051  13.484   0.979  0.00  0.00           N
+ATOM   1808  CA  LEU A 897     -16.757  13.411   0.349  0.00  0.00           C
+ATOM   1811  CB  LEU A 897     -16.183  14.811   0.159  0.00  0.00           C
+ATOM   1812  CG  LEU A 897     -16.710  15.634  -1.028  0.00  0.00           C
+ATOM   1813  CD1 LEU A 897     -16.219  17.079  -0.872  0.00  0.00           C
+ATOM   1814  CD2 LEU A 897     -16.268  15.058  -2.382  0.00  0.00           C
+ATOM   1945  CB  TRP A 915     -21.070  17.066   5.930  0.00  0.00           C
+ATOM   1946  CG  TRP A 915     -19.934  17.772   5.319  0.00  0.00           C
+ATOM   1947  CD1 TRP A 915     -19.799  19.130   5.109  0.00  0.00           C
+ATOM   1948  CD2 TRP A 915     -18.759  17.161   4.772  0.00  0.00           C
+ATOM   1949  NE1 TRP A 915     -18.595  19.388   4.490  0.00  0.00           N
+ATOM   1950  CE2 TRP A 915     -17.943  18.199   4.263  0.00  0.00           C
+ATOM   1951  CE3 TRP A 915     -18.298  15.829   4.687  0.00  0.00           C
+ATOM   1952  CZ2 TRP A 915     -16.677  17.947   3.694  0.00  0.00           C
+ATOM   1953  CZ3 TRP A 915     -17.042  15.581   4.100  0.00  0.00           C
+ATOM   1954  CH2 TRP A 915     -16.255  16.636   3.614  0.00  0.00           C

@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -23.95  -1.67 -25.80 with max radius 5.72
+ATOM    349  CA  TYR A  56     -24.850  -1.607 -30.413  0.00  0.00           C
+ATOM    350  C   TYR A  56     -24.459  -0.455 -29.504  0.00  0.00           C
+ATOM    351  O   TYR A  56     -25.175  -0.158 -28.552  0.00  0.00           O
+ATOM    352  CB  TYR A  56     -24.033  -2.852 -30.064  0.00  0.00           C
+ATOM    353  CG  TYR A  56     -24.794  -4.115 -30.361  0.00  0.00           C
+ATOM    354  CD1 TYR A  56     -25.960  -4.426 -29.660  0.00  0.00           C
+ATOM    356  CE1 TYR A  56     -26.691  -5.563 -29.951  0.00  0.00           C
+ATOM    360  N   LYS A  57     -23.351   0.214 -29.796  0.00  0.00           N
+ATOM    361  CA  LYS A  57     -22.921   1.300 -28.933  0.00  0.00           C
+ATOM    364  CB  LYS A  57     -21.476   1.718 -29.229  0.00  0.00           C
+ATOM    379  C   MET A  59     -28.383   1.219 -27.458  0.00  0.00           C
+ATOM    380  O   MET A  59     -29.331   0.865 -26.769  0.00  0.00           O
+ATOM    381  CB  MET A  59     -28.919   0.161 -29.620  0.00  0.00           C
+ATOM    385  N   GLN A  60     -27.152   1.383 -26.994  0.00  0.00           N
+ATOM    386  CA  GLN A  60     -26.797   1.152 -25.596  0.00  0.00           C
+ATOM    387  C   GLN A  60     -27.710   1.832 -24.602  0.00  0.00           C
+ATOM    389  CB  GLN A  60     -25.372   1.614 -25.323  0.00  0.00           C
+ATOM    390  CG  GLN A  60     -25.071   1.813 -23.823  0.00  0.00           C
+ATOM    391  CD  GLN A  60     -23.775   2.576 -23.590  0.00  0.00           C
+ATOM    392  OE1 GLN A  60     -23.435   2.937 -22.447  0.00  0.00           O
+ATOM    393  NE2 GLN A  60     -23.043   2.831 -24.680  0.00  0.00           N
+ATOM    394  N   GLY A  61     -28.137   1.067 -23.606  0.00  0.00           N
+ATOM    395  CA  GLY A  61     -29.011   1.609 -22.586  0.00  0.00           C
+ATOM    414  CA  ILE A  65     -30.889  -3.973 -26.174  0.00  0.00           C
+ATOM    415  C   ILE A  65     -29.751  -4.592 -25.385  0.00  0.00           C
+ATOM    416  O   ILE A  65     -29.376  -4.086 -24.338  0.00  0.00           O
+ATOM    417  CB  ILE A  65     -30.515  -2.506 -26.512  0.00  0.00           C
+ATOM    419  CG2 ILE A  65     -29.287  -2.487 -27.399  0.00  0.00           C
+ATOM    421  N   PRO A  66     -29.191  -5.703 -25.873  0.00  0.00           N
+ATOM    422  CA  PRO A  66     -28.090  -6.364 -25.168  0.00  0.00           C
+ATOM    423  C   PRO A  66     -26.841  -5.503 -25.018  0.00  0.00           C
+ATOM    424  O   PRO A  66     -26.542  -4.670 -25.874  0.00  0.00           O
+ATOM    426  CG  PRO A  66     -28.229  -7.187 -27.371  0.00  0.00           C
+ATOM    427  CD  PRO A  66     -29.497  -6.402 -27.132  0.00  0.00           C
+ATOM    428  N   SER A  67     -26.119  -5.715 -23.922  0.00  0.00           N
+ATOM    429  CA  SER A  67     -24.896  -4.963 -23.647  0.00  0.00           C
+ATOM    430  C   SER A  67     -23.681  -5.584 -24.310  0.00  0.00           C
+ATOM    432  CB  SER A  67     -24.596  -4.929 -22.143  0.00  0.00           C
+ATOM    433  OG  SER A  67     -25.679  -4.434 -21.386  0.00  0.00           O
+ATOM    434  N   ILE A  68     -22.887  -4.776 -25.002  0.00  0.00           N
+ATOM    435  CA  ILE A  68     -21.666  -5.319 -25.582  0.00  0.00           C
+ATOM    436  C   ILE A  68     -20.624  -5.109 -24.496  0.00  0.00           C
+ATOM    437  O   ILE A  68     -20.524  -4.013 -23.950  0.00  0.00           O
+ATOM    438  CB  ILE A  68     -21.224  -4.571 -26.837  0.00  0.00           C
+ATOM    439  CG1 ILE A  68     -22.256  -4.778 -27.948  0.00  0.00           C
+ATOM    440  CG2 ILE A  68     -19.852  -5.071 -27.274  0.00  0.00           C
+ATOM    441  CD1 ILE A  68     -22.496  -6.220 -28.297  0.00  0.00           C

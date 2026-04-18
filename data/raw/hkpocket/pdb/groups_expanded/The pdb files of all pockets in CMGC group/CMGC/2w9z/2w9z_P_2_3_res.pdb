@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  17.04   9.73  12.83 with max radius 5.63
+ATOM   2075  C   ALA B  16      20.302  13.590  12.115  0.00  0.00           C
+ATOM   2076  O   ALA B  16      19.692  12.687  12.695  0.00  0.00           O
+ATOM   2090  N   GLY B  18      17.539  14.971  11.397  0.00  0.00           N
+ATOM   2091  CA  GLY B  18      16.260  14.893  10.722  0.00  0.00           C
+ATOM   3255  CA  GLN B 168      16.256   8.592  18.140  0.00  0.00           C
+ATOM   3256  C   GLN B 168      17.218   7.920  17.159  0.00  0.00           C
+ATOM   3257  O   GLN B 168      16.809   7.118  16.324  0.00  0.00           O
+ATOM   3258  CB  GLN B 168      15.941  10.013  17.669  0.00  0.00           C
+ATOM   3259  CG  GLN B 168      14.933  10.063  16.530  0.00  0.00           C
+ATOM   3260  CD  GLN B 168      14.809  11.439  15.908  0.00  0.00           C
+ATOM   3261  OE1 GLN B 168      15.668  11.858  15.132  0.00  0.00           O
+ATOM   3263  N   MET B 169      18.491   8.282  17.235  0.00  0.00           N
+ATOM   3264  CA  MET B 169      19.475   7.751  16.305  0.00  0.00           C
+ATOM   3265  C   MET B 169      19.689   6.251  16.518  0.00  0.00           C
+ATOM   3266  O   MET B 169      20.489   5.617  15.818  0.00  0.00           O
+ATOM   3267  CB  MET B 169      20.790   8.515  16.440  0.00  0.00           C
+ATOM   3268  CG  MET B 169      20.644  10.021  16.266  0.00  0.00           C
+ATOM   3269  SD  MET B 169      22.190  10.914  16.552  0.00  0.00           S
+ATOM   3285  CA  ALA B 172      16.164   4.365  13.282  0.00  0.00           C
+ATOM   3286  C   ALA B 172      17.391   5.184  12.934  0.00  0.00           C
+ATOM   3287  O   ALA B 172      17.308   6.401  12.788  0.00  0.00           O
+ATOM   3288  CB  ALA B 172      14.944   4.928  12.571  0.00  0.00           C
+ATOM   3290  CA  PRO B 173      19.732   5.272  12.367  0.00  0.00           C
+ATOM   3291  C   PRO B 173      19.462   5.870  10.993  0.00  0.00           C
+ATOM   3296  N   VAL B 174      20.357   6.736  10.539  0.00  0.00           N
+ATOM   3297  CA  VAL B 174      20.255   7.285   9.196  0.00  0.00           C
+ATOM   3300  CB  VAL B 174      19.345   8.528   9.155  0.00  0.00           C
+ATOM   3301  CG1 VAL B 174      17.900   8.140   9.380  0.00  0.00           C
+ATOM   3302  CG2 VAL B 174      19.793   9.553  10.183  0.00  0.00           C

@@ -1,0 +1,8 @@
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'pyg-lib'. Disabling its usage. Stacktrace: /lib64/libm.so.6: version `GLIBC_2.29' not found (required by /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/libpyg.so)
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-scatter'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_scatter/_scatter_cuda.so: undefined symbol: _ZN2at4_ops16div__Tensor_mode4callERNS_6TensorERKS2_St8optionalIN3c1017basic_string_viewIcEEE
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-spline-conv'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_spline_conv/_basis_cuda.so: undefined symbol: _ZN5torch8autograd12VariableInfoC1ERKN2at6TensorE
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-sparse'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_sparse/_spmm_cuda.so: undefined symbol: _ZN5torch8autograd12VariableInfoC1ERKN2at6TensorE
+  import torch_geometric.typing

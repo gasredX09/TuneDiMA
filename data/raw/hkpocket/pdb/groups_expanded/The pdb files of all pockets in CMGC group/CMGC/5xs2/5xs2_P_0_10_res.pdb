@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.68  11.56 -20.24 with max radius 6.98
+ATOM    513  C   SER A  60       7.504  11.762 -22.124  0.00  0.00           C
+ATOM    515  CB  SER A  60       7.565  10.919 -19.768  0.00  0.00           C
+ATOM    516  OG  SER A  60       7.590  12.289 -19.372  0.00  0.00           O
+ATOM    517  N   MET A  61       6.226  11.554 -22.411  0.00  0.00           N
+ATOM    518  CA  MET A  61       5.536  12.488 -23.300  0.00  0.00           C
+ATOM    519  C   MET A  61       5.471  13.903 -22.717  0.00  0.00           C
+ATOM    521  CB  MET A  61       4.168  11.963 -23.680  0.00  0.00           C
+ATOM    522  CG  MET A  61       4.263  10.716 -24.552  0.00  0.00           C
+ATOM    525  N   SER A  62       5.260  14.004 -21.398  0.00  0.00           N
+ATOM    526  CA  SER A  62       5.228  15.296 -20.691  0.00  0.00           C
+ATOM    529  CB  SER A  62       4.781  15.122 -19.240  0.00  0.00           C
+ATOM    530  OG  SER A  62       3.375  15.006 -19.242  0.00  0.00           O
+ATOM    552  NH2 ARG A  65       1.742  15.304 -22.692  0.00  0.00           N
+ATOM   1567  CA  LEU A 190      -1.167  11.079 -23.443  0.00  0.00           C
+ATOM   1568  C   LEU A 190      -0.684  12.146 -22.455  0.00  0.00           C
+ATOM   1569  O   LEU A 190       0.327  12.827 -22.711  0.00  0.00           O
+ATOM   1570  CB  LEU A 190      -0.137  10.883 -24.579  0.00  0.00           C
+ATOM   1571  CG  LEU A 190       0.005   9.540 -25.328  0.00  0.00           C
+ATOM   1572  CD1 LEU A 190      -1.195   8.604 -25.239  0.00  0.00           C
+ATOM   1574  N   ASP A 191      -1.418  12.276 -21.342  0.00  0.00           N
+ATOM   1575  CA  ASP A 191      -1.199  13.304 -20.305  0.00  0.00           C
+ATOM   1576  C   ASP A 191      -1.017  12.661 -18.937  0.00  0.00           C
+ATOM   1577  O   ASP A 191      -1.412  11.528 -18.745  0.00  0.00           O
+ATOM   1582  N   PRO A 192      -0.450  13.395 -17.968  0.00  0.00           N
+ATOM   1583  CA  PRO A 192      -0.455  12.873 -16.583  0.00  0.00           C
+ATOM   1586  CB  PRO A 192       0.266  13.978 -15.795  0.00  0.00           C
+ATOM   1587  CG  PRO A 192       1.094  14.708 -16.819  0.00  0.00           C
+ATOM   1588  CD  PRO A 192       0.277  14.676 -18.081  0.00  0.00           C

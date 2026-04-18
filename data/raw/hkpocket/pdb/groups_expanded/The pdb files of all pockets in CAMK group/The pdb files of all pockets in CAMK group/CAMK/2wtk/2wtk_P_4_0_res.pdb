@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -73.57  36.66  54.78 with max radius 7.43
+ATOM   5815  CB  VAL C 133     -71.488  38.779  49.928  0.00  0.00           C
+ATOM   5816  CG1 VAL C 133     -72.694  37.951  50.396  0.00  0.00           C
+ATOM   5817  CG2 VAL C 133     -70.233  37.976  50.110  0.00  0.00           C
+ATOM   6222  C   THR C 185     -66.835  38.730  50.951  0.00  0.00           C
+ATOM   6223  O   THR C 185     -66.885  39.344  52.010  0.00  0.00           O
+ATOM   6228  CA  THR C 186     -67.421  36.594  51.998  0.00  0.00           C
+ATOM   6229  C   THR C 186     -66.336  36.669  53.072  0.00  0.00           C
+ATOM   6230  O   THR C 186     -66.615  36.528  54.256  0.00  0.00           O
+ATOM   6231  CB  THR C 186     -67.615  35.111  51.589  0.00  0.00           C
+ATOM   6233  CG2 THR C 186     -68.562  34.986  50.413  0.00  0.00           C
+ATOM   7263  O   PRO C 321     -73.494  40.464  57.695  0.00  0.00           O
+ATOM   7269  C   ILE C 322     -76.118  41.376  55.473  0.00  0.00           C
+ATOM   7270  O   ILE C 322     -76.429  40.356  56.096  0.00  0.00           O
+ATOM   7271  CB  ILE C 322     -73.692  40.819  55.086  0.00  0.00           C
+ATOM   7272  CG1 ILE C 322     -72.220  41.286  55.145  0.00  0.00           C
+ATOM   7273  CG2 ILE C 322     -74.103  40.280  53.703  0.00  0.00           C
+ATOM   7274  CD1 ILE C 322     -71.651  41.875  53.869  0.00  0.00           C
+ATOM   7277  C   PRO C 323     -78.683  40.267  54.083  0.00  0.00           C
+ATOM   7278  O   PRO C 323     -77.788  39.620  53.540  0.00  0.00           O
+ATOM   7282  N   PRO C 324     -79.909  39.758  54.323  0.00  0.00           N
+ATOM   7283  CA  PRO C 324     -80.218  38.374  53.947  0.00  0.00           C
+ATOM   7286  CB  PRO C 324     -81.189  37.926  55.044  0.00  0.00           C
+ATOM   7297  C   ASP C 330     -78.333  33.925  54.470  0.00  0.00           C
+ATOM   7298  O   ASP C 330     -77.980  34.955  55.047  0.00  0.00           O
+ATOM   7303  N   ARG C 331     -77.477  33.083  53.892  0.00  0.00           N
+ATOM   7304  CA  ARG C 331     -76.034  33.343  53.792  0.00  0.00           C
+ATOM   7305  C   ARG C 331     -75.604  33.508  52.334  0.00  0.00           C
+ATOM   7306  O   ARG C 331     -74.417  33.666  52.040  0.00  0.00           O
+ATOM   7307  CB  ARG C 331     -75.240  32.214  54.453  0.00  0.00           C
+ATOM   7308  CG  ARG C 331     -75.503  32.067  55.934  0.00  0.00           C
+ATOM   7312  NH1 ARG C 331     -74.835  32.894  58.548  0.00  0.00           N
+ATOM   7314  N   TRP C 332     -76.592  33.473  51.438  0.00  0.00           N
+ATOM   7318  CB  TRP C 332     -75.650  34.941  49.646  0.00  0.00           C
+ATOM   7319  CG  TRP C 332     -76.259  36.243  50.228  0.00  0.00           C
+ATOM   7320  CD1 TRP C 332     -76.710  36.444  51.512  0.00  0.00           C
+ATOM   7322  NE1 TRP C 332     -77.175  37.730  51.663  0.00  0.00           N
+ATOM   7323  CE2 TRP C 332     -77.020  38.405  50.480  0.00  0.00           C

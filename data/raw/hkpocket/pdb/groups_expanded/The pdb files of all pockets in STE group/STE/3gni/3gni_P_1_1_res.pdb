@@ -1,0 +1,46 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 40 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  25.24 -25.26 -28.99 with max radius 6.24
+ATOM   4270  CE2 PHE B 233      22.161 -22.964 -24.006  0.00  0.00           C
+ATOM   4271  CZ  PHE B 233      21.448 -24.152 -24.146  0.00  0.00           C
+ATOM   4333  CB  LEU B 241      19.648 -24.587 -30.371  0.00  0.00           C
+ATOM   4334  CG  LEU B 241      20.280 -25.024 -29.037  0.00  0.00           C
+ATOM   4335  CD1 LEU B 241      19.297 -25.091 -27.867  0.00  0.00           C
+ATOM   4336  CD2 LEU B 241      20.996 -26.366 -29.194  0.00  0.00           C
+ATOM   4396  CA  LEU B 249      24.933 -20.501 -26.633  0.00  0.00           C
+ATOM   4397  C   LEU B 249      26.222 -20.880 -25.902  0.00  0.00           C
+ATOM   4398  O   LEU B 249      26.250 -21.887 -25.187  0.00  0.00           O
+ATOM   4399  CB  LEU B 249      25.030 -20.859 -28.120  0.00  0.00           C
+ATOM   4400  CG  LEU B 249      23.722 -20.977 -28.916  0.00  0.00           C
+ATOM   4401  CD1 LEU B 249      24.023 -20.984 -30.415  0.00  0.00           C
+ATOM   4402  CD2 LEU B 249      22.891 -22.212 -28.512  0.00  0.00           C
+ATOM   4403  N   GLN B 250      27.282 -20.090 -26.072  0.00  0.00           N
+ATOM   4658  O   PRO B 283      24.883 -28.575 -34.345  0.00  0.00           O
+ATOM   4663  CA  ALA B 284      24.576 -29.004 -31.544  0.00  0.00           C
+ATOM   4664  C   ALA B 284      25.718 -28.000 -31.751  0.00  0.00           C
+ATOM   4665  O   ALA B 284      25.546 -26.811 -31.478  0.00  0.00           O
+ATOM   4666  CB  ALA B 284      24.732 -29.728 -30.199  0.00  0.00           C
+ATOM   4667  N   THR B 285      26.867 -28.475 -32.242  0.00  0.00           N
+ATOM   4668  CA  THR B 285      28.007 -27.599 -32.560  0.00  0.00           C
+ATOM   4669  C   THR B 285      27.809 -26.840 -33.897  0.00  0.00           C
+ATOM   4671  CB  THR B 285      29.361 -28.358 -32.519  0.00  0.00           C
+ATOM   4672  OG1 THR B 285      29.284 -29.449 -31.589  0.00  0.00           O
+ATOM   4673  CG2 THR B 285      30.486 -27.417 -32.095  0.00  0.00           C
+ATOM   4674  N   GLN B 286      26.601 -26.296 -34.055  0.00  0.00           N
+ATOM   4675  CA  GLN B 286      26.256 -25.298 -35.065  0.00  0.00           C
+ATOM   4676  C   GLN B 286      26.862 -23.956 -34.647  0.00  0.00           C
+ATOM   4678  CB  GLN B 286      24.726 -25.232 -35.192  0.00  0.00           C
+ATOM   4679  CG  GLN B 286      24.078 -23.866 -35.029  0.00  0.00           C
+ATOM   4680  CD  GLN B 286      22.874 -23.910 -34.102  0.00  0.00           C
+ATOM   4681  OE1 GLN B 286      22.181 -24.927 -34.000  0.00  0.00           O
+ATOM   4682  NE2 GLN B 286      22.622 -22.804 -33.414  0.00  0.00           N
+ATOM   4683  N   MET B 287      27.235 -23.904 -33.369  0.00  0.00           N
+ATOM   4684  CA  MET B 287      28.051 -22.861 -32.760  0.00  0.00           C
+ATOM   4687  CB  MET B 287      28.702 -23.439 -31.492  0.00  0.00           C
+ATOM   4688  CG  MET B 287      29.759 -22.563 -30.831  0.00  0.00           C
+ATOM   4689  SD  MET B 287      29.067 -21.363 -29.678  0.00  0.00           S
+ATOM   4690  CE  MET B 287      28.380 -20.126 -30.784  0.00  0.00           C
+ATOM   4715  OE2 GLU B 290      24.718 -20.923 -33.500  0.00  0.00           O

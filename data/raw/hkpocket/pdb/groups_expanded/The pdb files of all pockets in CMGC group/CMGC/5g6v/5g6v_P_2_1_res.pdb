@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  82.45  30.61  61.40 with max radius 5.79
+ATOM   1711  C   THR A 385      84.919  34.274  62.852  0.00  0.00           C
+ATOM   1712  O   THR A 385      83.967  33.674  62.355  0.00  0.00           O
+ATOM   1717  CA  TRP A 386      85.955  34.629  60.660  0.00  0.00           C
+ATOM   1736  CD  PRO A 387      87.921  32.441  60.859  0.00  0.00           C
+ATOM   2038  CA  GLN A 428      77.666  29.936  61.002  0.00  0.00           C
+ATOM   2039  C   GLN A 428      78.006  30.833  59.811  0.00  0.00           C
+ATOM   2040  O   GLN A 428      77.595  30.537  58.685  0.00  0.00           O
+ATOM   2041  CB  GLN A 428      78.518  28.665  60.908  0.00  0.00           C
+ATOM   2042  CG  GLN A 428      78.365  27.722  62.086  0.00  0.00           C
+ATOM   2043  CD  GLN A 428      78.836  28.367  63.370  0.00  0.00           C
+ATOM   2045  NE2 GLN A 428      80.128  28.654  63.442  0.00  0.00           N
+ATOM   2046  N   PHE A 429      78.786  31.893  60.052  0.00  0.00           N
+ATOM   2047  CA  PHE A 429      79.180  32.852  59.005  0.00  0.00           C
+ATOM   2048  C   PHE A 429      79.622  32.182  57.725  0.00  0.00           C
+ATOM   2050  CB  PHE A 429      80.323  33.781  59.458  0.00  0.00           C
+ATOM   2051  CG  PHE A 429      79.933  34.789  60.511  0.00  0.00           C
+ATOM   2053  CD2 PHE A 429      80.744  34.980  61.631  0.00  0.00           C
+ATOM   2055  CE2 PHE A 429      80.414  35.908  62.603  0.00  0.00           C
+ATOM   2057  N   GLU A 430      80.432  31.128  57.854  0.00  0.00           N
+ATOM   2058  CA  GLU A 430      81.015  30.409  56.718  0.00  0.00           C
+ATOM   2059  C   GLU A 430      80.427  29.005  56.546  0.00  0.00           C
+ATOM   2060  O   GLU A 430      80.248  28.266  57.518  0.00  0.00           O
+ATOM   2061  CB  GLU A 430      82.531  30.283  56.894  0.00  0.00           C
+ATOM   2062  CG  GLU A 430      83.285  31.608  56.990  0.00  0.00           C
+ATOM   2063  CD  GLU A 430      84.696  31.423  57.519  0.00  0.00           C
+ATOM   2064  OE1 GLU A 430      85.491  30.710  56.860  0.00  0.00           O
+ATOM   2065  OE2 GLU A 430      84.994  31.962  58.610  0.00  0.00           O
+ATOM   2079  CB  ASN A 433      82.026  26.297  60.305  0.00  0.00           C
+ATOM   2080  CG  ASN A 433      83.509  26.489  60.043  0.00  0.00           C
+ATOM   2082  ND2 ASN A 433      83.956  27.730  60.032  0.00  0.00           N

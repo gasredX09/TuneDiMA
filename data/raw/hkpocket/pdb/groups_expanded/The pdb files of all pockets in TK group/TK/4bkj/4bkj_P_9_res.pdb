@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -1.27  43.90  23.75 with max radius 6.40
+ATOM   1710  NE1 TRP A 834      -1.821  44.299  29.146  0.00  0.00           N
+ATOM   1711  CE2 TRP A 834      -2.770  43.692  28.366  0.00  0.00           C
+ATOM   1713  CZ2 TRP A 834      -3.180  43.973  27.062  0.00  0.00           C
+ATOM   1714  CZ3 TRP A 834      -4.759  42.154  27.268  0.00  0.00           C
+ATOM   1715  CH2 TRP A 834      -4.180  43.187  26.534  0.00  0.00           C
+ATOM   1747  CE  MET A 838      -5.714  47.211  26.956  0.00  0.00           C
+ATOM   1777  CB  ALA A 842      -7.085  44.712  24.184  0.00  0.00           C
+ATOM   1780  C   GLN A 843      -5.721  40.275  23.707  0.00  0.00           C
+ATOM   1781  O   GLN A 843      -5.023  41.029  23.041  0.00  0.00           O
+ATOM   1788  CA  PRO A 844      -3.782  39.465  24.924  0.00  0.00           C
+ATOM   1789  C   PRO A 844      -3.006  39.108  23.653  0.00  0.00           C
+ATOM   1794  N   PHE A 845      -1.945  39.865  23.377  0.00  0.00           N
+ATOM   1795  CA  PHE A 845      -1.118  39.693  22.174  0.00  0.00           C
+ATOM   1796  C   PHE A 845      -1.898  39.856  20.873  0.00  0.00           C
+ATOM   1798  CB  PHE A 845      -0.355  38.358  22.199  0.00  0.00           C
+ATOM   1799  CG  PHE A 845       0.527  38.200  23.402  0.00  0.00           C
+ATOM   1800  CD1 PHE A 845       1.688  38.952  23.528  0.00  0.00           C
+ATOM   1802  CE1 PHE A 845       2.480  38.824  24.655  0.00  0.00           C
+ATOM   1805  N   GLY A 846      -2.901  40.729  20.891  0.00  0.00           N
+ATOM   1806  CA  GLY A 846      -3.714  40.996  19.697  0.00  0.00           C
+ATOM   1807  C   GLY A 846      -2.915  41.437  18.478  0.00  0.00           C
+ATOM   1809  N   GLN A 847      -1.697  41.931  18.701  0.00  0.00           N
+ATOM   1814  CG  GLN A 847       1.379  42.848  18.937  0.00  0.00           C
+ATOM   1815  CD  GLN A 847       1.061  42.780  20.419  0.00  0.00           C
+ATOM   1816  OE1 GLN A 847      -0.078  42.525  20.815  0.00  0.00           O
+ATOM   1817  NE2 GLN A 847       2.079  42.996  21.250  0.00  0.00           N
+ATOM   1992  CG2 VAL A 868       5.297  41.912  22.955  0.00  0.00           C
+ATOM   1995  C   TYR A 869       4.154  42.096  26.908  0.00  0.00           C
+ATOM   1996  O   TYR A 869       4.199  43.063  26.140  0.00  0.00           O
+ATOM   2005  N   LEU A 870       3.044  41.714  27.523  0.00  0.00           N
+ATOM   2006  CA  LEU A 870       1.859  42.545  27.505  0.00  0.00           C
+ATOM   2007  C   LEU A 870       2.235  43.899  28.096  0.00  0.00           C
+ATOM   2009  CB  LEU A 870       0.745  41.889  28.310  0.00  0.00           C
+ATOM   2010  CG  LEU A 870       0.249  40.570  27.710  0.00  0.00           C
+ATOM   2012  CD2 LEU A 870      -0.443  40.804  26.370  0.00  0.00           C
+ATOM   2013  N   SER A 871       1.747  44.970  27.483  0.00  0.00           N
+ATOM   2014  CA  SER A 871       2.028  46.326  27.939  0.00  0.00           C
+ATOM   2017  CB  SER A 871       1.663  47.325  26.845  0.00  0.00           C
+ATOM   2018  OG  SER A 871       2.400  47.056  25.680  0.00  0.00           O

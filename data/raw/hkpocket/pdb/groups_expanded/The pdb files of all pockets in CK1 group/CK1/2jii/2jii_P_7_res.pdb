@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  46.93  -2.53  38.41 with max radius 7.01
+ATOM   1874  CB  PRO A 389      46.552   2.298  39.117  0.00  0.00           C
+ATOM   1875  CG  PRO A 389      47.795   2.143  38.402  0.00  0.00           C
+ATOM   1889  CZ3 TRP A 390      49.777   3.118  41.468  0.00  0.00           C
+ATOM   1989  CA  GLN A 403      46.235   0.703  44.442  0.00  0.00           C
+ATOM   1990  C   GLN A 403      47.740   0.667  44.200  0.00  0.00           C
+ATOM   1991  O   GLN A 403      48.184   0.024  43.273  0.00  0.00           O
+ATOM   1992  CB  GLN A 403      45.583   1.883  43.692  0.00  0.00           C
+ATOM   1996  NE2 GLN A 403      44.078  -0.013  41.992  0.00  0.00           N
+ATOM   2016  CA  LYS A 406      48.434  -3.698  44.012  0.00  0.00           C
+ATOM   2017  C   LYS A 406      49.483  -3.657  42.901  0.00  0.00           C
+ATOM   2018  O   LYS A 406      49.949  -4.692  42.427  0.00  0.00           O
+ATOM   2019  CB  LYS A 406      47.048  -3.272  43.496  0.00  0.00           C
+ATOM   2020  CG  LYS A 406      46.375  -4.243  42.537  0.00  0.00           C
+ATOM   2021  CD  LYS A 406      44.900  -3.895  42.327  0.00  0.00           C
+ATOM   2022  N   PHE A 407      49.899  -2.449  42.541  0.00  0.00           N
+ATOM   2023  CA  PHE A 407      50.868  -2.222  41.464  0.00  0.00           C
+ATOM   2026  CB  PHE A 407      50.796  -0.747  41.046  0.00  0.00           C
+ATOM   2028  CD1 PHE A 407      50.876  -0.535  38.541  0.00  0.00           C
+ATOM   2030  CE1 PHE A 407      51.544  -0.217  37.359  0.00  0.00           C
+ATOM   2050  C   LYS A 410      52.051  -5.639  39.104  0.00  0.00           C
+ATOM   2051  O   LYS A 410      50.920  -5.296  38.748  0.00  0.00           O
+ATOM   2052  CB  LYS A 410      51.063  -7.851  39.801  0.00  0.00           C
+ATOM   2055  CA  PRO A 411      53.095  -3.900  37.737  0.00  0.00           C
+ATOM   2056  C   PRO A 411      52.489  -4.446  36.432  0.00  0.00           C
+ATOM   2061  N   GLY A 412      51.469  -3.764  35.919  0.00  0.00           N
+ATOM   2062  CA  GLY A 412      50.745  -4.210  34.727  0.00  0.00           C
+ATOM   2063  C   GLY A 412      50.015  -3.055  34.059  0.00  0.00           C
+ATOM   2064  O   GLY A 412      50.078  -1.920  34.545  0.00  0.00           O
+ATOM   2065  N   PRO A 413      49.350  -3.329  32.916  0.00  0.00           N
+ATOM   2067  C   PRO A 413      47.265  -2.036  33.282  0.00  0.00           C
+ATOM   2068  O   PRO A 413      46.929  -2.814  34.169  0.00  0.00           O
+ATOM   2072  N   PHE A 414      46.698  -0.858  33.109  0.00  0.00           N
+ATOM   2073  CA  PHE A 414      45.587  -0.415  33.940  0.00  0.00           C
+ATOM   2076  CB  PHE A 414      46.076   0.375  35.170  0.00  0.00           C
+ATOM   2077  CG  PHE A 414      47.007   1.515  34.844  0.00  0.00           C
+ATOM   2078  CD1 PHE A 414      48.354   1.279  34.593  0.00  0.00           C

@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  39.50  48.23 -55.26 with max radius 6.19
+ATOM     13  CG  GLN A  10      36.632  44.562 -55.101  0.00  0.00           C
+ATOM     14  CD  GLN A  10      37.875  44.209 -54.293  0.00  0.00           C
+ATOM     16  NE2 GLN A  10      38.894  45.062 -54.370  0.00  0.00           N
+ATOM     18  CA  THR A  11      35.508  45.916 -59.469  0.00  0.00           C
+ATOM     19  C   THR A  11      36.554  47.057 -59.331  0.00  0.00           C
+ATOM     20  O   THR A  11      36.789  47.576 -58.230  0.00  0.00           O
+ATOM     24  N   CYS A  12      37.210  47.394 -60.457  0.00  0.00           N
+ATOM     25  CA  CYS A  12      38.242  48.411 -60.606  0.00  0.00           C
+ATOM     28  CB  CYS A  12      39.595  47.847 -60.184  0.00  0.00           C
+ATOM     29  SG  CYS A  12      40.918  49.071 -60.097  0.00  0.00           S
+ATOM    167  CZ2 TRP A  32      39.873  42.946 -57.124  0.00  0.00           C
+ATOM    168  CZ3 TRP A  32      39.021  44.009 -59.128  0.00  0.00           C
+ATOM    169  CH2 TRP A  32      39.128  43.928 -57.734  0.00  0.00           C
+ATOM    580  C   GLY A  82      42.381  51.636 -57.827  0.00  0.00           C
+ATOM    581  O   GLY A  82      41.369  51.696 -57.113  0.00  0.00           O
+ATOM    582  N   MET A  83      43.253  50.582 -57.793  0.00  0.00           N
+ATOM    583  CA  MET A  83      43.015  49.439 -56.913  0.00  0.00           C
+ATOM    584  C   MET A  83      43.458  49.779 -55.471  0.00  0.00           C
+ATOM    585  O   MET A  83      44.452  49.231 -54.951  0.00  0.00           O
+ATOM    586  CB  MET A  83      43.621  48.139 -57.441  0.00  0.00           C
+ATOM    587  CG  MET A  83      42.861  46.938 -56.920  0.00  0.00           C
+ATOM    588  SD  MET A  83      42.529  45.631 -58.116  0.00  0.00           S
+ATOM    590  N   GLN A  84      42.651  50.692 -54.834  0.00  0.00           N
+ATOM    591  CA  GLN A  84      42.727  51.275 -53.479  0.00  0.00           C
+ATOM    592  C   GLN A  84      43.292  50.316 -52.435  0.00  0.00           C
+ATOM    593  O   GLN A  84      43.552  50.731 -51.308  0.00  0.00           O
+ATOM    594  CB  GLN A  84      41.331  51.734 -53.014  0.00  0.00           C
+ATOM    595  CG  GLN A  84      40.846  53.021 -53.662  0.00  0.00           C
+ATOM    596  CD  GLN A  84      39.401  53.350 -53.352  0.00  0.00           C

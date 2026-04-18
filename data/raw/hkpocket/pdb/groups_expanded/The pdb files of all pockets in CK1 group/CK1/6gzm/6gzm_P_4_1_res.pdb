@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -14.43  -7.56  21.80 with max radius 6.98
+ATOM   1036  CA  LEU A 107     -16.158  -4.711  25.901  0.00  0.00           C
+ATOM   1037  C   LEU A 107     -14.674  -4.415  26.085  0.00  0.00           C
+ATOM   1038  O   LEU A 107     -13.878  -5.338  26.075  0.00  0.00           O
+ATOM   1039  CB  LEU A 107     -16.594  -4.514  24.470  0.00  0.00           C
+ATOM   1040  CG  LEU A 107     -17.934  -5.125  24.037  0.00  0.00           C
+ATOM   1041  CD1 LEU A 107     -18.343  -4.484  22.729  0.00  0.00           C
+ATOM   1042  CD2 LEU A 107     -17.876  -6.633  23.912  0.00  0.00           C
+ATOM   1060  CB  ASP A 110     -13.986  -8.156  28.743  0.00  0.00           C
+ATOM   1069  CG  GLN A 111     -10.725  -7.280  24.808  0.00  0.00           C
+ATOM   1070  CD  GLN A 111     -10.319  -7.026  23.363  0.00  0.00           C
+ATOM   1072  NE2 GLN A 111     -11.318  -6.919  22.464  0.00  0.00           N
+ATOM   1331  O   ASN A 143     -10.839  -6.558  19.539  0.00  0.00           O
+ATOM   1332  CB  ASN A 143     -12.420  -6.309  17.106  0.00  0.00           C
+ATOM   1333  CG  ASN A 143     -13.463  -5.305  16.612  0.00  0.00           C
+ATOM   1335  ND2 ASN A 143     -14.744  -5.631  16.805  0.00  0.00           N
+ATOM   2545  CA  TYR A 286     -18.362  -7.701  19.903  0.00  0.00           C
+ATOM   2546  C   TYR A 286     -18.119  -6.470  19.036  0.00  0.00           C
+ATOM   2547  O   TYR A 286     -16.989  -6.199  18.620  0.00  0.00           O
+ATOM   2548  CB  TYR A 286     -17.272  -8.749  19.683  0.00  0.00           C
+ATOM   2549  CG  TYR A 286     -17.251  -9.824  20.739  0.00  0.00           C
+ATOM   2551  CD2 TYR A 286     -16.408  -9.720  21.867  0.00  0.00           C
+ATOM   2553  CE2 TYR A 286     -16.394 -10.700  22.846  0.00  0.00           C
+ATOM   2570  CD2 PHE A 288     -14.263  -2.937  19.394  0.00  0.00           C
+ATOM   2571  CE1 PHE A 288     -14.376  -2.952  22.152  0.00  0.00           C
+ATOM   2572  CE2 PHE A 288     -13.471  -3.805  20.108  0.00  0.00           C
+ATOM   2573  CZ  PHE A 288     -13.522  -3.807  21.501  0.00  0.00           C

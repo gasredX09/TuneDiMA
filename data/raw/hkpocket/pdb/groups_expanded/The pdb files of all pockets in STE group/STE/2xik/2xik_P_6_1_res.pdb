@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  10.10 -21.76  -2.64 with max radius 6.96
+ATOM     15  CB  LEU A   4       7.949 -22.737   2.048  0.00  0.00           C
+ATOM     16  CG  LEU A   4       7.114 -21.458   1.776  0.00  0.00           C
+ATOM     18  CD2 LEU A   4       7.558 -20.800   0.486  0.00  0.00           C
+ATOM     35  CA  PHE A   7       5.770 -26.137  -1.466  0.00  0.00           C
+ATOM     36  C   PHE A   7       6.473 -26.347  -2.805  0.00  0.00           C
+ATOM     38  CB  PHE A   7       6.014 -24.707  -0.917  0.00  0.00           C
+ATOM     39  CG  PHE A   7       5.652 -23.602  -1.886  0.00  0.00           C
+ATOM     41  CD2 PHE A   7       6.638 -22.944  -2.616  0.00  0.00           C
+ATOM     43  CE2 PHE A   7       6.303 -21.939  -3.531  0.00  0.00           C
+ATOM     45  N   ALA A   8       7.803 -26.502  -2.786  0.00  0.00           N
+ATOM     46  CA  ALA A   8       8.607 -26.697  -3.993  0.00  0.00           C
+ATOM     49  CB  ALA A   8      10.085 -26.634  -3.653  0.00  0.00           C
+ATOM    380  CB  LEU A  53       8.010 -16.513  -3.478  0.00  0.00           C
+ATOM    382  CD1 LEU A  53       7.984 -18.831  -4.461  0.00  0.00           C
+ATOM    633  CG  LEU A  86      10.440 -22.424  -7.200  0.00  0.00           C
+ATOM    634  CD1 LEU A  86       9.396 -21.364  -6.846  0.00  0.00           C
+ATOM    635  CD2 LEU A  86      10.582 -23.401  -6.066  0.00  0.00           C
+ATOM    647  C   SER A  88      13.441 -18.733  -6.247  0.00  0.00           C
+ATOM    648  O   SER A  88      12.457 -19.464  -6.114  0.00  0.00           O
+ATOM    652  CA  THR A  89      12.262 -16.754  -5.323  0.00  0.00           C
+ATOM    655  CB  THR A  89      12.697 -15.564  -4.457  0.00  0.00           C
+ATOM    657  CG2 THR A  89      13.331 -16.002  -3.134  0.00  0.00           C

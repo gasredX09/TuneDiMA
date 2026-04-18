@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -2.61  41.55   2.69 with max radius 5.29
+ATOM   1957  CD  GLU A 392      -6.086  39.776   2.940  0.00  0.00           C
+ATOM   1958  OE1 GLU A 392      -6.466  40.710   3.690  0.00  0.00           O
+ATOM   1959  OE2 GLU A 392      -4.946  39.717   2.424  0.00  0.00           O
+ATOM   1992  CA  PRO A 397      -3.074  37.214   3.661  0.00  0.00           C
+ATOM   1993  C   PRO A 397      -2.749  36.871   2.209  0.00  0.00           C
+ATOM   1995  CB  PRO A 397      -1.866  37.880   4.331  0.00  0.00           C
+ATOM   1996  CG  PRO A 397      -1.810  37.284   5.714  0.00  0.00           C
+ATOM   1998  N   ILE A 398      -3.115  37.781   1.308  0.00  0.00           N
+ATOM   1999  CA  ILE A 398      -2.827  37.648  -0.116  0.00  0.00           C
+ATOM   2000  C   ILE A 398      -1.323  37.844  -0.291  0.00  0.00           C
+ATOM   2001  O   ILE A 398      -0.767  38.783   0.268  0.00  0.00           O
+ATOM   2002  CB  ILE A 398      -3.623  38.711  -0.948  0.00  0.00           C
+ATOM   2003  CG1 ILE A 398      -5.125  38.504  -0.783  0.00  0.00           C
+ATOM   2004  CG2 ILE A 398      -3.261  38.661  -2.430  0.00  0.00           C
+ATOM   2005  CD1 ILE A 398      -5.955  39.732  -1.101  0.00  0.00           C
+ATOM   2019  CD  GLN A 400       2.604  42.218   0.868  0.00  0.00           C
+ATOM   2020  OE1 GLN A 400       1.456  42.078   1.292  0.00  0.00           O
+ATOM   2045  CG1 ILE A 403      -1.438  42.049  -2.333  0.00  0.00           C
+ATOM   2046  CG2 ILE A 403      -0.802  44.439  -2.744  0.00  0.00           C
+ATOM   2047  CD1 ILE A 403      -1.442  42.160  -0.809  0.00  0.00           C
+ATOM   2132  CD2 PHE A 412      -4.578  44.968  -1.674  0.00  0.00           C
+ATOM   2134  CE2 PHE A 412      -4.971  43.726  -2.153  0.00  0.00           C
+ATOM   2158  C   ASN A 415      -0.287  45.903   0.863  0.00  0.00           C
+ATOM   2159  O   ASN A 415       0.186  44.809   1.174  0.00  0.00           O
+ATOM   2164  N   GLN A 416      -1.389  46.400   1.415  0.00  0.00           N
+ATOM   2165  CA  GLN A 416      -2.250  45.612   2.285  0.00  0.00           C
+ATOM   2166  C   GLN A 416      -3.701  45.928   1.943  0.00  0.00           C
+ATOM   2168  CB  GLN A 416      -1.955  45.906   3.757  0.00  0.00           C
+ATOM   2169  CG  GLN A 416      -2.408  44.800   4.708  0.00  0.00           C
+ATOM   2170  CD  GLN A 416      -1.730  44.868   6.069  0.00  0.00           C
+ATOM   2171  OE1 GLN A 416      -0.502  44.952   6.164  0.00  0.00           O
+ATOM   2173  N   LEU A 417      -4.579  44.934   2.073  0.00  0.00           N
+ATOM   2174  CA  LEU A 417      -5.981  45.104   1.693  0.00  0.00           C
+ATOM   2177  CB  LEU A 417      -6.777  43.812   1.902  0.00  0.00           C
+ATOM   2179  CD1 LEU A 417      -8.249  43.787  -0.148  0.00  0.00           C

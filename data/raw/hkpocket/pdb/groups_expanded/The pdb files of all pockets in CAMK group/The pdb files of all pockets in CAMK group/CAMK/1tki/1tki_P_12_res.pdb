@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  20.85  45.65  12.75 with max radius 6.91
+ATOM    703  CD2 LEU A 103      23.953  50.160  14.465  0.00  0.00           C
+ATOM    737  CD  GLU A 107      24.469  45.763  15.321  0.00  0.00           C
+ATOM    738  OE1 GLU A 107      23.993  46.467  16.235  0.00  0.00           O
+ATOM    739  OE2 GLU A 107      23.769  45.267  14.417  0.00  0.00           O
+ATOM   1144  NH2 ARG A 155      22.992  52.108  11.567  0.00  0.00           N
+ATOM   2380  CG  LYS A 305      23.884  40.360  11.778  0.00  0.00           C
+ATOM   2381  CD  LYS A 305      22.492  40.495  12.404  0.00  0.00           C
+ATOM   2382  CE  LYS A 305      22.542  40.907  13.868  0.00  0.00           C
+ATOM   2383  NZ  LYS A 305      21.189  41.093  14.457  0.00  0.00           N
+ATOM   2394  C   LEU A 307      18.570  40.406  10.180  0.00  0.00           C
+ATOM   2395  O   LEU A 307      19.348  41.288  10.553  0.00  0.00           O
+ATOM   2396  CB  LEU A 307      18.534  39.104  12.289  0.00  0.00           C
+ATOM   2401  CA  ASN A 308      17.476  41.914   8.640  0.00  0.00           C
+ATOM   2402  C   ASN A 308      16.683  42.885   9.508  0.00  0.00           C
+ATOM   2408  N   MET A 309      17.349  43.392  10.541  0.00  0.00           N
+ATOM   2409  CA  MET A 309      16.758  44.357  11.453  0.00  0.00           C
+ATOM   2410  C   MET A 309      17.108  45.727  10.891  0.00  0.00           C
+ATOM   2411  O   MET A 309      18.278  45.999  10.611  0.00  0.00           O
+ATOM   2412  CB  MET A 309      17.363  44.218  12.852  0.00  0.00           C
+ATOM   2413  CG  MET A 309      17.094  42.891  13.529  0.00  0.00           C
+ATOM   2417  CA  VAL A 310      16.323  47.916  10.163  0.00  0.00           C
+ATOM   2418  C   VAL A 310      17.145  48.723  11.166  0.00  0.00           C
+ATOM   2419  O   VAL A 310      18.065  49.450  10.788  0.00  0.00           O
+ATOM   2423  N   VAL A 311      16.788  48.606  12.441  0.00  0.00           N
+ATOM   2424  CA  VAL A 311      17.505  49.280  13.520  0.00  0.00           C
+ATOM   2425  C   VAL A 311      17.813  48.187  14.540  0.00  0.00           C
+ATOM   2426  O   VAL A 311      17.036  47.245  14.702  0.00  0.00           O
+ATOM   2430  N   SER A 312      18.946  48.301  15.217  0.00  0.00           N
+ATOM   2431  CA  SER A 312      19.349  47.297  16.193  0.00  0.00           C
+ATOM   2432  C   SER A 312      18.299  46.938  17.239  0.00  0.00           C
+ATOM   2433  O   SER A 312      18.021  45.762  17.452  0.00  0.00           O
+ATOM   2434  CB  SER A 312      20.655  47.714  16.865  0.00  0.00           C
+ATOM   2435  OG  SER A 312      21.695  47.789  15.905  0.00  0.00           O
+ATOM   2452  CD  ARG A 315      19.141  43.227  17.998  0.00  0.00           C
+ATOM   2455  NH1 ARG A 315      21.783  43.788  17.296  0.00  0.00           N

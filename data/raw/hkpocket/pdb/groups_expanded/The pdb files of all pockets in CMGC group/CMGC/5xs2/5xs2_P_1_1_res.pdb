@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  23.27  18.38 -20.67 with max radius 6.04
+ATOM    135  CG  ARG A  13      27.004  16.049 -19.044  0.00  0.00           C
+ATOM    136  CD  ARG A  13      26.279  14.920 -19.793  0.00  0.00           C
+ATOM    142  CA  GLU A  14      27.373  20.057 -17.230  0.00  0.00           C
+ATOM    143  C   GLU A  14      26.442  19.191 -16.411  0.00  0.00           C
+ATOM    144  O   GLU A  14      25.471  18.663 -16.928  0.00  0.00           O
+ATOM    145  CB  GLU A  14      26.695  21.344 -17.657  0.00  0.00           C
+ATOM    148  OE1 GLU A  14      26.316  23.471 -19.518  0.00  0.00           O
+ATOM    702  C   VAL A  84      19.369  20.445 -19.094  0.00  0.00           C
+ATOM    703  O   VAL A  84      20.381  20.432 -19.814  0.00  0.00           O
+ATOM    707  N   PHE A  85      19.283  19.765 -17.955  0.00  0.00           N
+ATOM    708  CA  PHE A  85      20.335  18.850 -17.577  0.00  0.00           C
+ATOM    709  C   PHE A  85      19.850  17.443 -17.741  0.00  0.00           C
+ATOM    711  CB  PHE A  85      20.766  19.069 -16.136  0.00  0.00           C
+ATOM    712  CG  PHE A  85      21.341  20.416 -15.883  0.00  0.00           C
+ATOM    713  CD1 PHE A  85      22.629  20.724 -16.286  0.00  0.00           C
+ATOM    718  N   LEU A  86      20.659  16.640 -18.425  0.00  0.00           N
+ATOM    719  CA  LEU A  86      20.325  15.236 -18.646  0.00  0.00           C
+ATOM    720  C   LEU A  86      21.316  14.377 -17.893  0.00  0.00           C
+ATOM    721  O   LEU A  86      22.521  14.427 -18.152  0.00  0.00           O
+ATOM    722  CB  LEU A  86      20.325  14.894 -20.140  0.00  0.00           C
+ATOM    723  CG  LEU A  86      19.332  15.723 -20.964  0.00  0.00           C
+ATOM    724  CD1 LEU A  86      19.586  15.501 -22.447  0.00  0.00           C

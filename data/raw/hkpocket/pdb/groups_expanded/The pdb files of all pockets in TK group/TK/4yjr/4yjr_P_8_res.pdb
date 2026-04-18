@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  17.05  36.89  27.19 with max radius 7.58
+ATOM      1  N   TYR A 364      15.141  42.458  26.646  0.00  0.00           N
+ATOM      2  CA  TYR A 364      16.114  43.087  25.759  0.00  0.00           C
+ATOM      5  CB  TYR A 364      15.585  43.156  24.331  0.00  0.00           C
+ATOM      6  CG  TYR A 364      15.356  41.776  23.756  0.00  0.00           C
+ATOM      7  CD1 TYR A 364      14.098  41.185  23.794  0.00  0.00           C
+ATOM      8  CD2 TYR A 364      16.423  41.000  23.314  0.00  0.00           C
+ATOM      9  CE1 TYR A 364      13.891  39.889  23.327  0.00  0.00           C
+ATOM     10  CE2 TYR A 364      16.231  39.702  22.845  0.00  0.00           C
+ATOM     11  CZ  TYR A 364      14.957  39.153  22.841  0.00  0.00           C
+ATOM     12  OH  TYR A 364      14.720  37.883  22.367  0.00  0.00           O
+ATOM    829  C   LEU A 418      21.153  31.120  24.681  0.00  0.00           C
+ATOM    830  O   LEU A 418      20.333  31.361  25.572  0.00  0.00           O
+ATOM    834  CD2 LEU A 418      19.724  34.173  21.905  0.00  0.00           C
+ATOM    873  C   ALA A 421      19.995  32.724  29.066  0.00  0.00           C
+ATOM    874  O   ALA A 421      19.461  33.087  30.120  0.00  0.00           O
+ATOM    875  CB  ALA A 421      20.908  34.369  27.413  0.00  0.00           C
+ATOM    881  N   ASN A 422      19.540  31.695  28.361  0.00  0.00           N
+ATOM    882  CA  ASN A 422      18.345  30.979  28.793  0.00  0.00           C
+ATOM    885  CB  ASN A 422      17.935  29.938  27.764  0.00  0.00           C
+ATOM    887  OD1 ASN A 422      15.672  29.525  28.371  0.00  0.00           O
+ATOM    932  CB  GLN A 425      17.042  34.386  32.231  0.00  0.00           C
+ATOM    933  CG  GLN A 425      16.187  33.344  31.554  0.00  0.00           C
+ATOM    934  CD  GLN A 425      15.509  33.919  30.321  0.00  0.00           C
+ATOM    935  OE1 GLN A 425      15.308  35.134  30.188  0.00  0.00           O
+ATOM    936  NE2 GLN A 425      15.117  33.060  29.395  0.00  0.00           N
+ATOM   1107  SD  MET A 435      21.150  36.691  30.240  0.00  0.00           S
+ATOM   1108  CE  MET A 435      19.836  36.317  30.949  0.00  0.00           C
+ATOM   1138  CA  GLY A 437      20.293  41.031  29.371  0.00  0.00           C
+ATOM   1139  C   GLY A 437      21.054  40.875  28.087  0.00  0.00           C
+ATOM   1144  N   ILE A 438      20.299  40.912  26.959  0.00  0.00           N
+ATOM   1145  CA  ILE A 438      20.821  40.845  25.611  0.00  0.00           C
+ATOM   1148  CB  ILE A 438      20.129  39.682  24.845  0.00  0.00           C
+ATOM   1149  CG1 ILE A 438      20.573  38.321  25.400  0.00  0.00           C
+ATOM   1150  CG2 ILE A 438      20.422  39.764  23.339  0.00  0.00           C
+ATOM   1151  CD1 ILE A 438      19.697  37.143  24.940  0.00  0.00           C

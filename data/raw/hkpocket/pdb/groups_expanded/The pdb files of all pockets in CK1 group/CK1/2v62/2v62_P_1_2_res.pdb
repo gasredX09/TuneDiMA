@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  23.81  24.43  31.38 with max radius 6.13
+ATOM   1105  C   GLY A 165      21.785  22.069  34.305  0.00  0.00           C
+ATOM   1106  O   GLY A 165      22.918  22.607  34.270  0.00  0.00           O
+ATOM   1107  N   ASP A 166      21.230  21.534  33.223  0.00  0.00           N
+ATOM   1108  CA  ASP A 166      21.972  21.475  31.989  0.00  0.00           C
+ATOM   1109  C   ASP A 166      21.088  21.517  30.738  0.00  0.00           C
+ATOM   1110  O   ASP A 166      21.338  20.807  29.783  0.00  0.00           O
+ATOM   1111  CB  ASP A 166      22.911  20.259  31.978  0.00  0.00           C
+ATOM   1112  CG  ASP A 166      24.032  20.390  30.956  0.00  0.00           C
+ATOM   1113  OD1 ASP A 166      24.402  21.505  30.510  0.00  0.00           O
+ATOM   1115  N   ILE A 167      20.125  22.428  30.722  0.00  0.00           N
+ATOM   1116  CA  ILE A 167      19.285  22.619  29.534  0.00  0.00           C
+ATOM   1117  C   ILE A 167      20.152  23.250  28.484  0.00  0.00           C
+ATOM   1118  O   ILE A 167      20.877  24.180  28.795  0.00  0.00           O
+ATOM   1123  N   LYS A 168      20.103  22.658  27.274  0.00  0.00           N
+ATOM   1124  CA  LYS A 168      20.821  23.084  26.062  0.00  0.00           C
+ATOM   1127  CB  LYS A 168      22.343  22.940  26.204  0.00  0.00           C
+ATOM   1128  CG  LYS A 168      22.828  21.579  26.510  0.00  0.00           C
+ATOM   1129  CD  LYS A 168      24.298  21.615  26.739  0.00  0.00           C
+ATOM   1287  CD1 LEU A 189      25.882  19.340  34.097  0.00  0.00           C
+ATOM   1480  CA  GLY A 212      27.486  22.953  34.158  0.00  0.00           C
+ATOM   1481  C   GLY A 212      28.140  23.275  32.836  0.00  0.00           C
+ATOM   1483  N   THR A 213      27.308  23.509  31.818  0.00  0.00           N
+ATOM   1484  CA  THR A 213      27.812  23.951  30.524  0.00  0.00           C
+ATOM   1485  C   THR A 213      28.041  25.460  30.614  0.00  0.00           C
+ATOM   1486  O   THR A 213      27.088  26.205  30.813  0.00  0.00           O
+ATOM   1487  CB  THR A 213      26.841  23.581  29.410  0.00  0.00           C
+ATOM   1488  OG1 THR A 213      26.685  22.152  29.432  0.00  0.00           O
+ATOM   1489  CG2 THR A 213      27.335  24.011  28.049  0.00  0.00           C
+ATOM   1507  N   PHE A 216      25.786  28.317  29.353  0.00  0.00           N
+ATOM   1508  CA  PHE A 216      24.421  28.403  29.823  0.00  0.00           C
+ATOM   1509  C   PHE A 216      24.215  28.287  31.317  0.00  0.00           C
+ATOM   1510  O   PHE A 216      23.104  28.526  31.775  0.00  0.00           O
+ATOM   1511  CB  PHE A 216      23.585  27.299  29.148  0.00  0.00           C
+ATOM   1512  CG  PHE A 216      23.710  27.306  27.656  0.00  0.00           C
+ATOM   1514  CD2 PHE A 216      24.265  26.243  26.995  0.00  0.00           C
+ATOM   1516  CE2 PHE A 216      24.412  26.256  25.633  0.00  0.00           C
+ATOM   1518  N   THR A 217      25.252  27.962  32.091  0.00  0.00           N
+ATOM   1519  CA  THR A 217      25.036  27.638  33.497  0.00  0.00           C
+ATOM   1520  C   THR A 217      24.540  28.825  34.348  0.00  0.00           C
+ATOM   1522  CB  THR A 217      26.259  26.947  34.083  0.00  0.00           C
+ATOM   1523  OG1 THR A 217      25.866  26.176  35.206  0.00  0.00           O
+ATOM   1525  N   SER A 218      23.823  28.568  35.427  0.00  0.00           N
+ATOM   1657  CB  ILE A 235      19.705  27.110  32.444  0.00  0.00           C
+ATOM   1658  CG1 ILE A 235      20.674  26.973  33.598  0.00  0.00           C
+ATOM   1659  CG2 ILE A 235      20.193  26.244  31.240  0.00  0.00           C
+ATOM   1660  CD1 ILE A 235      20.862  25.427  33.906  0.00  0.00           C

@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.93   5.54   3.09 with max radius 6.02
+ATOM    503  CA  GLN A  67      -2.149   5.944   6.506  0.00  0.00           C
+ATOM    504  C   GLN A  67      -1.445   4.617   6.791  0.00  0.00           C
+ATOM    505  O   GLN A  67      -0.868   4.050   5.863  0.00  0.00           O
+ATOM    506  CB  GLN A  67      -1.120   7.079   6.442  0.00  0.00           C
+ATOM    507  CG  GLN A  67      -0.432   7.433   7.775  0.00  0.00           C
+ATOM    516  CG  HIS A  68       1.422   3.734   8.746  0.00  0.00           C
+ATOM    517  ND1 HIS A  68       2.110   3.224   7.649  0.00  0.00           N
+ATOM    518  CD2 HIS A  68       1.959   4.927   9.091  0.00  0.00           C
+ATOM    519  CE1 HIS A  68       3.014   4.142   7.335  0.00  0.00           C
+ATOM    520  NE2 HIS A  68       2.963   5.191   8.177  0.00  0.00           N
+ATOM   1131  CG  ASP A 141       1.404   0.700   1.008  0.00  0.00           C
+ATOM   1133  OD2 ASP A 141       0.882   1.721   1.480  0.00  0.00           O
+ATOM   1150  CD2 TYR A 143       1.485   3.626  -1.859  0.00  0.00           C
+ATOM   1152  CE2 TYR A 143       0.442   4.013  -2.705  0.00  0.00           C
+ATOM   1169  CB  LYS A 145       3.951   2.451   3.478  0.00  0.00           C
+ATOM   1170  CG  LYS A 145       4.757   3.556   2.785  0.00  0.00           C
+ATOM   1171  CD  LYS A 145       5.532   4.408   3.783  0.00  0.00           C
+ATOM   1172  CE  LYS A 145       6.258   5.549   3.108  0.00  0.00           C
+ATOM   1189  CE  LYS A 147      -1.434   1.500   3.515  0.00  0.00           C
+ATOM   1190  NZ  LYS A 147      -2.011   2.845   3.558  0.00  0.00           N
+ATOM   2141  CE  LYS A 276       0.526  10.915   5.481  0.00  0.00           C

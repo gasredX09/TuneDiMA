@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -63.29  58.61  66.60 with max radius 6.02
+ATOM   5949  CB  VAL C 150     -66.052  54.510  65.000  0.00  0.00           C
+ATOM   5950  CG1 VAL C 150     -65.350  55.731  64.482  0.00  0.00           C
+ATOM   5951  CG2 VAL C 150     -67.149  54.922  65.972  0.00  0.00           C
+ATOM   6914  C   CYS C 278     -67.062  62.734  66.045  0.00  0.00           C
+ATOM   6915  O   CYS C 278     -66.607  61.581  66.096  0.00  0.00           O
+ATOM   6919  CA  GLY C 279     -65.283  63.549  67.450  0.00  0.00           C
+ATOM   6920  C   GLY C 279     -64.090  64.195  66.786  0.00  0.00           C
+ATOM   6929  N   PRO C 281     -60.717  63.480  66.496  0.00  0.00           N
+ATOM   6930  CA  PRO C 281     -59.886  62.735  65.536  0.00  0.00           C
+ATOM   6933  CB  PRO C 281     -59.850  61.322  66.124  0.00  0.00           C
+ATOM   6934  CG  PRO C 281     -59.979  61.524  67.576  0.00  0.00           C
+ATOM   6935  CD  PRO C 281     -60.860  62.737  67.768  0.00  0.00           C
+ATOM   6936  N   LEU C 282     -61.706  62.160  64.051  0.00  0.00           N
+ATOM   6937  CA  LEU C 282     -62.374  61.917  62.779  0.00  0.00           C
+ATOM   6940  CB  LEU C 282     -63.614  61.070  63.014  0.00  0.00           C
+ATOM   6941  CG  LEU C 282     -64.520  60.755  61.834  0.00  0.00           C
+ATOM   6943  CD2 LEU C 282     -65.728  59.990  62.351  0.00  0.00           C
+ATOM   7160  CD1 TRP C 308     -61.174  58.534  63.742  0.00  0.00           C
+ATOM   7162  NE1 TRP C 308     -62.216  57.703  63.389  0.00  0.00           N
+ATOM   7163  CE2 TRP C 308     -61.957  57.168  62.154  0.00  0.00           C
+ATOM   7196  CD  LYS C 311     -58.215  55.881  68.203  0.00  0.00           C
+ATOM   7197  CE  LYS C 311     -59.065  55.312  69.351  0.00  0.00           C
+ATOM   7198  NZ  LYS C 311     -59.779  56.337  70.172  0.00  0.00           N
+ATOM   7215  CD2 HIS C 313     -61.174  54.173  66.170  0.00  0.00           C
+ATOM   7216  CE1 HIS C 313     -60.079  54.249  64.273  0.00  0.00           C
+ATOM   7217  NE2 HIS C 313     -60.564  54.991  65.251  0.00  0.00           N

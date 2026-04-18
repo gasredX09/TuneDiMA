@@ -1,0 +1,58 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 52 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at 160.99  -0.08  33.95 with max radius 6.48
+ATOM    463  CA  LEU A 141     156.632   1.327  37.310  0.00  0.00           C
+ATOM    464  C   LEU A 141     158.074   0.849  37.159  0.00  0.00           C
+ATOM    465  O   LEU A 141     158.332  -0.185  36.556  0.00  0.00           O
+ATOM    466  CB  LEU A 141     156.318   2.429  36.290  0.00  0.00           C
+ATOM    467  CG  LEU A 141     156.187   2.095  34.805  0.00  0.00           C
+ATOM    468  CD1 LEU A 141     155.154   1.013  34.592  0.00  0.00           C
+ATOM    469  CD2 LEU A 141     155.811   3.356  34.027  0.00  0.00           C
+ATOM    470  N   VAL A 142     159.010   1.605  37.723  0.00  0.00           N
+ATOM    471  CA  VAL A 142     160.424   1.247  37.681  0.00  0.00           C
+ATOM    472  C   VAL A 142     160.633  -0.098  38.375  0.00  0.00           C
+ATOM    473  O   VAL A 142     161.341  -0.980  37.874  0.00  0.00           O
+ATOM    474  CB  VAL A 142     161.297   2.337  38.343  0.00  0.00           C
+ATOM    475  CG1 VAL A 142     162.707   1.829  38.566  0.00  0.00           C
+ATOM    476  CG2 VAL A 142     161.321   3.581  37.489  0.00  0.00           C
+ATOM    488  C   ALA A 144     158.751  -3.972  36.893  0.00  0.00           C
+ATOM    490  CB  ALA A 144     156.478  -3.132  37.461  0.00  0.00           C
+ATOM    491  N   ASP A 145     159.630  -3.067  36.465  0.00  0.00           N
+ATOM    492  CA  ASP A 145     160.639  -3.380  35.450  0.00  0.00           C
+ATOM    493  C   ASP A 145     160.036  -4.030  34.181  0.00  0.00           C
+ATOM    494  O   ASP A 145     160.412  -5.127  33.786  0.00  0.00           O
+ATOM    495  CB  ASP A 145     161.715  -4.284  36.058  0.00  0.00           C
+ATOM    496  CG  ASP A 145     162.921  -4.460  35.146  0.00  0.00           C
+ATOM    497  OD1 ASP A 145     163.282  -3.498  34.427  0.00  0.00           O
+ATOM    499  N   SER A 146     159.089  -3.345  33.553  0.00  0.00           N
+ATOM    500  CA  SER A 146     158.463  -3.858  32.341  0.00  0.00           C
+ATOM    501  C   SER A 146     159.446  -3.933  31.177  0.00  0.00           C
+ATOM    502  O   SER A 146     160.349  -3.113  31.073  0.00  0.00           O
+ATOM    503  CB  SER A 146     157.275  -2.982  31.955  0.00  0.00           C
+ATOM    504  OG  SER A 146     156.640  -3.489  30.801  0.00  0.00           O
+ATOM    527  N   VAL A 149     158.723  -0.615  28.936  0.00  0.00           N
+ATOM    528  CA  VAL A 149     159.052   0.755  29.331  0.00  0.00           C
+ATOM    529  C   VAL A 149     160.567   0.902  29.454  0.00  0.00           C
+ATOM    530  O   VAL A 149     161.226   0.023  30.004  0.00  0.00           O
+ATOM    531  CB  VAL A 149     158.375   1.137  30.663  0.00  0.00           C
+ATOM    532  CG1 VAL A 149     158.806   2.557  31.132  0.00  0.00           C
+ATOM    533  CG2 VAL A 149     156.872   1.000  30.545  0.00  0.00           C
+ATOM    535  CA  VAL A 150     162.531   2.299  29.033  0.00  0.00           C
+ATOM    536  C   VAL A 150     163.001   2.172  30.489  0.00  0.00           C
+ATOM    537  O   VAL A 150     162.292   2.530  31.434  0.00  0.00           O
+ATOM    541  N   LYS A 151     164.204   1.641  30.665  0.00  0.00           N
+ATOM    542  CA  LYS A 151     164.723   1.397  31.987  0.00  0.00           C
+ATOM    543  C   LYS A 151     165.328   2.682  32.535  0.00  0.00           C
+ATOM    545  CB  LYS A 151     165.736   0.256  31.980  0.00  0.00           C
+ATOM    546  CG  LYS A 151     166.049  -0.223  33.379  0.00  0.00           C
+ATOM    547  CD  LYS A 151     166.590  -1.632  33.434  0.00  0.00           C
+ATOM    548  CE  LYS A 151     166.774  -2.069  34.891  0.00  0.00           C
+ATOM    550  N   MET A 152     164.930   3.014  33.759  0.00  0.00           N
+ATOM    551  CA  MET A 152     165.327   4.253  34.399  0.00  0.00           C
+ATOM    553  O   MET A 152     165.797   3.067  36.408  0.00  0.00           O
+ATOM    554  CB  MET A 152     164.094   5.069  34.779  0.00  0.00           C
+ATOM    555  CG  MET A 152     163.189   5.334  33.567  0.00  0.00           C
+ATOM    557  CE  MET A 152     160.462   4.659  33.680  0.00  0.00           C

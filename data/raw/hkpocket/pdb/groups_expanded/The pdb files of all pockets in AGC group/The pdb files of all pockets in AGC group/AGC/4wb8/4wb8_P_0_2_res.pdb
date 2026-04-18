@@ -1,0 +1,46 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 40 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  46.79   7.18  10.63 with max radius 6.45
+ATOM    293  C   LEU A  49      45.814  12.734   7.969  0.00  0.00           C
+ATOM    294  O   LEU A  49      45.950  11.690   8.586  0.00  0.00           O
+ATOM    300  CA  GLY A  50      47.754  12.268   6.615  0.00  0.00           C
+ATOM    936  CA  GLY A 126      41.521   5.769   9.935  0.00  0.00           C
+ATOM    937  C   GLY A 126      42.175   4.836   8.922  0.00  0.00           C
+ATOM    939  N   GLU A 127      43.503   4.863   8.857  0.00  0.00           N
+ATOM    940  CA  GLU A 127      44.236   3.908   8.040  0.00  0.00           C
+ATOM    941  C   GLU A 127      44.171   2.507   8.655  0.00  0.00           C
+ATOM    942  O   GLU A 127      44.197   2.353   9.878  0.00  0.00           O
+ATOM    943  CB  GLU A 127      45.728   4.288   7.916  0.00  0.00           C
+ATOM    944  CG  GLU A 127      46.023   5.662   7.364  0.00  0.00           C
+ATOM    945  CD  GLU A 127      47.490   6.057   7.496  0.00  0.00           C
+ATOM    946  OE1 GLU A 127      48.285   5.253   8.082  0.00  0.00           O
+ATOM    947  OE2 GLU A 127      47.816   7.186   7.056  0.00  0.00           O
+ATOM    960  CB  PHE A 129      48.804   1.859   8.527  0.00  0.00           C
+ATOM    961  CG  PHE A 129      50.192   1.924   9.084  0.00  0.00           C
+ATOM    963  CD2 PHE A 129      50.475   2.707  10.213  0.00  0.00           C
+ATOM    967  N   SER A 130      47.196   2.056  11.124  0.00  0.00           N
+ATOM    968  CA  SER A 130      47.217   2.378  12.550  0.00  0.00           C
+ATOM    971  CB  SER A 130      46.558   3.745  12.783  0.00  0.00           C
+ATOM    972  OG  SER A 130      45.213   3.711  12.394  0.00  0.00           O
+ATOM   1354  CD2 LEU A 173      42.447   6.225   5.214  0.00  0.00           C
+ATOM   2616  C   ASN A 326      42.448   7.828  13.487  0.00  0.00           C
+ATOM   2617  O   ASN A 326      43.018   6.897  12.900  0.00  0.00           O
+ATOM   2622  N   PHE A 327      42.812   9.103  13.377  0.00  0.00           N
+ATOM   2623  CA  PHE A 327      44.033   9.509  12.662  0.00  0.00           C
+ATOM   2624  C   PHE A 327      45.063  10.135  13.587  0.00  0.00           C
+ATOM   2626  CB  PHE A 327      43.704  10.521  11.556  0.00  0.00           C
+ATOM   2627  CG  PHE A 327      42.863   9.963  10.452  0.00  0.00           C
+ATOM   2629  CD2 PHE A 327      43.457   9.450   9.305  0.00  0.00           C
+ATOM   2631  CE2 PHE A 327      42.671   8.941   8.266  0.00  0.00           C
+ATOM   2633  N   ASP A 328      46.334   9.868  13.310  0.00  0.00           N
+ATOM   2634  CA  ASP A 328      47.443  10.555  13.959  0.00  0.00           C
+ATOM   2637  CB  ASP A 328      48.792  10.050  13.427  0.00  0.00           C
+ATOM   2638  CG  ASP A 328      49.151   8.666  13.912  0.00  0.00           C
+ATOM   2639  OD1 ASP A 328      48.433   8.077  14.736  0.00  0.00           O
+ATOM   2640  OD2 ASP A 328      50.196   8.174  13.459  0.00  0.00           O
+ATOM   2657  CE1 TYR A 330      48.815  12.241  10.093  0.00  0.00           C
+ATOM   2659  CZ  TYR A 330      49.957  11.623   9.617  0.00  0.00           C
+ATOM   2660  OH  TYR A 330      49.969  10.270   9.346  0.00  0.00           O

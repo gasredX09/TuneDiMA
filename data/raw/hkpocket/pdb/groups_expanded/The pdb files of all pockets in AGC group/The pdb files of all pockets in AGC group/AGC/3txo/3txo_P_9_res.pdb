@@ -1,0 +1,57 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 51 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.48  25.00  -9.23 with max radius 6.82
+ATOM   1484  CE1 TYR A 545      19.702  18.683  -7.251  0.00  0.00           C
+ATOM   1485  CE2 TYR A 545      18.093  18.232  -8.983  0.00  0.00           C
+ATOM   1486  CZ  TYR A 545      19.235  18.877  -8.537  0.00  0.00           C
+ATOM   1487  OH  TYR A 545      19.946  19.705  -9.377  0.00  0.00           O
+ATOM   1529  ND1 HIS A 551      23.021  20.834  -6.525  0.00  0.00           N
+ATOM   1531  CE1 HIS A 551      22.847  20.635  -7.828  0.00  0.00           C
+ATOM   1536  O   ALA A 552      20.708  21.758  -5.273  0.00  0.00           O
+ATOM   1539  CA  PRO A 553      18.094  21.543  -6.034  0.00  0.00           C
+ATOM   1540  C   PRO A 553      17.924  23.098  -6.032  0.00  0.00           C
+ATOM   1541  O   PRO A 553      17.964  23.685  -7.039  0.00  0.00           O
+ATOM   1542  CB  PRO A 553      16.701  20.852  -6.145  0.00  0.00           C
+ATOM   1545  N   PHE A 554      17.715  23.729  -4.885  0.00  0.00           N
+ATOM   1546  CA  PHE A 554      17.630  25.202  -4.802  0.00  0.00           C
+ATOM   1547  C   PHE A 554      18.771  25.690  -3.930  0.00  0.00           C
+ATOM   1549  CB  PHE A 554      16.276  25.676  -4.252  0.00  0.00           C
+ATOM   1550  CG  PHE A 554      15.101  25.182  -5.068  0.00  0.00           C
+ATOM   1551  CD1 PHE A 554      14.750  25.815  -6.269  0.00  0.00           C
+ATOM   1553  CE1 PHE A 554      13.726  25.312  -7.052  0.00  0.00           C
+ATOM   1555  CZ  PHE A 554      13.007  24.168  -6.647  0.00  0.00           C
+ATOM   1556  N   GLU A 555      19.636  26.551  -4.478  0.00  0.00           N
+ATOM   1557  CA  GLU A 555      20.775  27.118  -3.691  0.00  0.00           C
+ATOM   1558  C   GLU A 555      20.956  28.605  -3.992  0.00  0.00           C
+ATOM   1559  O   GLU A 555      20.662  29.013  -5.066  0.00  0.00           O
+ATOM   1560  CB  GLU A 555      22.114  26.462  -4.059  0.00  0.00           C
+ATOM   1561  CG  GLU A 555      22.066  24.961  -4.274  0.00  0.00           C
+ATOM   1562  CD  GLU A 555      23.311  24.390  -4.935  0.00  0.00           C
+ATOM   1563  OE1 GLU A 555      23.496  24.595  -6.140  0.00  0.00           O
+ATOM   1644  CB  ALA A 565      15.848  29.884  -6.127  0.00  0.00           C
+ATOM   1670  CA  ASP A 569      12.802  28.704 -10.524  0.00  0.00           C
+ATOM   1671  C   ASP A 569      12.462  27.265 -10.824  0.00  0.00           C
+ATOM   1672  O   ASP A 569      11.971  26.584  -9.967  0.00  0.00           O
+ATOM   1673  CB  ASP A 569      14.264  28.703 -10.045  0.00  0.00           C
+ATOM   1674  CG  ASP A 569      14.870  30.144  -9.911  0.00  0.00           C
+ATOM   1676  OD2 ASP A 569      16.060  30.243  -9.502  0.00  0.00           O
+ATOM   1677  N   GLU A 570      12.795  26.807 -12.022  0.00  0.00           N
+ATOM   1678  CA  GLU A 570      12.668  25.425 -12.372  0.00  0.00           C
+ATOM   1679  C   GLU A 570      13.967  24.707 -11.924  0.00  0.00           C
+ATOM   1680  O   GLU A 570      15.068  25.283 -12.021  0.00  0.00           O
+ATOM   1686  N   VAL A 571      13.832  23.481 -11.394  0.00  0.00           N
+ATOM   1687  CA  VAL A 571      14.977  22.663 -11.033  0.00  0.00           C
+ATOM   1688  C   VAL A 571      15.688  22.268 -12.277  0.00  0.00           C
+ATOM   1690  CB  VAL A 571      14.520  21.403 -10.236  0.00  0.00           C
+ATOM   1691  CG1 VAL A 571      15.717  20.512  -9.887  0.00  0.00           C
+ATOM   1692  CG2 VAL A 571      13.852  21.903  -8.992  0.00  0.00           C
+ATOM   1693  N   VAL A 572      17.000  22.116 -12.200  0.00  0.00           N
+ATOM   1694  CA  VAL A 572      17.846  21.676 -13.303  0.00  0.00           C
+ATOM   1695  C   VAL A 572      18.338  20.300 -12.970  0.00  0.00           C
+ATOM   1696  O   VAL A 572      18.921  20.088 -11.927  0.00  0.00           O
+ATOM   1697  CB  VAL A 572      19.102  22.565 -13.393  0.00  0.00           C
+ATOM   1698  CG1 VAL A 572      20.108  21.989 -14.391  0.00  0.00           C
+ATOM   1699  CG2 VAL A 572      18.688  24.023 -13.739  0.00  0.00           C

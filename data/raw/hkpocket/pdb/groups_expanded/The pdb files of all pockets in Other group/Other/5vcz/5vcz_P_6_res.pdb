@@ -1,0 +1,61 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 55 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -8.26   5.09  17.74 with max radius 8.71
+ATOM   2411  C   LEU A 221      -3.260   6.233  12.906  0.00  0.00           C
+ATOM   2412  O   LEU A 221      -4.427   6.373  12.608  0.00  0.00           O
+ATOM   2429  CA  ALA A 222      -3.315   8.194  14.292  0.00  0.00           C
+ATOM   2430  C   ALA A 222      -3.824   9.086  13.158  0.00  0.00           C
+ATOM   2431  O   ALA A 222      -4.943   9.626  13.269  0.00  0.00           O
+ATOM   2432  CB  ALA A 222      -2.405   8.957  15.235  0.00  0.00           C
+ATOM   2475  CA  HIS A 225      -7.969   7.063  12.449  0.00  0.00           C
+ATOM   2476  C   HIS A 225      -8.661   8.352  12.784  0.00  0.00           C
+ATOM   2477  O   HIS A 225      -9.866   8.344  13.055  0.00  0.00           O
+ATOM   2478  CB  HIS A 225      -7.510   6.399  13.715  0.00  0.00           C
+ATOM   2479  CG  HIS A 225      -7.032   5.016  13.494  0.00  0.00           C
+ATOM   2480  ND1 HIS A 225      -6.423   4.283  14.477  0.00  0.00           N
+ATOM   2482  CE1 HIS A 225      -6.120   3.092  13.996  0.00  0.00           C
+ATOM   2491  N   SER A 226      -7.923   9.445  12.734  0.00  0.00           N
+ATOM   2492  CA  SER A 226      -8.546  10.728  13.087  0.00  0.00           C
+ATOM   2495  CB  SER A 226      -7.482  11.808  13.254  0.00  0.00           C
+ATOM   3358  N   THR A 285     -11.555   1.587  14.177  0.00  0.00           N
+ATOM   3359  CA  THR A 285     -10.130   1.907  14.165  0.00  0.00           C
+ATOM   3360  C   THR A 285      -9.336   1.021  15.135  0.00  0.00           C
+ATOM   3361  O   THR A 285      -8.155   0.751  14.899  0.00  0.00           O
+ATOM   3362  CB  THR A 285      -9.896   3.374  14.499  0.00  0.00           C
+ATOM   3363  OG1 THR A 285     -10.504   3.681  15.748  0.00  0.00           O
+ATOM   3364  CG2 THR A 285     -10.516   4.295  13.462  0.00  0.00           C
+ATOM   3372  N   ALA A 286      -9.972   0.580  16.227  0.00  0.00           N
+ATOM   3373  CA  ALA A 286      -9.305  -0.301  17.186  0.00  0.00           C
+ATOM   3374  C   ALA A 286      -8.683  -1.519  16.520  0.00  0.00           C
+ATOM   3375  O   ALA A 286      -7.698  -2.060  16.984  0.00  0.00           O
+ATOM   3376  CB  ALA A 286     -10.236  -0.735  18.297  0.00  0.00           C
+ATOM   3408  CB  VAL A 289      -4.776  -0.363  18.067  0.00  0.00           C
+ATOM   3410  CG2 VAL A 289      -4.991   1.095  17.663  0.00  0.00           C
+ATOM   4277  O   PRO A 344     -11.731  -0.794  21.812  0.00  0.00           O
+ATOM   4330  CA  ARG A 347      -8.006  -1.219  23.731  0.00  0.00           C
+ATOM   4331  C   ARG A 347      -7.552   0.243  23.600  0.00  0.00           C
+ATOM   4332  O   ARG A 347      -8.317   1.094  23.306  0.00  0.00           O
+ATOM   4333  CB  ARG A 347      -8.161  -1.889  22.375  0.00  0.00           C
+ATOM   4334  CG  ARG A 347      -6.854  -2.183  21.680  0.00  0.00           C
+ATOM   4353  N   ALA A 348      -6.260   0.491  23.777  0.00  0.00           N
+ATOM   4355  C   ALA A 348      -5.904   2.339  22.219  0.00  0.00           C
+ATOM   4356  O   ALA A 348      -5.799   1.541  21.292  0.00  0.00           O
+ATOM   4363  N   THR A 349      -6.088   3.642  22.060  0.00  0.00           N
+ATOM   4364  CA  THR A 349      -6.042   4.306  20.750  0.00  0.00           C
+ATOM   4365  C   THR A 349      -4.616   4.683  20.374  0.00  0.00           C
+ATOM   4367  CB  THR A 349      -6.883   5.554  20.741  0.00  0.00           C
+ATOM   4368  OG1 THR A 349      -6.280   6.522  21.596  0.00  0.00           O
+ATOM   4369  CG2 THR A 349      -8.295   5.305  21.259  0.00  0.00           C
+ATOM   4377  N   ALA A 350      -4.368   4.890  19.088  0.00  0.00           N
+ATOM   4378  CA  ALA A 350      -3.065   5.301  18.671  0.00  0.00           C
+ATOM   4379  C   ALA A 350      -2.661   6.611  19.303  0.00  0.00           C
+ATOM   4381  CB  ALA A 350      -3.026   5.412  17.155  0.00  0.00           C
+ATOM   4387  N   GLU A 351      -3.570   7.586  19.409  0.00  0.00           N
+ATOM   4388  CA  GLU A 351      -3.276   8.860  20.066  0.00  0.00           C
+ATOM   4391  CB  GLU A 351      -4.490   9.783  19.939  0.00  0.00           C
+ATOM   4392  CG  GLU A 351      -4.627  10.409  18.580  0.00  0.00           C
+ATOM   4393  CD  GLU A 351      -5.821  11.360  18.517  0.00  0.00           C
+ATOM   4395  OE2 GLU A 351      -6.467  11.461  17.451  0.00  0.00           O

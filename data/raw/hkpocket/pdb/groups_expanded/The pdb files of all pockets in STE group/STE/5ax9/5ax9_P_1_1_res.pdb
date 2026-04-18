@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -20.70 -46.19 -52.50 with max radius 6.02
+ATOM   1573  CG2 ILE A 224     -20.267 -45.621 -47.087  0.00  0.00           C
+ATOM   1574  CD1 ILE A 224     -18.709 -43.084 -47.822  0.00  0.00           C
+ATOM   1603  CD  GLU A 228     -23.902 -46.544 -48.260  0.00  0.00           C
+ATOM   1604  OE1 GLU A 228     -22.943 -47.130 -48.812  0.00  0.00           O
+ATOM   1605  OE2 GLU A 228     -24.396 -45.474 -48.693  0.00  0.00           O
+ATOM   1622  N   PRO A 232     -17.195 -48.324 -49.245  0.00  0.00           N
+ATOM   1623  CA  PRO A 232     -17.253 -48.396 -50.709  0.00  0.00           C
+ATOM   1626  CB  PRO A 232     -16.972 -46.953 -51.148  0.00  0.00           C
+ATOM   1627  CG  PRO A 232     -17.358 -46.115 -49.970  0.00  0.00           C
+ATOM   1628  CD  PRO A 232     -17.016 -46.941 -48.763  0.00  0.00           C
+ATOM   1774  CA  PRO A 251     -17.650 -41.799 -52.615  0.00  0.00           C
+ATOM   1777  CB  PRO A 251     -17.082 -42.835 -51.638  0.00  0.00           C
+ATOM   1778  CG  PRO A 251     -15.648 -42.943 -52.003  0.00  0.00           C
+ATOM   1780  N   ARG A 252     -19.999 -41.384 -52.161  0.00  0.00           N
+ATOM   1782  C   ARG A 252     -22.135 -41.797 -50.993  0.00  0.00           C
+ATOM   1783  O   ARG A 252     -22.092 -42.966 -51.386  0.00  0.00           O
+ATOM   1799  N   LYS A 254     -25.467 -43.655 -51.138  0.00  0.00           N
+ATOM   1800  CA  LYS A 254     -26.316 -43.927 -52.300  0.00  0.00           C
+ATOM   1803  CB  LYS A 254     -26.144 -45.365 -52.785  0.00  0.00           C
+ATOM   1804  CG  LYS A 254     -25.414 -46.268 -51.825  0.00  0.00           C
+ATOM   1805  CD  LYS A 254     -24.864 -47.488 -52.552  0.00  0.00           C
+ATOM   1806  CE  LYS A 254     -24.161 -48.429 -51.591  0.00  0.00           C
+ATOM   1807  NZ  LYS A 254     -23.527 -49.564 -52.314  0.00  0.00           N

@@ -1,0 +1,47 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 41 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -7.77  -7.38  29.69 with max radius 8.32
+ATOM    889  CD  LYS X 121      -4.147 -11.003  30.443  0.00  0.00           C
+ATOM    890  CE  LYS X 121      -5.366 -10.388  31.084  0.00  0.00           C
+ATOM    891  NZ  LYS X 121      -6.570 -11.181  30.734  0.00  0.00           N
+ATOM    895  O   LEU X 122      -1.920  -6.523  32.564  0.00  0.00           O
+ATOM    901  CA  THR X 123      -1.724  -5.583  35.111  0.00  0.00           C
+ATOM    902  C   THR X 123      -2.053  -4.209  34.552  0.00  0.00           C
+ATOM    907  N   ASP X 124      -3.259  -3.748  34.835  0.00  0.00           N
+ATOM    908  CA  ASP X 124      -3.673  -2.423  34.387  0.00  0.00           C
+ATOM    911  CB  ASP X 124      -5.135  -2.177  34.737  0.00  0.00           C
+ATOM   1558  CA  LEU X 217      -3.425  -5.533  28.213  0.00  0.00           C
+ATOM   1559  C   LEU X 217      -3.945  -6.944  28.009  0.00  0.00           C
+ATOM   1560  O   LEU X 217      -4.483  -7.541  28.957  0.00  0.00           O
+ATOM   1561  CB  LEU X 217      -4.530  -4.555  27.862  0.00  0.00           C
+ATOM   1562  CG  LEU X 217      -4.299  -3.152  28.427  0.00  0.00           C
+ATOM   1563  CD1 LEU X 217      -5.122  -2.128  27.693  0.00  0.00           C
+ATOM   1564  CD2 LEU X 217      -4.638  -3.121  29.915  0.00  0.00           C
+ATOM   1565  N   THR X 218      -3.802  -7.474  26.795  0.00  0.00           N
+ATOM   1566  CA  THR X 218      -4.399  -8.774  26.455  0.00  0.00           C
+ATOM   1569  CB  THR X 218      -5.066  -8.721  25.067  0.00  0.00           C
+ATOM   1571  CG2 THR X 218      -6.099  -7.594  24.929  0.00  0.00           C
+ATOM   1995  C   VAL X 273     -11.290  -6.936  23.376  0.00  0.00           C
+ATOM   1996  O   VAL X 273     -10.393  -7.774  23.477  0.00  0.00           O
+ATOM   2001  CA  PHE X 274     -10.774  -5.904  25.527  0.00  0.00           C
+ATOM   2002  C   PHE X 274     -11.669  -6.161  26.732  0.00  0.00           C
+ATOM   2003  O   PHE X 274     -11.816  -5.313  27.603  0.00  0.00           O
+ATOM   2004  CB  PHE X 274     -10.166  -4.500  25.574  0.00  0.00           C
+ATOM   2005  CG  PHE X 274      -9.333  -4.175  24.366  0.00  0.00           C
+ATOM   2006  CD1 PHE X 274      -8.078  -4.743  24.210  0.00  0.00           C
+ATOM   2011  N   ILE X 275     -12.269  -7.351  26.757  0.00  0.00           N
+ATOM   2012  CA  ILE X 275     -13.188  -7.751  27.825  0.00  0.00           C
+ATOM   2013  C   ILE X 275     -12.512  -7.680  29.191  0.00  0.00           C
+ATOM   2014  O   ILE X 275     -11.418  -8.194  29.364  0.00  0.00           O
+ATOM   2015  CB  ILE X 275     -13.718  -9.203  27.567  0.00  0.00           C
+ATOM   2020  CA  GLY X 276     -12.646  -6.960  31.511  0.00  0.00           C
+ATOM   2021  C   GLY X 276     -11.630  -5.848  31.755  0.00  0.00           C
+ATOM   2022  O   GLY X 276     -11.216  -5.642  32.891  0.00  0.00           O
+ATOM   2023  N   ALA X 277     -11.233  -5.124  30.709  0.00  0.00           N
+ATOM   2024  CA  ALA X 277     -10.259  -4.043  30.862  0.00  0.00           C
+ATOM   2025  C   ALA X 277     -10.884  -2.826  31.516  0.00  0.00           C
+ATOM   2027  CB  ALA X 277      -9.645  -3.654  29.495  0.00  0.00           C
+ATOM   2028  N   ASN X 278     -10.045  -2.048  32.189  0.00  0.00           N

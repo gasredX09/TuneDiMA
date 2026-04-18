@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  21.23 -13.81 -20.53 with max radius 6.53
+ATOM   1572  C   ILE A 228      19.288  -9.291 -16.948  0.00  0.00           C
+ATOM   1573  O   ILE A 228      19.051  -9.396 -18.151  0.00  0.00           O
+ATOM   1576  CG2 ILE A 228      22.116  -8.728 -17.586  0.00  0.00           C
+ATOM   1579  CA  PHE A 229      18.211 -11.423 -16.445  0.00  0.00           C
+ATOM   1585  CD2 PHE A 229      20.027 -13.927 -16.469  0.00  0.00           C
+ATOM   1587  CE2 PHE A 229      21.225 -14.644 -16.464  0.00  0.00           C
+ATOM   1588  CZ  PHE A 229      22.014 -14.673 -15.321  0.00  0.00           C
+ATOM   1821  C   GLY A 262      25.054  -8.513 -20.455  0.00  0.00           C
+ATOM   1823  N   VAL A 263      25.336  -9.161 -21.580  0.00  0.00           N
+ATOM   1824  CA  VAL A 263      26.189 -10.347 -21.566  0.00  0.00           C
+ATOM   1829  CG2 VAL A 263      25.009 -11.409 -23.513  0.00  0.00           C
+ATOM   1853  CD1 LEU A 266      23.790 -11.992 -17.723  0.00  0.00           C
+ATOM   2025  CA  TYR A 288      15.656 -16.786 -18.831  0.00  0.00           C
+ATOM   2026  C   TYR A 288      16.249 -18.109 -19.283  0.00  0.00           C
+ATOM   2027  O   TYR A 288      16.817 -18.865 -18.490  0.00  0.00           O
+ATOM   2028  CB  TYR A 288      16.768 -15.819 -18.439  0.00  0.00           C
+ATOM   2029  CG  TYR A 288      16.485 -14.422 -18.924  0.00  0.00           C
+ATOM   2031  CD2 TYR A 288      17.504 -13.605 -19.397  0.00  0.00           C
+ATOM   2033  CE2 TYR A 288      17.243 -12.306 -19.826  0.00  0.00           C
+ATOM   2038  C   THR A 289      18.072 -19.847 -21.241  0.00  0.00           C
+ATOM   2043  N   GLU A 290      18.844 -18.957 -21.860  0.00  0.00           N
+ATOM   2044  CA  GLU A 290      20.292 -19.144 -21.936  0.00  0.00           C
+ATOM   2045  C   GLU A 290      20.877 -19.537 -20.592  0.00  0.00           C
+ATOM   2046  O   GLU A 290      20.788 -18.789 -19.616  0.00  0.00           O
+ATOM   2047  CB  GLU A 290      20.987 -17.871 -22.429  0.00  0.00           C
+ATOM   2048  CG  GLU A 290      22.386 -18.089 -22.985  0.00  0.00           C
+ATOM   2049  CD  GLU A 290      22.575 -17.464 -24.360  0.00  0.00           C
+ATOM   2050  OE1 GLU A 290      23.344 -16.484 -24.468  0.00  0.00           O
+ATOM   2078  CD1 PHE A 293      25.816 -16.615 -18.901  0.00  0.00           C
+ATOM   2080  CE1 PHE A 293      25.694 -15.300 -19.353  0.00  0.00           C
+ATOM   2082  CZ  PHE A 293      26.831 -14.585 -19.722  0.00  0.00           C

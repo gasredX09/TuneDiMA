@@ -1,0 +1,59 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 53 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   1.82  28.87  44.03 with max radius 8.82
+ATOM   1094  C   MET A 754      -5.458  29.428  44.025  0.00  0.00           C
+ATOM   1095  O   MET A 754      -4.966  28.300  43.925  0.00  0.00           O
+ATOM   1100  N   ARG A 755      -5.286  30.206  45.097  0.00  0.00           N
+ATOM   1101  CA  ARG A 755      -4.542  29.727  46.269  0.00  0.00           C
+ATOM   1102  C   ARG A 755      -5.179  28.438  46.808  0.00  0.00           C
+ATOM   1103  O   ARG A 755      -4.505  27.455  47.092  0.00  0.00           O
+ATOM   1104  CB  ARG A 755      -4.506  30.799  47.366  0.00  0.00           C
+ATOM   1105  CG  ARG A 755      -3.618  30.440  48.547  0.00  0.00           C
+ATOM   1106  CD  ARG A 755      -4.140  31.022  49.846  0.00  0.00           C
+ATOM   1132  CA  ALA A 758      -3.200  25.031  44.339  0.00  0.00           C
+ATOM   1133  C   ALA A 758      -2.869  24.290  45.624  0.00  0.00           C
+ATOM   1135  CB  ALA A 758      -2.259  26.208  44.140  0.00  0.00           C
+ATOM   1136  N   THR A 759      -3.410  24.747  46.742  0.00  0.00           N
+ATOM   1137  CA  THR A 759      -3.155  24.059  48.008  0.00  0.00           C
+ATOM   1142  CG2 THR A 759      -2.537  26.142  49.243  0.00  0.00           C
+ATOM   1614  CA  THR A 822       0.758  26.140  39.644  0.00  0.00           C
+ATOM   1615  C   THR A 822       1.523  27.370  39.142  0.00  0.00           C
+ATOM   1616  O   THR A 822       0.940  28.432  38.965  0.00  0.00           O
+ATOM   1617  CB  THR A 822       0.837  25.968  41.173  0.00  0.00           C
+ATOM   1619  CG2 THR A 822       0.444  27.219  41.890  0.00  0.00           C
+ATOM   1620  N   ALA A 823       2.825  27.222  38.899  0.00  0.00           N
+ATOM   1621  CA  ALA A 823       3.612  28.320  38.335  0.00  0.00           C
+ATOM   1622  C   ALA A 823       3.076  28.783  36.963  0.00  0.00           C
+ATOM   1623  O   ALA A 823       3.102  29.977  36.648  0.00  0.00           O
+ATOM   1624  CB  ALA A 823       5.081  27.929  38.235  0.00  0.00           C
+ATOM   1643  CB  VAL A 826       1.704  32.058  38.927  0.00  0.00           C
+ATOM   1644  CG1 VAL A 826       2.341  33.426  39.062  0.00  0.00           C
+ATOM   1645  CG2 VAL A 826       1.283  31.501  40.283  0.00  0.00           C
+ATOM   2192  C   SER A 892       9.051  29.448  39.011  0.00  0.00           C
+ATOM   2193  O   SER A 892       8.182  30.063  39.605  0.00  0.00           O
+ATOM   2211  CA  ARG A 895       6.913  33.518  39.945  0.00  0.00           C
+ATOM   2212  C   ARG A 895       6.304  33.506  41.340  0.00  0.00           C
+ATOM   2213  O   ARG A 895       6.543  32.586  42.106  0.00  0.00           O
+ATOM   2214  CB  ARG A 895       6.080  32.701  38.962  0.00  0.00           C
+ATOM   2215  CG  ARG A 895       6.685  32.685  37.578  0.00  0.00           C
+ATOM   2216  CD  ARG A 895       5.905  31.818  36.612  0.00  0.00           C
+ATOM   2223  C   PRO A 896       3.934  33.604  43.264  0.00  0.00           C
+ATOM   2224  O   PRO A 896       3.122  33.364  42.371  0.00  0.00           O
+ATOM   2228  N   PRO A 897       3.891  33.011  44.452  0.00  0.00           N
+ATOM   2229  CA  PRO A 897       2.794  32.098  44.751  0.00  0.00           C
+ATOM   2230  C   PRO A 897       1.469  32.842  44.889  0.00  0.00           C
+ATOM   2232  CB  PRO A 897       3.181  31.493  46.092  0.00  0.00           C
+ATOM   2235  N   PHE A 898       0.380  32.114  44.800  0.00  0.00           N
+ATOM   2236  CA  PHE A 898      -0.922  32.761  44.903  0.00  0.00           C
+ATOM   2237  C   PHE A 898      -1.170  33.409  46.262  0.00  0.00           C
+ATOM   2239  CB  PHE A 898      -2.031  31.776  44.530  0.00  0.00           C
+ATOM   2240  CG  PHE A 898      -2.167  31.596  43.038  0.00  0.00           C
+ATOM   2242  CD2 PHE A 898      -1.849  30.396  42.437  0.00  0.00           C
+ATOM   2244  CE2 PHE A 898      -1.951  30.234  41.067  0.00  0.00           C
+ATOM   2246  N   SER A 899      -0.582  32.848  47.325  0.00  0.00           N
+ATOM   2247  CA  SER A 899      -0.644  33.469  48.659  0.00  0.00           C
+ATOM   2250  CB  SER A 899       0.115  32.637  49.680  0.00  0.00           C
+ATOM   2251  OG  SER A 899       1.433  32.368  49.232  0.00  0.00           O

@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   1.45 -19.00  19.71 with max radius 6.90
+ATOM   3619  CG  MET A 303       5.854 -16.017  18.313  0.00  0.00           C
+ATOM   3620  SD  MET A 303       5.001 -15.626  19.881  0.00  0.00           S
+ATOM   3621  CE  MET A 303       3.796 -14.638  19.094  0.00  0.00           C
+ATOM   3634  O   GLU A 304       3.885 -17.431  15.404  0.00  0.00           O
+ATOM   3647  CA  LEU A 305       1.860 -16.019  14.191  0.00  0.00           C
+ATOM   3669  CB  PRO A 306      -1.328 -19.441  15.022  0.00  0.00           C
+ATOM   3670  CG  PRO A 306      -1.247 -18.432  16.023  0.00  0.00           C
+ATOM   3671  CD  PRO A 306       0.031 -17.655  15.762  0.00  0.00           C
+ATOM   3743  CA  GLY A 311      -2.784 -20.399  19.373  0.00  0.00           C
+ATOM   3744  C   GLY A 311      -3.353 -19.082  18.907  0.00  0.00           C
+ATOM   3745  O   GLY A 311      -3.070 -18.041  19.471  0.00  0.00           O
+ATOM   3794  CB  GLN A 314      -3.768 -18.496  23.148  0.00  0.00           C
+ATOM   3795  CG  GLN A 314      -4.235 -19.862  23.648  0.00  0.00           C
+ATOM   3796  CD  GLN A 314      -3.124 -20.857  23.746  0.00  0.00           C
+ATOM   3797  OE1 GLN A 314      -2.181 -20.850  22.978  0.00  0.00           O
+ATOM   3812  CG  LEU A 315      -1.245 -15.102  19.865  0.00  0.00           C
+ATOM   3813  CD1 LEU A 315      -0.688 -14.971  18.490  0.00  0.00           C
+ATOM   3814  CD2 LEU A 315      -0.251 -14.614  20.855  0.00  0.00           C
+ATOM   3881  CD2 TYR A 319      -0.384 -17.859  25.021  0.00  0.00           C
+ATOM   3883  CE2 TYR A 319       0.497 -18.855  25.369  0.00  0.00           C
+ATOM   3918  CB  PRO A 321       3.938 -17.453  23.581  0.00  0.00           C
+ATOM   3919  CG  PRO A 321       2.830 -16.831  22.836  0.00  0.00           C
+ATOM   3920  CD  PRO A 321       2.585 -15.490  23.440  0.00  0.00           C
+ATOM   3964  CD2 PHE A 324       7.229 -18.335  20.967  0.00  0.00           C
+ATOM   3966  CE2 PHE A 324       7.379 -19.378  20.014  0.00  0.00           C
+ATOM   3967  CZ  PHE A 324       8.312 -19.224  19.000  0.00  0.00           C

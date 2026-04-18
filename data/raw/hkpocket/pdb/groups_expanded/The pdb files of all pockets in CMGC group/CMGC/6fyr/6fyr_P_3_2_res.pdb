@@ -1,0 +1,55 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 49 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -12.29   7.84  14.92 with max radius 7.26
+ATOM   1347  CG  PRO A 286     -10.368  10.853  21.236  0.00  0.00           C
+ATOM   1779  CA  HIS A 339     -13.450   3.626  16.853  0.00  0.00           C
+ATOM   1780  C   HIS A 339     -11.992   3.723  16.450  0.00  0.00           C
+ATOM   1781  O   HIS A 339     -11.684   4.211  15.366  0.00  0.00           O
+ATOM   1782  CB  HIS A 339     -13.962   4.960  17.384  0.00  0.00           C
+ATOM   1783  CG  HIS A 339     -15.366   4.876  17.881  0.00  0.00           C
+ATOM   1785  CD2 HIS A 339     -16.525   4.731  17.201  0.00  0.00           C
+ATOM   1793  CG  TYR A 340      -9.942   5.188  18.880  0.00  0.00           C
+ATOM   1794  CD1 TYR A 340      -9.842   6.413  18.219  0.00  0.00           C
+ATOM   1795  CD2 TYR A 340     -10.928   5.035  19.847  0.00  0.00           C
+ATOM   1796  CE1 TYR A 340     -10.682   7.473  18.537  0.00  0.00           C
+ATOM   1797  CE2 TYR A 340     -11.786   6.086  20.165  0.00  0.00           C
+ATOM   1798  CZ  TYR A 340     -11.660   7.296  19.501  0.00  0.00           C
+ATOM   1799  OH  TYR A 340     -12.505   8.328  19.824  0.00  0.00           O
+ATOM   1967  CA  CYS A 362      -8.218   8.128  14.118  0.00  0.00           C
+ATOM   1968  C   CYS A 362      -8.422   9.275  15.109  0.00  0.00           C
+ATOM   1969  O   CYS A 362      -9.370  10.044  14.988  0.00  0.00           O
+ATOM   1970  CB  CYS A 362      -8.816   6.842  14.691  0.00  0.00           C
+ATOM   1971  SG  CYS A 362      -8.897   5.471  13.538  0.00  0.00           S
+ATOM   1992  CB  PHE A 365      -9.741  11.862  11.857  0.00  0.00           C
+ATOM   1993  CG  PHE A 365     -10.982  12.169  11.063  0.00  0.00           C
+ATOM   1994  CD1 PHE A 365     -12.236  12.155  11.673  0.00  0.00           C
+ATOM   1996  CE1 PHE A 365     -13.390  12.454  10.948  0.00  0.00           C
+ATOM   1999  N   GLU A 366     -10.431  13.018  14.652  0.00  0.00           N
+ATOM   2000  CA  GLU A 366     -11.437  13.432  15.617  0.00  0.00           C
+ATOM   2003  CB  GLU A 366     -11.610  12.334  16.663  0.00  0.00           C
+ATOM   2004  CG  GLU A 366     -12.793  12.511  17.583  0.00  0.00           C
+ATOM   2005  CD  GLU A 366     -13.044  11.274  18.415  0.00  0.00           C
+ATOM   2006  OE1 GLU A 366     -12.464  10.210  18.109  0.00  0.00           O
+ATOM   2050  O   PHE A 371     -14.554  12.730  14.426  0.00  0.00           O
+ATOM   2059  CA  THR A 372     -15.208  10.108  15.082  0.00  0.00           C
+ATOM   2060  C   THR A 372     -15.127   9.813  13.593  0.00  0.00           C
+ATOM   2062  CB  THR A 372     -15.760   8.834  15.761  0.00  0.00           C
+ATOM   2063  OG1 THR A 372     -17.100   8.603  15.312  0.00  0.00           O
+ATOM   2064  CG2 THR A 372     -15.721   8.944  17.279  0.00  0.00           C
+ATOM   2065  N   LEU A 373     -13.989   9.280  13.167  0.00  0.00           N
+ATOM   2066  CA  LEU A 373     -13.835   8.829  11.791  0.00  0.00           C
+ATOM   2067  C   LEU A 373     -14.732   7.627  11.489  0.00  0.00           C
+ATOM   2069  CB  LEU A 373     -12.367   8.501  11.491  0.00  0.00           C
+ATOM   2070  CG  LEU A 373     -12.010   8.091  10.061  0.00  0.00           C
+ATOM   2072  CD2 LEU A 373     -10.518   7.923   9.958  0.00  0.00           C
+ATOM   2073  N   PHE A 374     -14.789   6.678  12.423  0.00  0.00           N
+ATOM   2074  CA  PHE A 374     -15.554   5.452  12.245  0.00  0.00           C
+ATOM   2075  C   PHE A 374     -16.644   5.342  13.294  0.00  0.00           C
+ATOM   2076  O   PHE A 374     -16.425   4.764  14.356  0.00  0.00           O
+ATOM   2077  CB  PHE A 374     -14.628   4.230  12.304  0.00  0.00           C
+ATOM   2078  CG  PHE A 374     -13.588   4.219  11.223  0.00  0.00           C
+ATOM   2080  CD2 PHE A 374     -12.246   4.443  11.524  0.00  0.00           C
+ATOM   2082  CE2 PHE A 374     -11.277   4.448  10.520  0.00  0.00           C

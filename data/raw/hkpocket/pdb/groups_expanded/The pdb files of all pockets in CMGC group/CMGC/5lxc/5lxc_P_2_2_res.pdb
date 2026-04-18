@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  67.86  20.75  24.26 with max radius 6.72
+ATOM   2233  C   PRO A 350      64.270  23.057  25.017  0.00  0.00           C
+ATOM   2234  O   PRO A 350      65.360  22.589  25.056  0.00  0.00           O
+ATOM   2235  CB  PRO A 350      64.559  23.017  22.553  0.00  0.00           C
+ATOM   2236  CG  PRO A 350      65.496  24.169  22.391  0.00  0.00           C
+ATOM   2237  CD  PRO A 350      64.811  25.411  22.812  0.00  0.00           C
+ATOM   2239  CA  GLY A 351      63.997  22.817  27.417  0.00  0.00           C
+ATOM   2240  C   GLY A 351      63.846  21.333  27.668  0.00  0.00           C
+ATOM   2241  O   GLY A 351      62.984  20.712  27.051  0.00  0.00           O
+ATOM   2242  N   GLU A 352      64.670  20.820  28.612  0.00  0.00           N
+ATOM   2243  CA  GLU A 352      64.781  19.402  29.015  0.00  0.00           C
+ATOM   2246  CB  GLU A 352      66.252  19.061  29.329  0.00  0.00           C
+ATOM   2247  CG  GLU A 352      67.129  18.938  28.110  0.00  0.00           C
+ATOM   2248  CD  GLU A 352      68.626  18.982  28.422  0.00  0.00           C
+ATOM   2250  OE2 GLU A 352      69.359  19.682  27.651  0.00  0.00           O
+ATOM   2279  OD2 ASP A 356      67.044  22.788  29.125  0.00  0.00           O
+ATOM   2695  CB  ARG A 411      71.607  17.532  27.536  0.00  0.00           C
+ATOM   2696  CG  ARG A 411      72.201  17.468  26.138  0.00  0.00           C
+ATOM   2697  CD  ARG A 411      71.107  17.220  25.137  0.00  0.00           C
+ATOM   2698  NE  ARG A 411      70.247  16.136  25.660  0.00  0.00           N
+ATOM   2699  CZ  ARG A 411      69.026  15.830  25.231  0.00  0.00           C
+ATOM   2700  NH1 ARG A 411      68.485  16.494  24.206  0.00  0.00           N
+ATOM   2710  CB  LYS A 413      72.437  22.396  25.780  0.00  0.00           C
+ATOM   2711  CG  LYS A 413      71.908  23.606  25.090  0.00  0.00           C
+ATOM   2712  CD  LYS A 413      72.757  23.991  23.873  0.00  0.00           C
+ATOM   2713  CE  LYS A 413      72.586  25.470  23.488  0.00  0.00           C
+ATOM   2731  CZ  ARG A 415      68.896  24.705  26.795  0.00  0.00           C
+ATOM   2732  NH1 ARG A 415      69.235  25.172  25.591  0.00  0.00           N
+ATOM   2733  NH2 ARG A 415      68.270  23.539  26.919  0.00  0.00           N

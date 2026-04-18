@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  49.48  26.69  54.94 with max radius 5.99
+ATOM   1560  CA  PRO A 208      48.260  25.912  49.620  0.00  0.00           C
+ATOM   1561  C   PRO A 208      49.152  25.006  50.488  0.00  0.00           C
+ATOM   1562  O   PRO A 208      50.293  24.741  50.125  0.00  0.00           O
+ATOM   1563  CB  PRO A 208      48.393  27.389  49.990  0.00  0.00           C
+ATOM   1564  CG  PRO A 208      47.204  27.963  49.340  0.00  0.00           C
+ATOM   1565  CD  PRO A 208      46.103  26.975  49.704  0.00  0.00           C
+ATOM   1566  N   PRO A 209      48.648  24.519  51.633  0.00  0.00           N
+ATOM   1567  CA  PRO A 209      49.516  23.663  52.454  0.00  0.00           C
+ATOM   1568  C   PRO A 209      50.064  22.393  51.787  0.00  0.00           C
+ATOM   1569  O   PRO A 209      51.131  21.922  52.151  0.00  0.00           O
+ATOM   1570  CB  PRO A 209      48.639  23.357  53.665  0.00  0.00           C
+ATOM   1571  CG  PRO A 209      47.860  24.643  53.815  0.00  0.00           C
+ATOM   1572  CD  PRO A 209      47.433  24.897  52.386  0.00  0.00           C
+ATOM   1589  N   LEU A 212      53.368  23.334  50.436  0.00  0.00           N
+ATOM   1590  CA  LEU A 212      54.405  23.581  51.411  0.00  0.00           C
+ATOM   1593  CB  LEU A 212      53.919  24.561  52.487  0.00  0.00           C
+ATOM   1594  CG  LEU A 212      54.206  25.941  51.911  0.00  0.00           C
+ATOM   1595  CD1 LEU A 212      52.908  26.639  51.576  0.00  0.00           C
+ATOM   1596  CD2 LEU A 212      55.067  26.729  52.849  0.00  0.00           C
+ATOM   2303  C   PRO A 300      47.446  22.862  57.909  0.00  0.00           C
+ATOM   2304  O   PRO A 300      48.171  23.804  57.604  0.00  0.00           O
+ATOM   2309  CA  ALA A 301      46.136  24.274  59.386  0.00  0.00           C
+ATOM   2310  C   ALA A 301      47.273  24.751  60.279  0.00  0.00           C
+ATOM   2311  O   ALA A 301      47.424  25.945  60.524  0.00  0.00           O
+ATOM   2322  N   ARG A 303      50.555  23.763  59.638  0.00  0.00           N
+ATOM   2323  CA  ARG A 303      51.756  23.775  58.806  0.00  0.00           C
+ATOM   2324  C   ARG A 303      52.114  25.238  58.499  0.00  0.00           C
+ATOM   2325  O   ARG A 303      51.232  26.057  58.284  0.00  0.00           O
+ATOM   2326  CB  ARG A 303      51.456  23.011  57.513  0.00  0.00           C
+ATOM   2327  CG  ARG A 303      52.660  22.450  56.787  0.00  0.00           C
+ATOM   2328  CD  ARG A 303      52.177  21.588  55.647  0.00  0.00           C
+ATOM   2335  C   ILE A 304      53.523  27.289  56.747  0.00  0.00           C
+ATOM   2336  O   ILE A 304      53.529  26.407  55.888  0.00  0.00           O
+ATOM   2341  N   ASP A 305      53.244  28.565  56.469  0.00  0.00           N
+ATOM   2342  CA  ASP A 305      52.971  28.994  55.095  0.00  0.00           C
+ATOM   2345  CB  ASP A 305      51.745  29.928  54.995  0.00  0.00           C

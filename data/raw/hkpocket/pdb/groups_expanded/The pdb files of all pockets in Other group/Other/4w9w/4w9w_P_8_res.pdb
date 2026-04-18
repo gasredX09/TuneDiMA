@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   1.14 -49.95 -60.59 with max radius 6.07
+ATOM   1927  O   ASN A 289       6.343 -47.827 -57.911  0.00  0.00           O
+ATOM   1951  CA  CYS A 292       6.299 -47.915 -61.668  0.00  0.00           C
+ATOM   1952  C   CYS A 292       5.168 -46.936 -61.366  0.00  0.00           C
+ATOM   1953  O   CYS A 292       4.342 -46.694 -62.242  0.00  0.00           O
+ATOM   1954  CB  CYS A 292       5.866 -49.367 -61.358  0.00  0.00           C
+ATOM   1956  N   LEU A 293       5.104 -46.423 -60.116  0.00  0.00           N
+ATOM   1957  CA  LEU A 293       4.084 -45.419 -59.762  0.00  0.00           C
+ATOM   1958  C   LEU A 293       4.225 -44.151 -60.640  0.00  0.00           C
+ATOM   1960  CB  LEU A 293       4.228 -45.072 -58.253  0.00  0.00           C
+ATOM   1961  CG  LEU A 293       3.160 -44.133 -57.675  0.00  0.00           C
+ATOM   1962  CD1 LEU A 293       1.808 -44.689 -57.988  0.00  0.00           C
+ATOM   1963  CD2 LEU A 293       3.399 -44.094 -56.159  0.00  0.00           C
+ATOM   1987  CB  PHE A 296       1.198 -45.817 -62.712  0.00  0.00           C
+ATOM   1988  CG  PHE A 296      -0.247 -46.188 -62.514  0.00  0.00           C
+ATOM   1989  CD1 PHE A 296      -0.965 -46.853 -63.495  0.00  0.00           C
+ATOM   1990  CD2 PHE A 296      -0.850 -45.945 -61.275  0.00  0.00           C
+ATOM   1991  CE1 PHE A 296      -2.307 -47.243 -63.279  0.00  0.00           C
+ATOM   1992  CE2 PHE A 296      -2.208 -46.330 -61.031  0.00  0.00           C
+ATOM   1993  CZ  PHE A 296      -2.918 -47.014 -62.015  0.00  0.00           C
+ATOM   2140  CB  PHE A 314      -0.315 -47.845 -56.156  0.00  0.00           C
+ATOM   2141  CG  PHE A 314      -1.026 -48.959 -56.882  0.00  0.00           C
+ATOM   2142  CD1 PHE A 314      -0.644 -50.268 -56.728  0.00  0.00           C
+ATOM   2143  CD2 PHE A 314      -2.110 -48.673 -57.699  0.00  0.00           C
+ATOM   2144  CE1 PHE A 314      -1.297 -51.281 -57.375  0.00  0.00           C
+ATOM   2145  CE2 PHE A 314      -2.823 -49.702 -58.324  0.00  0.00           C
+ATOM   2146  CZ  PHE A 314      -2.414 -51.018 -58.155  0.00  0.00           C
+ATOM   2180  CE1 PHE A 318       3.104 -50.501 -54.784  0.00  0.00           C
+ATOM   2181  CE2 PHE A 318       3.697 -48.467 -55.968  0.00  0.00           C
+ATOM   2182  CZ  PHE A 318       3.248 -49.800 -55.982  0.00  0.00           C
+ATOM   2288  CB  PRO A 334      -3.952 -52.470 -62.732  0.00  0.00           C
+ATOM   2289  CG  PRO A 334      -3.703 -51.373 -61.780  0.00  0.00           C

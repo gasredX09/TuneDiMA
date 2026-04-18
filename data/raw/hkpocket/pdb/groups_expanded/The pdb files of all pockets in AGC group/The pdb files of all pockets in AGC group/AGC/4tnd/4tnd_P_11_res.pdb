@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   7.53 -27.74  39.53 with max radius 6.82
+ATOM   2207  CA  GLU A 286       9.215 -32.600  42.676  0.00  0.00           C
+ATOM   2208  C   GLU A 286      10.320 -32.473  41.608  0.00  0.00           C
+ATOM   2209  O   GLU A 286      10.136 -31.784  40.589  0.00  0.00           O
+ATOM   2210  CB  GLU A 286       9.439 -31.564  43.786  0.00  0.00           C
+ATOM   2211  CG  GLU A 286      10.288 -30.379  43.322  0.00  0.00           C
+ATOM   2212  CD  GLU A 286       9.927 -29.058  43.978  0.00  0.00           C
+ATOM   2214  OE2 GLU A 286       9.596 -28.104  43.235  0.00  0.00           O
+ATOM   2232  CA  LEU A 289       8.224 -34.002  37.839  0.00  0.00           C
+ATOM   2233  C   LEU A 289       8.764 -32.965  36.867  0.00  0.00           C
+ATOM   2235  CB  LEU A 289       7.346 -33.315  38.890  0.00  0.00           C
+ATOM   2236  CG  LEU A 289       5.935 -32.828  38.579  0.00  0.00           C
+ATOM   2237  CD1 LEU A 289       5.225 -32.548  39.897  0.00  0.00           C
+ATOM   2238  CD2 LEU A 289       5.938 -31.585  37.727  0.00  0.00           C
+ATOM   2239  N   PHE A 290       9.680 -32.145  37.370  0.00  0.00           N
+ATOM   2240  CA  PHE A 290      10.292 -31.090  36.577  0.00  0.00           C
+ATOM   2243  CB  PHE A 290      11.223 -30.234  37.451  0.00  0.00           C
+ATOM   2244  CG  PHE A 290      11.714 -28.988  36.769  0.00  0.00           C
+ATOM   2245  CD1 PHE A 290      11.001 -27.804  36.874  0.00  0.00           C
+ATOM   2247  CE1 PHE A 290      11.451 -26.649  36.243  0.00  0.00           C
+ATOM   3542  C   ASN A 450       1.546 -27.334  38.015  0.00  0.00           C
+ATOM   3543  O   ASN A 450       2.155 -26.309  38.335  0.00  0.00           O
+ATOM   3549  CA  MET A 451       2.739 -27.454  35.896  0.00  0.00           C
+ATOM   3552  CB  MET A 451       3.498 -28.654  35.325  0.00  0.00           C
+ATOM   3554  SD  MET A 451       5.906 -27.424  34.661  0.00  0.00           S
+ATOM   3555  CE  MET A 451       6.623 -28.510  35.899  0.00  0.00           C
+ATOM   3633  CB  LEU A 461       9.247 -23.063  35.861  0.00  0.00           C
+ATOM   3634  CG  LEU A 461       7.824 -22.749  35.364  0.00  0.00           C
+ATOM   3635  CD1 LEU A 461       7.009 -24.032  35.241  0.00  0.00           C
+ATOM   3636  CD2 LEU A 461       7.113 -21.755  36.280  0.00  0.00           C
+ATOM   3640  O   ASP A 462      12.410 -24.484  39.288  0.00  0.00           O
+ATOM   3657  CG  PRO A 464      13.186 -29.274  40.913  0.00  0.00           C
+ATOM   3658  CD  PRO A 464      13.380 -28.187  39.895  0.00  0.00           C

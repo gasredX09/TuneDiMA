@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -15.21  30.46  -1.43 with max radius 6.45
+ATOM   1113  CA  ALA A 767     -11.510  29.999  -4.617  0.00  0.00           C
+ATOM   1114  C   ALA A 767     -12.386  30.381  -5.811  0.00  0.00           C
+ATOM   1115  O   ALA A 767     -13.556  30.727  -5.643  0.00  0.00           O
+ATOM   1116  CB  ALA A 767     -10.700  31.198  -4.152  0.00  0.00           C
+ATOM   1137  CA  ALA A 770     -16.065  27.585  -5.280  0.00  0.00           C
+ATOM   1138  C   ALA A 770     -17.046  28.710  -5.620  0.00  0.00           C
+ATOM   1139  O   ALA A 770     -18.239  28.602  -5.332  0.00  0.00           O
+ATOM   1140  CB  ALA A 770     -15.472  27.806  -3.895  0.00  0.00           C
+ATOM   1141  N   SER A 771     -16.543  29.779  -6.235  0.00  0.00           N
+ATOM   1142  CA  SER A 771     -17.377  30.926  -6.604  0.00  0.00           C
+ATOM   1145  CB  SER A 771     -16.506  32.110  -7.040  0.00  0.00           C
+ATOM   1605  CG1 VAL A 834     -16.028  25.526  -1.081  0.00  0.00           C
+ATOM   1606  CG2 VAL A 834     -18.119  24.751  -2.220  0.00  0.00           C
+ATOM   2145  CA  THR A 902     -13.021  29.369   3.290  0.00  0.00           C
+ATOM   2148  CB  THR A 902     -13.961  30.582   3.129  0.00  0.00           C
+ATOM   2150  CG2 THR A 902     -15.172  30.449   4.042  0.00  0.00           C
+ATOM   2151  N   PHE A 903     -11.926  29.175   1.127  0.00  0.00           N
+ATOM   2152  CA  PHE A 903     -10.815  29.315   0.182  0.00  0.00           C
+ATOM   2153  C   PHE A 903     -10.397  30.776   0.006  0.00  0.00           C
+ATOM   2155  CB  PHE A 903     -11.158  28.686  -1.175  0.00  0.00           C
+ATOM   2158  CD2 PHE A 903     -12.059  26.337  -1.291  0.00  0.00           C
+ATOM   2162  N   GLN A 904     -11.355  31.694   0.132  0.00  0.00           N
+ATOM   2163  CA  GLN A 904     -11.068  33.128   0.084  0.00  0.00           C
+ATOM   2166  CB  GLN A 904     -12.374  33.933   0.044  0.00  0.00           C
+ATOM   2167  CG  GLN A 904     -12.200  35.454  -0.028  0.00  0.00           C

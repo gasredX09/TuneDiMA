@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at 176.90  -3.81  46.17 with max radius 7.10
+ATOM   4098  N   GLY A  26     181.029  -3.160  45.226  0.00  0.00           N
+ATOM   4099  CA  GLY A  26     181.220  -1.906  44.522  0.00  0.00           C
+ATOM   4102  N   ASN A  27     182.144  -0.691  46.400  0.00  0.00           N
+ATOM   4122  CB  ALA A  29     180.100  -1.054  51.875  0.00  0.00           C
+ATOM   4171  CA  ILE A  36     180.128  -7.095  49.806  0.00  0.00           C
+ATOM   4172  C   ILE A  36     178.623  -6.911  49.966  0.00  0.00           C
+ATOM   4173  O   ILE A  36     177.876  -6.948  48.985  0.00  0.00           O
+ATOM   4174  CB  ILE A  36     180.708  -6.092  48.802  0.00  0.00           C
+ATOM   4175  CG1 ILE A  36     182.175  -6.413  48.512  0.00  0.00           C
+ATOM   4176  CG2 ILE A  36     180.559  -4.668  49.323  0.00  0.00           C
+ATOM   4177  CD1 ILE A  36     182.430  -6.868  47.092  0.00  0.00           C
+ATOM   4179  CA  LEU A  37     176.759  -6.532  51.468  0.00  0.00           C
+ATOM   4180  C   LEU A  37     176.264  -5.237  50.835  0.00  0.00           C
+ATOM   4181  O   LEU A  37     177.010  -4.265  50.687  0.00  0.00           O
+ATOM   4186  N   GLY A  38     174.988  -5.231  50.458  0.00  0.00           N
+ATOM   4187  CA  GLY A  38     174.399  -4.092  49.798  0.00  0.00           C
+ATOM   4188  C   GLY A  38     173.003  -3.774  50.292  0.00  0.00           C
+ATOM   4190  N   PRO A  39     172.105  -3.439  49.365  0.00  0.00           N
+ATOM   4195  CG  PRO A  39     171.227  -2.392  47.491  0.00  0.00           C
+ATOM   4196  CD  PRO A  39     172.320  -3.323  47.914  0.00  0.00           C
+ATOM   4273  CA  LEU A  53     171.859  -8.063  47.830  0.00  0.00           C
+ATOM   4274  C   LEU A  53     173.356  -8.028  48.099  0.00  0.00           C
+ATOM   4275  O   LEU A  53     173.838  -7.220  48.899  0.00  0.00           O
+ATOM   4276  CB  LEU A  53     171.486  -7.016  46.780  0.00  0.00           C
+ATOM   4277  CG  LEU A  53     172.172  -7.114  45.416  0.00  0.00           C
+ATOM   4278  CD1 LEU A  53     171.575  -8.243  44.587  0.00  0.00           C
+ATOM   4279  CD2 LEU A  53     172.080  -5.787  44.676  0.00  0.00           C
+ATOM   4280  N   ALA A  54     174.094  -8.911  47.433  0.00  0.00           N
+ATOM   4281  CA  ALA A  54     175.529  -8.990  47.651  0.00  0.00           C
+ATOM   4282  C   ALA A  54     176.225  -9.347  46.349  0.00  0.00           C
+ATOM   4283  O   ALA A  54     175.627  -9.919  45.434  0.00  0.00           O
+ATOM   4285  N   ARG A  55     177.506  -8.995  46.282  0.00  0.00           N
+ATOM   4286  CA  ARG A  55     178.364  -9.319  45.152  0.00  0.00           C
+ATOM   4289  CB  ARG A  55     178.681  -8.072  44.317  0.00  0.00           C
+ATOM   4290  CG  ARG A  55     179.744  -8.283  43.249  0.00  0.00           C
+ATOM   4291  CD  ARG A  55     180.019  -7.001  42.475  0.00  0.00           C
+ATOM   4292  NE  ARG A  55     180.848  -6.065  43.230  0.00  0.00           N
+ATOM   4344  CB  PHE A  62     174.737  -9.763  42.033  0.00  0.00           C
+ATOM   4345  CG  PHE A  62     175.471  -8.495  41.710  0.00  0.00           C
+ATOM   4347  CD2 PHE A  62     175.586  -7.486  42.651  0.00  0.00           C
+ATOM   4349  CE2 PHE A  62     176.266  -6.320  42.356  0.00  0.00           C
+ATOM   4350  CZ  PHE A  62     176.843  -6.156  41.113  0.00  0.00           C
+ATOM   4856  CE1 HIS A 147     172.958  -6.568  40.503  0.00  0.00           C
+ATOM   4870  CB  PHE A 149     175.097  -3.278  40.767  0.00  0.00           C
+ATOM   4871  CG  PHE A 149     174.784  -2.342  41.891  0.00  0.00           C
+ATOM   4872  CD1 PHE A 149     175.583  -1.236  42.149  0.00  0.00           C
+ATOM   4873  CD2 PHE A 149     173.660  -2.546  42.663  0.00  0.00           C
+ATOM   4874  CE1 PHE A 149     175.267  -0.368  43.185  0.00  0.00           C
+ATOM   4875  CE2 PHE A 149     173.341  -1.689  43.689  0.00  0.00           C
+ATOM   4876  CZ  PHE A 149     174.144  -0.599  43.952  0.00  0.00           C

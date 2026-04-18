@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -0.43  31.93  -8.37 with max radius 5.92
+ATOM      8  CG  PRO A  74       4.724  30.430  -5.349  0.00  0.00           C
+ATOM      9  CD  PRO A  74       4.279  31.758  -4.782  0.00  0.00           C
+ATOM     19  C   ARG A  75       3.823  33.266 -10.501  0.00  0.00           C
+ATOM     20  O   ARG A  75       3.324  32.155 -10.285  0.00  0.00           O
+ATOM     27  N   LYS A  76       3.098  34.325 -10.876  0.00  0.00           N
+ATOM     28  CA  LYS A  76       1.669  34.193 -11.138  0.00  0.00           C
+ATOM     29  C   LYS A  76       1.463  33.272 -12.321  0.00  0.00           C
+ATOM     31  CB  LYS A  76       1.048  35.547 -11.464  0.00  0.00           C
+ATOM     34  N   LYS A  77       0.510  32.368 -12.183  0.00  0.00           N
+ATOM     35  CA  LYS A  77       0.297  31.385 -13.222  0.00  0.00           C
+ATOM     38  CB  LYS A  77      -0.294  30.131 -12.599  0.00  0.00           C
+ATOM     39  CG  LYS A  77       0.718  29.593 -11.555  0.00  0.00           C
+ATOM     40  CD  LYS A  77       0.340  28.273 -11.027  0.00  0.00           C
+ATOM     41  CE  LYS A  77       1.094  27.930  -9.735  0.00  0.00           C
+ATOM     42  NZ  LYS A  77       2.567  27.686  -9.848  0.00  0.00           N
+ATOM   1205  O   TYR A 146      -2.337  28.863  -4.703  0.00  0.00           O
+ATOM   1224  CA  PHE A 147      -3.799  29.915  -6.786  0.00  0.00           C
+ATOM   1225  C   PHE A 147      -5.046  30.368  -7.539  0.00  0.00           C
+ATOM   1227  CB  PHE A 147      -2.620  29.698  -7.746  0.00  0.00           C
+ATOM   1228  CG  PHE A 147      -2.757  28.492  -8.598  0.00  0.00           C
+ATOM   1229  CD1 PHE A 147      -3.511  28.540  -9.743  0.00  0.00           C
+ATOM   1230  CD2 PHE A 147      -2.084  27.319  -8.295  0.00  0.00           C
+ATOM   1243  N   THR A 148      -5.005  31.624  -7.989  0.00  0.00           N
+ATOM   1245  C   THR A 148      -5.329  32.955  -9.952  0.00  0.00           C
+ATOM   1246  O   THR A 148      -4.228  33.450  -9.727  0.00  0.00           O
+ATOM   1261  CB  PHE A 149      -4.207  33.420 -12.881  0.00  0.00           C
+ATOM   1262  CG  PHE A 149      -4.359  32.064 -13.518  0.00  0.00           C
+ATOM   1264  CD2 PHE A 149      -3.965  30.950 -12.821  0.00  0.00           C
+ATOM   1266  CE2 PHE A 149      -4.085  29.682 -13.382  0.00  0.00           C

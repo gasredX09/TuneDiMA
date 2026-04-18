@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  90.52 129.38 -18.08 with max radius 6.25
+ATOM   1454  C   PRO A 245      89.261 134.045 -14.190  0.00  0.00           C
+ATOM   1455  O   PRO A 245      90.484 134.000 -14.351  0.00  0.00           O
+ATOM   1460  CA  SER A 246      88.812 132.644 -16.133  0.00  0.00           C
+ATOM   1461  C   SER A 246      87.895 132.956 -17.304  0.00  0.00           C
+ATOM   1463  CB  SER A 246      88.803 131.142 -15.828  0.00  0.00           C
+ATOM   1464  OG  SER A 246      87.489 130.683 -15.566  0.00  0.00           O
+ATOM   1465  N   LEU A 247      88.174 132.323 -18.441  0.00  0.00           N
+ATOM   1466  CA  LEU A 247      87.399 132.515 -19.660  0.00  0.00           C
+ATOM   1467  C   LEU A 247      85.922 132.156 -19.474  0.00  0.00           C
+ATOM   1469  CB  LEU A 247      88.018 131.698 -20.800  0.00  0.00           C
+ATOM   1470  CG  LEU A 247      87.810 132.148 -22.250  0.00  0.00           C
+ATOM   1471  CD1 LEU A 247      88.311 133.570 -22.484  0.00  0.00           C
+ATOM   1472  CD2 LEU A 247      88.502 131.178 -23.197  0.00  0.00           C
+ATOM   1473  N   GLU A 248      85.645 131.305 -18.486  0.00  0.00           N
+ATOM   1477  CB  GLU A 248      84.343 129.371 -17.712  0.00  0.00           C
+ATOM   1478  CG  GLU A 248      84.938 128.394 -18.721  0.00  0.00           C
+ATOM   1479  CD  GLU A 248      85.591 127.196 -18.056  0.00  0.00           C
+ATOM   1480  OE1 GLU A 248      85.249 126.051 -18.425  0.00  0.00           O
+ATOM   1481  OE2 GLU A 248      86.444 127.401 -17.162  0.00  0.00           O
+ATOM   1547  NZ  LYS A 262      92.688 124.749 -19.842  0.00  0.00           N
+ATOM   1566  CA  ARG A 265      93.474 129.711 -21.123  0.00  0.00           C
+ATOM   1567  C   ARG A 265      94.626 129.748 -20.117  0.00  0.00           C
+ATOM   1568  O   ARG A 265      94.505 130.337 -19.040  0.00  0.00           O
+ATOM   1569  CB  ARG A 265      92.643 128.439 -20.929  0.00  0.00           C
+ATOM   1570  CG  ARG A 265      91.391 128.368 -21.794  0.00  0.00           C
+ATOM   1571  CD  ARG A 265      90.814 126.964 -21.805  0.00  0.00           C
+ATOM   1573  CZ  ARG A 265      88.560 126.836 -22.822  0.00  0.00           C
+ATOM   1574  NH1 ARG A 265      87.978 127.113 -21.661  0.00  0.00           N
+ATOM   1595  C   ILE A 268      95.222 133.886 -17.573  0.00  0.00           C
+ATOM   1597  CB  ILE A 268      93.547 133.866 -19.488  0.00  0.00           C
+ATOM   1598  CG1 ILE A 268      93.246 134.515 -20.844  0.00  0.00           C
+ATOM   1599  CG2 ILE A 268      92.560 134.355 -18.424  0.00  0.00           C
+ATOM   1600  CD1 ILE A 268      91.976 134.008 -21.513  0.00  0.00           C
+ATOM   1601  N   SER A 269      95.365 132.611 -17.210  0.00  0.00           N
+ATOM   1602  CA  SER A 269      95.542 132.213 -15.811  0.00  0.00           C
+ATOM   1605  CB  SER A 269      95.519 130.686 -15.661  0.00  0.00           C

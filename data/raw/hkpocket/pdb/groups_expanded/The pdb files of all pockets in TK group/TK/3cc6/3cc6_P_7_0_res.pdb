@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   5.76  -5.98  18.77 with max radius 6.60
+ATOM    454  CA  LYS A 470       4.515 -10.289  19.443  0.00  0.00           C
+ATOM    455  C   LYS A 470       4.943 -10.641  18.013  0.00  0.00           C
+ATOM    456  O   LYS A 470       5.172  -9.749  17.192  0.00  0.00           O
+ATOM    457  CB  LYS A 470       5.724 -10.209  20.370  0.00  0.00           C
+ATOM    458  CG  LYS A 470       5.403  -9.523  21.685  0.00  0.00           C
+ATOM    459  CD  LYS A 470       6.595  -9.486  22.624  0.00  0.00           C
+ATOM    460  CE  LYS A 470       6.261  -8.668  23.874  0.00  0.00           C
+ATOM    461  NZ  LYS A 470       7.470  -8.349  24.686  0.00  0.00           N
+ATOM    482  CA  SER A 473       2.227  -7.951  15.993  0.00  0.00           C
+ATOM    483  C   SER A 473       3.200  -7.380  14.968  0.00  0.00           C
+ATOM    484  O   SER A 473       2.884  -6.399  14.287  0.00  0.00           O
+ATOM    485  CB  SER A 473       2.596  -7.436  17.385  0.00  0.00           C
+ATOM    486  OG  SER A 473       1.588  -7.776  18.320  0.00  0.00           O
+ATOM    487  N   GLU A 474       4.385  -7.988  14.871  0.00  0.00           N
+ATOM    488  CA  GLU A 474       5.390  -7.563  13.886  0.00  0.00           C
+ATOM    491  CB  GLU A 474       6.731  -8.262  14.137  0.00  0.00           C
+ATOM    513  CG1 ILE A 477       3.422  -3.085  13.595  0.00  0.00           C
+ATOM    515  CD1 ILE A 477       4.417  -2.666  14.671  0.00  0.00           C
+ATOM   1321  C   ARG A 572      10.514  -5.516  21.614  0.00  0.00           C
+ATOM   1322  O   ARG A 572       9.395  -5.248  22.059  0.00  0.00           O
+ATOM   1324  CG  ARG A 572      10.422  -4.499  18.689  0.00  0.00           C
+ATOM   1325  CD  ARG A 572       9.242  -3.946  17.876  0.00  0.00           C
+ATOM   1327  CZ  ARG A 572       8.377  -1.782  17.035  0.00  0.00           C
+ATOM   1329  NH2 ARG A 572       7.194  -2.326  16.759  0.00  0.00           N
+ATOM   1336  CD1 TYR A 573       8.665  -8.038  18.913  0.00  0.00           C
+ATOM   1338  CE1 TYR A 573       8.301  -7.529  17.666  0.00  0.00           C
+ATOM   1340  CZ  TYR A 573       9.281  -7.320  16.702  0.00  0.00           C
+ATOM   1341  OH  TYR A 573       8.945  -6.814  15.468  0.00  0.00           O

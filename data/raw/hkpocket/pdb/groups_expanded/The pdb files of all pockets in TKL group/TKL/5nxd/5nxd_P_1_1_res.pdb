@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  10.84 -12.70  45.62 with max radius 5.68
+ATOM   1905  C   SER A 605      15.552 -13.484  46.216  0.00  0.00           C
+ATOM   1906  O   SER A 605      14.954 -12.527  46.731  0.00  0.00           O
+ATOM   1907  CB  SER A 605      16.223 -13.189  43.866  0.00  0.00           C
+ATOM   1909  N   LEU A 606      15.186 -14.739  46.397  0.00  0.00           N
+ATOM   1910  CA  LEU A 606      14.031 -15.042  47.291  0.00  0.00           C
+ATOM   1911  C   LEU A 606      14.321 -14.642  48.765  0.00  0.00           C
+ATOM   1912  O   LEU A 606      13.410 -14.244  49.491  0.00  0.00           O
+ATOM   1913  CB  LEU A 606      13.670 -16.547  47.253  0.00  0.00           C
+ATOM   1914  CG  LEU A 606      13.162 -17.061  45.911  0.00  0.00           C
+ATOM   1916  CD2 LEU A 606      11.825 -16.414  45.634  0.00  0.00           C
+ATOM   1937  N   GLY A 609      14.307 -10.636  48.806  0.00  0.00           N
+ATOM   1938  CA  GLY A 609      13.087  -9.978  48.369  0.00  0.00           C
+ATOM   1939  C   GLY A 609      12.065  -9.971  49.499  0.00  0.00           C
+ATOM   1941  N   GLU A 610      10.805  -9.749  49.121  0.00  0.00           N
+ATOM   1942  CA  GLU A 610       9.733  -9.464  50.093  0.00  0.00           C
+ATOM   1943  C   GLU A 610       9.404 -10.684  50.966  0.00  0.00           C
+ATOM   1945  CB  GLU A 610       8.466  -8.913  49.401  0.00  0.00           C
+ATOM   1946  CG  GLU A 610       7.801  -9.870  48.391  0.00  0.00           C
+ATOM   1950  N   LEU A 611       9.571 -11.905  50.447  0.00  0.00           N
+ATOM   1951  CA  LEU A 611       9.222 -13.085  51.201  0.00  0.00           C
+ATOM   1954  CB  LEU A 611       8.961 -14.262  50.256  0.00  0.00           C
+ATOM   1955  CG  LEU A 611       7.921 -14.056  49.126  0.00  0.00           C
+ATOM   1956  CD1 LEU A 611       7.779 -15.290  48.242  0.00  0.00           C
+ATOM   1957  CD2 LEU A 611       6.549 -13.660  49.682  0.00  0.00           C
+ATOM   1967  CG1 ILE A 613      11.172 -17.443  50.370  0.00  0.00           C

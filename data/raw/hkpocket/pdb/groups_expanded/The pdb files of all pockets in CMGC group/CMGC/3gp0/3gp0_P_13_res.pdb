@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  10.39  55.49 -13.59 with max radius 7.41
+ATOM   1830  CG2 THR A 241      13.326  58.459 -12.516  0.00  0.00           C
+ATOM   1833  C   PRO A 242      15.631  54.458 -11.985  0.00  0.00           C
+ATOM   1834  O   PRO A 242      14.580  54.803 -12.563  0.00  0.00           O
+ATOM   1836  CG  PRO A 242      14.367  55.473  -9.198  0.00  0.00           C
+ATOM   1840  C   SER A 243      14.478  51.826 -12.757  0.00  0.00           C
+ATOM   1841  O   SER A 243      14.318  51.849 -11.511  0.00  0.00           O
+ATOM   1844  N   PRO A 244      13.594  51.248 -13.613  0.00  0.00           N
+ATOM   1845  CA  PRO A 244      12.445  50.531 -13.046  0.00  0.00           C
+ATOM   1848  CB  PRO A 244      11.739  49.973 -14.285  0.00  0.00           C
+ATOM   1849  CG  PRO A 244      12.095  50.945 -15.366  0.00  0.00           C
+ATOM   1850  CD  PRO A 244      13.508  51.329 -15.086  0.00  0.00           C
+ATOM   1871  CB  LEU A 247      11.778  52.296  -9.266  0.00  0.00           C
+ATOM   1872  CG  LEU A 247      10.506  52.940  -8.705  0.00  0.00           C
+ATOM   1874  CD2 LEU A 247       9.678  53.617  -9.809  0.00  0.00           C
+ATOM   1956  C   ILE A 259       8.101  58.437 -10.275  0.00  0.00           C
+ATOM   1957  O   ILE A 259       8.628  59.266 -11.030  0.00  0.00           O
+ATOM   1960  CG2 ILE A 259      10.615  57.334  -9.272  0.00  0.00           C
+ATOM   1962  N   GLN A 260       7.287  57.473 -10.714  0.00  0.00           N
+ATOM   1963  CA  GLN A 260       6.983  57.319 -12.138  0.00  0.00           C
+ATOM   1964  C   GLN A 260       6.342  58.577 -12.742  0.00  0.00           C
+ATOM   1965  O   GLN A 260       6.495  58.837 -13.936  0.00  0.00           O
+ATOM   1966  CB  GLN A 260       6.090  56.098 -12.395  0.00  0.00           C
+ATOM   1967  CG  GLN A 260       6.677  54.792 -11.910  0.00  0.00           C
+ATOM   1968  CD  GLN A 260       5.640  53.696 -11.788  0.00  0.00           C
+ATOM   1970  NE2 GLN A 260       6.055  52.466 -12.061  0.00  0.00           N
+ATOM   1980  O   LEU A 262       8.775  61.628 -14.135  0.00  0.00           O
+ATOM   1997  CG  PRO A 264      11.803  60.586 -17.739  0.00  0.00           C
+ATOM   1998  CD  PRO A 264      11.025  61.826 -17.391  0.00  0.00           C

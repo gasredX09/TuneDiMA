@@ -1,0 +1,21 @@
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'pyg-lib'. Disabling its usage. Stacktrace: /lib64/libm.so.6: version `GLIBC_2.29' not found (required by /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/libpyg.so)
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-scatter'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_scatter/_scatter_cuda.so: undefined symbol: _ZN2at4_ops16div__Tensor_mode4callERNS_6TensorERKS2_St8optionalIN3c1017basic_string_viewIcEEE
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-spline-conv'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_spline_conv/_basis_cuda.so: undefined symbol: _ZN5torch8autograd12VariableInfoC1ERKN2at6TensorE
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-sparse'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_sparse/_spmm_cuda.so: undefined symbol: _ZN5torch8autograd12VariableInfoC1ERKN2at6TensorE
+  import torch_geometric.typing
+Traceback (most recent call last):
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/ocean/projects/cis260039p/mjaju/projects/train_model.py", line 270, in <module>
+    main()
+  File "/ocean/projects/cis260039p/mjaju/projects/train_model.py", line 124, in main
+    manifest_path = prepare_training_data_if_needed()
+  File "/ocean/projects/cis260039p/mjaju/projects/train_model.py", line 44, in prepare_training_data_if_needed
+    raise FileNotFoundError(f"Missing: {input_manifest}")
+FileNotFoundError: Missing: /ocean/projects/cis260039p/mjaju/data/processed/combined_structure_ligand_manifest_all.csv
+srun: error: v007: task 0: Exited with exit code 1

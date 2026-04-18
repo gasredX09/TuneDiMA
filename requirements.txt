@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+rdkit
+biopython
+torch
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+matplotlib
+networkx
+requests

@@ -1,0 +1,64 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 58 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -8.52  12.11  39.22 with max radius 11.71
+ATOM    940  O   THR A 687      -3.403  14.104  35.502  0.00  0.00           O
+ATOM    945  CA  THR A 688      -4.591  11.787  36.457  0.00  0.00           C
+ATOM    946  C   THR A 688      -3.365  11.796  37.391  0.00  0.00           C
+ATOM    947  O   THR A 688      -3.383  12.463  38.434  0.00  0.00           O
+ATOM    948  CB  THR A 688      -5.363  10.464  36.547  0.00  0.00           C
+ATOM    949  OG1 THR A 688      -6.643  10.666  35.942  0.00  0.00           O
+ATOM    950  CG2 THR A 688      -5.525   9.994  37.984  0.00  0.00           C
+ATOM    976  CB  LYS A 691      -4.519  15.962  38.521  0.00  0.00           C
+ATOM    977  CG  LYS A 691      -4.919  16.722  37.258  0.00  0.00           C
+ATOM    978  CD  LYS A 691      -6.390  16.554  36.957  0.00  0.00           C
+ATOM    979  CE  LYS A 691      -6.707  17.293  35.668  0.00  0.00           C
+ATOM    980  NZ  LYS A 691      -8.140  17.053  35.386  0.00  0.00           N
+ATOM    985  CB  PHE A 692      -2.431  12.305  41.701  0.00  0.00           C
+ATOM    986  CG  PHE A 692      -2.569  11.622  43.023  0.00  0.00           C
+ATOM    987  CD1 PHE A 692      -3.827  11.454  43.613  0.00  0.00           C
+ATOM    988  CD2 PHE A 692      -1.439  11.146  43.685  0.00  0.00           C
+ATOM    989  CE1 PHE A 692      -3.954  10.820  44.845  0.00  0.00           C
+ATOM    990  CE2 PHE A 692      -1.556  10.509  44.918  0.00  0.00           C
+ATOM    991  CZ  PHE A 692      -2.815  10.348  45.499  0.00  0.00           C
+ATOM   1734  CA  CYS A 787      -9.987  18.185  38.794  0.00  0.00           C
+ATOM   1735  C   CYS A 787     -10.640  18.748  37.547  0.00  0.00           C
+ATOM   1736  O   CYS A 787     -10.666  18.093  36.503  0.00  0.00           O
+ATOM   1737  CB  CYS A 787     -11.058  17.619  39.742  0.00  0.00           C
+ATOM   1738  SG  CYS A 787     -10.332  16.567  41.034  0.00  0.00           S
+ATOM   1739  N   TYR A 788     -11.143  19.969  37.657  0.00  0.00           N
+ATOM   1744  CG  TYR A 788     -14.189  20.378  37.444  0.00  0.00           C
+ATOM   1745  CD1 TYR A 788     -15.004  19.818  36.444  0.00  0.00           C
+ATOM   1746  CD2 TYR A 788     -14.412  19.989  38.768  0.00  0.00           C
+ATOM   1747  CE1 TYR A 788     -16.019  18.928  36.766  0.00  0.00           C
+ATOM   1748  CE2 TYR A 788     -15.428  19.078  39.098  0.00  0.00           C
+ATOM   1749  CZ  TYR A 788     -16.228  18.567  38.090  0.00  0.00           C
+ATOM   1750  OH  TYR A 788     -17.238  17.656  38.336  0.00  0.00           O
+ATOM   1970  CA  PRO A 815     -15.437  15.698  40.583  0.00  0.00           C
+ATOM   1971  C   PRO A 815     -15.574  14.213  40.262  0.00  0.00           C
+ATOM   1973  CB  PRO A 815     -14.000  15.948  41.045  0.00  0.00           C
+ATOM   1976  N   SER A 816     -15.177  13.826  39.047  0.00  0.00           N
+ATOM   1977  CA  SER A 816     -15.212  12.435  38.577  0.00  0.00           C
+ATOM   1978  C   SER A 816     -14.264  11.571  39.349  0.00  0.00           C
+ATOM   1980  CB  SER A 816     -14.750  12.375  37.127  0.00  0.00           C
+ATOM   1981  OG  SER A 816     -15.753  12.883  36.298  0.00  0.00           O
+ATOM   1982  N   CYS A 817     -13.109  12.162  39.646  0.00  0.00           N
+ATOM   1983  CA  CYS A 817     -12.037  11.484  40.310  0.00  0.00           C
+ATOM   1986  CB  CYS A 817     -10.754  12.309  40.248  0.00  0.00           C
+ATOM   1987  SG  CYS A 817      -9.404  11.495  41.135  0.00  0.00           S
+ATOM   2001  CB  GLU A 819      -8.552   9.312  44.669  0.00  0.00           C
+ATOM   2002  CG  GLU A 819      -8.412   7.791  44.566  0.00  0.00           C
+ATOM   2003  CD  GLU A 819      -9.371   7.117  43.582  0.00  0.00           C
+ATOM   2004  OE1 GLU A 819      -9.729   7.727  42.554  0.00  0.00           O
+ATOM   2005  OE2 GLU A 819      -9.726   5.953  43.843  0.00  0.00           O
+ATOM   2011  CG  LEU A 820      -7.692  14.069  43.327  0.00  0.00           C
+ATOM   2012  CD1 LEU A 820      -7.156  14.993  42.242  0.00  0.00           C
+ATOM   2013  CD2 LEU A 820      -6.679  13.996  44.482  0.00  0.00           C
+ATOM   2245  C   LEU A 848      -2.331   5.327  46.487  0.00  0.00           C
+ATOM   2246  O   LEU A 848      -2.666   4.667  45.508  0.00  0.00           O
+ATOM   2247  CB  LEU A 848      -4.021   7.027  47.147  0.00  0.00           C
+ATOM   2248  CG  LEU A 848      -5.429   7.219  47.699  0.00  0.00           C
+ATOM   2249  CD1 LEU A 848      -5.929   8.641  47.466  0.00  0.00           C
+ATOM   2250  CD2 LEU A 848      -6.370   6.177  47.102  0.00  0.00           C

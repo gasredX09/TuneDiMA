@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -8.44 -14.91 -14.67 with max radius 5.57
+ATOM   2901  CA  SER B  61     -11.269 -11.253 -17.100  0.00  0.00           C
+ATOM   2902  C   SER B  61     -12.205 -12.281 -17.716  0.00  0.00           C
+ATOM   2904  CB  SER B  61     -11.204 -11.512 -15.589  0.00  0.00           C
+ATOM   2906  N   PHE B  62     -11.682 -13.477 -17.954  0.00  0.00           N
+ATOM   2907  CA  PHE B  62     -12.532 -14.627 -18.201  0.00  0.00           C
+ATOM   2908  C   PHE B  62     -12.686 -15.375 -16.889  0.00  0.00           C
+ATOM   2909  O   PHE B  62     -11.796 -15.341 -16.045  0.00  0.00           O
+ATOM   2919  C   LEU B  63     -13.007 -17.964 -15.458  0.00  0.00           C
+ATOM   2925  N   PRO B  64     -12.340 -18.083 -14.296  0.00  0.00           N
+ATOM   2926  CA  PRO B  64     -11.210 -19.000 -14.181  0.00  0.00           C
+ATOM   2929  CB  PRO B  64     -10.354 -18.358 -13.084  0.00  0.00           C
+ATOM   2930  CG  PRO B  64     -11.344 -17.613 -12.218  0.00  0.00           C
+ATOM   2931  CD  PRO B  64     -12.605 -17.374 -13.030  0.00  0.00           C
+ATOM   3393  NZ  LYS B 123      -4.165 -12.945 -15.639  0.00  0.00           N
+ATOM   3481  CA  ARG B 134      -7.055 -13.814 -19.911  0.00  0.00           C
+ATOM   3482  C   ARG B 134      -7.520 -14.519 -18.649  0.00  0.00           C
+ATOM   3483  O   ARG B 134      -8.418 -14.036 -17.953  0.00  0.00           O
+ATOM   3491  N   ALA B 135      -6.926 -15.674 -18.384  0.00  0.00           N
+ATOM   3492  CA  ALA B 135      -7.284 -16.528 -17.262  0.00  0.00           C
+ATOM   3493  C   ALA B 135      -6.217 -17.588 -17.080  0.00  0.00           C
+ATOM   3495  CB  ALA B 135      -8.628 -17.185 -17.485  0.00  0.00           C
+ATOM   3496  N   THR B 136      -6.019 -17.976 -15.834  0.00  0.00           N
+ATOM   3497  CA  THR B 136      -5.123 -19.056 -15.522  0.00  0.00           C
+ATOM   3498  C   THR B 136      -5.677 -19.770 -14.297  0.00  0.00           C
+ATOM   3499  O   THR B 136      -5.979 -19.136 -13.275  0.00  0.00           O
+ATOM   3500  CB  THR B 136      -3.665 -18.563 -15.320  0.00  0.00           C
+ATOM   3502  CG2 THR B 136      -3.565 -17.555 -14.191  0.00  0.00           C

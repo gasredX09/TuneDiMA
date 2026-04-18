@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -1.64  -7.13  -9.15 with max radius 5.37
+ATOM   1452  N   ASP A 203      -2.763  -8.243 -15.338  0.00  0.00           N
+ATOM   1453  CA  ASP A 203      -1.860  -8.981 -14.469  0.00  0.00           C
+ATOM   1454  C   ASP A 203      -0.598  -9.418 -15.219  0.00  0.00           C
+ATOM   1455  O   ASP A 203       0.511  -9.366 -14.670  0.00  0.00           O
+ATOM   1456  CB  ASP A 203      -2.546 -10.187 -13.845  0.00  0.00           C
+ATOM   1457  CG  ASP A 203      -1.685 -10.855 -12.784  0.00  0.00           C
+ATOM   1458  OD1 ASP A 203      -1.050 -10.123 -11.981  0.00  0.00           O
+ATOM   1477  CB  HIS A 206       1.098  -6.172 -13.270  0.00  0.00           C
+ATOM   1478  CG  HIS A 206       0.114  -5.048 -13.372  0.00  0.00           C
+ATOM   1479  ND1 HIS A 206      -1.065  -5.029 -12.662  0.00  0.00           N
+ATOM   1481  CE1 HIS A 206      -1.740  -3.933 -12.961  0.00  0.00           C
+ATOM   1985  CB  ARG A 273       0.391  -2.078 -10.607  0.00  0.00           C
+ATOM   1986  CG  ARG A 273       0.212  -2.834  -9.333  0.00  0.00           C
+ATOM   1987  CD  ARG A 273       1.061  -4.093  -9.345  0.00  0.00           C
+ATOM   1990  NH1 ARG A 273       3.130  -6.018  -9.331  0.00  0.00           N
+ATOM   2021  CD1 TRP A 277      -4.678  -2.862  -9.354  0.00  0.00           C
+ATOM   2022  CD2 TRP A 277      -5.843  -3.950 -10.913  0.00  0.00           C
+ATOM   2023  NE1 TRP A 277      -3.955  -3.977  -9.709  0.00  0.00           N
+ATOM   2024  CE2 TRP A 277      -4.648  -4.659 -10.672  0.00  0.00           C
+ATOM   2026  CZ2 TRP A 277      -4.325  -5.834 -11.348  0.00  0.00           C
+ATOM   2028  CH2 TRP A 277      -5.224  -6.301 -12.272  0.00  0.00           C
+ATOM   2534  CA  GLY A 341      -5.790  -4.962  -5.726  0.00  0.00           C
+ATOM   2535  C   GLY A 341      -4.566  -4.399  -5.033  0.00  0.00           C
+ATOM   2536  O   GLY A 341      -3.448  -4.760  -5.390  0.00  0.00           O
+ATOM   2556  N   GLY A 344      -2.542  -7.420  -3.871  0.00  0.00           N
+ATOM   2557  CA  GLY A 344      -2.532  -8.533  -4.804  0.00  0.00           C
+ATOM   2558  C   GLY A 344      -3.712  -8.569  -5.753  0.00  0.00           C
+ATOM   2559  O   GLY A 344      -4.722  -7.896  -5.549  0.00  0.00           O
+ATOM   2560  N   VAL A 345      -3.552  -9.366  -6.805  0.00  0.00           N
+ATOM   2561  CA  VAL A 345      -4.607  -9.643  -7.777  0.00  0.00           C
+ATOM   2564  CB  VAL A 345      -3.995 -10.192  -9.104  0.00  0.00           C
+ATOM   2565  CG1 VAL A 345      -3.250 -11.502  -8.866  0.00  0.00           C
+ATOM   2566  CG2 VAL A 345      -5.064 -10.386 -10.158  0.00  0.00           C
+ATOM   2592  CD1 ILE A 348      -7.117  -6.826  -8.621  0.00  0.00           C

@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  27.01  40.97  46.77 with max radius 5.84
+ATOM    151  C   ALA A 156      25.411  44.524  45.745  0.00  0.00           C
+ATOM    152  O   ALA A 156      26.558  44.804  45.485  0.00  0.00           O
+ATOM    153  CB  ALA A 156      24.541  44.659  48.077  0.00  0.00           C
+ATOM    154  N   TYR A 157      24.821  43.508  45.199  0.00  0.00           N
+ATOM    155  CA  TYR A 157      25.533  42.701  44.154  0.00  0.00           C
+ATOM    156  C   TYR A 157      25.893  43.556  42.972  0.00  0.00           C
+ATOM    157  O   TYR A 157      27.018  43.507  42.494  0.00  0.00           O
+ATOM    158  CB  TYR A 157      24.599  41.573  43.715  0.00  0.00           C
+ATOM    159  CG  TYR A 157      25.305  40.508  42.926  0.00  0.00           C
+ATOM    161  CD2 TYR A 157      25.648  39.291  43.522  0.00  0.00           C
+ATOM    163  CE2 TYR A 157      26.257  38.285  42.801  0.00  0.00           C
+ATOM    188  CB  LEU A 160      30.338  44.100  44.045  0.00  0.00           C
+ATOM    189  CG  LEU A 160      31.606  43.229  43.969  0.00  0.00           C
+ATOM    191  CD2 LEU A 160      31.467  42.061  44.953  0.00  0.00           C
+ATOM    355  CA  GLY A 180      22.045  38.648  45.155  0.00  0.00           C
+ATOM    356  C   GLY A 180      23.139  38.760  46.205  0.00  0.00           C
+ATOM    357  O   GLY A 180      23.406  39.810  46.706  0.00  0.00           O
+ATOM    358  N   VAL A 181      23.750  37.630  46.522  0.00  0.00           N
+ATOM    359  CA  VAL A 181      24.873  37.587  47.395  0.00  0.00           C
+ATOM    360  C   VAL A 181      26.044  36.865  46.758  0.00  0.00           C
+ATOM    362  CB  VAL A 181      24.467  36.868  48.687  0.00  0.00           C
+ATOM    363  CG1 VAL A 181      25.661  36.868  49.589  0.00  0.00           C
+ATOM    364  CG2 VAL A 181      23.270  37.532  49.348  0.00  0.00           C
+ATOM    365  N   ILE A 182      27.161  37.509  46.570  0.00  0.00           N
+ATOM    366  CA  ILE A 182      28.290  36.882  45.898  0.00  0.00           C
+ATOM    369  CB  ILE A 182      29.392  37.912  45.614  0.00  0.00           C
+ATOM    370  CG1 ILE A 182      30.391  37.405  44.579  0.00  0.00           C
+ATOM    371  CG2 ILE A 182      30.083  38.266  46.861  0.00  0.00           C

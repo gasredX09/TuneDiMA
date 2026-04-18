@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  40.48   1.50  15.13 with max radius 6.33
+ATOM     57  CZ  ARG X  10      45.498   0.253  16.368  0.00  0.00           C
+ATOM     58  NH1 ARG X  10      45.528   1.576  16.197  0.00  0.00           N
+ATOM     59  NH2 ARG X  10      45.388  -0.537  15.303  0.00  0.00           N
+ATOM    111  CA  ILE X  17      40.083  -3.484  16.063  0.00  0.00           C
+ATOM    112  C   ILE X  17      39.222  -2.325  16.593  0.00  0.00           C
+ATOM    113  O   ILE X  17      38.983  -1.350  15.878  0.00  0.00           O
+ATOM    114  CB  ILE X  17      41.499  -2.993  15.681  0.00  0.00           C
+ATOM    115  CG1 ILE X  17      42.362  -4.179  15.226  0.00  0.00           C
+ATOM    116  CG2 ILE X  17      42.169  -2.276  16.863  0.00  0.00           C
+ATOM    117  CD1 ILE X  17      43.831  -3.868  15.090  0.00  0.00           C
+ATOM    119  CA  TRP X  18      38.092  -1.351  18.551  0.00  0.00           C
+ATOM    120  C   TRP X  18      39.161  -0.557  19.309  0.00  0.00           C
+ATOM    121  O   TRP X  18      40.035  -1.145  19.940  0.00  0.00           O
+ATOM    132  N   GLU X  19      39.115   0.774  19.236  0.00  0.00           N
+ATOM    133  CA  GLU X  19      40.002   1.633  20.009  0.00  0.00           C
+ATOM    136  CB  GLU X  19      41.013   2.375  19.107  0.00  0.00           C
+ATOM    137  CG  GLU X  19      42.070   3.184  19.854  0.00  0.00           C
+ATOM    139  OE1 GLU X  19      43.299   3.379  17.777  0.00  0.00           O
+ATOM    369  CE  LYS X  54      35.167  -0.177  14.216  0.00  0.00           C
+ATOM    370  NZ  LYS X  54      36.300   0.706  14.563  0.00  0.00           N
+ATOM    696  CB  PRO X  92      40.982   6.401  17.920  0.00  0.00           C
+ATOM    697  CG  PRO X  92      39.896   5.787  17.131  0.00  0.00           C
+ATOM    698  CD  PRO X  92      38.649   6.555  17.408  0.00  0.00           C
+ATOM    770  CB  ASP X 101      36.401   4.685  13.709  0.00  0.00           C
+ATOM    771  CG  ASP X 101      36.917   3.607  12.764  0.00  0.00           C
+ATOM    773  OD2 ASP X 101      37.994   3.035  12.968  0.00  0.00           O
+ATOM    789  CE1 TYR X 103      35.880   3.705  17.640  0.00  0.00           C
+ATOM    791  CZ  TYR X 103      35.863   2.339  17.834  0.00  0.00           C
+ATOM    792  OH  TYR X 103      36.892   1.571  17.316  0.00  0.00           O

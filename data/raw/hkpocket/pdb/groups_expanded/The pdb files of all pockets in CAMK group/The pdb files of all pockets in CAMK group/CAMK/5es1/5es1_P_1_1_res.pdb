@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -21.68  -9.33 -12.68 with max radius 6.87
+ATOM   1187  CB  GLU A 222     -23.034 -10.303 -17.036  0.00  0.00           C
+ATOM   1188  CG  GLU A 222     -23.910 -10.291 -15.790  0.00  0.00           C
+ATOM   1189  CD  GLU A 222     -24.595  -8.975 -15.474  0.00  0.00           C
+ATOM   1191  OE2 GLU A 222     -24.618  -8.603 -14.279  0.00  0.00           O
+ATOM   1223  C   LYS A 227     -19.306 -14.155 -16.611  0.00  0.00           C
+ATOM   1225  CB  LYS A 227     -19.753 -12.451 -18.486  0.00  0.00           C
+ATOM   1226  N   LYS A 228     -18.683 -13.169 -15.931  0.00  0.00           N
+ATOM   1227  CA  LYS A 228     -18.347 -13.167 -14.509  0.00  0.00           C
+ATOM   1228  C   LYS A 228     -19.539 -13.357 -13.574  0.00  0.00           C
+ATOM   1229  O   LYS A 228     -20.689 -13.138 -13.963  0.00  0.00           O
+ATOM   1230  CB  LYS A 228     -17.576 -11.887 -14.150  0.00  0.00           C
+ATOM   1231  N   TYR A 229     -19.241 -13.764 -12.330  0.00  0.00           N
+ATOM   1232  CA  TYR A 229     -20.205 -14.017 -11.262  0.00  0.00           C
+ATOM   1233  C   TYR A 229     -20.746 -12.710 -10.643  0.00  0.00           C
+ATOM   1234  O   TYR A 229     -21.675 -12.102 -11.183  0.00  0.00           O
+ATOM   1244  CA  ASP A 230     -20.436 -11.191  -8.602  0.00  0.00           C
+ATOM   1245  C   ASP A 230     -21.691 -11.576  -7.796  0.00  0.00           C
+ATOM   1247  CB  ASP A 230     -20.474  -9.785  -9.227  0.00  0.00           C
+ATOM   1248  CG  ASP A 230     -19.677  -8.769  -8.419  0.00  0.00           C
+ATOM   1250  OD2 ASP A 230     -19.022  -7.906  -9.036  0.00  0.00           O
+ATOM   1251  N   GLY A 231     -22.892 -11.115  -8.171  0.00  0.00           N
+ATOM   1252  CA  GLY A 231     -24.084 -11.553  -7.451  0.00  0.00           C
+ATOM   1263  CA  GLU A 233     -26.180  -6.966  -9.353  0.00  0.00           C
+ATOM   1264  C   GLU A 233     -27.098  -7.714 -10.325  0.00  0.00           C
+ATOM   1266  CB  GLU A 233     -24.846  -6.611 -10.049  0.00  0.00           C
+ATOM   1267  CG  GLU A 233     -24.023  -5.554  -9.318  0.00  0.00           C
+ATOM   1269  OE1 GLU A 233     -23.130  -7.166  -7.788  0.00  0.00           O
+ATOM   1271  N   VAL A 234     -27.085  -9.057 -10.299  0.00  0.00           N
+ATOM   1272  CA  VAL A 234     -27.913  -9.868 -11.197  0.00  0.00           C
+ATOM   1277  CG2 VAL A 234     -25.904 -11.152 -12.087  0.00  0.00           C
+ATOM   1724  CB  PRO A 292     -22.877  -5.788 -13.786  0.00  0.00           C
+ATOM   1725  CG  PRO A 292     -22.256  -6.134 -15.096  0.00  0.00           C

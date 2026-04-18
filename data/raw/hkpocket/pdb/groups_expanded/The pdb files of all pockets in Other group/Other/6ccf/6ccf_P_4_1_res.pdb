@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  45.22  74.67  57.54 with max radius 6.07
+ATOM    292  CA  LYS A 161      49.510  71.934  55.310  0.00  0.00           C
+ATOM    294  O   LYS A 161      49.325  73.241  53.300  0.00  0.00           O
+ATOM    295  CB  LYS A 161      50.033  72.856  56.419  0.00  0.00           C
+ATOM    296  CG  LYS A 161      49.317  72.725  57.758  0.00  0.00           C
+ATOM    297  CD  LYS A 161      50.178  73.307  58.871  0.00  0.00           C
+ATOM    298  CE  LYS A 161      49.536  73.200  60.242  0.00  0.00           C
+ATOM    317  CB  LEU A 164      45.797  72.183  52.816  0.00  0.00           C
+ATOM    318  N   GLU A 194      44.430  79.222  56.205  0.00  0.00           N
+ATOM    328  N   VAL A 196      40.937  77.190  55.620  0.00  0.00           N
+ATOM    329  CA  VAL A 196      40.773  75.800  56.073  0.00  0.00           C
+ATOM    330  C   VAL A 196      40.489  75.730  57.582  0.00  0.00           C
+ATOM    332  CB  VAL A 196      41.976  74.897  55.658  0.00  0.00           C
+ATOM    333  CG1 VAL A 196      41.886  73.507  56.289  0.00  0.00           C
+ATOM    334  CG2 VAL A 196      42.038  74.766  54.139  0.00  0.00           C
+ATOM    335  N   TYR A 197      41.177  76.551  58.379  0.00  0.00           N
+ATOM    336  CA  TYR A 197      40.919  76.632  59.831  0.00  0.00           C
+ATOM    339  CB  TYR A 197      41.839  77.669  60.489  0.00  0.00           C
+ATOM    506  OD2 ASP A 219      47.104  74.484  63.347  0.00  0.00           O
+ATOM    557  CG  LEU A 226      45.448  70.527  60.653  0.00  0.00           C
+ATOM    558  CD1 LEU A 226      45.946  71.596  61.620  0.00  0.00           C
+ATOM    559  CD2 LEU A 226      44.655  71.154  59.514  0.00  0.00           C

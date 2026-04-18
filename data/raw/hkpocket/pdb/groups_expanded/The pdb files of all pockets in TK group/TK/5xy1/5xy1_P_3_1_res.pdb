@@ -1,0 +1,50 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 44 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -9.19  35.72  -8.44 with max radius 6.26
+ATOM   1411  CD1 TRP A 427      -8.338  33.701 -14.304  0.00  0.00           C
+ATOM   1412  CD2 TRP A 427      -6.990  35.389 -13.733  0.00  0.00           C
+ATOM   1413  NE1 TRP A 427      -9.026  34.507 -13.438  0.00  0.00           N
+ATOM   1414  CE2 TRP A 427      -8.221  35.554 -13.073  0.00  0.00           C
+ATOM   1415  CE3 TRP A 427      -5.978  36.334 -13.529  0.00  0.00           C
+ATOM   1416  CZ2 TRP A 427      -8.469  36.622 -12.212  0.00  0.00           C
+ATOM   1417  CZ3 TRP A 427      -6.220  37.397 -12.673  0.00  0.00           C
+ATOM   1418  CH2 TRP A 427      -7.458  37.532 -12.024  0.00  0.00           C
+ATOM   1447  CD1 ILE A 431      -9.849  32.140 -10.421  0.00  0.00           C
+ATOM   1555  CE1 TYR A 444     -12.845  35.697  -7.758  0.00  0.00           C
+ATOM   1556  CE2 TYR A 444     -13.524  34.049  -9.354  0.00  0.00           C
+ATOM   1557  CZ  TYR A 444     -12.601  34.968  -8.906  0.00  0.00           C
+ATOM   1558  OH  TYR A 444     -11.438  35.155  -9.617  0.00  0.00           O
+ATOM   1641  CG  LEU A 456     -12.147  39.656 -11.295  0.00  0.00           C
+ATOM   1643  CD2 LEU A 456     -10.945  39.128 -10.527  0.00  0.00           C
+ATOM   1665  C   TYR A 460      -9.441  40.216  -6.290  0.00  0.00           C
+ATOM   1666  O   TYR A 460      -9.193  39.950  -7.461  0.00  0.00           O
+ATOM   1670  CD2 TYR A 460     -12.284  38.899  -5.257  0.00  0.00           C
+ATOM   1672  CE2 TYR A 460     -12.638  37.905  -4.355  0.00  0.00           C
+ATOM   1675  N   ARG A 461      -9.095  39.432  -5.272  0.00  0.00           N
+ATOM   1676  CA  ARG A 461      -8.548  38.089  -5.444  0.00  0.00           C
+ATOM   1677  C   ARG A 461      -9.069  37.235  -4.296  0.00  0.00           C
+ATOM   1679  CB  ARG A 461      -7.015  38.109  -5.429  0.00  0.00           C
+ATOM   1680  CG  ARG A 461      -6.356  38.876  -6.569  0.00  0.00           C
+ATOM   1681  CD  ARG A 461      -6.548  38.180  -7.909  0.00  0.00           C
+ATOM   1682  NE  ARG A 461      -5.788  38.817  -8.988  0.00  0.00           N
+ATOM   1683  CZ  ARG A 461      -6.156  39.922  -9.639  0.00  0.00           C
+ATOM   1684  NH1 ARG A 461      -7.283  40.559  -9.340  0.00  0.00           N
+ATOM   1686  N   MET A 462      -9.325  35.957  -4.549  0.00  0.00           N
+ATOM   1687  CA  MET A 462      -9.871  35.093  -3.514  0.00  0.00           C
+ATOM   1690  CB  MET A 462     -10.333  33.758  -4.092  0.00  0.00           C
+ATOM   1691  CG  MET A 462     -11.646  33.838  -4.846  0.00  0.00           C
+ATOM   1692  SD  MET A 462     -12.281  32.216  -5.293  0.00  0.00           S
+ATOM   1693  CE  MET A 462     -11.061  31.701  -6.495  0.00  0.00           C
+ATOM   1837  CB  TRP A 480      -4.518  35.457  -9.564  0.00  0.00           C
+ATOM   1838  CG  TRP A 480      -5.297  34.162  -9.521  0.00  0.00           C
+ATOM   1839  CD1 TRP A 480      -5.605  33.348 -10.574  0.00  0.00           C
+ATOM   1840  CD2 TRP A 480      -5.900  33.566  -8.367  0.00  0.00           C
+ATOM   1841  NE1 TRP A 480      -6.336  32.269 -10.142  0.00  0.00           N
+ATOM   1842  CE2 TRP A 480      -6.535  32.381  -8.791  0.00  0.00           C
+ATOM   1843  CE3 TRP A 480      -5.958  33.915  -7.016  0.00  0.00           C
+ATOM   1844  CZ2 TRP A 480      -7.217  31.544  -7.910  0.00  0.00           C
+ATOM   1845  CZ3 TRP A 480      -6.634  33.085  -6.143  0.00  0.00           C
+ATOM   1846  CH2 TRP A 480      -7.257  31.915  -6.592  0.00  0.00           C

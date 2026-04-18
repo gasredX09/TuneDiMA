@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  22.96  10.96  70.29 with max radius 4.90
+ATOM   1229  CG  LEU A 190      27.234  10.624  68.266  0.00  0.00           C
+ATOM   1230  CD1 LEU A 190      26.897   9.172  67.983  0.00  0.00           C
+ATOM   1231  CD2 LEU A 190      27.699  10.824  69.695  0.00  0.00           C
+ATOM   1262  SD  MET A 193      23.215  10.987  66.259  0.00  0.00           S
+ATOM   1263  CE  MET A 193      23.110   9.313  65.625  0.00  0.00           C
+ATOM   1287  C   HIS A 197      20.610  14.048  68.027  0.00  0.00           C
+ATOM   1288  O   HIS A 197      20.572  13.104  68.831  0.00  0.00           O
+ATOM   1289  CB  HIS A 197      19.716  13.039  65.927  0.00  0.00           C
+ATOM   1295  N   LEU A 198      21.569  14.964  68.045  0.00  0.00           N
+ATOM   1296  CA  LEU A 198      22.578  14.953  69.101  0.00  0.00           C
+ATOM   1297  C   LEU A 198      21.905  15.403  70.398  0.00  0.00           C
+ATOM   1299  CB  LEU A 198      23.733  15.896  68.752  0.00  0.00           C
+ATOM   1302  CD2 LEU A 198      25.081  14.147  67.549  0.00  0.00           C
+ATOM   1303  N   ASN A 199      22.058  14.612  71.459  0.00  0.00           N
+ATOM   1304  CA  ASN A 199      21.453  14.922  72.762  0.00  0.00           C
+ATOM   1305  C   ASN A 199      19.932  15.068  72.709  0.00  0.00           C
+ATOM   1308  CG  ASN A 199      23.510  15.976  73.827  0.00  0.00           C
+ATOM   1309  OD1 ASN A 199      24.015  14.855  73.828  0.00  0.00           O
+ATOM   1311  N   ASP A 200      19.316  14.442  71.710  0.00  0.00           N
+ATOM   1324  CG1 VAL A 201      19.077   9.532  71.995  0.00  0.00           C
+ATOM   1621  CG2 ILE A 238      26.342  16.555  71.355  0.00  0.00           C
+ATOM   1622  CD1 ILE A 238      27.869  13.869  72.091  0.00  0.00           C

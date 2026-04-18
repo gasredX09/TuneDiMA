@@ -1,0 +1,61 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 55 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  69.38  45.18  31.99 with max radius 6.49
+ATOM   1228  CA  SER A 621      70.676  38.760  33.420  0.00  0.00           C
+ATOM   1229  C   SER A 621      71.707  39.133  32.401  0.00  0.00           C
+ATOM   1230  O   SER A 621      71.940  38.376  31.431  0.00  0.00           O
+ATOM   1231  CB  SER A 621      71.437  38.526  34.754  0.00  0.00           C
+ATOM   1233  N   LEU A 622      72.381  40.244  32.605  0.00  0.00           N
+ATOM   1234  CA  LEU A 622      73.464  40.659  31.730  0.00  0.00           C
+ATOM   1237  CB  LEU A 622      74.000  42.060  32.066  0.00  0.00           C
+ATOM   1238  CG  LEU A 622      73.114  43.137  31.491  0.00  0.00           C
+ATOM   1239  CD1 LEU A 622      73.536  44.485  32.064  0.00  0.00           C
+ATOM   1240  CD2 LEU A 622      73.182  43.226  29.990  0.00  0.00           C
+ATOM   2323  C   MET A 752      71.502  44.969  25.755  0.00  0.00           C
+ATOM   2324  O   MET A 752      70.869  44.746  26.779  0.00  0.00           O
+ATOM   2334  CA  LEU A 753      72.062  47.246  26.458  0.00  0.00           C
+ATOM   2335  C   LEU A 753      70.823  48.055  26.356  0.00  0.00           C
+ATOM   2336  O   LEU A 753      70.461  48.707  27.374  0.00  0.00           O
+ATOM   2340  CD2 LEU A 753      74.632  47.143  28.119  0.00  0.00           C
+ATOM   2360  CA  MET A 756      66.796  43.415  25.995  0.00  0.00           C
+ATOM   2361  C   MET A 756      66.415  43.919  27.404  0.00  0.00           C
+ATOM   2362  O   MET A 756      66.840  45.000  27.836  0.00  0.00           O
+ATOM   2363  CB  MET A 756      68.056  42.574  26.049  0.00  0.00           C
+ATOM   2367  N   THR A 757      65.579  43.141  28.095  0.00  0.00           N
+ATOM   2368  CA  THR A 757      65.240  43.439  29.507  0.00  0.00           C
+ATOM   2369  C   THR A 757      65.305  42.133  30.261  0.00  0.00           C
+ATOM   2371  CB  THR A 757      63.881  44.147  29.644  0.00  0.00           C
+ATOM   2372  OG1 THR A 757      63.708  44.503  31.032  0.00  0.00           O
+ATOM   2374  N   PHE A 758      65.991  42.140  31.385  0.00  0.00           N
+ATOM   2375  CA  PHE A 758      66.380  40.936  32.068  0.00  0.00           C
+ATOM   2376  C   PHE A 758      65.596  40.709  33.350  0.00  0.00           C
+ATOM   2377  O   PHE A 758      65.176  41.680  34.020  0.00  0.00           O
+ATOM   2378  CB  PHE A 758      67.888  41.034  32.364  0.00  0.00           C
+ATOM   2379  CG  PHE A 758      68.724  41.106  31.096  0.00  0.00           C
+ATOM   2380  CD1 PHE A 758      69.012  39.932  30.417  0.00  0.00           C
+ATOM   2381  CD2 PHE A 758      69.091  42.295  30.544  0.00  0.00           C
+ATOM   2382  CE1 PHE A 758      69.714  39.964  29.213  0.00  0.00           C
+ATOM   2383  CE2 PHE A 758      69.768  42.331  29.310  0.00  0.00           C
+ATOM   2384  CZ  PHE A 758      70.098  41.152  28.671  0.00  0.00           C
+ATOM   2396  C   THR A 760      68.283  41.133  36.919  0.00  0.00           C
+ATOM   2397  O   THR A 760      69.131  40.916  36.049  0.00  0.00           O
+ATOM   2401  N   LYS A 761      68.132  42.330  37.462  0.00  0.00           N
+ATOM   2402  CA  LYS A 761      69.062  43.432  37.207  0.00  0.00           C
+ATOM   2403  C   LYS A 761      70.393  43.217  37.918  0.00  0.00           C
+ATOM   2404  O   LYS A 761      70.531  42.346  38.756  0.00  0.00           O
+ATOM   2405  CB  LYS A 761      68.441  44.759  37.685  0.00  0.00           C
+ATOM   2406  CG  LYS A 761      67.627  45.484  36.641  0.00  0.00           C
+ATOM   2407  CD  LYS A 761      66.538  44.656  36.095  0.00  0.00           C
+ATOM   2408  CE  LYS A 761      65.506  45.482  35.335  0.00  0.00           C
+ATOM   2409  NZ  LYS A 761      64.685  44.518  34.519  0.00  0.00           N
+ATOM   2410  N   CYS A 762      71.383  44.032  37.569  0.00  0.00           N
+ATOM   2411  CA  CYS A 762      72.699  43.885  38.143  0.00  0.00           C
+ATOM   2415  CB  CYS A 762      73.803  44.367  37.166  0.00  0.00           C
+ATOM   2417  SG  CYS A 762      74.157  43.214  35.788  0.00  0.00           S
+ATOM   2457  CE  MET A 767      74.533  40.129  36.236  0.00  0.00           C
+ATOM   2491  CD  LYS A 771      74.241  47.590  34.041  0.00  0.00           C
+ATOM   2492  CE  LYS A 771      73.301  48.504  33.266  0.00  0.00           C
+ATOM   2493  NZ  LYS A 771      72.255  49.077  34.172  0.00  0.00           N

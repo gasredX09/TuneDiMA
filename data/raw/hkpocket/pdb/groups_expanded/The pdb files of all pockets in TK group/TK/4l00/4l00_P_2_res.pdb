@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -22.49  31.13  56.06 with max radius 8.84
+ATOM   1433  NH2 ARG A 749     -22.126  37.644  55.831  0.00  0.00           N
+ATOM   1493  CD1 ILE A 756     -19.057  33.457  50.438  0.00  0.00           C
+ATOM   1529  CA  PRO A 761     -17.042  29.703  55.862  0.00  0.00           C
+ATOM   1530  C   PRO A 761     -16.995  30.405  57.214  0.00  0.00           C
+ATOM   1531  O   PRO A 761     -17.630  31.435  57.367  0.00  0.00           O
+ATOM   1532  CB  PRO A 761     -18.121  28.608  55.905  0.00  0.00           C
+ATOM   1554  CB  VAL A 764     -17.860  34.034  55.151  0.00  0.00           C
+ATOM   1555  CG1 VAL A 764     -19.057  34.853  54.667  0.00  0.00           C
+ATOM   1558  CA  GLU A 765     -18.910  34.839  59.486  0.00  0.00           C
+ATOM   1562  CG  GLU A 765     -20.064  32.601  59.830  0.00  0.00           C
+ATOM   1563  CD  GLU A 765     -20.293  31.440  60.785  0.00  0.00           C
+ATOM   1565  OE2 GLU A 765     -20.287  30.278  60.332  0.00  0.00           O
+ATOM   1855  C   LYS A 802     -22.313  33.368  48.530  0.00  0.00           C
+ATOM   1856  O   LYS A 802     -22.109  32.332  49.153  0.00  0.00           O
+ATOM   1862  N   GLU A 803     -22.860  34.446  49.090  0.00  0.00           N
+ATOM   1863  CA  GLU A 803     -23.339  34.408  50.463  0.00  0.00           C
+ATOM   1864  C   GLU A 803     -24.369  33.310  50.681  0.00  0.00           C
+ATOM   1865  O   GLU A 803     -24.299  32.562  51.684  0.00  0.00           O
+ATOM   1866  CB  GLU A 803     -24.016  35.722  50.829  0.00  0.00           C
+ATOM   1867  CG  GLU A 803     -23.086  36.720  51.461  0.00  0.00           C
+ATOM   1868  CD  GLU A 803     -23.844  37.944  51.933  0.00  0.00           C
+ATOM   1870  OE2 GLU A 803     -24.212  37.941  53.113  0.00  0.00           O
+ATOM   1884  C   PHE A 805     -23.657  28.770  50.231  0.00  0.00           C
+ATOM   1893  N   TYR A 806     -23.004  29.596  51.050  0.00  0.00           N
+ATOM   1894  CA  TYR A 806     -22.563  29.140  52.366  0.00  0.00           C
+ATOM   1895  C   TYR A 806     -23.726  29.124  53.373  0.00  0.00           C
+ATOM   1896  O   TYR A 806     -23.794  28.271  54.258  0.00  0.00           O
+ATOM   1897  CB  TYR A 806     -21.445  30.030  52.886  0.00  0.00           C
+ATOM   1898  CG  TYR A 806     -20.063  29.704  52.337  0.00  0.00           C
+ATOM   1900  CD2 TYR A 806     -18.952  30.430  52.793  0.00  0.00           C
+ATOM   1905  N   GLU A 807     -24.672  30.045  53.227  0.00  0.00           N
+ATOM   1906  CA  GLU A 807     -25.808  30.043  54.153  0.00  0.00           C
+ATOM   1907  C   GLU A 807     -26.585  28.721  54.034  0.00  0.00           C
+ATOM   1908  O   GLU A 807     -27.088  28.171  55.036  0.00  0.00           O
+ATOM   1909  CB  GLU A 807     -26.671  31.267  53.881  0.00  0.00           C
+ATOM   1910  CG  GLU A 807     -28.062  31.259  54.443  0.00  0.00           C
+ATOM   1913  OE2 GLU A 807     -28.668  33.557  54.411  0.00  0.00           O
+ATOM   1920  N   ARG A 809     -25.225  25.887  53.104  0.00  0.00           N
+ATOM   1925  CG  ARG A 809     -25.002  24.669  55.842  0.00  0.00           C
+ATOM   1926  CD  ARG A 809     -23.713  24.820  56.619  0.00  0.00           C
+ATOM   1927  NE  ARG A 809     -23.905  25.024  58.058  0.00  0.00           N
+ATOM   1928  CZ  ARG A 809     -23.718  24.097  59.001  0.00  0.00           C
+ATOM   2086  O   TYR A 830     -17.841  24.598  59.769  0.00  0.00           O
+ATOM   2087  CB  TYR A 830     -19.939  23.572  57.708  0.00  0.00           C
+ATOM   2090  CD2 TYR A 830     -20.398  25.508  56.139  0.00  0.00           C
+ATOM   2092  CE2 TYR A 830     -20.702  26.055  54.890  0.00  0.00           C

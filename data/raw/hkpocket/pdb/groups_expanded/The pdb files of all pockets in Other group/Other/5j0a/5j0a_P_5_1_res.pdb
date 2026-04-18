@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -46.24  16.29  20.33 with max radius 5.26
+ATOM    743  C   TYR A 117     -43.893  14.426  16.297  0.00  0.00           C
+ATOM    744  O   TYR A 117     -45.117  14.388  16.438  0.00  0.00           O
+ATOM    747  CD1 TYR A 117     -43.469  17.642  16.366  0.00  0.00           C
+ATOM    749  CE1 TYR A 117     -42.982  18.607  17.221  0.00  0.00           C
+ATOM    753  N   GLY A 118     -43.042  14.374  17.319  0.00  0.00           N
+ATOM    754  CA  GLY A 118     -43.526  14.270  18.679  0.00  0.00           C
+ATOM    755  C   GLY A 118     -42.658  15.030  19.653  0.00  0.00           C
+ATOM    756  O   GLY A 118     -42.586  14.669  20.828  0.00  0.00           O
+ATOM    757  N   GLY A 119     -41.996  16.083  19.181  0.00  0.00           N
+ATOM    758  CA  GLY A 119     -41.137  16.869  20.055  0.00  0.00           C
+ATOM   1211  CB  LYS A 176     -43.588  17.620  23.758  0.00  0.00           C
+ATOM   1212  CG  LYS A 176     -44.125  19.020  23.497  0.00  0.00           C
+ATOM   1213  CD  LYS A 176     -45.646  19.050  23.448  0.00  0.00           C
+ATOM   1214  CE  LYS A 176     -46.160  20.441  23.082  0.00  0.00           C
+ATOM   1215  NZ  LYS A 176     -45.789  20.798  21.680  0.00  0.00           N
+ATOM   1252  CB  THR A 181     -46.616  14.956  25.208  0.00  0.00           C
+ATOM   1253  OG1 THR A 181     -45.702  15.513  24.259  0.00  0.00           O
+ATOM   1254  CG2 THR A 181     -47.860  15.816  25.312  0.00  0.00           C
+ATOM   1268  CG  LYS A 183     -45.760  10.962  22.454  0.00  0.00           C
+ATOM   1269  CD  LYS A 183     -46.348  11.381  21.122  0.00  0.00           C
+ATOM   1270  CE  LYS A 183     -47.441  12.413  21.330  0.00  0.00           C
+ATOM   1271  NZ  LYS A 183     -48.227  12.659  20.090  0.00  0.00           N

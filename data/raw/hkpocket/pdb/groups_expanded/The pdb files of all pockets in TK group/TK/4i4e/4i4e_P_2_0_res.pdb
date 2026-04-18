@@ -1,0 +1,46 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 40 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   7.53 -19.89  14.60 with max radius 6.57
+ATOM    828  O   LYS A 515       7.521 -19.603  20.380  0.00  0.00           O
+ATOM    854  C   LEU A 518       2.444 -18.002  18.299  0.00  0.00           C
+ATOM    855  O   LEU A 518       3.506 -18.530  17.974  0.00  0.00           O
+ATOM    861  CA  ASP A 519       1.411 -18.911  16.370  0.00  0.00           C
+ATOM    862  C   ASP A 519       2.048 -18.084  15.264  0.00  0.00           C
+ATOM    863  O   ASP A 519       2.215 -16.852  15.361  0.00  0.00           O
+ATOM    868  N   LEU A 520       2.448 -18.807  14.241  0.00  0.00           N
+ATOM    869  CA  LEU A 520       3.134 -18.225  13.118  0.00  0.00           C
+ATOM    872  CB  LEU A 520       3.457 -19.329  12.134  0.00  0.00           C
+ATOM    873  CG  LEU A 520       4.132 -18.911  10.859  0.00  0.00           C
+ATOM    874  CD1 LEU A 520       5.405 -18.121  11.167  0.00  0.00           C
+ATOM    875  CD2 LEU A 520       4.428 -20.163  10.043  0.00  0.00           C
+ATOM    892  CG  LEU A 523       5.557 -15.040  15.105  0.00  0.00           C
+ATOM    893  CD1 LEU A 523       6.668 -16.061  15.004  0.00  0.00           C
+ATOM   1515  CA  LEU A 616      10.500 -14.798  13.129  0.00  0.00           C
+ATOM   1516  C   LEU A 616      11.482 -15.603  13.981  0.00  0.00           C
+ATOM   1517  O   LEU A 616      11.285 -16.809  14.182  0.00  0.00           O
+ATOM   1518  CB  LEU A 616      10.636 -15.150  11.636  0.00  0.00           C
+ATOM   1519  CG  LEU A 616       9.371 -14.979  10.777  0.00  0.00           C
+ATOM   1520  CD1 LEU A 616       8.388 -16.092  11.099  0.00  0.00           C
+ATOM   1536  ND1 HIS A 618       9.265 -17.070  18.039  0.00  0.00           N
+ATOM   1537  CD2 HIS A 618      11.194 -18.058  17.803  0.00  0.00           C
+ATOM   1538  CE1 HIS A 618       9.064 -18.131  17.281  0.00  0.00           C
+ATOM   1539  NE2 HIS A 618      10.221 -18.746  17.117  0.00  0.00           N
+ATOM   1737  CB  PRO A 644      13.767 -17.699  11.409  0.00  0.00           C
+ATOM   1740  N   PRO A 645      14.287 -20.898  12.182  0.00  0.00           N
+ATOM   1742  C   PRO A 645      12.074 -21.929  12.241  0.00  0.00           C
+ATOM   1743  O   PRO A 645      11.534 -20.972  12.801  0.00  0.00           O
+ATOM   1744  CB  PRO A 645      13.947 -22.566  13.789  0.00  0.00           C
+ATOM   1746  CD  PRO A 645      15.282 -20.664  13.240  0.00  0.00           C
+ATOM   1748  CA  ASN A 646       9.962 -22.801  11.330  0.00  0.00           C
+ATOM   1749  C   ASN A 646       9.402 -21.641  10.453  0.00  0.00           C
+ATOM   1750  O   ASN A 646       8.184 -21.516  10.255  0.00  0.00           O
+ATOM   1751  CB  ASN A 646       9.287 -22.913  12.717  0.00  0.00           C
+ATOM   1752  CG  ASN A 646       9.884 -24.048  13.578  0.00  0.00           C
+ATOM   1754  ND2 ASN A 646      10.441 -23.699  14.748  0.00  0.00           N
+ATOM   1755  N   CYS A 647      10.290 -20.826   9.865  0.00  0.00           N
+ATOM   1756  CA  CYS A 647       9.862 -19.748   8.978  0.00  0.00           C
+ATOM   1759  CB  CYS A 647      10.994 -18.727   8.785  0.00  0.00           C
+ATOM   1767  CD  PRO A 648       7.174 -19.132   7.693  0.00  0.00           C

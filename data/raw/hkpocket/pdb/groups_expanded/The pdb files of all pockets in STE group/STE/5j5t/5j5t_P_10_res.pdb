@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  16.63  15.46   2.38 with max radius 6.22
+ATOM    743  CB  PRO A 107      14.160  11.345   6.354  0.00  0.00           C
+ATOM    744  CG  PRO A 107      13.627  11.272   4.962  0.00  0.00           C
+ATOM   1488  C   ALA A 208      18.104  12.246   6.081  0.00  0.00           C
+ATOM   1489  O   ALA A 208      17.045  12.774   5.740  0.00  0.00           O
+ATOM   1491  N   GLU A 209      18.940  11.685   5.214  0.00  0.00           N
+ATOM   1492  CA  GLU A 209      18.734  11.813   3.776  0.00  0.00           C
+ATOM   1493  C   GLU A 209      18.657  10.459   3.070  0.00  0.00           C
+ATOM   1494  O   GLU A 209      18.809  10.378   1.850  0.00  0.00           O
+ATOM   1495  CB  GLU A 209      19.850  12.669   3.172  0.00  0.00           C
+ATOM   1496  CG  GLU A 209      19.989  14.030   3.844  0.00  0.00           C
+ATOM   1497  CD  GLU A 209      21.131  14.854   3.286  0.00  0.00           C
+ATOM   1498  OE1 GLU A 209      21.257  16.035   3.676  0.00  0.00           O
+ATOM   1720  CA  LYS A 237      21.467  19.491   1.935  0.00  0.00           C
+ATOM   1721  C   LYS A 237      20.410  20.525   2.312  0.00  0.00           C
+ATOM   1723  CB  LYS A 237      20.902  18.516   0.900  0.00  0.00           C
+ATOM   1724  CG  LYS A 237      21.841  17.370   0.550  0.00  0.00           C
+ATOM   1725  CD  LYS A 237      21.487  16.756  -0.796  0.00  0.00           C
+ATOM   1726  CE  LYS A 237      22.213  15.438  -1.015  0.00  0.00           C
+ATOM   1727  NZ  LYS A 237      21.455  14.288  -0.450  0.00  0.00           N
+ATOM   1728  N   ASP A 238      19.403  20.096   3.063  0.00  0.00           N
+ATOM   1729  CA  ASP A 238      18.402  21.018   3.581  0.00  0.00           C
+ATOM   1732  CB  ASP A 238      17.183  20.264   4.100  0.00  0.00           C
+ATOM   1733  CG  ASP A 238      16.107  20.105   3.051  0.00  0.00           C
+ATOM   1734  OD1 ASP A 238      16.287  20.627   1.931  0.00  0.00           O
+ATOM   1735  OD2 ASP A 238      15.076  19.468   3.352  0.00  0.00           O
+ATOM   1755  CD  LYS A 241      14.087  18.142   6.285  0.00  0.00           C
+ATOM   1756  CE  LYS A 241      13.166  17.023   6.746  0.00  0.00           C
+ATOM   1757  NZ  LYS A 241      13.130  15.899   5.770  0.00  0.00           N
+ATOM   1769  CZ2 TRP A 242      17.182  16.108   7.278  0.00  0.00           C
+ATOM   1770  CZ3 TRP A 242      18.599  17.742   6.204  0.00  0.00           C
+ATOM   1771  CH2 TRP A 242      17.849  16.559   6.173  0.00  0.00           C

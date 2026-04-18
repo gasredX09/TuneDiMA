@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at 166.72 -20.79  38.40 with max radius 6.14
+ATOM   4622  CA  ASP A 104     165.400 -25.462  37.383  0.00  0.00           C
+ATOM   4623  C   ASP A 104     164.061 -24.917  37.879  0.00  0.00           C
+ATOM   4625  CB  ASP A 104     165.474 -25.464  35.857  0.00  0.00           C
+ATOM   4629  N   GLY A 105     163.777 -23.662  37.537  0.00  0.00           N
+ATOM   4630  CA  GLY A 105     162.566 -23.020  38.013  0.00  0.00           C
+ATOM   4631  C   GLY A 105     162.486 -22.889  39.515  0.00  0.00           C
+ATOM   4633  N   VAL A 106     163.623 -22.971  40.201  0.00  0.00           N
+ATOM   4634  CA  VAL A 106     163.686 -22.960  41.657  0.00  0.00           C
+ATOM   4635  C   VAL A 106     164.958 -22.231  42.068  0.00  0.00           C
+ATOM   4636  O   VAL A 106     165.998 -22.363  41.415  0.00  0.00           O
+ATOM   4641  CA  VAL A 107     166.050 -20.761  43.656  0.00  0.00           C
+ATOM   4653  ND1 HIS A 108     169.172 -23.058  40.911  0.00  0.00           N
+ATOM   4655  CE1 HIS A 108     168.468 -23.911  40.188  0.00  0.00           C
+ATOM   4819  CB  ASP A 142     170.016 -17.601  42.487  0.00  0.00           C
+ATOM   4820  CG  ASP A 142     170.506 -19.026  42.306  0.00  0.00           C
+ATOM   4822  OD2 ASP A 142     169.653 -19.932  42.197  0.00  0.00           O
+ATOM   4836  CD2 LEU A 144     166.154 -16.414  40.210  0.00  0.00           C
+ATOM   5391  CB  THR A 213     162.724 -18.753  39.565  0.00  0.00           C
+ATOM   5392  OG1 THR A 213     163.429 -18.969  38.377  0.00  0.00           O
+ATOM   5393  CG2 THR A 213     163.588 -19.200  40.629  0.00  0.00           C

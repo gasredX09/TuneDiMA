@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  69.47  13.60  -8.14 with max radius 6.02
+ATOM    816  N   GLY A 785      67.142  11.104  -3.187  0.00  0.00           N
+ATOM    817  CA  GLY A 785      67.262  10.194  -4.312  0.00  0.00           C
+ATOM   1568  CD2 PHE A 888      65.945  14.993  -4.298  0.00  0.00           C
+ATOM   1570  CE2 PHE A 888      66.217  14.144  -5.356  0.00  0.00           C
+ATOM   1571  CZ  PHE A 888      65.473  12.984  -5.525  0.00  0.00           C
+ATOM   1769  CA  GLN A 915      67.124  18.494 -11.195  0.00  0.00           C
+ATOM   1770  C   GLN A 915      66.914  17.080 -11.754  0.00  0.00           C
+ATOM   1771  O   GLN A 915      67.553  16.697 -12.731  0.00  0.00           O
+ATOM   1772  CB  GLN A 915      68.263  18.513 -10.171  0.00  0.00           C
+ATOM   1773  CG  GLN A 915      69.626  18.176 -10.748  0.00  0.00           C
+ATOM   1777  N   ILE A 916      66.008  16.313 -11.151  0.00  0.00           N
+ATOM   1778  CA  ILE A 916      65.746  14.947 -11.618  0.00  0.00           C
+ATOM   1781  CB  ILE A 916      65.328  14.017 -10.458  0.00  0.00           C
+ATOM   1783  CG2 ILE A 916      66.384  14.001  -9.350  0.00  0.00           C
+ATOM   2133  C   VAL A 958      67.499  11.081 -12.637  0.00  0.00           C
+ATOM   2134  O   VAL A 958      67.809  12.251 -12.392  0.00  0.00           O
+ATOM   2138  N   ILE A 959      67.816  10.061 -11.845  0.00  0.00           N
+ATOM   2139  CA  ILE A 959      68.388  10.224 -10.511  0.00  0.00           C
+ATOM   2140  C   ILE A 959      69.789   9.613 -10.429  0.00  0.00           C
+ATOM   2142  CB  ILE A 959      67.464   9.551  -9.445  0.00  0.00           C
+ATOM   2143  CG1 ILE A 959      66.130  10.301  -9.346  0.00  0.00           C
+ATOM   2144  CG2 ILE A 959      68.131   9.488  -8.086  0.00  0.00           C
+ATOM   2146  N   LYS A 960      70.796  10.426 -10.114  0.00  0.00           N
+ATOM   2147  CA  LYS A 960      72.165   9.928  -9.935  0.00  0.00           C
+ATOM   2148  C   LYS A 960      72.510   9.754  -8.457  0.00  0.00           C
+ATOM   2149  O   LYS A 960      72.606  10.733  -7.705  0.00  0.00           O
+ATOM   2151  CG  LYS A 960      73.004  12.339 -10.183  0.00  0.00           C
+ATOM   2152  CD  LYS A 960      73.965  13.281 -10.935  0.00  0.00           C
+ATOM   2153  CE  LYS A 960      73.318  14.655 -11.195  0.00  0.00           C

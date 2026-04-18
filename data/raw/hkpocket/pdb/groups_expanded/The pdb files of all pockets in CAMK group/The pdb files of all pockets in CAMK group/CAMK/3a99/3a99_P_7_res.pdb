@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -16.09  58.68 -16.63 with max radius 7.84
+ATOM   1617  CE2 TYR A 233      -9.251  59.622 -13.672  0.00  0.00           C
+ATOM   1618  CZ  TYR A 233      -9.280  60.689 -14.554  0.00  0.00           C
+ATOM   1619  OH  TYR A 233      -9.349  60.457 -15.913  0.00  0.00           O
+ATOM   1670  CA  PRO A 241     -12.859  62.560 -13.810  0.00  0.00           C
+ATOM   1671  C   PRO A 241     -14.294  62.699 -14.308  0.00  0.00           C
+ATOM   1672  O   PRO A 241     -14.632  62.186 -15.379  0.00  0.00           O
+ATOM   1673  CB  PRO A 241     -12.693  61.376 -12.863  0.00  0.00           C
+ATOM   1682  CD1 PHE A 242     -16.725  60.547 -13.310  0.00  0.00           C
+ATOM   1684  CE1 PHE A 242     -16.355  59.266 -12.898  0.00  0.00           C
+ATOM   1686  CZ  PHE A 242     -16.237  58.978 -11.539  0.00  0.00           C
+ATOM   1716  C   GLU A 246     -23.421  60.096 -14.717  0.00  0.00           C
+ATOM   1717  O   GLU A 246     -23.403  58.895 -14.448  0.00  0.00           O
+ATOM   1723  N   GLU A 247     -22.316  60.815 -14.887  0.00  0.00           N
+ATOM   1724  CA  GLU A 247     -20.993  60.216 -14.752  0.00  0.00           C
+ATOM   1725  C   GLU A 247     -20.689  59.928 -13.292  0.00  0.00           C
+ATOM   1726  O   GLU A 247     -20.097  58.901 -12.960  0.00  0.00           O
+ATOM   1727  CB  GLU A 247     -19.919  61.147 -15.312  0.00  0.00           C
+ATOM   1728  CG  GLU A 247     -20.006  61.377 -16.808  0.00  0.00           C
+ATOM   1729  CD  GLU A 247     -18.908  62.293 -17.303  0.00  0.00           C
+ATOM   1731  OE2 GLU A 247     -18.078  61.843 -18.120  0.00  0.00           O
+ATOM   1749  CA  ARG A 250     -22.290  55.658 -12.766  0.00  0.00           C
+ATOM   1750  C   ARG A 250     -21.015  55.186 -12.069  0.00  0.00           C
+ATOM   1752  CB  ARG A 250     -22.027  55.853 -14.258  0.00  0.00           C
+ATOM   1753  CG  ARG A 250     -21.687  54.557 -14.962  0.00  0.00           C
+ATOM   1754  CD  ARG A 250     -21.496  54.762 -16.445  0.00  0.00           C
+ATOM   1756  CZ  ARG A 250     -20.235  53.357 -18.023  0.00  0.00           C
+ATOM   1757  NH1 ARG A 250     -19.489  54.397 -18.371  0.00  0.00           N
+ATOM   1759  N   GLY A 251     -20.173  56.140 -11.683  0.00  0.00           N
+ATOM   1761  C   GLY A 251     -17.852  55.079 -11.729  0.00  0.00           C
+ATOM   1763  N   GLN A 252     -17.923  55.069 -13.055  0.00  0.00           N
+ATOM   1764  CA  GLN A 252     -16.900  54.409 -13.863  0.00  0.00           C
+ATOM   1765  C   GLN A 252     -15.744  55.379 -14.071  0.00  0.00           C
+ATOM   1766  O   GLN A 252     -15.933  56.483 -14.579  0.00  0.00           O
+ATOM   1767  CB  GLN A 252     -17.473  53.992 -15.217  0.00  0.00           C
+ATOM   1768  CG  GLN A 252     -18.177  52.645 -15.212  0.00  0.00           C
+ATOM   1772  N   VAL A 253     -14.546  54.958 -13.686  0.00  0.00           N
+ATOM   1773  CA  VAL A 253     -13.370  55.808 -13.805  0.00  0.00           C
+ATOM   1774  C   VAL A 253     -12.475  55.435 -14.985  0.00  0.00           C
+ATOM   1776  CB  VAL A 253     -12.517  55.741 -12.518  0.00  0.00           C
+ATOM   1777  CG1 VAL A 253     -11.396  56.765 -12.584  0.00  0.00           C
+ATOM   1778  CG2 VAL A 253     -13.395  55.976 -11.295  0.00  0.00           C
+ATOM   1779  N   PHE A 254     -12.313  56.375 -15.913  0.00  0.00           N
+ATOM   1780  CA  PHE A 254     -11.452  56.184 -17.077  0.00  0.00           C
+ATOM   1781  C   PHE A 254     -10.203  57.017 -16.833  0.00  0.00           C
+ATOM   1782  O   PHE A 254     -10.304  58.203 -16.528  0.00  0.00           O
+ATOM   1783  CB  PHE A 254     -12.136  56.697 -18.348  0.00  0.00           C
+ATOM   1784  CG  PHE A 254     -11.206  56.829 -19.528  0.00  0.00           C
+ATOM   1786  CD2 PHE A 254     -10.675  58.071 -19.878  0.00  0.00           C
+ATOM   1809  CZ  ARG A 256     -10.306  63.769 -18.057  0.00  0.00           C
+ATOM   1811  NH2 ARG A 256     -11.463  63.410 -17.515  0.00  0.00           N

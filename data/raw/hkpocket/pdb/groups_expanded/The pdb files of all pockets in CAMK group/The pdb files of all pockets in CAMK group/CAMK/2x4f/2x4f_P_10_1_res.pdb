@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  84.26  66.63  35.32 with max radius 6.36
+ATOM    805  CA  ILE A 192      83.808  63.064  36.984  0.00  0.00           C
+ATOM    806  C   ILE A 192      82.946  63.645  38.117  0.00  0.00           C
+ATOM    807  O   ILE A 192      82.879  64.861  38.308  0.00  0.00           O
+ATOM    808  CB  ILE A 192      82.970  62.777  35.688  0.00  0.00           C
+ATOM    809  CG1 ILE A 192      83.755  63.109  34.430  0.00  0.00           C
+ATOM    810  CG2 ILE A 192      81.759  63.653  35.603  0.00  0.00           C
+ATOM    811  CD1 ILE A 192      84.950  62.225  34.171  0.00  0.00           C
+ATOM    829  CA  GLU A 195      84.931  66.738  40.437  0.00  0.00           C
+ATOM    830  C   GLU A 195      83.752  67.527  39.888  0.00  0.00           C
+ATOM    831  O   GLU A 195      83.918  68.364  39.006  0.00  0.00           O
+ATOM    832  CB  GLU A 195      86.054  66.647  39.404  0.00  0.00           C
+ATOM    835  OE1 GLU A 195      88.112  65.695  37.798  0.00  0.00           O
+ATOM    837  N   SER A 196      82.570  67.267  40.442  0.00  0.00           N
+ATOM    838  CA  SER A 196      81.313  67.883  39.996  0.00  0.00           C
+ATOM    859  CB  ASN A 198      84.660  70.410  36.698  0.00  0.00           C
+ATOM    860  CG  ASN A 198      86.068  70.417  37.026  0.00  0.00           C
+ATOM    862  ND2 ASN A 198      86.806  69.373  36.668  0.00  0.00           N
+ATOM    868  CG  LEU A 199      80.803  68.392  35.731  0.00  0.00           C
+ATOM    869  CD1 LEU A 199      80.033  67.156  36.138  0.00  0.00           C
+ATOM    870  CD2 LEU A 199      81.485  68.184  34.374  0.00  0.00           C
+ATOM    933  CD2 PHE A 207      79.146  65.180  31.831  0.00  0.00           C
+ATOM    935  CE2 PHE A 207      80.502  65.468  31.740  0.00  0.00           C
+ATOM    936  CZ  PHE A 207      81.297  64.815  30.788  0.00  0.00           C
+ATOM   1192  CD  ARG A 238      85.969  65.773  32.181  0.00  0.00           C
+ATOM   1193  NE  ARG A 238      86.567  64.796  33.094  0.00  0.00           N
+ATOM   1194  CZ  ARG A 238      87.438  65.095  33.985  0.00  0.00           C
+ATOM   1195  NH1 ARG A 238      87.933  66.307  34.063  0.00  0.00           N
+ATOM   1196  NH2 ARG A 238      87.912  64.131  34.798  0.00  0.00           N

@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  13.75  33.25   8.04 with max radius 7.44
+ATOM    807  CD1 LEU A 508      11.494  35.353  14.808  0.00  0.00           C
+ATOM    808  CD2 LEU A 508      13.349  36.765  13.893  0.00  0.00           C
+ATOM    832  CA  GLN A 512      10.282  36.402   8.801  0.00  0.00           C
+ATOM    833  C   GLN A 512       9.581  35.190   9.410  0.00  0.00           C
+ATOM    834  O   GLN A 512      10.036  34.069   9.224  0.00  0.00           O
+ATOM    835  CB  GLN A 512      11.284  37.002   9.800  0.00  0.00           C
+ATOM    836  CG  GLN A 512      12.184  38.066   9.154  0.00  0.00           C
+ATOM    837  CD  GLN A 512      13.105  38.685  10.161  0.00  0.00           C
+ATOM    839  NE2 GLN A 512      14.369  38.289  10.139  0.00  0.00           N
+ATOM    857  CA  GLU A 515       9.418  32.406   5.987  0.00  0.00           C
+ATOM    858  C   GLU A 515       9.799  31.148   6.783  0.00  0.00           C
+ATOM    859  O   GLU A 515      10.110  30.113   6.190  0.00  0.00           O
+ATOM    860  CB  GLU A 515      10.615  33.373   5.847  0.00  0.00           C
+ATOM    861  CG  GLU A 515      11.692  32.898   4.906  0.00  0.00           C
+ATOM    862  CD  GLU A 515      11.306  32.946   3.442  0.00  0.00           C
+ATOM    865  N   MET A 516       9.740  31.220   8.128  0.00  0.00           N
+ATOM    866  CA  MET A 516       9.994  30.049   8.993  0.00  0.00           C
+ATOM    869  CB  MET A 516       9.949  30.448  10.484  0.00  0.00           C
+ATOM    870  CG  MET A 516      11.106  31.332  10.877  0.00  0.00           C
+ATOM    871  SD  MET A 516      11.012  31.760  12.610  0.00  0.00           S
+ATOM    872  CE  MET A 516      12.690  32.270  12.864  0.00  0.00           C
+ATOM    896  CG  ASP A 519      12.635  28.183   5.705  0.00  0.00           C
+ATOM    897  OD1 ASP A 519      12.666  28.369   4.472  0.00  0.00           O
+ATOM    898  OD2 ASP A 519      13.255  28.894   6.520  0.00  0.00           O
+ATOM   1119  O   ASP A 547      18.416  33.257   7.876  0.00  0.00           O
+ATOM   1125  CA  LEU A 548      17.435  31.926  10.227  0.00  0.00           C
+ATOM   1126  C   LEU A 548      16.607  30.964   9.363  0.00  0.00           C
+ATOM   1127  O   LEU A 548      15.375  30.956   9.460  0.00  0.00           O
+ATOM   1128  CB  LEU A 548      16.683  33.252  10.465  0.00  0.00           C
+ATOM   1129  CG  LEU A 548      17.402  34.369  11.220  0.00  0.00           C
+ATOM   1130  CD1 LEU A 548      16.445  35.543  11.425  0.00  0.00           C
+ATOM   1132  N   CYS A 549      17.271  30.149   8.541  0.00  0.00           N
+ATOM   1133  CA  CYS A 549      16.559  29.141   7.749  0.00  0.00           C
+ATOM   1134  C   CYS A 549      16.180  28.013   8.720  0.00  0.00           C
+ATOM   1136  CB  CYS A 549      17.423  28.634   6.600  0.00  0.00           C
+ATOM   1144  CG2 VAL A 550      12.929  28.166  10.717  0.00  0.00           C

@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   4.19  65.33   4.28 with max radius 5.86
+ATOM    893  CA  SER A 146       3.426  64.378  -1.282  0.00  0.00           C
+ATOM    894  C   SER A 146       2.268  65.340  -1.025  0.00  0.00           C
+ATOM    895  O   SER A 146       1.901  65.597   0.120  0.00  0.00           O
+ATOM    896  CB  SER A 146       4.660  65.170  -1.723  0.00  0.00           C
+ATOM    897  OG  SER A 146       4.958  66.191  -0.785  0.00  0.00           O
+ATOM    921  CA  TRP A 149      -0.538  63.144   1.883  0.00  0.00           C
+ATOM    922  C   TRP A 149      -0.779  64.358   2.772  0.00  0.00           C
+ATOM    924  CB  TRP A 149       0.911  62.663   2.024  0.00  0.00           C
+ATOM    925  CG  TRP A 149       1.286  62.293   3.424  0.00  0.00           C
+ATOM    926  CD1 TRP A 149       1.809  63.116   4.383  0.00  0.00           C
+ATOM    928  NE1 TRP A 149       2.008  62.415   5.549  0.00  0.00           N
+ATOM    929  CE2 TRP A 149       1.612  61.117   5.358  0.00  0.00           C
+ATOM    934  N   GLN A 150      -0.273  65.516   2.353  0.00  0.00           N
+ATOM    935  CA  GLN A 150      -0.465  66.730   3.138  0.00  0.00           C
+ATOM    938  CB  GLN A 150       0.348  67.882   2.553  0.00  0.00           C
+ATOM    939  CG  GLN A 150       1.843  67.733   2.755  0.00  0.00           C
+ATOM    940  CD  GLN A 150       2.586  68.986   2.362  0.00  0.00           C
+ATOM    942  NE2 GLN A 150       3.649  68.829   1.581  0.00  0.00           N
+ATOM    963  CG  GLU A 153      -0.773  64.422   7.262  0.00  0.00           C
+ATOM   2124  CB  VAL A 293       4.926  60.755   1.853  0.00  0.00           C
+ATOM   2125  CG1 VAL A 293       5.242  60.979   3.325  0.00  0.00           C
+ATOM   2126  CG2 VAL A 293       4.483  62.059   1.202  0.00  0.00           C
+ATOM   2129  C   LEU A 294       8.238  64.011   1.680  0.00  0.00           C
+ATOM   2130  O   LEU A 294       7.056  64.218   1.961  0.00  0.00           O
+ATOM   2136  CA  LEU A 295       8.995  65.611   3.332  0.00  0.00           C
+ATOM   2137  C   LEU A 295       8.666  66.894   2.562  0.00  0.00           C
+ATOM   2143  N   PRO A 296       7.981  67.852   3.203  0.00  0.00           N
+ATOM   2144  CA  PRO A 296       7.634  69.105   2.523  0.00  0.00           C
+ATOM   2147  CB  PRO A 296       7.000  69.931   3.638  0.00  0.00           C
+ATOM   2148  CG  PRO A 296       6.308  68.873   4.460  0.00  0.00           C
+ATOM   2149  CD  PRO A 296       7.371  67.797   4.545  0.00  0.00           C

@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -2.57  -7.88 -15.31 with max radius 6.49
+ATOM   1439  C   PRO A 789      -2.480  -4.316 -12.259  0.00  0.00           C
+ATOM   1440  O   PRO A 789      -3.690  -4.167 -12.036  0.00  0.00           O
+ATOM   1441  CB  PRO A 789      -1.390  -3.065 -14.184  0.00  0.00           C
+ATOM   1444  N   GLU A 790      -1.856  -5.487 -12.076  0.00  0.00           N
+ATOM   1445  CA  GLU A 790      -2.639  -6.645 -11.641  0.00  0.00           C
+ATOM   1448  CB  GLU A 790      -1.892  -7.963 -11.921  0.00  0.00           C
+ATOM   1449  CG  GLU A 790      -0.767  -8.293 -10.926  0.00  0.00           C
+ATOM   1450  CD  GLU A 790       0.532  -7.523 -11.164  0.00  0.00           C
+ATOM   1451  OE1 GLU A 790       0.611  -6.689 -12.084  0.00  0.00           O
+ATOM   1470  CB  ALA A 793      -6.865  -5.140 -12.408  0.00  0.00           C
+ATOM   1477  CD1 PHE A 794      -6.022  -9.089 -12.298  0.00  0.00           C
+ATOM   1479  CE1 PHE A 794      -6.275  -8.920 -13.652  0.00  0.00           C
+ATOM   1481  CZ  PHE A 794      -7.570  -8.684 -14.083  0.00  0.00           C
+ATOM   1827  OE1 GLU A 834      -4.136  -2.816 -19.042  0.00  0.00           O
+ATOM   2029  C   LYS A 859       2.630  -7.199 -16.975  0.00  0.00           C
+ATOM   2030  O   LYS A 859       1.924  -7.437 -15.989  0.00  0.00           O
+ATOM   2032  CG  LYS A 859       0.371  -5.734 -18.382  0.00  0.00           C
+ATOM   2033  CD  LYS A 859      -0.500  -5.677 -19.624  0.00  0.00           C
+ATOM   2034  CE  LYS A 859      -1.953  -5.993 -19.296  0.00  0.00           C
+ATOM   2035  NZ  LYS A 859      -2.533  -5.025 -18.325  0.00  0.00           N
+ATOM   2037  CA  ASP A 860       3.315  -9.523 -17.171  0.00  0.00           C
+ATOM   2044  N   ARG A 861       3.577  -9.894 -14.806  0.00  0.00           N
+ATOM   2048  CB  ARG A 861       3.399 -10.106 -12.346  0.00  0.00           C
+ATOM   2049  CG  ARG A 861       2.688 -11.470 -12.258  0.00  0.00           C
+ATOM   2050  CD  ARG A 861       1.760 -11.491 -11.093  0.00  0.00           C

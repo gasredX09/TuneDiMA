@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  54.01  22.62  36.88 with max radius 6.23
+ATOM   1892  CA  THR A 308      49.285  22.405  37.960  0.00  0.00           C
+ATOM   1893  C   THR A 308      50.373  22.039  36.922  0.00  0.00           C
+ATOM   1894  O   THR A 308      51.024  22.940  36.384  0.00  0.00           O
+ATOM   1895  CB  THR A 308      49.881  22.560  39.358  0.00  0.00           C
+ATOM   1896  OG1 THR A 308      50.279  21.287  39.866  0.00  0.00           O
+ATOM   1897  CG2 THR A 308      48.832  23.126  40.310  0.00  0.00           C
+ATOM   1914  N   ILE A 310      50.841  21.038  33.479  0.00  0.00           N
+ATOM   1915  CA  ILE A 310      50.044  20.980  32.245  0.00  0.00           C
+ATOM   1916  C   ILE A 310      50.861  21.557  31.106  0.00  0.00           C
+ATOM   1917  O   ILE A 310      51.853  22.265  31.338  0.00  0.00           O
+ATOM   1977  CD  ARG A 316      55.067  23.936  31.881  0.00  0.00           C
+ATOM   1978  NE  ARG A 316      54.850  22.626  31.315  0.00  0.00           N
+ATOM   1979  CZ  ARG A 316      55.632  21.576  31.476  0.00  0.00           C
+ATOM   1980  NH1 ARG A 316      55.344  20.454  30.813  0.00  0.00           N
+ATOM   1981  NH2 ARG A 316      56.688  21.639  32.250  0.00  0.00           N
+ATOM   2004  CA  VAL A 320      52.599  27.267  34.949  0.00  0.00           C
+ATOM   2005  C   VAL A 320      53.874  26.812  35.666  0.00  0.00           C
+ATOM   2006  O   VAL A 320      53.825  26.327  36.778  0.00  0.00           O
+ATOM   2007  CB  VAL A 320      52.324  26.430  33.667  0.00  0.00           C
+ATOM   2008  CG1 VAL A 320      52.263  24.939  33.995  0.00  0.00           C
+ATOM   2010  N   ILE A 321      55.022  27.046  35.081  0.00  0.00           N
+ATOM   2011  CA  ILE A 321      56.261  26.592  35.716  0.00  0.00           C
+ATOM   2012  C   ILE A 321      56.483  27.237  37.086  0.00  0.00           C
+ATOM   2013  O   ILE A 321      56.906  26.556  38.021  0.00  0.00           O
+ATOM   2014  CB  ILE A 321      57.456  26.842  34.829  0.00  0.00           C
+ATOM   2015  CG1 ILE A 321      57.331  26.003  33.553  0.00  0.00           C
+ATOM   2027  CA  GLY A 323      53.004  28.259  40.067  0.00  0.00           C
+ATOM   2264  CG  GLU A 354      59.079  22.225  35.675  0.00  0.00           C
+ATOM   2265  CD  GLU A 354      58.617  21.909  37.076  0.00  0.00           C
+ATOM   2267  OE2 GLU A 354      57.444  21.585  37.194  0.00  0.00           O
+ATOM   2447  CD  ARG A 378      56.052  24.930  42.369  0.00  0.00           C
+ATOM   2448  NE  ARG A 378      56.196  24.823  40.921  0.00  0.00           N
+ATOM   2449  CZ  ARG A 378      57.159  24.154  40.299  0.00  0.00           C
+ATOM   2451  NH2 ARG A 378      57.182  24.101  38.985  0.00  0.00           N

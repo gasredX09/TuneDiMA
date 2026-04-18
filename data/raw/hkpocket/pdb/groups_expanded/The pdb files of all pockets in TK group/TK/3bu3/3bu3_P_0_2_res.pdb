@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   9.24   1.43  14.86 with max radius 6.36
+ATOM    522  CB  PHE A1054       8.381   5.314  10.776  0.00  0.00           C
+ATOM    523  CG  PHE A1054       9.357   5.678  11.875  0.00  0.00           C
+ATOM    524  CD1 PHE A1054      10.730   5.807  11.635  0.00  0.00           C
+ATOM    525  CD2 PHE A1054       8.887   5.866  13.183  0.00  0.00           C
+ATOM    526  CE1 PHE A1054      11.612   6.142  12.686  0.00  0.00           C
+ATOM    527  CE2 PHE A1054       9.750   6.203  14.227  0.00  0.00           C
+ATOM    528  CZ  PHE A1054      11.121   6.334  13.981  0.00  0.00           C
+ATOM    540  CB  CYS A1056       7.420  -0.291   9.664  0.00  0.00           C
+ATOM    541  SG  CYS A1056       7.576  -1.993  10.209  0.00  0.00           S
+ATOM    566  CB  VAL A1059       5.889   1.444  12.896  0.00  0.00           C
+ATOM    567  CG1 VAL A1059       5.984   2.842  13.515  0.00  0.00           C
+ATOM    568  CG2 VAL A1059       7.070   0.590  13.327  0.00  0.00           C
+ATOM   1008  CA  GLY A1119       8.386  -3.149  14.269  0.00  0.00           C
+ATOM   1009  C   GLY A1119       9.651  -2.629  14.940  0.00  0.00           C
+ATOM   1010  O   GLY A1119      10.252  -1.661  14.482  0.00  0.00           O
+ATOM   1011  N   MET A1120      10.063  -3.280  16.019  0.00  0.00           N
+ATOM   1012  CA  MET A1120      11.292  -2.872  16.703  0.00  0.00           C
+ATOM   1015  CB  MET A1120      11.418  -3.585  18.032  0.00  0.00           C
+ATOM   1016  CG  MET A1120      10.360  -3.195  19.070  0.00  0.00           C
+ATOM   1017  SD  MET A1120      10.392  -1.442  19.479  0.00  0.00           S
+ATOM   1026  C   TYR A1122      13.136  -0.453  12.405  0.00  0.00           C
+ATOM   1028  CB  TYR A1122      11.167  -1.505  11.239  0.00  0.00           C
+ATOM   1029  CG  TYR A1122      11.047  -0.274  10.378  0.00  0.00           C
+ATOM   1031  CD2 TYR A1122      10.576   0.930  10.901  0.00  0.00           C
+ATOM   1033  CE2 TYR A1122      10.460   2.075  10.103  0.00  0.00           C
+ATOM   1036  N   LEU A1123      12.652  -0.131  13.603  0.00  0.00           N
+ATOM   1037  CA  LEU A1123      13.093   1.073  14.308  0.00  0.00           C
+ATOM   1040  CB  LEU A1123      12.383   1.143  15.656  0.00  0.00           C
+ATOM   1041  CG  LEU A1123      12.574   2.400  16.505  0.00  0.00           C
+ATOM   1042  CD1 LEU A1123      11.838   3.587  15.891  0.00  0.00           C
+ATOM   1043  CD2 LEU A1123      12.065   2.117  17.897  0.00  0.00           C
+ATOM   1241  CB  ILE A1148       6.097   0.069  17.626  0.00  0.00           C
+ATOM   1242  CG1 ILE A1148       6.724  -1.325  17.436  0.00  0.00           C
+ATOM   1243  CG2 ILE A1148       6.793   0.856  18.771  0.00  0.00           C
+ATOM   1244  CD1 ILE A1148       6.577  -2.234  18.637  0.00  0.00           C
+ATOM   1265  CE1 PHE A1151       8.227   4.191  17.348  0.00  0.00           C
+ATOM   1267  CZ  PHE A1151       6.987   3.966  16.763  0.00  0.00           C

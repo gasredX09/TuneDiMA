@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  20.60  39.85  43.12 with max radius 8.14
+ATOM    124  O   ARG A 577      19.056  44.507  49.501  0.00  0.00           O
+ATOM    137  CG1 ILE A 578      15.879  43.124  48.439  0.00  0.00           C
+ATOM    139  CD1 ILE A 578      14.719  42.154  48.255  0.00  0.00           C
+ATOM    321  CA  LEU A 602      16.718  42.962  40.888  0.00  0.00           C
+ATOM    322  C   LEU A 602      18.218  42.995  40.578  0.00  0.00           C
+ATOM    323  O   LEU A 602      18.824  41.943  40.356  0.00  0.00           O
+ATOM    324  CB  LEU A 602      16.408  42.108  42.131  0.00  0.00           C
+ATOM    325  CG  LEU A 602      17.195  42.536  43.367  0.00  0.00           C
+ATOM    326  CD1 LEU A 602      16.824  43.955  43.804  0.00  0.00           C
+ATOM    327  CD2 LEU A 602      16.993  41.538  44.492  0.00  0.00           C
+ATOM    329  CA  MET A 603      20.263  44.302  40.310  0.00  0.00           C
+ATOM    330  C   MET A 603      20.975  44.100  41.653  0.00  0.00           C
+ATOM    331  O   MET A 603      20.555  44.633  42.667  0.00  0.00           O
+ATOM    336  N   ASP A 604      22.059  43.335  41.648  0.00  0.00           N
+ATOM    337  CA  ASP A 604      22.898  43.129  42.837  0.00  0.00           C
+ATOM    338  C   ASP A 604      22.794  44.161  43.973  0.00  0.00           C
+ATOM    341  CG  ASP A 604      24.883  41.572  42.685  0.00  0.00           C
+ATOM    342  OD1 ASP A 604      24.558  41.060  43.767  0.00  0.00           O
+ATOM    343  OD2 ASP A 604      25.622  41.001  41.849  0.00  0.00           O
+ATOM    345  CA  LYS A 615      24.583  40.733  37.602  0.00  0.00           C
+ATOM    346  C   LYS A 615      23.222  41.076  38.202  0.00  0.00           C
+ATOM    347  O   LYS A 615      23.082  41.977  39.045  0.00  0.00           O
+ATOM    348  CB  LYS A 615      25.421  39.941  38.602  0.00  0.00           C
+ATOM    353  N   LYS A 616      22.225  40.326  37.757  0.00  0.00           N
+ATOM    354  CA  LYS A 616      20.842  40.596  38.080  0.00  0.00           C
+ATOM    355  C   LYS A 616      20.050  39.308  38.110  0.00  0.00           C
+ATOM    356  O   LYS A 616      20.462  38.273  37.554  0.00  0.00           O
+ATOM    362  N   ILE A 617      18.909  39.394  38.771  0.00  0.00           N
+ATOM    363  CA  ILE A 617      18.008  38.267  38.897  0.00  0.00           C
+ATOM    367  CB  ILE A 617      18.069  37.672  40.322  0.00  0.00           C
+ATOM    369  CG1 ILE A 617      17.269  36.369  40.422  0.00  0.00           C
+ATOM    371  CG2 ILE A 617      17.584  38.665  41.381  0.00  0.00           C

@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  11.29 196.02 -75.72 with max radius 5.30
+ATOM    329  CB  ASN U  58       8.409 194.222 -72.753  0.00  0.00           C
+ATOM    330  CG  ASN U  58       8.422 195.258 -73.851  0.00  0.00           C
+ATOM    331  OD1 ASN U  58       8.112 194.961 -74.988  0.00  0.00           O
+ATOM    332  ND2 ASN U  58       8.769 196.479 -73.503  0.00  0.00           N
+ATOM   1133  C   GLY U 159      13.775 192.141 -72.368  0.00  0.00           C
+ATOM   1134  O   GLY U 159      12.722 192.704 -72.566  0.00  0.00           O
+ATOM   1136  CA  PHE U 160      14.627 192.747 -74.589  0.00  0.00           C
+ATOM   1137  C   PHE U 160      14.374 191.781 -75.750  0.00  0.00           C
+ATOM   1138  O   PHE U 160      14.224 192.279 -76.907  0.00  0.00           O
+ATOM   1139  CB  PHE U 160      15.960 193.519 -74.923  0.00  0.00           C
+ATOM   1140  CG  PHE U 160      16.134 194.867 -74.205  0.00  0.00           C
+ATOM   1141  CD1 PHE U 160      15.237 195.905 -74.410  0.00  0.00           C
+ATOM   1143  CE1 PHE U 160      15.430 197.168 -73.797  0.00  0.00           C
+ATOM   1156  CG  GLN U 162      12.173 192.113 -79.818  0.00  0.00           C
+ATOM   1157  CD  GLN U 162      10.822 192.425 -79.273  0.00  0.00           C
+ATOM   1158  OE1 GLN U 162       9.870 192.595 -80.007  0.00  0.00           O
+ATOM   1159  NE2 GLN U 162      10.735 192.544 -77.985  0.00  0.00           N
+ATOM   1237  CG1 VAL U 172      11.981 200.268 -78.809  0.00  0.00           C
+ATOM   1252  CG  ARG U 174      14.853 196.497 -78.226  0.00  0.00           C
+ATOM   1253  CD  ARG U 174      14.069 195.274 -78.632  0.00  0.00           C
+ATOM   1254  NE  ARG U 174      12.645 195.596 -78.706  0.00  0.00           N
+ATOM   1255  CZ  ARG U 174      12.007 195.977 -79.832  0.00  0.00           C
+ATOM   1257  NH2 ARG U 174      10.700 196.206 -79.745  0.00  0.00           N

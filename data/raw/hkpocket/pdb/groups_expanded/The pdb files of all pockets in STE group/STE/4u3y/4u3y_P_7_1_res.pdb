@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -36.93  21.42  11.53 with max radius 6.28
+ATOM      4  O   SER A  17     -32.011  23.452  10.706  0.00  0.00           O
+ATOM      8  CA  LEU A  18     -31.990  20.556  10.825  0.00  0.00           C
+ATOM      9  C   LEU A  18     -31.347  20.754  12.196  0.00  0.00           C
+ATOM     14  CD2 LEU A  18     -34.179  19.134   9.214  0.00  0.00           C
+ATOM     15  N   ARG A  19     -32.184  21.061  13.203  0.00  0.00           N
+ATOM     16  CA  ARG A  19     -31.796  21.427  14.563  0.00  0.00           C
+ATOM     19  CB  ARG A  19     -32.817  22.447  15.145  0.00  0.00           C
+ATOM     20  CG  ARG A  19     -33.070  23.703  14.309  0.00  0.00           C
+ATOM     21  CD  ARG A  19     -34.081  24.632  14.967  0.00  0.00           C
+ATOM     22  NE  ARG A  19     -35.450  24.096  14.935  0.00  0.00           N
+ATOM     24  NH1 ARG A  19     -37.683  24.074  15.513  0.00  0.00           N
+ATOM    557  CZ  TYR A  85     -41.071  18.373   7.939  0.00  0.00           C
+ATOM    558  OH  TYR A  85     -39.814  18.913   8.040  0.00  0.00           O
+ATOM    572  CA  GLY A  87     -40.849  19.074  11.288  0.00  0.00           C
+ATOM    573  C   GLY A  87     -39.871  17.940  11.372  0.00  0.00           C
+ATOM    575  N   ALA A  88     -38.586  18.272  11.310  0.00  0.00           N
+ATOM    576  CA  ALA A  88     -37.529  17.282  11.354  0.00  0.00           C
+ATOM    577  C   ALA A  88     -36.362  17.856  12.133  0.00  0.00           C
+ATOM    578  O   ALA A  88     -36.104  19.062  12.057  0.00  0.00           O
+ATOM    579  CB  ALA A  88     -37.090  16.905   9.949  0.00  0.00           C
+ATOM    585  CG  PHE A  89     -36.201  18.459  15.420  0.00  0.00           C
+ATOM    586  CD1 PHE A  89     -37.533  18.174  15.138  0.00  0.00           C
+ATOM    587  CD2 PHE A  89     -35.866  19.746  15.827  0.00  0.00           C
+ATOM    588  CE1 PHE A  89     -38.515  19.172  15.212  0.00  0.00           C
+ATOM    589  CE2 PHE A  89     -36.848  20.733  15.955  0.00  0.00           C
+ATOM    590  CZ  PHE A  89     -38.170  20.448  15.619  0.00  0.00           C

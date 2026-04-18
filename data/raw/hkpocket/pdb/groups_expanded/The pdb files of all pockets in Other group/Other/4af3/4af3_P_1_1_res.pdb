@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  15.42 -33.37  -2.84 with max radius 5.28
+ATOM    143  CA  GLY A  89      19.582 -30.737  -4.741  0.00  0.00           C
+ATOM    144  C   GLY A  89      19.496 -31.110  -6.214  0.00  0.00           C
+ATOM    146  N   ASN A  90      18.327 -31.584  -6.623  0.00  0.00           N
+ATOM    147  CA  ASN A  90      18.121 -32.093  -7.968  0.00  0.00           C
+ATOM    150  CB  ASN A  90      17.236 -33.348  -7.935  0.00  0.00           C
+ATOM    151  CG  ASN A  90      17.505 -34.224  -6.721  0.00  0.00           C
+ATOM    152  OD1 ASN A  90      18.625 -34.279  -6.202  0.00  0.00           O
+ATOM    153  ND2 ASN A  90      16.470 -34.908  -6.256  0.00  0.00           N
+ATOM    285  CE  LYS A 106      15.474 -28.063  -4.720  0.00  0.00           C
+ATOM    289  C   VAL A 107      12.944 -32.739  -6.721  0.00  0.00           C
+ATOM    290  O   VAL A 107      14.049 -32.700  -6.181  0.00  0.00           O
+ATOM    294  N   LEU A 108      11.804 -32.943  -6.062  0.00  0.00           N
+ATOM    295  CA  LEU A 108      11.752 -33.209  -4.624  0.00  0.00           C
+ATOM    296  C   LEU A 108      11.244 -34.625  -4.317  0.00  0.00           C
+ATOM    298  CB  LEU A 108      10.838 -32.198  -3.951  0.00  0.00           C
+ATOM    299  CG  LEU A 108      11.291 -30.750  -4.098  0.00  0.00           C
+ATOM    301  CD2 LEU A 108      12.631 -30.519  -3.402  0.00  0.00           C
+ATOM    302  N   PHE A 109      12.089 -35.425  -3.672  0.00  0.00           N
+ATOM    303  CA  PHE A 109      11.755 -36.806  -3.308  0.00  0.00           C
+ATOM    304  C   PHE A 109      10.904 -36.868  -2.046  0.00  0.00           C
+ATOM    305  O   PHE A 109      11.300 -36.361  -1.000  0.00  0.00           O
+ATOM    306  CB  PHE A 109      13.038 -37.629  -3.109  0.00  0.00           C
+ATOM    307  CG  PHE A 109      13.661 -38.088  -4.395  0.00  0.00           C
+ATOM    308  CD1 PHE A 109      14.141 -37.167  -5.319  0.00  0.00           C
+ATOM    310  CE1 PHE A 109      14.701 -37.590  -6.514  0.00  0.00           C
+ATOM    332  CB  GLN A 112      14.217 -36.041   0.864  0.00  0.00           C
+ATOM    333  CG  GLN A 112      15.196 -36.845   0.014  0.00  0.00           C

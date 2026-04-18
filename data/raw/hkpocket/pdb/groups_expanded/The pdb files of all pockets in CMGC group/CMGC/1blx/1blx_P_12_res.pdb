@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  30.74  -5.00  43.95 with max radius 5.50
+ATOM   1626  NH1 ARG A 214      25.724  -9.038  42.957  0.00  0.00           N
+ATOM   1627  NH2 ARG A 214      27.358 -10.119  44.125  0.00  0.00           N
+ATOM   1651  O   PRO A 217      28.444 -10.124  46.947  0.00  0.00           O
+ATOM   1656  CA  LEU A 218      27.229  -7.766  47.472  0.00  0.00           C
+ATOM   1657  C   LEU A 218      28.613  -7.072  47.413  0.00  0.00           C
+ATOM   1658  O   LEU A 218      28.998  -6.606  46.329  0.00  0.00           O
+ATOM   1660  CG  LEU A 218      25.997  -5.499  47.158  0.00  0.00           C
+ATOM   1661  CD1 LEU A 218      25.783  -5.793  45.670  0.00  0.00           C
+ATOM   1663  N   PHE A 219      29.242  -6.905  48.582  0.00  0.00           N
+ATOM   1664  CA  PHE A 219      30.447  -6.060  48.612  0.00  0.00           C
+ATOM   1665  C   PHE A 219      31.555  -6.915  49.206  0.00  0.00           C
+ATOM   1667  CB  PHE A 219      30.268  -4.801  49.446  0.00  0.00           C
+ATOM   1668  CG  PHE A 219      29.169  -3.841  49.048  0.00  0.00           C
+ATOM   1669  CD1 PHE A 219      29.197  -3.248  47.789  0.00  0.00           C
+ATOM   1671  CE1 PHE A 219      28.197  -2.363  47.438  0.00  0.00           C
+ATOM   1674  N   ARG A 220      32.462  -7.455  48.399  0.00  0.00           N
+ATOM   1746  CA  LYS A 230      33.741  -1.623  46.439  0.00  0.00           C
+ATOM   1747  C   LYS A 230      32.374  -1.039  46.768  0.00  0.00           C
+ATOM   1748  O   LYS A 230      31.571  -0.942  45.858  0.00  0.00           O
+ATOM   1749  CB  LYS A 230      33.810  -2.992  47.090  0.00  0.00           C
+ATOM   1750  CG  LYS A 230      35.131  -3.702  47.179  0.00  0.00           C
+ATOM   1751  CD  LYS A 230      35.505  -4.347  45.873  0.00  0.00           C
+ATOM   1752  CE  LYS A 230      36.492  -5.498  46.105  0.00  0.00           C
+ATOM   1753  NZ  LYS A 230      36.505  -6.316  44.856  0.00  0.00           N
+ATOM   1774  CB  ASP A 233      32.383   0.581  42.808  0.00  0.00           C
+ATOM   1784  CG2 VAL A 234      28.295  -1.487  43.767  0.00  0.00           C
+ATOM   2015  CD1 PHE A 265      26.831  -4.830  41.193  0.00  0.00           C
+ATOM   2017  CE1 PHE A 265      27.773  -3.987  40.630  0.00  0.00           C
+ATOM   2019  CZ  PHE A 265      27.394  -2.728  40.214  0.00  0.00           C

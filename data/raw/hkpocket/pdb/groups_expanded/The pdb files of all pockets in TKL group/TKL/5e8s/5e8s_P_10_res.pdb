@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.69  22.27   8.51 with max radius 6.83
+ATOM    139  N   GLY A 217       3.424  17.460  12.239  0.00  0.00           N
+ATOM    140  CA  GLY A 217       3.107  17.684  10.833  0.00  0.00           C
+ATOM    141  C   GLY A 217       1.901  16.945  10.288  0.00  0.00           C
+ATOM    143  N   GLU A 218       1.649  17.156   9.016  0.00  0.00           N
+ATOM    144  CA  GLU A 218       0.496  16.653   8.291  0.00  0.00           C
+ATOM    147  CB  GLU A 218      -0.337  17.881   7.877  0.00  0.00           C
+ATOM    148  CG  GLU A 218      -1.839  17.746   7.754  0.00  0.00           C
+ATOM    149  CD  GLU A 218      -2.582  17.110   8.909  0.00  0.00           C
+ATOM    151  OE2 GLU A 218      -2.859  17.806   9.912  0.00  0.00           O
+ATOM    273  CA  ILE A 233       4.359  19.446   6.081  0.00  0.00           C
+ATOM    274  C   ILE A 233       4.305  19.825   7.531  0.00  0.00           C
+ATOM    275  O   ILE A 233       3.381  19.412   8.246  0.00  0.00           O
+ATOM    276  CB  ILE A 233       3.245  20.156   5.283  0.00  0.00           C
+ATOM    278  CG2 ILE A 233       3.323  21.686   5.512  0.00  0.00           C
+ATOM    281  CA  PHE A 234       5.384  21.107   9.324  0.00  0.00           C
+ATOM    282  C   PHE A 234       5.241  22.628   9.320  0.00  0.00           C
+ATOM    283  O   PHE A 234       5.555  23.309   8.334  0.00  0.00           O
+ATOM    291  N   SER A 235       4.793  23.168  10.442  0.00  0.00           N
+ATOM    292  CA  SER A 235       4.714  24.609  10.585  0.00  0.00           C
+ATOM    295  CB  SER A 235       3.641  25.003  11.588  0.00  0.00           C
+ATOM    322  OE2 GLU A 238       4.174  21.161  12.488  0.00  0.00           O
+ATOM    615  CD1 TRP A 273       2.011  28.366   6.717  0.00  0.00           C
+ATOM    617  NE1 TRP A 273       0.939  27.609   6.288  0.00  0.00           N
+ATOM    620  CZ2 TRP A 273      -1.460  28.121   5.706  0.00  0.00           C
+ATOM    631  CA  GLN A 275       5.671  25.505   5.262  0.00  0.00           C
+ATOM    634  CB  GLN A 275       4.774  24.899   4.190  0.00  0.00           C
+ATOM    635  CG  GLN A 275       3.344  25.449   4.227  0.00  0.00           C
+ATOM    636  CD  GLN A 275       2.477  24.758   3.198  0.00  0.00           C
+ATOM    638  NE2 GLN A 275       1.204  24.515   3.535  0.00  0.00           N

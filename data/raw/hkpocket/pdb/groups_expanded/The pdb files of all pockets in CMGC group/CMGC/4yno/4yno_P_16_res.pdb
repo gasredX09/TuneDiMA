@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 16 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -32.20   8.87 -35.05 with max radius 6.23
+ATOM     40  CD  LYS A   6     -33.239   6.920 -39.370  0.00  0.00           C
+ATOM     41  CE  LYS A   6     -31.957   7.400 -38.725  0.00  0.00           C
+ATOM     42  NZ  LYS A   6     -31.883   6.993 -37.295  0.00  0.00           N
+ATOM    707  O   VAL A  90     -26.793  12.001 -34.969  0.00  0.00           O
+ATOM    712  CA  PHE A  91     -26.584   9.386 -35.790  0.00  0.00           C
+ATOM    715  CB  PHE A  91     -26.441   9.609 -37.304  0.00  0.00           C
+ATOM    722  N   THR A  92     -27.653   7.210 -35.816  0.00  0.00           N
+ATOM    725  O   THR A  92     -29.318   6.006 -37.485  0.00  0.00           O
+ATOM    728  CG2 THR A  92     -29.786   5.727 -34.372  0.00  0.00           C
+ATOM    739  O   ALA A  94     -32.742   4.086 -36.936  0.00  0.00           O
+ATOM    740  CB  ALA A  94     -31.311   2.057 -34.942  0.00  0.00           C
+ATOM   2702  CA  TYR A 343     -32.163   7.017 -28.521  0.00  0.00           C
+ATOM   2703  C   TYR A 343     -32.798   8.403 -28.608  0.00  0.00           C
+ATOM   2704  O   TYR A 343     -32.721   9.069 -29.644  0.00  0.00           O
+ATOM   2705  CB  TYR A 343     -33.238   5.927 -28.586  0.00  0.00           C
+ATOM   2706  CG  TYR A 343     -33.842   5.737 -29.953  0.00  0.00           C
+ATOM   2707  CD1 TYR A 343     -34.854   6.572 -30.407  0.00  0.00           C
+ATOM   2708  CD2 TYR A 343     -33.401   4.717 -30.793  0.00  0.00           C
+ATOM   2709  CE1 TYR A 343     -35.410   6.404 -31.657  0.00  0.00           C
+ATOM   2710  CE2 TYR A 343     -33.952   4.540 -32.044  0.00  0.00           C
+ATOM   2711  CZ  TYR A 343     -34.956   5.386 -32.470  0.00  0.00           C
+ATOM   2712  OH  TYR A 343     -35.508   5.219 -33.718  0.00  0.00           O
+ATOM   2732  CA  ILE A 346     -29.771  11.341 -30.617  0.00  0.00           C
+ATOM   2733  C   ILE A 346     -30.713  12.139 -31.531  0.00  0.00           C
+ATOM   2734  O   ILE A 346     -30.269  12.968 -32.331  0.00  0.00           O
+ATOM   2735  CB  ILE A 346     -29.543   9.924 -31.179  0.00  0.00           C
+ATOM   2736  CG1 ILE A 346     -28.383   9.262 -30.424  0.00  0.00           C
+ATOM   2737  CG2 ILE A 346     -29.259   9.982 -32.667  0.00  0.00           C
+ATOM   2738  CD1 ILE A 346     -28.156   7.811 -30.758  0.00  0.00           C
+ATOM   2739  N   VAL A 347     -32.011  11.897 -31.389  0.00  0.00           N
+ATOM   2740  CA  VAL A 347     -33.024  12.616 -32.157  0.00  0.00           C
+ATOM   2743  CB  VAL A 347     -34.432  12.105 -31.818  0.00  0.00           C
+ATOM   2744  CG1 VAL A 347     -35.484  12.881 -32.590  0.00  0.00           C
+ATOM   2745  CG2 VAL A 347     -34.535  10.613 -32.107  0.00  0.00           C

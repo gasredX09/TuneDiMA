@@ -1,0 +1,61 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 55 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  95.24  -1.25 148.91 with max radius 7.65
+ATOM   1458  CA  SER A1236      98.924   1.723 143.293  0.00  0.00           C
+ATOM   1459  C   SER A1236      97.451   1.879 142.947  0.00  0.00           C
+ATOM   1460  O   SER A1236      96.740   2.611 143.608  0.00  0.00           O
+ATOM   1461  CB  SER A1236      99.045   0.775 144.491  0.00  0.00           C
+ATOM   1463  N   VAL A1237      96.974   1.160 141.930  0.00  0.00           N
+ATOM   1464  CA  VAL A1237      95.573   1.280 141.522  0.00  0.00           C
+ATOM   1465  C   VAL A1237      94.671   0.463 142.441  0.00  0.00           C
+ATOM   1466  O   VAL A1237      95.017  -0.656 142.833  0.00  0.00           O
+ATOM   1470  N   HIS A1238      93.525   1.032 142.807  0.00  0.00           N
+ATOM   1471  CA  HIS A1238      92.522   0.278 143.537  0.00  0.00           C
+ATOM   1474  CB  HIS A1238      91.862   1.112 144.633  0.00  0.00           C
+ATOM   1475  CG  HIS A1238      91.331   0.289 145.764  0.00  0.00           C
+ATOM   1476  ND1 HIS A1238      90.189  -0.477 145.657  0.00  0.00           N
+ATOM   1477  CD2 HIS A1238      91.798   0.092 147.020  0.00  0.00           C
+ATOM   1478  CE1 HIS A1238      89.972  -1.103 146.800  0.00  0.00           C
+ATOM   1479  NE2 HIS A1238      90.933  -0.773 147.645  0.00  0.00           N
+ATOM   1526  CB  LEU A1245      95.840   4.652 146.469  0.00  0.00           C
+ATOM   1527  CG  LEU A1245      94.335   4.602 146.184  0.00  0.00           C
+ATOM   1528  CD1 LEU A1245      93.705   3.415 146.914  0.00  0.00           C
+ATOM   1541  CB  VAL A1247      99.419   2.297 149.356  0.00  0.00           C
+ATOM   1542  CG1 VAL A1247      99.494   1.334 150.503  0.00  0.00           C
+ATOM   1543  CG2 VAL A1247      98.178   2.054 148.502  0.00  0.00           C
+ATOM   1574  CE  MET A1250      94.586   5.566 150.704  0.00  0.00           C
+ATOM   1604  CA  LEU A1255      93.219   2.525 153.089  0.00  0.00           C
+ATOM   1605  C   LEU A1255      92.011   1.592 153.080  0.00  0.00           C
+ATOM   1606  O   LEU A1255      91.815   0.812 152.142  0.00  0.00           O
+ATOM   1607  CB  LEU A1255      94.387   1.834 153.787  0.00  0.00           C
+ATOM   1608  CG  LEU A1255      95.743   2.489 153.583  0.00  0.00           C
+ATOM   1609  CD1 LEU A1255      96.751   1.958 154.600  0.00  0.00           C
+ATOM   1610  CD2 LEU A1255      96.230   2.242 152.169  0.00  0.00           C
+ATOM   1632  CG  GLN A1258      89.182   3.420 148.580  0.00  0.00           C
+ATOM   1882  C   THR A1289     100.742  -2.736 149.269  0.00  0.00           C
+ATOM   1883  O   THR A1289     100.131  -2.149 150.154  0.00  0.00           O
+ATOM   1885  OG1 THR A1289     100.559  -0.828 147.253  0.00  0.00           O
+ATOM   1887  N   PHE A1290     100.386  -3.929 148.780  0.00  0.00           N
+ATOM   1888  CA  PHE A1290      99.119  -4.592 149.108  0.00  0.00           C
+ATOM   1889  C   PHE A1290      99.071  -5.189 150.517  0.00  0.00           C
+ATOM   1890  O   PHE A1290      98.042  -5.715 150.944  0.00  0.00           O
+ATOM   1891  CB  PHE A1290      98.823  -5.677 148.074  0.00  0.00           C
+ATOM   1892  CG  PHE A1290      98.493  -5.129 146.702  0.00  0.00           C
+ATOM   1893  CD1 PHE A1290      97.391  -4.307 146.521  0.00  0.00           C
+ATOM   1895  CE1 PHE A1290      97.080  -3.798 145.254  0.00  0.00           C
+ATOM   1897  CZ  PHE A1290      97.877  -4.112 144.170  0.00  0.00           C
+ATOM   1898  N   ASP A1291     100.165  -5.068 151.246  0.00  0.00           N
+ATOM   1900  C   ASP A1291     100.360  -4.525 153.698  0.00  0.00           C
+ATOM   1906  N   ILE A1292     100.353  -3.244 153.319  0.00  0.00           N
+ATOM   1907  CA  ILE A1292     100.523  -2.162 154.287  0.00  0.00           C
+ATOM   1908  C   ILE A1292      99.334  -2.052 155.235  0.00  0.00           C
+ATOM   1910  CB  ILE A1292     100.737  -0.815 153.575  0.00  0.00           C
+ATOM   1912  CG2 ILE A1292     100.727   0.327 154.554  0.00  0.00           C
+ATOM   1914  N   THR A1293      98.121  -2.262 154.725  0.00  0.00           N
+ATOM   1915  CA  THR A1293      96.940  -2.127 155.573  0.00  0.00           C
+ATOM   1918  CB  THR A1293      95.637  -2.366 154.777  0.00  0.00           C
+ATOM   1919  OG1 THR A1293      95.584  -1.437 153.675  0.00  0.00           O
+ATOM   1920  CG2 THR A1293      94.429  -2.155 155.677  0.00  0.00           C

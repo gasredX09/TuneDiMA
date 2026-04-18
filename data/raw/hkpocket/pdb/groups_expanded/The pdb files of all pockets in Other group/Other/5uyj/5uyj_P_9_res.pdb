@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   4.15 -16.91 -11.45 with max radius 7.95
+ATOM   3326  CD1 TYR A 381       0.337 -16.174 -14.542  0.00  0.00           C
+ATOM   3328  CE1 TYR A 381       1.484 -16.691 -13.951  0.00  0.00           C
+ATOM   3329  CE2 TYR A 381       2.800 -15.762 -15.724  0.00  0.00           C
+ATOM   3330  CZ  TYR A 381       2.719 -16.456 -14.529  0.00  0.00           C
+ATOM   3331  OH  TYR A 381       3.853 -16.875 -13.891  0.00  0.00           O
+ATOM   3389  CA  PHE A 385      -0.952 -21.456 -15.211  0.00  0.00           C
+ATOM   3390  C   PHE A 385      -1.746 -21.771 -13.938  0.00  0.00           C
+ATOM   3391  O   PHE A 385      -1.248 -22.509 -13.090  0.00  0.00           O
+ATOM   3392  CB  PHE A 385       0.135 -20.432 -14.898  0.00  0.00           C
+ATOM   3393  CG  PHE A 385       1.118 -20.305 -16.031  0.00  0.00           C
+ATOM   3394  CD1 PHE A 385       1.900 -21.384 -16.414  0.00  0.00           C
+ATOM   3415  N   GLN A 387      -2.639 -19.723 -11.557  0.00  0.00           N
+ATOM   3416  CA  GLN A 387      -2.335 -18.805 -10.465  0.00  0.00           C
+ATOM   3417  C   GLN A 387      -1.764 -17.531 -11.060  0.00  0.00           C
+ATOM   3418  O   GLN A 387      -1.318 -17.537 -12.204  0.00  0.00           O
+ATOM   3419  CB  GLN A 387      -1.386 -19.470  -9.476  0.00  0.00           C
+ATOM   3420  CG  GLN A 387      -0.835 -18.625  -8.343  0.00  0.00           C
+ATOM   3432  N   CYS A 388      -1.859 -16.425 -10.320  0.00  0.00           N
+ATOM   3433  CA  CYS A 388      -1.415 -15.120 -10.716  0.00  0.00           C
+ATOM   3434  C   CYS A 388       0.102 -15.063 -10.841  0.00  0.00           C
+ATOM   3435  O   CYS A 388       0.822 -15.801 -10.153  0.00  0.00           O
+ATOM   3444  CA  PRO A 389       2.035 -13.960 -11.841  0.00  0.00           C
+ATOM   3445  C   PRO A 389       2.748 -13.320 -10.655  0.00  0.00           C
+ATOM   3446  O   PRO A 389       3.945 -13.562 -10.475  0.00  0.00           O
+ATOM   3447  CB  PRO A 389       2.137 -13.067 -13.083  0.00  0.00           C
+ATOM   3462  CG  PHE A 390       3.264  -9.862 -10.161  0.00  0.00           C
+ATOM   3463  CD1 PHE A 390       4.613 -10.091 -10.342  0.00  0.00           C
+ATOM   3465  CE1 PHE A 390       5.234  -9.803 -11.561  0.00  0.00           C
+ATOM   3467  CZ  PHE A 390       4.504  -9.289 -12.602  0.00  0.00           C
+ATOM   3717  CG  GLN A 405       8.845 -10.266  -8.934  0.00  0.00           C
+ATOM   3718  CD  GLN A 405       8.130 -11.132  -7.924  0.00  0.00           C
+ATOM   3719  OE1 GLN A 405       6.948 -11.415  -8.079  0.00  0.00           O
+ATOM   3731  C   ALA A 406       8.910 -10.051 -13.552  0.00  0.00           C
+ATOM   3732  O   ALA A 406       8.929 -11.004 -12.784  0.00  0.00           O
+ATOM   3739  N   LEU A 407       8.117 -10.005 -14.610  0.00  0.00           N
+ATOM   3740  CA  LEU A 407       7.251 -11.123 -14.966  0.00  0.00           C
+ATOM   3741  C   LEU A 407       8.090 -12.356 -15.282  0.00  0.00           C
+ATOM   3743  CB  LEU A 407       6.430 -10.754 -16.202  0.00  0.00           C
+ATOM   3744  CG  LEU A 407       5.541 -11.831 -16.791  0.00  0.00           C
+ATOM   3745  CD1 LEU A 407       4.453 -12.226 -15.820  0.00  0.00           C
+ATOM   3758  N   GLU A 408       7.698 -13.517 -14.738  0.00  0.00           N
+ATOM   3759  CA  GLU A 408       8.330 -14.792 -15.033  0.00  0.00           C
+ATOM   3760  C   GLU A 408       7.269 -15.832 -15.323  0.00  0.00           C
+ATOM   3761  O   GLU A 408       6.119 -15.706 -14.872  0.00  0.00           O
+ATOM   3762  CB  GLU A 408       9.217 -15.256 -13.890  0.00  0.00           C
+ATOM   3763  CG  GLU A 408      10.501 -14.464 -13.828  0.00  0.00           C
+ATOM   3764  CD  GLU A 408      11.446 -14.864 -12.723  0.00  0.00           C
+ATOM   3765  OE1 GLU A 408      11.152 -15.844 -11.999  0.00  0.00           O
+ATOM   3798  CG  PRO A 410       4.766 -21.016 -14.094  0.00  0.00           C
+ATOM   3799  CD  PRO A 410       5.080 -19.943 -15.076  0.00  0.00           C

@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -4.51 -21.65   2.43 with max radius 5.28
+ATOM     44  C   GLY A  29      -5.145 -23.680   7.261  0.00  0.00           C
+ATOM     45  O   GLY A  29      -5.648 -23.616   6.133  0.00  0.00           O
+ATOM     50  CA  LEU A  30      -3.322 -25.070   6.429  0.00  0.00           C
+ATOM     51  C   LEU A  30      -4.154 -26.315   6.095  0.00  0.00           C
+ATOM     56  CD2 LEU A  30      -0.554 -23.693   5.592  0.00  0.00           C
+ATOM     68  N   GLY A  31      -4.030 -26.750   4.855  0.00  0.00           N
+ATOM    393  CA  GLU A  54      -2.857 -24.634  -1.395  0.00  0.00           C
+ATOM    394  C   GLU A  54      -2.209 -23.294  -1.681  0.00  0.00           C
+ATOM    396  CB  GLU A  54      -2.915 -24.907   0.114  0.00  0.00           C
+ATOM    397  CG  GLU A  54      -1.586 -25.183   0.779  0.00  0.00           C
+ATOM    398  CD  GLU A  54      -1.691 -25.497   2.266  0.00  0.00           C
+ATOM    399  OE1 GLU A  54      -2.770 -25.272   2.861  0.00  0.00           O
+ATOM    407  N   GLY A  55      -3.012 -22.229  -1.583  0.00  0.00           N
+ATOM    408  CA  GLY A  55      -2.597 -20.851  -1.822  0.00  0.00           C
+ATOM    409  C   GLY A  55      -3.679 -19.991  -2.456  0.00  0.00           C
+ATOM    421  N   PHE A  57      -6.488 -18.305  -0.936  0.00  0.00           N
+ATOM    422  CA  PHE A  57      -7.821 -18.652  -0.403  0.00  0.00           C
+ATOM    423  C   PHE A  57      -8.394 -19.987  -0.956  0.00  0.00           C
+ATOM    428  N   ALA A  58      -7.572 -20.808  -1.668  0.00  0.00           N
+ATOM    429  CA  ALA A  58      -8.006 -22.070  -2.263  0.00  0.00           C
+ATOM    430  C   ALA A  58      -7.104 -23.206  -1.835  0.00  0.00           C
+ATOM    431  O   ALA A  58      -5.889 -23.039  -1.775  0.00  0.00           O
+ATOM    438  N   ILE A  59      -7.698 -24.359  -1.542  0.00  0.00           N
+ATOM    443  CG1 ILE A  59      -6.621 -24.838   1.202  0.00  0.00           C
+ATOM    445  CD1 ILE A  59      -6.846 -25.077   2.691  0.00  0.00           C

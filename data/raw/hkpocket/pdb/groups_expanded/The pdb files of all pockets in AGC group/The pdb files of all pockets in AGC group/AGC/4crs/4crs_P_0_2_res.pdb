@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -10.67  24.31 203.86 with max radius 5.57
+ATOM    630  CG1 VAL A 721      -6.268  28.019 199.755  0.00  0.00           C
+ATOM    631  CG2 VAL A 721      -7.286  29.721 201.230  0.00  0.00           C
+ATOM    766  C   GLU A 738      -9.323  23.783 199.688  0.00  0.00           C
+ATOM    767  O   GLU A 738      -9.310  25.011 199.701  0.00  0.00           O
+ATOM    768  CB  GLU A 738      -7.405  22.764 200.999  0.00  0.00           C
+ATOM    769  CG  GLU A 738      -7.305  23.997 201.876  0.00  0.00           C
+ATOM    770  CD  GLU A 738      -6.703  23.694 203.233  0.00  0.00           C
+ATOM    771  OE1 GLU A 738      -6.878  22.556 203.735  0.00  0.00           O
+ATOM    772  OE2 GLU A 738      -6.057  24.608 203.795  0.00  0.00           O
+ATOM    773  N   TYR A 739     -10.432  23.065 199.711  0.00  0.00           N
+ATOM    774  CA  TYR A 739     -11.746  23.652 199.528  0.00  0.00           C
+ATOM    775  C   TYR A 739     -12.259  24.237 200.841  0.00  0.00           C
+ATOM    776  O   TYR A 739     -12.362  23.526 201.835  0.00  0.00           O
+ATOM    785  N   ALA A 740     -12.565  25.533 200.841  0.00  0.00           N
+ATOM    786  CA  ALA A 740     -13.139  26.202 202.005  0.00  0.00           C
+ATOM    789  CB  ALA A 740     -12.476  27.545 202.217  0.00  0.00           C
+ATOM   1186  CD1 LEU A 789     -11.144  30.913 200.190  0.00  0.00           C
+ATOM   1197  CA  ASP A 791     -13.927  26.347 206.295  0.00  0.00           C
+ATOM   1200  CB  ASP A 791     -12.612  25.694 206.758  0.00  0.00           C
+ATOM   1201  CG  ASP A 791     -12.342  25.867 208.243  0.00  0.00           C
+ATOM   1204  N   THR A 792     -15.350  24.471 206.890  0.00  0.00           N
+ATOM   1246  CB  LYS A 797      -8.593  30.215 204.920  0.00  0.00           C
+ATOM   1247  CG  LYS A 797      -8.669  28.943 205.735  0.00  0.00           C
+ATOM   1248  CD  LYS A 797      -7.661  27.932 205.230  0.00  0.00           C
+ATOM   1249  CE  LYS A 797      -7.796  26.607 205.956  0.00  0.00           C
+ATOM   1250  NZ  LYS A 797      -6.480  25.912 206.008  0.00  0.00           N

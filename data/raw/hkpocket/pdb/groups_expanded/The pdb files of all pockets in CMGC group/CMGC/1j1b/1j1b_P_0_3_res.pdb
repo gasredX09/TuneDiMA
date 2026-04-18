@@ -1,0 +1,47 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 41 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   9.49  16.74 -11.73 with max radius 6.00
+ATOM    366  C   LYS A  85      13.246  20.776 -11.876  0.00  0.00           C
+ATOM    367  O   LYS A  85      12.158  20.649 -11.305  0.00  0.00           O
+ATOM    368  CB  LYS A  85      14.573  19.206 -10.442  0.00  0.00           C
+ATOM    369  CG  LYS A  85      14.419  18.035 -11.409  0.00  0.00           C
+ATOM    370  CD  LYS A  85      14.577  16.701 -10.687  0.00  0.00           C
+ATOM    371  CE  LYS A  85      14.606  15.539 -11.666  0.00  0.00           C
+ATOM    374  CA  LYS A  86      12.194  21.335 -13.997  0.00  0.00           C
+ATOM    375  C   LYS A  86      11.863  20.131 -14.874  0.00  0.00           C
+ATOM    382  N   VAL A  87      10.622  19.665 -14.792  0.00  0.00           N
+ATOM    383  CA  VAL A  87      10.190  18.511 -15.568  0.00  0.00           C
+ATOM    384  C   VAL A  87       8.810  18.724 -16.202  0.00  0.00           C
+ATOM    385  O   VAL A  87       7.938  19.363 -15.615  0.00  0.00           O
+ATOM    386  CB  VAL A  87      10.162  17.247 -14.670  0.00  0.00           C
+ATOM    387  CG1 VAL A  87       9.444  16.109 -15.369  0.00  0.00           C
+ATOM    388  CG2 VAL A  87      11.585  16.836 -14.322  0.00  0.00           C
+ATOM    405  NE2 GLN A  89       4.695  15.405 -13.925  0.00  0.00           N
+ATOM    459  CG  ASN A  95       6.233  14.253 -11.039  0.00  0.00           C
+ATOM    460  OD1 ASN A  95       6.605  14.481 -12.194  0.00  0.00           O
+ATOM    461  ND2 ASN A  95       7.051  13.813 -10.095  0.00  0.00           N
+ATOM    477  CB  GLU A  97       9.583  12.373  -9.106  0.00  0.00           C
+ATOM    478  CG  GLU A  97      10.971  12.732  -8.565  0.00  0.00           C
+ATOM    479  CD  GLU A  97      11.881  13.371  -9.615  0.00  0.00           C
+ATOM    480  OE1 GLU A  97      12.966  13.865  -9.240  0.00  0.00           O
+ATOM    481  OE2 GLU A  97      11.521  13.382 -10.814  0.00  0.00           O
+ATOM    486  CB  LEU A  98       5.854  15.593  -7.097  0.00  0.00           C
+ATOM    745  N   LEU A 128       6.521  21.006 -13.974  0.00  0.00           N
+ATOM    746  CA  LEU A 128       6.526  20.866 -12.529  0.00  0.00           C
+ATOM    747  C   LEU A 128       7.943  21.283 -12.147  0.00  0.00           C
+ATOM    748  O   LEU A 128       8.913  20.817 -12.755  0.00  0.00           O
+ATOM    749  CB  LEU A 128       6.282  19.413 -12.120  0.00  0.00           C
+ATOM    750  CG  LEU A 128       6.661  19.061 -10.674  0.00  0.00           C
+ATOM    751  CD1 LEU A 128       5.820  19.880  -9.695  0.00  0.00           C
+ATOM    752  CD2 LEU A 128       6.460  17.566 -10.442  0.00  0.00           C
+ATOM    753  N   ASN A 129       8.062  22.170 -11.166  0.00  0.00           N
+ATOM    754  CA  ASN A 129       9.361  22.662 -10.714  0.00  0.00           C
+ATOM    755  C   ASN A 129       9.618  22.248  -9.278  0.00  0.00           C
+ATOM    761  N   LEU A 130      10.626  21.403  -9.076  0.00  0.00           N
+ATOM    765  CB  LEU A 130      11.431  19.475  -7.783  0.00  0.00           C
+ATOM    766  CG  LEU A 130      10.473  18.486  -8.451  0.00  0.00           C
+ATOM    767  CD1 LEU A 130      11.093  17.097  -8.448  0.00  0.00           C
+ATOM    768  CD2 LEU A 130       9.141  18.486  -7.704  0.00  0.00           C

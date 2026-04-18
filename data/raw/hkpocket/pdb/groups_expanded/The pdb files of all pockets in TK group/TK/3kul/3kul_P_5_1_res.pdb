@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -1.67  20.84  50.79 with max radius 5.96
+ATOM   1033  CA  ARG A 759      -2.705  15.999  49.435  0.00  0.00           C
+ATOM   1034  C   ARG A 759      -1.867  16.204  50.700  0.00  0.00           C
+ATOM   1035  O   ARG A 759      -1.068  17.139  50.771  0.00  0.00           O
+ATOM   1036  CB  ARG A 759      -3.608  17.237  49.230  0.00  0.00           C
+ATOM   1037  CG  ARG A 759      -4.422  17.281  47.948  0.00  0.00           C
+ATOM   1038  CD  ARG A 759      -4.700  18.723  47.520  0.00  0.00           C
+ATOM   1039  NE  ARG A 759      -5.757  19.375  48.270  0.00  0.00           N
+ATOM   1040  CZ  ARG A 759      -5.623  20.512  48.954  0.00  0.00           C
+ATOM   1041  NH1 ARG A 759      -4.458  21.157  48.997  0.00  0.00           N
+ATOM   1042  NH2 ARG A 759      -6.672  21.024  49.586  0.00  0.00           N
+ATOM   1044  CA  ASP A 760      -1.385  15.510  52.979  0.00  0.00           C
+ATOM   1047  CB  ASP A 760      -2.394  16.116  53.966  0.00  0.00           C
+ATOM   1049  OD1 ASP A 760      -0.521  16.992  55.202  0.00  0.00           O
+ATOM   1202  CB  LEU A 781      -5.929  18.645  52.535  0.00  0.00           C
+ATOM   1203  CG  LEU A 781      -5.435  19.765  53.463  0.00  0.00           C
+ATOM   1204  CD1 LEU A 781      -3.960  19.582  53.801  0.00  0.00           C
+ATOM   1205  CD2 LEU A 781      -5.704  21.172  52.885  0.00  0.00           C
+ATOM   1280  CB  THR A 795      -5.142  24.122  46.768  0.00  0.00           C
+ATOM   1281  OG1 THR A 795      -5.202  22.698  46.611  0.00  0.00           O
+ATOM   1282  CG2 THR A 795      -5.867  24.514  48.065  0.00  0.00           C
+ATOM   1291  CA  ILE A 800       2.103  23.102  51.879  0.00  0.00           C
+ATOM   1294  CB  ILE A 800       2.086  22.684  50.340  0.00  0.00           C
+ATOM   1296  CG2 ILE A 800       0.991  23.431  49.550  0.00  0.00           C
+ATOM   1303  CG  PRO A 801       2.443  19.085  53.574  0.00  0.00           C
+ATOM   1304  CD  PRO A 801       1.974  20.457  53.183  0.00  0.00           C
+ATOM   1343  OG1 THR A 805       3.674  18.874  49.863  0.00  0.00           O
+ATOM   1344  CG2 THR A 805       3.288  19.060  47.533  0.00  0.00           C
+ATOM   1418  CG  PHE A 815      -2.332  19.255  45.215  0.00  0.00           C
+ATOM   1419  CD1 PHE A 815      -1.468  18.756  46.180  0.00  0.00           C
+ATOM   1420  CD2 PHE A 815      -2.524  20.635  45.140  0.00  0.00           C
+ATOM   1421  CE1 PHE A 815      -0.784  19.633  47.062  0.00  0.00           C
+ATOM   1422  CE2 PHE A 815      -1.844  21.510  46.004  0.00  0.00           C
+ATOM   1423  CZ  PHE A 815      -0.970  21.005  46.958  0.00  0.00           C

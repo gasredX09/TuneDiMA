@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  28.78  -5.52 -33.44 with max radius 5.28
+ATOM   1115  CZ  ARG A 625      24.960  -6.038 -35.213  0.00  0.00           C
+ATOM   1116  NH1 ARG A 625      25.233  -6.330 -33.946  0.00  0.00           N
+ATOM   1117  NH2 ARG A 625      25.845  -5.358 -35.946  0.00  0.00           N
+ATOM   1283  CB  LEU A 647      24.384 -10.428 -33.513  0.00  0.00           C
+ATOM   1285  CD1 LEU A 647      26.438 -11.750 -34.055  0.00  0.00           C
+ATOM   1286  CD2 LEU A 647      26.503  -9.993 -32.273  0.00  0.00           C
+ATOM   1300  CZ  ARG A 649      24.558  -2.362 -33.726  0.00  0.00           C
+ATOM   1302  NH2 ARG A 649      25.834  -2.665 -33.510  0.00  0.00           N
+ATOM   1398  OG1 THR A 660      25.717  -2.114 -36.743  0.00  0.00           O
+ATOM   1400  N   THR A 661      29.305  -0.840 -36.922  0.00  0.00           N
+ATOM   1401  CA  THR A 661      30.509  -1.290 -37.627  0.00  0.00           C
+ATOM   1402  C   THR A 661      30.524  -2.755 -38.082  0.00  0.00           C
+ATOM   1405  OG1 THR A 661      31.639  -1.446 -35.487  0.00  0.00           O
+ATOM   1407  N   ASN A 662      29.701  -3.577 -37.441  0.00  0.00           N
+ATOM   1408  CA  ASN A 662      29.500  -4.978 -37.856  0.00  0.00           C
+ATOM   1409  C   ASN A 662      30.683  -5.955 -37.859  0.00  0.00           C
+ATOM   1410  O   ASN A 662      30.658  -6.957 -38.600  0.00  0.00           O
+ATOM   1411  CB  ASN A 662      28.879  -4.994 -39.266  0.00  0.00           C
+ATOM   1412  CG  ASN A 662      27.628  -4.084 -39.391  0.00  0.00           C
+ATOM   1414  ND2 ASN A 662      26.828  -4.050 -38.353  0.00  0.00           N
+ATOM   1415  N   GLY A 663      31.699  -5.678 -37.042  0.00  0.00           N
+ATOM   1416  CA  GLY A 663      32.845  -6.566 -36.985  0.00  0.00           C
+ATOM   1417  C   GLY A 663      32.606  -7.928 -36.336  0.00  0.00           C
+ATOM   1419  N   ARG A 664      31.424  -8.159 -35.752  0.00  0.00           N
+ATOM   1420  CA  ARG A 664      31.151  -9.451 -35.127  0.00  0.00           C
+ATOM   1421  C   ARG A 664      30.156 -10.291 -35.953  0.00  0.00           C
+ATOM   1422  O   ARG A 664      29.625 -11.292 -35.467  0.00  0.00           O
+ATOM   1423  CB  ARG A 664      30.617  -9.246 -33.699  0.00  0.00           C
+ATOM   1424  CG  ARG A 664      31.690  -8.718 -32.734  0.00  0.00           C
+ATOM   1425  CD  ARG A 664      31.369  -9.097 -31.298  0.00  0.00           C
+ATOM   1426  NE  ARG A 664      30.093  -8.577 -30.856  0.00  0.00           N
+ATOM   1427  CZ  ARG A 664      29.299  -9.197 -29.969  0.00  0.00           C
+ATOM   1429  NH2 ARG A 664      28.162  -8.639 -29.602  0.00  0.00           N
+ATOM   1430  N   LEU A 665      29.925  -9.894 -37.198  0.00  0.00           N
+ATOM   1431  CA  LEU A 665      28.994 -10.634 -38.064  0.00  0.00           C
+ATOM   1434  CB  LEU A 665      28.154  -9.657 -38.899  0.00  0.00           C
+ATOM   1435  CG  LEU A 665      27.401  -8.541 -38.151  0.00  0.00           C
+ATOM   1436  CD1 LEU A 665      26.414  -7.856 -39.105  0.00  0.00           C
+ATOM   1437  CD2 LEU A 665      26.686  -9.102 -36.922  0.00  0.00           C

@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  22.96  14.13  40.65 with max radius 7.86
+ATOM   1971  O   GLU A 486      20.492  20.127  41.989  0.00  0.00           O
+ATOM   1973  CG  GLU A 486      23.324  18.919  43.469  0.00  0.00           C
+ATOM   1974  CD  GLU A 486      24.370  18.401  44.436  0.00  0.00           C
+ATOM   1976  OE2 GLU A 486      25.359  17.819  43.948  0.00  0.00           O
+ATOM   2013  CB  ASN A 489      17.806  19.606  38.777  0.00  0.00           C
+ATOM   2014  CG  ASN A 489      17.814  18.602  39.935  0.00  0.00           C
+ATOM   2015  OD1 ASN A 489      18.877  18.016  40.289  0.00  0.00           O
+ATOM   2521  CD1 LEU A 519      20.594  17.168  36.749  0.00  0.00           C
+ATOM   2596  CA  ASN A 524      19.947  12.938  37.309  0.00  0.00           C
+ATOM   2597  C   ASN A 524      21.151  13.230  36.411  0.00  0.00           C
+ATOM   2598  O   ASN A 524      22.130  13.799  36.905  0.00  0.00           O
+ATOM   2599  CB  ASN A 524      20.375  12.379  38.674  0.00  0.00           C
+ATOM   2600  CG  ASN A 524      21.357  11.259  38.607  0.00  0.00           C
+ATOM   2601  OD1 ASN A 524      21.592  10.693  37.559  0.00  0.00           O
+ATOM   2602  ND2 ASN A 524      21.895  10.885  39.751  0.00  0.00           N
+ATOM   3050  CA  SER A 550      25.453  14.844  36.498  0.00  0.00           C
+ATOM   3051  C   SER A 550      26.082  15.909  37.373  0.00  0.00           C
+ATOM   3053  CB  SER A 550      25.318  13.533  37.265  0.00  0.00           C
+ATOM   3054  OG  SER A 550      26.600  13.109  37.724  0.00  0.00           O
+ATOM   3060  N   SER A 551      25.425  16.261  38.468  0.00  0.00           N
+ATOM   3061  CA  SER A 551      26.056  17.167  39.406  0.00  0.00           C
+ATOM   3062  C   SER A 551      27.291  16.488  40.010  0.00  0.00           C
+ATOM   3064  CB  SER A 551      25.097  17.615  40.495  0.00  0.00           C
+ATOM   3065  OG  SER A 551      24.102  18.475  39.949  0.00  0.00           O
+ATOM   3071  N   LYS A 552      27.305  15.166  40.160  0.00  0.00           N
+ATOM   3075  CB  LYS A 552      28.280  13.081  41.046  0.00  0.00           C
+ATOM   3076  CG  LYS A 552      27.587  13.042  42.420  0.00  0.00           C
+ATOM   3077  CD  LYS A 552      27.390  11.726  42.831  0.00  0.00           C
+ATOM   3078  CE  LYS A 552      26.660  11.644  44.124  0.00  0.00           C
+ATOM   4049  CG2 VAL A 613      28.636   9.901  39.155  0.00  0.00           C
+ATOM   4067  OE2 GLU A 614      24.881   6.502  40.620  0.00  0.00           O

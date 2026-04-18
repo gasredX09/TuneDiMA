@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -13.91   0.77 -11.90 with max radius 5.33
+ATOM   1942  CA  ASN A 499     -10.337   3.561 -16.040  0.00  0.00           C
+ATOM   1943  C   ASN A 499     -11.452   3.778 -15.018  0.00  0.00           C
+ATOM   1944  O   ASN A 499     -12.637   3.551 -15.317  0.00  0.00           O
+ATOM   1945  CB  ASN A 499      -9.753   2.162 -15.865  0.00  0.00           C
+ATOM   1949  N   ARG A 500     -11.082   4.226 -13.820  0.00  0.00           N
+ATOM   1950  CA  ARG A 500     -12.057   4.423 -12.747  0.00  0.00           C
+ATOM   1952  O   ARG A 500     -14.070   5.707 -12.563  0.00  0.00           O
+ATOM   1953  CB  ARG A 500     -11.358   4.429 -11.368  0.00  0.00           C
+ATOM   1954  CG  ARG A 500     -10.716   3.063 -11.039  0.00  0.00           C
+ATOM   1955  CD  ARG A 500     -10.063   3.020  -9.683  0.00  0.00           C
+ATOM   1956  NE  ARG A 500      -9.628   1.649  -9.352  0.00  0.00           N
+ATOM   1957  CZ  ARG A 500     -10.403   0.716  -8.793  0.00  0.00           C
+ATOM   1958  NH1 ARG A 500     -11.663   0.988  -8.472  0.00  0.00           N
+ATOM   1978  CB  GLU A 503     -16.256   3.186 -14.790  0.00  0.00           C
+ATOM   1979  CG  GLU A 503     -17.092   1.987 -14.479  0.00  0.00           C
+ATOM   1980  CD  GLU A 503     -16.875   0.837 -15.451  0.00  0.00           C
+ATOM   1981  OE1 GLU A 503     -15.742   0.314 -15.514  0.00  0.00           O
+ATOM   2012  CA  LYS A 508     -18.693   1.161 -10.759  0.00  0.00           C
+ATOM   2013  C   LYS A 508     -17.721   2.347 -10.825  0.00  0.00           C
+ATOM   2014  O   LYS A 508     -16.645   2.317 -10.223  0.00  0.00           O
+ATOM   2015  CB  LYS A 508     -18.361   0.192 -11.892  0.00  0.00           C
+ATOM   2016  CG  LYS A 508     -18.991  -1.194 -11.754  0.00  0.00           C
+ATOM   2017  CD  LYS A 508     -18.517  -2.115 -12.880  0.00  0.00           C
+ATOM   2018  CE  LYS A 508     -16.992  -2.237 -12.910  0.00  0.00           C
+ATOM   2019  NZ  LYS A 508     -16.573  -3.565 -13.465  0.00  0.00           N
+ATOM   2020  N   ARG A 509     -18.096   3.389 -11.562  0.00  0.00           N
+ATOM   2021  CA  ARG A 509     -17.309   4.614 -11.625  0.00  0.00           C
+ATOM   2022  C   ARG A 509     -16.992   5.180 -10.244  0.00  0.00           C
+ATOM   2023  O   ARG A 509     -17.841   5.169  -9.332  0.00  0.00           O
+ATOM   2031  N   GLY A 510     -15.771   5.683 -10.082  0.00  0.00           N
+ATOM   2032  CA  GLY A 510     -15.354   6.227  -8.779  0.00  0.00           C

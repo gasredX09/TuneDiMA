@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   3.74  10.73 -25.61 with max radius 6.98
+ATOM    159  CA  HIS A 907       2.067  15.681 -27.906  0.00  0.00           C
+ATOM    160  C   HIS A 907       3.029  15.288 -29.009  0.00  0.00           C
+ATOM    161  O   HIS A 907       4.236  15.103 -28.751  0.00  0.00           O
+ATOM    162  CB  HIS A 907       1.185  14.486 -27.522  0.00  0.00           C
+ATOM    163  CG  HIS A 907       0.584  14.624 -26.167  0.00  0.00           C
+ATOM    164  ND1 HIS A 907       1.309  14.409 -25.012  0.00  0.00           N
+ATOM    166  CE1 HIS A 907       0.536  14.640 -23.965  0.00  0.00           C
+ATOM    174  CD1 PHE A 908       3.990  11.826 -30.435  0.00  0.00           C
+ATOM    175  CD2 PHE A 908       1.632  11.594 -30.657  0.00  0.00           C
+ATOM    176  CE1 PHE A 908       4.014  10.771 -29.535  0.00  0.00           C
+ATOM    177  CE2 PHE A 908       1.653  10.539 -29.760  0.00  0.00           C
+ATOM    178  CZ  PHE A 908       2.842  10.126 -29.202  0.00  0.00           C
+ATOM    384  CE1 HIS A 940       8.667  11.080 -28.982  0.00  0.00           C
+ATOM   1030  NH2 ARG A1022      -1.803   6.510 -25.256  0.00  0.00           N
+ATOM   1191  CG  LEU A1044      -1.252  11.139 -25.217  0.00  0.00           C
+ATOM   1192  CD1 LEU A1044      -1.097  11.296 -23.702  0.00  0.00           C
+ATOM   1193  CD2 LEU A1044      -0.041  10.425 -25.806  0.00  0.00           C
+ATOM   1298  CA  GLY A1061       6.990   7.735 -22.497  0.00  0.00           C
+ATOM   1302  CA  ASP A1062       5.862  10.878 -20.659  0.00  0.00           C
+ATOM   1303  C   ASP A1062       4.331  10.967 -20.762  0.00  0.00           C
+ATOM   1304  O   ASP A1062       3.794  11.385 -21.790  0.00  0.00           O
+ATOM   1305  CB  ASP A1062       6.524  12.235 -20.931  0.00  0.00           C

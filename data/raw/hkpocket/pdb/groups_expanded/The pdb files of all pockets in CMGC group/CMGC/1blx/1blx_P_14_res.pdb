@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 14 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  35.98  15.07  54.60 with max radius 6.97
+ATOM   1817  CA  GLU A 240      31.116  16.664  50.458  0.00  0.00           C
+ATOM   1818  C   GLU A 240      30.351  16.791  51.761  0.00  0.00           C
+ATOM   1819  O   GLU A 240      30.818  16.369  52.833  0.00  0.00           O
+ATOM   1820  CB  GLU A 240      31.664  18.025  50.002  0.00  0.00           C
+ATOM   1835  CA  TRP A 243      31.433  12.771  54.252  0.00  0.00           C
+ATOM   1836  C   TRP A 243      31.773  13.265  55.652  0.00  0.00           C
+ATOM   1837  O   TRP A 243      31.765  14.484  55.883  0.00  0.00           O
+ATOM   1838  CB  TRP A 243      32.570  13.132  53.280  0.00  0.00           C
+ATOM   1839  CG  TRP A 243      33.740  12.214  53.396  0.00  0.00           C
+ATOM   1840  CD1 TRP A 243      34.850  12.386  54.186  0.00  0.00           C
+ATOM   1842  NE1 TRP A 243      35.689  11.314  54.029  0.00  0.00           N
+ATOM   1843  CE2 TRP A 243      35.152  10.435  53.133  0.00  0.00           C
+ATOM   1850  C   PRO A 244      33.251  13.721  58.221  0.00  0.00           C
+ATOM   1851  O   PRO A 244      34.268  13.643  57.531  0.00  0.00           O
+ATOM   1856  CA  ARG A 245      34.243  15.517  59.555  0.00  0.00           C
+ATOM   1857  C   ARG A 245      35.255  14.768  60.404  0.00  0.00           C
+ATOM   1862  NE  ARG A 245      31.777  18.594  57.450  0.00  0.00           N
+ATOM   1863  CZ  ARG A 245      31.016  18.303  56.386  0.00  0.00           C
+ATOM   1864  NH1 ARG A 245      30.468  17.089  56.296  0.00  0.00           N
+ATOM   1865  NH2 ARG A 245      30.810  19.183  55.407  0.00  0.00           N
+ATOM   1866  N   ASP A 246      36.517  15.202  60.338  0.00  0.00           N
+ATOM   1874  N   VAL A 247      37.738  12.627  59.890  0.00  0.00           N
+ATOM   1875  CA  VAL A 247      38.194  11.224  59.752  0.00  0.00           C
+ATOM   1876  C   VAL A 247      39.499  11.271  58.960  0.00  0.00           C
+ATOM   1877  O   VAL A 247      39.781  12.296  58.309  0.00  0.00           O
+ATOM   1880  CG2 VAL A 247      36.829  10.866  57.658  0.00  0.00           C
+ATOM   1888  C   LEU A 249      39.536  10.214  54.341  0.00  0.00           C
+ATOM   1889  O   LEU A 249      38.388  10.481  54.691  0.00  0.00           O
+ATOM   1894  N   PRO A 250      40.134  10.885  53.367  0.00  0.00           N
+ATOM   1895  CA  PRO A 250      39.503  12.026  52.723  0.00  0.00           C
+ATOM   1896  C   PRO A 250      38.562  11.573  51.615  0.00  0.00           C
+ATOM   1898  CB  PRO A 250      40.729  12.789  52.209  0.00  0.00           C
+ATOM   1901  N   ARG A 251      37.448  12.240  51.357  0.00  0.00           N
+ATOM   1905  CB  ARG A 251      35.455  12.811  49.994  0.00  0.00           C

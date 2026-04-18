@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -12.37  15.61  58.41 with max radius 5.51
+ATOM    215  CD  GLU A 631     -13.287  12.633  62.963  0.00  0.00           C
+ATOM    216  OE1 GLU A 631     -12.450  12.712  62.037  0.00  0.00           O
+ATOM    225  CD2 PHE A 632     -15.915  13.561  59.969  0.00  0.00           C
+ATOM    227  CE2 PHE A 632     -15.131  14.512  60.608  0.00  0.00           C
+ATOM    228  CZ  PHE A 632     -15.710  15.394  61.506  0.00  0.00           C
+ATOM    413  CE  LYS A 653     -14.806  12.187  55.712  0.00  0.00           C
+ATOM    415  NZ  LYS A 653     -13.578  12.264  56.544  0.00  0.00           N
+ATOM    522  C   ASP A 666     -15.998  18.693  59.093  0.00  0.00           C
+ATOM    523  O   ASP A 666     -14.934  18.784  58.475  0.00  0.00           O
+ATOM    524  CB  ASP A 666     -16.160  18.861  61.602  0.00  0.00           C
+ATOM    528  N   PHE A 667     -17.001  17.909  58.739  0.00  0.00           N
+ATOM    529  CA  PHE A 667     -16.870  16.972  57.565  0.00  0.00           C
+ATOM    530  C   PHE A 667     -16.593  17.748  56.269  0.00  0.00           C
+ATOM    531  O   PHE A 667     -15.616  17.446  55.596  0.00  0.00           O
+ATOM    532  CB  PHE A 667     -18.210  16.234  57.441  0.00  0.00           C
+ATOM    533  CG  PHE A 667     -18.268  15.223  56.331  0.00  0.00           C
+ATOM    534  CD1 PHE A 667     -17.680  13.985  56.480  0.00  0.00           C
+ATOM    536  CE1 PHE A 667     -17.762  13.047  55.478  0.00  0.00           C
+ATOM    548  CA  GLY A 669     -14.392  21.547  56.009  0.00  0.00           C
+ATOM    549  C   GLY A 669     -13.191  20.918  55.328  0.00  0.00           C
+ATOM    551  N   GLU A 670     -13.116  19.588  55.338  0.00  0.00           N
+ATOM    552  CA  GLU A 670     -12.050  18.848  54.645  0.00  0.00           C
+ATOM    556  CB  GLU A 670     -12.261  17.331  54.797  0.00  0.00           C
+ATOM    558  CG  GLU A 670     -11.247  16.451  54.033  0.00  0.00           C
+ATOM    560  CD  GLU A 670     -11.567  14.956  54.087  0.00  0.00           C
+ATOM    562  OE1 GLU A 670     -12.587  14.565  54.692  0.00  0.00           O
+ATOM    564  OE2 GLU A 670     -10.788  14.164  53.512  0.00  0.00           O
+ATOM    788  CD1 ILE A 697     -15.793  15.718  52.858  0.00  0.00           C
+ATOM   1382  C   PHE A 765      -8.154  18.065  56.297  0.00  0.00           C
+ATOM   1384  O   PHE A 765      -8.550  17.324  57.195  0.00  0.00           O

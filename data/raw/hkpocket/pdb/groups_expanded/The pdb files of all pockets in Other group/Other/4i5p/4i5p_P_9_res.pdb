@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   6.26  -2.97   4.42 with max radius 5.69
+ATOM    278  CD  LYS A 106       2.581  -3.953   0.561  0.00  0.00           C
+ATOM    279  CE  LYS A 106       1.977  -3.896   1.967  0.00  0.00           C
+ATOM    280  NZ  LYS A 106       2.543  -2.805   2.817  0.00  0.00           N
+ATOM    281  N   VAL A 107       2.667   1.494   0.824  0.00  0.00           N
+ATOM    283  C   VAL A 107       4.492   2.322   2.251  0.00  0.00           C
+ATOM    284  O   VAL A 107       4.340   1.474   3.132  0.00  0.00           O
+ATOM    289  CA  TYR A 108       6.808   2.800   2.879  0.00  0.00           C
+ATOM    293  CG  TYR A 108       7.581   0.875   1.437  0.00  0.00           C
+ATOM    294  CD1 TYR A 108       7.852  -0.310   2.126  0.00  0.00           C
+ATOM    295  CD2 TYR A 108       6.911   0.790   0.208  0.00  0.00           C
+ATOM    296  CE1 TYR A 108       7.478  -1.548   1.600  0.00  0.00           C
+ATOM    298  CZ  TYR A 108       6.826  -1.600   0.375  0.00  0.00           C
+ATOM    299  OH  TYR A 108       6.461  -2.817  -0.138  0.00  0.00           O
+ATOM    605  O   GLN A 144      11.650  -2.625   5.922  0.00  0.00           O
+ATOM    606  CB  GLN A 144      10.587  -5.172   7.065  0.00  0.00           C
+ATOM    607  CG  GLN A 144      10.819  -6.068   5.835  0.00  0.00           C
+ATOM    626  CB  TYR A 146      11.023  -2.121   1.393  0.00  0.00           C
+ATOM    627  CG  TYR A 146      10.306  -2.440   0.096  0.00  0.00           C
+ATOM    628  CD1 TYR A 146       9.822  -3.726  -0.155  0.00  0.00           C
+ATOM    754  N   GLU A 160       9.921  -0.267   6.363  0.00  0.00           N
+ATOM    755  CA  GLU A 160       8.629  -0.588   6.949  0.00  0.00           C
+ATOM    756  C   GLU A 160       7.995   0.652   7.584  0.00  0.00           C
+ATOM    758  CB  GLU A 160       8.810  -1.694   7.984  0.00  0.00           C
+ATOM    759  CG  GLU A 160       7.539  -2.191   8.643  0.00  0.00           C
+ATOM    760  CD  GLU A 160       7.790  -3.388   9.545  0.00  0.00           C
+ATOM    763  N   TYR A 161       6.782   0.963   7.138  0.00  0.00           N
+ATOM    764  CA  TYR A 161       6.017   2.111   7.609  0.00  0.00           C
+ATOM    767  CB  TYR A 161       4.911   2.422   6.596  0.00  0.00           C

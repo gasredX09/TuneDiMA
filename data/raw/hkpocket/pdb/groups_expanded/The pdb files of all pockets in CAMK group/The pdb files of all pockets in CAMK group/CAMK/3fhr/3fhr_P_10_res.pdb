@@ -1,0 +1,58 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 52 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.79 -12.59 -10.10 with max radius 7.32
+ATOM   1462  C   LEU A 236      18.209 -11.587  -3.766  0.00  0.00           C
+ATOM   1463  O   LEU A 236      18.402 -11.869  -4.945  0.00  0.00           O
+ATOM   1468  N   CYS A 237      17.068 -11.075  -3.325  0.00  0.00           N
+ATOM   1469  CA  CYS A 237      15.915 -10.993  -4.189  0.00  0.00           C
+ATOM   1470  C   CYS A 237      15.000  -9.782  -3.949  0.00  0.00           C
+ATOM   1471  O   CYS A 237      14.256  -9.387  -4.859  0.00  0.00           O
+ATOM   1472  CB  CYS A 237      15.115 -12.292  -4.109  0.00  0.00           C
+ATOM   1546  C   PRO A 268      13.973 -14.140 -11.307  0.00  0.00           C
+ATOM   1547  O   PRO A 268      15.140 -14.257 -11.682  0.00  0.00           O
+ATOM   1552  CA  GLU A 269      14.590 -13.109  -9.162  0.00  0.00           C
+ATOM   1553  C   GLU A 269      15.699 -14.072  -8.756  0.00  0.00           C
+ATOM   1554  O   GLU A 269      16.883 -13.713  -8.777  0.00  0.00           O
+ATOM   1555  CB  GLU A 269      13.874 -12.543  -7.928  0.00  0.00           C
+ATOM   1556  CG  GLU A 269      12.919 -11.397  -8.219  0.00  0.00           C
+ATOM   1560  N   TRP A 270      15.331 -15.307  -8.433  0.00  0.00           N
+ATOM   1561  CA  TRP A 270      16.337 -16.299  -8.036  0.00  0.00           C
+ATOM   1562  C   TRP A 270      17.050 -17.001  -9.184  0.00  0.00           C
+ATOM   1563  O   TRP A 270      18.096 -17.642  -8.970  0.00  0.00           O
+ATOM   1574  N   SER A 271      16.529 -16.818 -10.402  0.00  0.00           N
+ATOM   1575  CA  SER A 271      17.000 -17.530 -11.598  0.00  0.00           C
+ATOM   1576  C   SER A 271      18.520 -17.655 -11.643  0.00  0.00           C
+ATOM   1578  CB  SER A 271      16.485 -16.861 -12.891  0.00  0.00           C
+ATOM   1579  OG  SER A 271      15.090 -17.099 -13.047  0.00  0.00           O
+ATOM   1580  N   GLU A 272      19.197 -16.547 -11.406  0.00  0.00           N
+ATOM   1581  CA  GLU A 272      20.643 -16.520 -11.586  0.00  0.00           C
+ATOM   1582  C   GLU A 272      21.519 -16.599 -10.325  0.00  0.00           C
+ATOM   1583  O   GLU A 272      22.755 -16.463 -10.411  0.00  0.00           O
+ATOM   1584  CB  GLU A 272      21.026 -15.322 -12.440  0.00  0.00           C
+ATOM   1585  CG  GLU A 272      20.434 -15.374 -13.843  0.00  0.00           C
+ATOM   1586  CD  GLU A 272      21.011 -14.305 -14.758  0.00  0.00           C
+ATOM   1587  OE1 GLU A 272      20.925 -13.100 -14.426  0.00  0.00           O
+ATOM   1589  N   VAL A 273      20.909 -16.855  -9.171  0.00  0.00           N
+ATOM   1590  CA  VAL A 273      21.661 -16.904  -7.894  0.00  0.00           C
+ATOM   1593  CB  VAL A 273      20.724 -16.650  -6.657  0.00  0.00           C
+ATOM   1595  CG2 VAL A 273      20.104 -15.229  -6.699  0.00  0.00           C
+ATOM   1922  OG1 THR A 313      23.985 -12.888 -10.861  0.00  0.00           O
+ATOM   1926  C   PRO A 314      22.137  -9.117 -10.281  0.00  0.00           C
+ATOM   1927  O   PRO A 314      21.478  -9.874 -10.995  0.00  0.00           O
+ATOM   1931  N   LEU A 315      21.741  -8.711  -9.079  0.00  0.00           N
+ATOM   1932  CA  LEU A 315      20.503  -9.156  -8.453  0.00  0.00           C
+ATOM   1933  C   LEU A 315      19.340  -8.221  -8.775  0.00  0.00           C
+ATOM   1935  CB  LEU A 315      20.718  -9.210  -6.938  0.00  0.00           C
+ATOM   1936  CG  LEU A 315      21.385 -10.379  -6.212  0.00  0.00           C
+ATOM   1937  CD1 LEU A 315      22.036 -11.401  -7.115  0.00  0.00           C
+ATOM   1939  N   HIS A 316      18.120  -8.674  -8.499  0.00  0.00           N
+ATOM   1940  CA  HIS A 316      16.898  -7.879  -8.645  0.00  0.00           C
+ATOM   1943  CB  HIS A 316      15.697  -8.826  -8.773  0.00  0.00           C
+ATOM   1944  CG  HIS A 316      15.590  -9.517 -10.098  0.00  0.00           C
+ATOM   1945  ND1 HIS A 316      16.646 -10.182 -10.682  0.00  0.00           N
+ATOM   1946  CD2 HIS A 316      14.538  -9.669 -10.937  0.00  0.00           C
+ATOM   1947  CE1 HIS A 316      16.258 -10.699 -11.833  0.00  0.00           C
+ATOM   1954  OG1 THR A 317      18.856  -8.163  -4.277  0.00  0.00           O

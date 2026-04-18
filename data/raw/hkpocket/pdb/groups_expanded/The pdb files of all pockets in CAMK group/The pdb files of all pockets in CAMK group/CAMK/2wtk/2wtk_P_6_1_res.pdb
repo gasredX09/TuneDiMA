@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -66.85  51.51  67.74 with max radius 6.46
+ATOM   5939  CA  PRO C 149     -69.939  51.835  63.756  0.00  0.00           C
+ATOM   5940  C   PRO C 149     -68.539  52.263  63.333  0.00  0.00           C
+ATOM   5942  CB  PRO C 149     -69.865  50.492  64.482  0.00  0.00           C
+ATOM   5945  N   VAL C 150     -67.954  53.166  64.104  0.00  0.00           N
+ATOM   5946  CA  VAL C 150     -66.630  53.701  63.812  0.00  0.00           C
+ATOM   5947  C   VAL C 150     -65.652  52.591  63.450  0.00  0.00           C
+ATOM   5949  CB  VAL C 150     -66.052  54.510  65.000  0.00  0.00           C
+ATOM   5950  CG1 VAL C 150     -65.350  55.731  64.482  0.00  0.00           C
+ATOM   5951  CG2 VAL C 150     -67.149  54.922  65.972  0.00  0.00           C
+ATOM   5952  N   CYS C 151     -65.689  51.477  64.181  0.00  0.00           N
+ATOM   5953  CA  CYS C 151     -64.737  50.382  63.959  0.00  0.00           C
+ATOM   5956  CB  CYS C 151     -64.820  49.334  65.083  0.00  0.00           C
+ATOM   7212  CB  HIS C 313     -61.489  51.600  66.311  0.00  0.00           C
+ATOM   7213  CG  HIS C 313     -61.053  52.903  65.718  0.00  0.00           C
+ATOM   7215  CD2 HIS C 313     -61.174  54.173  66.170  0.00  0.00           C
+ATOM   7220  C   PRO C 314     -63.513  48.458  69.131  0.00  0.00           C
+ATOM   7221  O   PRO C 314     -64.165  49.433  68.735  0.00  0.00           O
+ATOM   7226  CA  PRO C 315     -65.052  46.867  68.071  0.00  0.00           C
+ATOM   7227  C   PRO C 315     -66.320  46.661  68.899  0.00  0.00           C
+ATOM   7228  O   PRO C 315     -67.141  47.572  68.995  0.00  0.00           O
+ATOM   7232  N   GLU C 317     -68.945  48.270  70.209  0.00  0.00           N
+ATOM   7233  CA  GLU C 317     -70.282  48.075  69.659  0.00  0.00           C
+ATOM   7236  CB  GLU C 317     -70.658  49.259  68.758  0.00  0.00           C
+ATOM   7237  CG  GLU C 317     -72.106  49.721  68.915  0.00  0.00           C
+ATOM   7238  CD  GLU C 317     -72.559  50.641  67.788  0.00  0.00           C
+ATOM   7239  OE1 GLU C 317     -72.031  51.769  67.670  0.00  0.00           O

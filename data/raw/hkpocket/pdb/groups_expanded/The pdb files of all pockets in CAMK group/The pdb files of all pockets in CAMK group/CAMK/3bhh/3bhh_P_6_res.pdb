@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   4.75  57.78   8.75 with max radius 7.35
+ATOM   1453  O   LEU A 208      10.123  57.593  10.590  0.00  0.00           O
+ATOM   1459  CA  VAL A 209       8.729  55.990  12.402  0.00  0.00           C
+ATOM   1460  C   VAL A 209       8.030  56.358  13.725  0.00  0.00           C
+ATOM   1461  O   VAL A 209       6.804  56.464  13.786  0.00  0.00           O
+ATOM   1462  CB  VAL A 209       8.335  54.543  11.917  0.00  0.00           C
+ATOM   1463  CG1 VAL A 209       8.694  54.385  10.447  0.00  0.00           C
+ATOM   1464  CG2 VAL A 209       8.996  53.444  12.772  0.00  0.00           C
+ATOM   1475  CD1 TYR A 211       5.624  53.096  14.703  0.00  0.00           C
+ATOM   1477  CE1 TYR A 211       5.594  52.550  13.427  0.00  0.00           C
+ATOM   1671  C   PRO A 236       3.349  53.054   5.225  0.00  0.00           C
+ATOM   1672  O   PRO A 236       4.019  53.498   4.288  0.00  0.00           O
+ATOM   1676  N   GLU A 237       3.669  53.230   6.513  0.00  0.00           N
+ATOM   1677  CA  GLU A 237       4.633  54.236   6.946  0.00  0.00           C
+ATOM   1678  C   GLU A 237       6.085  53.958   6.491  0.00  0.00           C
+ATOM   1679  O   GLU A 237       6.899  54.904   6.382  0.00  0.00           O
+ATOM   1680  CB  GLU A 237       4.565  54.443   8.491  0.00  0.00           C
+ATOM   1681  CG  GLU A 237       5.141  53.281   9.423  0.00  0.00           C
+ATOM   1682  CD  GLU A 237       4.166  52.091   9.689  0.00  0.00           C
+ATOM   1683  OE1 GLU A 237       2.947  52.227   9.524  0.00  0.00           O
+ATOM   1711  CB  THR A 240       7.353  57.269   2.403  0.00  0.00           C
+ATOM   1712  OG1 THR A 240       6.977  57.096   3.784  0.00  0.00           O
+ATOM   1713  CG2 THR A 240       6.107  57.516   1.531  0.00  0.00           C
+ATOM   2029  CE  MET A 282       7.223  61.212   3.323  0.00  0.00           C
+ATOM   2033  O   HIS A 283       7.017  64.008   5.591  0.00  0.00           O
+ATOM   2041  CA  ARG A 284       7.278  62.808   8.112  0.00  0.00           C
+ATOM   2042  C   ARG A 284       6.398  63.087   9.310  0.00  0.00           C
+ATOM   2043  O   ARG A 284       6.712  62.679  10.404  0.00  0.00           O
+ATOM   2044  CB  ARG A 284       8.366  61.807   8.472  0.00  0.00           C
+ATOM   2045  CG  ARG A 284       9.146  61.323   7.244  0.00  0.00           C
+ATOM   2047  NE  ARG A 284       9.416  58.990   7.894  0.00  0.00           N
+ATOM   2048  CZ  ARG A 284       8.930  58.161   6.988  0.00  0.00           C
+ATOM   2049  NH1 ARG A 284       9.066  58.413   5.700  0.00  0.00           N
+ATOM   2050  NH2 ARG A 284       8.296  57.066   7.378  0.00  0.00           N
+ATOM   2051  N   GLN A 285       5.298  63.789   9.067  0.00  0.00           N
+ATOM   2052  CA  GLN A 285       4.319  64.162  10.081  0.00  0.00           C
+ATOM   2055  CB  GLN A 285       3.103  64.818   9.417  0.00  0.00           C
+ATOM   2060  N   GLU A 286       3.666  61.812  10.377  0.00  0.00           N
+ATOM   2061  CA  GLU A 286       3.215  60.634  11.136  0.00  0.00           C
+ATOM   2062  C   GLU A 286       4.219  60.178  12.174  0.00  0.00           C
+ATOM   2063  O   GLU A 286       3.826  59.776  13.260  0.00  0.00           O
+ATOM   2064  CB  GLU A 286       2.840  59.476  10.203  0.00  0.00           C
+ATOM   2065  N   THR A 287       5.511  60.274  11.861  0.00  0.00           N
+ATOM   2066  CA  THR A 287       6.579  60.036  12.858  0.00  0.00           C
+ATOM   2069  CB  THR A 287       7.980  60.186  12.222  0.00  0.00           C
+ATOM   2070  OG1 THR A 287       8.098  59.251  11.149  0.00  0.00           O
+ATOM   2092  CB  CYS A 290       4.516  57.628  16.074  0.00  0.00           C
+ATOM   2093  SG  CYS A 290       3.335  56.868  15.020  0.00  0.00           S

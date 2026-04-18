@@ -1,0 +1,19 @@
+Running on: v014.ib.bridges2.psc.edu
+Job ID: 39929875
+Python: /jet/home/mjaju/miniconda3/envs/nn/bin/python
+PWD: /ocean/projects/cis260039p/mjaju
+✅ Training manifest exists: /ocean/projects/cis260039p/mjaju/projects/data/processed/training_manifest.csv
+Loading training records from training_manifest.csv...
+   Total records: 9348
+
+Splitting data with randomization...
+   Train: 6543 (70.0%)
+   Valid: 1402 (15.0%) [randomized]
+   Test:  1403 (15.0%)
+
+Creating datasets...
+Building LigandPocketNet model...
+   Device: cuda
+   Model parameters: 2,331,521
+
+Validating data-model dimensions...

@@ -1,0 +1,44 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 38 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  39.88  20.76 -12.70 with max radius 7.02
+ATOM    989  CB  GLU A 807      37.506  16.510  -7.220  0.00  0.00           C
+ATOM    990  CG  GLU A 807      36.775  17.218  -8.355  0.00  0.00           C
+ATOM    991  CD  GLU A 807      37.665  17.558  -9.546  0.00  0.00           C
+ATOM    992  OE1 GLU A 807      38.763  16.975  -9.669  0.00  0.00           O
+ATOM    993  OE2 GLU A 807      37.261  18.415 -10.373  0.00  0.00           O
+ATOM   1419  CA  HIS A 871      38.979  22.118  -7.081  0.00  0.00           C
+ATOM   1420  C   HIS A 871      40.134  22.516  -7.996  0.00  0.00           C
+ATOM   1421  O   HIS A 871      41.194  21.882  -7.975  0.00  0.00           O
+ATOM   1422  CB  HIS A 871      38.058  21.085  -7.738  0.00  0.00           C
+ATOM   1428  N   GLN A 872      39.951  23.582  -8.773  0.00  0.00           N
+ATOM   1429  CA  GLN A 872      41.004  23.982  -9.697  0.00  0.00           C
+ATOM   1432  CB  GLN A 872      40.470  24.912 -10.792  0.00  0.00           C
+ATOM   1433  CG  GLN A 872      39.464  24.252 -11.710  0.00  0.00           C
+ATOM   1434  CD  GLN A 872      38.090  24.160 -11.065  0.00  0.00           C
+ATOM   1435  OE1 GLN A 872      37.613  23.068 -10.712  0.00  0.00           O
+ATOM   1455  CB  VAL A 875      44.551  21.559 -10.015  0.00  0.00           C
+ATOM   1457  CG2 VAL A 875      43.568  20.396 -10.176  0.00  0.00           C
+ATOM   1919  O   GLU A 933      41.450  25.761 -14.606  0.00  0.00           O
+ATOM   1926  CA  ASN A 934      40.162  26.304 -17.005  0.00  0.00           C
+ATOM   1927  C   ASN A 934      41.180  25.495 -17.824  0.00  0.00           C
+ATOM   1928  O   ASN A 934      40.863  24.415 -18.321  0.00  0.00           O
+ATOM   1942  CA  ARG A 936      44.688  23.466 -15.562  0.00  0.00           C
+ATOM   1943  C   ARG A 936      44.109  22.065 -15.771  0.00  0.00           C
+ATOM   1944  O   ARG A 936      42.903  21.922 -16.012  0.00  0.00           O
+ATOM   1945  CB  ARG A 936      44.477  23.889 -14.103  0.00  0.00           C
+ATOM   1953  CA  PRO A 937      44.506  19.640 -15.744  0.00  0.00           C
+ATOM   1954  C   PRO A 937      43.553  19.314 -14.602  0.00  0.00           C
+ATOM   1955  O   PRO A 937      43.562  19.981 -13.570  0.00  0.00           O
+ATOM   1959  N   THR A 938      42.717  18.306 -14.805  0.00  0.00           N
+ATOM   1960  CA  THR A 938      41.851  17.787 -13.759  0.00  0.00           C
+ATOM   1961  C   THR A 938      42.624  16.721 -12.994  0.00  0.00           C
+ATOM   1963  CB  THR A 938      40.643  17.111 -14.381  0.00  0.00           C
+ATOM   1965  CG2 THR A 938      39.954  18.054 -15.346  0.00  0.00           C
+ATOM   1966  N   PHE A 939      42.199  16.422 -11.770  0.00  0.00           N
+ATOM   1970  CB  PHE A 939      42.292  15.279  -9.600  0.00  0.00           C
+ATOM   1971  CG  PHE A 939      42.680  16.431  -8.708  0.00  0.00           C
+ATOM   1972  CD1 PHE A 939      41.740  17.379  -8.318  0.00  0.00           C
+ATOM   1974  CE1 PHE A 939      42.097  18.444  -7.508  0.00  0.00           C

@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  21.43 -41.79   9.19 with max radius 6.44
+ATOM   1859  O   GLN A 260      18.454 -44.369   4.590  0.00  0.00           O
+ATOM   1867  C   LEU A 261      19.082 -41.404   5.564  0.00  0.00           C
+ATOM   1868  O   LEU A 261      19.830 -41.737   6.478  0.00  0.00           O
+ATOM   1870  CG  LEU A 261      20.974 -39.660   3.959  0.00  0.00           C
+ATOM   1871  CD1 LEU A 261      22.212 -40.431   4.421  0.00  0.00           C
+ATOM   1874  CA  PHE A 262      17.488 -40.218   7.053  0.00  0.00           C
+ATOM   1879  CD1 PHE A 262      19.985 -38.439   7.591  0.00  0.00           C
+ATOM   1881  CE1 PHE A 262      21.240 -37.834   7.348  0.00  0.00           C
+ATOM   1889  CG  PRO A 263      16.153 -44.296   8.058  0.00  0.00           C
+ATOM   1890  CD  PRO A 263      16.921 -43.050   7.701  0.00  0.00           C
+ATOM   1968  CA  LEU A 273      19.611 -38.556  12.205  0.00  0.00           C
+ATOM   1969  C   LEU A 273      20.366 -37.609  11.263  0.00  0.00           C
+ATOM   1970  O   LEU A 273      21.481 -37.920  10.827  0.00  0.00           O
+ATOM   1971  CB  LEU A 273      18.606 -39.405  11.419  0.00  0.00           C
+ATOM   1972  CG  LEU A 273      17.976 -40.610  12.122  0.00  0.00           C
+ATOM   1973  CD1 LEU A 273      17.060 -41.320  11.137  0.00  0.00           C
+ATOM   1974  CD2 LEU A 273      19.008 -41.593  12.680  0.00  0.00           C
+ATOM   1995  CB  MET A 276      23.872 -38.839  13.318  0.00  0.00           C
+ATOM   1996  CG  MET A 276      23.328 -39.108  14.730  0.00  0.00           C
+ATOM   2005  CG2 VAL A 277      24.789 -38.739   8.472  0.00  0.00           C

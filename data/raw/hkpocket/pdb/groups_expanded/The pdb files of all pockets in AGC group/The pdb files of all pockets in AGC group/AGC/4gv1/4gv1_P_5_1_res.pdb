@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -18.96   7.52  24.39 with max radius 5.71
+ATOM    776  CB  PHE A 236     -20.495  11.123  18.793  0.00  0.00           C
+ATOM    778  CD1 PHE A 236     -19.110  10.986  20.851  0.00  0.00           C
+ATOM    780  CE1 PHE A 236     -17.905  11.104  21.524  0.00  0.00           C
+ATOM   1124  CA  LYS A 276     -24.391   5.124  22.045  0.00  0.00           C
+ATOM   1125  C   LYS A 276     -24.392   6.238  21.037  0.00  0.00           C
+ATOM   1127  CB  LYS A 276     -23.006   4.478  22.124  0.00  0.00           C
+ATOM   1128  CG  LYS A 276     -22.501   3.840  20.866  0.00  0.00           C
+ATOM   1129  CD  LYS A 276     -21.063   3.371  21.069  0.00  0.00           C
+ATOM   1132  N   LEU A 277     -23.771   7.362  21.383  0.00  0.00           N
+ATOM   1133  CA  LEU A 277     -23.869   8.561  20.523  0.00  0.00           C
+ATOM   1136  CB  LEU A 277     -23.292   9.784  21.237  0.00  0.00           C
+ATOM   1137  CG  LEU A 277     -24.063  10.230  22.482  0.00  0.00           C
+ATOM   1138  CD1 LEU A 277     -23.251  11.292  23.217  0.00  0.00           C
+ATOM   1146  CD  GLU A 278     -19.168   7.136  20.110  0.00  0.00           C
+ATOM   1147  OE1 GLU A 278     -20.189   6.818  20.749  0.00  0.00           O
+ATOM   1148  OE2 GLU A 278     -18.084   7.373  20.659  0.00  0.00           O
+ATOM   1421  CG2 THR A 312     -18.740   1.916  24.368  0.00  0.00           C
+ATOM   1433  CB  GLU A 314     -18.953   4.673  28.998  0.00  0.00           C
+ATOM   1434  CG  GLU A 314     -17.483   4.983  29.236  0.00  0.00           C
+ATOM   1435  CD  GLU A 314     -16.529   4.191  28.336  0.00  0.00           C
+ATOM   1436  OE1 GLU A 314     -16.955   3.684  27.267  0.00  0.00           O
+ATOM   1444  CD1 TYR A 315     -21.770   4.062  25.761  0.00  0.00           C
+ATOM   1446  CE1 TYR A 315     -21.579   5.317  25.176  0.00  0.00           C
+ATOM   1448  CZ  TYR A 315     -22.665   6.185  25.037  0.00  0.00           C
+ATOM   1449  OH  TYR A 315     -22.541   7.429  24.428  0.00  0.00           O
+ATOM   1663  CD  GLU A 341     -23.128  10.005  26.490  0.00  0.00           C
+ATOM   1664  OE1 GLU A 341     -23.795   9.096  25.955  0.00  0.00           O
+ATOM   1665  OE2 GLU A 341     -21.928  10.227  26.246  0.00  0.00           O
+ATOM   1716  CG  LEU A 347     -20.370   9.080  29.409  0.00  0.00           C
+ATOM   1717  CD1 LEU A 347     -18.962   8.542  29.372  0.00  0.00           C
+ATOM   1718  CD2 LEU A 347     -21.396   8.083  28.818  0.00  0.00           C

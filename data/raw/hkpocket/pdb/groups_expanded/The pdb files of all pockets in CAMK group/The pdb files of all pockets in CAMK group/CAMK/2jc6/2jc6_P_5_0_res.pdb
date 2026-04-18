@@ -1,0 +1,61 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 55 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.38 -106.73 -56.26 with max radius 7.32
+ATOM   1392  C   LEU A 215      -0.848-102.869 -51.518  0.00  0.00           C
+ATOM   1393  O   LEU A 215      -0.827-103.497 -52.567  0.00  0.00           O
+ATOM   1399  CA  CYS A 216      -2.351-104.499 -50.442  0.00  0.00           C
+ATOM   1400  C   CYS A 216      -3.695-104.362 -49.680  0.00  0.00           C
+ATOM   1401  O   CYS A 216      -4.610-105.165 -49.856  0.00  0.00           O
+ATOM   1402  CB  CYS A 216      -1.588-105.698 -49.888  0.00  0.00           C
+ATOM   1620  C   PRO A 243      -1.481-111.764 -54.854  0.00  0.00           C
+ATOM   1621  O   PRO A 243      -1.023-111.138 -55.818  0.00  0.00           O
+ATOM   1622  CB  PRO A 243      -2.905-113.640 -55.739  0.00  0.00           C
+ATOM   1625  N   TYR A 244      -1.798-111.198 -53.697  0.00  0.00           N
+ATOM   1626  CA  TYR A 244      -1.932-109.760 -53.485  0.00  0.00           C
+ATOM   1627  C   TYR A 244      -0.673-108.949 -53.770  0.00  0.00           C
+ATOM   1628  O   TYR A 244      -0.735-107.753 -54.063  0.00  0.00           O
+ATOM   1629  CB  TYR A 244      -2.311-109.521 -52.024  0.00  0.00           C
+ATOM   1630  CG  TYR A 244      -3.354-110.463 -51.490  0.00  0.00           C
+ATOM   1631  CD1 TYR A 244      -4.662-110.403 -51.954  0.00  0.00           C
+ATOM   1637  N   TRP A 245       0.469-109.601 -53.653  0.00  0.00           N
+ATOM   1651  N   ASP A 246       1.808-110.100 -55.988  0.00  0.00           N
+ATOM   1652  CA  ASP A 246       2.406-110.553 -57.270  0.00  0.00           C
+ATOM   1655  CB  ASP A 246       1.505-111.600 -57.925  0.00  0.00           C
+ATOM   1659  N   ASP A 247       1.812-108.421 -58.294  0.00  0.00           N
+ATOM   1660  CA  ASP A 247       1.848-107.336 -59.271  0.00  0.00           C
+ATOM   1661  C   ASP A 247       2.687-106.179 -58.776  0.00  0.00           C
+ATOM   1662  O   ASP A 247       2.831-105.195 -59.485  0.00  0.00           O
+ATOM   1663  CB  ASP A 247       0.423-106.784 -59.515  0.00  0.00           C
+ATOM   1664  CG  ASP A 247      -0.445-107.704 -60.373  0.00  0.00           C
+ATOM   1665  OD1 ASP A 247      -1.659-107.396 -60.457  0.00  0.00           O
+ATOM   1666  OD2 ASP A 247       0.068-108.698 -60.968  0.00  0.00           O
+ATOM   1672  CG1 ILE A 248       2.193-105.154 -54.994  0.00  0.00           C
+ATOM   1674  CD1 ILE A 248       1.402-103.981 -55.587  0.00  0.00           C
+ATOM   1986  CD  LYS A 287      -0.716-104.168 -62.788  0.00  0.00           C
+ATOM   1992  O   ASN A 288      -4.396-102.577 -60.988  0.00  0.00           O
+ATOM   1998  CA  ILE A 289      -4.295-102.300 -58.173  0.00  0.00           C
+ATOM   1999  C   ILE A 289      -5.449-101.968 -57.223  0.00  0.00           C
+ATOM   2000  O   ILE A 289      -5.570-102.568 -56.170  0.00  0.00           O
+ATOM   2001  CB  ILE A 289      -2.981-102.525 -57.347  0.00  0.00           C
+ATOM   2002  CG1 ILE A 289      -2.571-101.253 -56.601  0.00  0.00           C
+ATOM   2003  CG2 ILE A 289      -1.842-103.040 -58.258  0.00  0.00           C
+ATOM   2004  CD1 ILE A 289      -1.402-101.451 -55.665  0.00  0.00           C
+ATOM   2015  N   GLU A 291      -8.627-102.677 -57.271  0.00  0.00           N
+ATOM   2016  CA  GLU A 291      -9.646-103.726 -57.087  0.00  0.00           C
+ATOM   2018  C   GLU A 291      -9.354-104.584 -55.868  0.00  0.00           C
+ATOM   2020  CB  GLU A 291      -9.686-104.616 -58.347  0.00  0.00           C
+ATOM   2026  OE1 GLU A 291      -9.958-107.885 -59.263  0.00  0.00           O
+ATOM   2030  N   SER A 292      -8.132-105.111 -55.827  0.00  0.00           N
+ATOM   2031  CA  SER A 292      -7.717-105.957 -54.724  0.00  0.00           C
+ATOM   2032  C   SER A 292      -7.460-105.136 -53.455  0.00  0.00           C
+ATOM   2033  O   SER A 292      -7.830-105.567 -52.352  0.00  0.00           O
+ATOM   2034  CB  SER A 292      -6.486-106.773 -55.089  0.00  0.00           C
+ATOM   2035  OG  SER A 292      -6.095-107.594 -53.999  0.00  0.00           O
+ATOM   2036  N   VAL A 293      -6.855-103.956 -53.599  0.00  0.00           N
+ATOM   2037  CA  VAL A 293      -6.555-103.130 -52.434  0.00  0.00           C
+ATOM   2040  CB  VAL A 293      -5.643-101.925 -52.800  0.00  0.00           C
+ATOM   2042  CG2 VAL A 293      -4.283-102.410 -53.290  0.00  0.00           C
+ATOM   2059  CG  GLN A 296      -7.057-107.273 -49.518  0.00  0.00           C

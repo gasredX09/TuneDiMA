@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 16 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   4.68   5.52  -4.74 with max radius 6.71
+ATOM    466  CB  ARG A  96       5.624   8.748  -9.498  0.00  0.00           C
+ATOM    467  CG  ARG A  96       5.964   7.650  -8.507  0.00  0.00           C
+ATOM    468  CD  ARG A  96       6.301   6.342  -9.210  0.00  0.00           C
+ATOM    469  NE  ARG A  96       5.127   5.754  -9.853  0.00  0.00           N
+ATOM    470  CZ  ARG A  96       5.157   4.690 -10.651  0.00  0.00           C
+ATOM    471  NH1 ARG A  96       6.304   4.081 -10.915  0.00  0.00           N
+ATOM    494  CB  GLN A  99       3.551  11.333  -5.026  0.00  0.00           C
+ATOM    504  CG1 ILE A 100       7.656   8.160  -4.368  0.00  0.00           C
+ATOM    506  CD1 ILE A 100       8.367   7.342  -5.444  0.00  0.00           C
+ATOM    532  CD  LYS A 103       5.823   8.715   1.049  0.00  0.00           C
+ATOM    533  CE  LYS A 103       4.487   8.999   0.363  0.00  0.00           C
+ATOM    534  NZ  LYS A 103       3.717   7.752   0.039  0.00  0.00           N
+ATOM   1168  CG1 ILE A 177       8.611   4.558  -1.252  0.00  0.00           C
+ATOM   1170  CD1 ILE A 177       8.487   5.936  -0.621  0.00  0.00           C
+ATOM   1379  CA  LYS A 205       8.606   3.337  -6.826  0.00  0.00           C
+ATOM   1380  C   LYS A 205       8.391   2.415  -5.637  0.00  0.00           C
+ATOM   1382  CB  LYS A 205       8.395   2.545  -8.122  0.00  0.00           C
+ATOM   1383  CG  LYS A 205       7.029   1.882  -8.253  0.00  0.00           C
+ATOM   1384  CD  LYS A 205       6.815   1.391  -9.682  0.00  0.00           C
+ATOM   1385  CE  LYS A 205       5.352   1.025  -9.931  0.00  0.00           C
+ATOM   1387  N   GLN A 206       7.183   2.438  -5.096  0.00  0.00           N
+ATOM   1388  CA  GLN A 206       6.886   1.558  -3.988  0.00  0.00           C
+ATOM   1390  O   GLN A 206       5.870  -0.018  -5.491  0.00  0.00           O
+ATOM   1391  CB  GLN A 206       5.611   2.005  -3.278  0.00  0.00           C
+ATOM   1392  CG  GLN A 206       4.918   0.871  -2.547  0.00  0.00           C
+ATOM   1393  CD  GLN A 206       4.331   1.307  -1.233  0.00  0.00           C
+ATOM   1394  OE1 GLN A 206       4.355   2.493  -0.894  0.00  0.00           O

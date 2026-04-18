@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  12.78  -1.05   8.22 with max radius 5.39
+ATOM   1700  O   GLU A 919      14.709  -2.543   3.190  0.00  0.00           O
+ATOM   1707  CA  LEU A 920      15.798  -1.555   5.522  0.00  0.00           C
+ATOM   1708  C   LEU A 920      15.012  -0.300   5.154  0.00  0.00           C
+ATOM   1709  O   LEU A 920      13.823  -0.189   5.458  0.00  0.00           O
+ATOM   1710  CB  LEU A 920      16.725  -1.282   6.710  0.00  0.00           C
+ATOM   1726  CA  LEU A 923      10.924  -1.795   3.455  0.00  0.00           C
+ATOM   1727  C   LEU A 923      10.166  -0.680   4.166  0.00  0.00           C
+ATOM   1728  O   LEU A 923       8.939  -0.693   4.219  0.00  0.00           O
+ATOM   1729  CB  LEU A 923      11.368  -2.849   4.458  0.00  0.00           C
+ATOM   1730  CG  LEU A 923      10.255  -3.354   5.380  0.00  0.00           C
+ATOM   1731  CD1 LEU A 923       9.151  -4.037   4.599  0.00  0.00           C
+ATOM   1732  CD2 LEU A 923      10.833  -4.301   6.392  0.00  0.00           C
+ATOM   1733  N   GLU A 924      10.904   0.289   4.693  0.00  0.00           N
+ATOM   1734  CA  GLU A 924      10.303   1.457   5.332  0.00  0.00           C
+ATOM   1737  CB  GLU A 924      11.399   2.363   5.902  0.00  0.00           C
+ATOM   1738  CG  GLU A 924      10.960   3.778   6.278  0.00  0.00           C
+ATOM   1739  CD  GLU A 924      10.044   3.849   7.488  0.00  0.00           C
+ATOM   1740  OE1 GLU A 924       9.933   2.855   8.236  0.00  0.00           O
+ATOM   1932  CA  MET A 950      13.468  -4.960  10.268  0.00  0.00           C
+ATOM   1933  C   MET A 950      12.133  -4.231  10.390  0.00  0.00           C
+ATOM   1934  O   MET A 950      11.695  -3.619   9.423  0.00  0.00           O
+ATOM   1935  CB  MET A 950      13.547  -5.618   8.885  0.00  0.00           C
+ATOM   1936  CG  MET A 950      14.956  -5.983   8.444  0.00  0.00           C
+ATOM   1938  CE  MET A 950      14.666  -5.183   5.777  0.00  0.00           C
+ATOM   1939  N   LYS A 951      11.480  -4.297  11.551  0.00  0.00           N
+ATOM   1940  CA  LYS A 951      10.253  -3.522  11.755  0.00  0.00           C
+ATOM   1941  C   LYS A 951      10.483  -2.048  11.433  0.00  0.00           C
+ATOM   1942  O   LYS A 951      11.438  -1.446  11.922  0.00  0.00           O
+ATOM   1948  N   PRO A 952       9.611  -1.467  10.594  0.00  0.00           N
+ATOM   1949  CA  PRO A 952       9.697  -0.054  10.209  0.00  0.00           C
+ATOM   1950  C   PRO A 952       9.556   0.878  11.410  0.00  0.00           C
+ATOM   1952  CB  PRO A 952       8.520   0.124   9.241  0.00  0.00           C
+ATOM   1953  CG  PRO A 952       8.126  -1.253   8.839  0.00  0.00           C
+ATOM   1954  CD  PRO A 952       8.436  -2.125  10.001  0.00  0.00           C
+ATOM   1955  N   LYS A 953       9.728   2.177  11.180  0.00  0.00           N

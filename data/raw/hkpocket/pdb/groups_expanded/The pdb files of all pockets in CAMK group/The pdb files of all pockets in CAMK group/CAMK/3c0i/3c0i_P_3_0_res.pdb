@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -6.99  48.71  12.28 with max radius 7.30
+ATOM   1709  C   PRO A 218      -3.711  44.432  12.784  0.00  0.00           C
+ATOM   1710  O   PRO A 218      -3.947  45.586  13.148  0.00  0.00           O
+ATOM   1715  CA  PHE A 219      -5.236  44.613  10.858  0.00  0.00           C
+ATOM   1716  C   PHE A 219      -6.519  43.809  10.747  0.00  0.00           C
+ATOM   1718  CB  PHE A 219      -4.641  44.880   9.474  0.00  0.00           C
+ATOM   1719  CG  PHE A 219      -3.232  45.384   9.532  0.00  0.00           C
+ATOM   1720  CD1 PHE A 219      -2.978  46.713   9.861  0.00  0.00           C
+ATOM   1722  CE1 PHE A 219      -1.669  47.186   9.945  0.00  0.00           C
+ATOM   1725  N   TYR A 220      -7.642  44.487  10.950  0.00  0.00           N
+ATOM   1726  CA  TYR A 220      -8.952  43.838  11.012  0.00  0.00           C
+ATOM   1727  C   TYR A 220     -10.076  44.830  10.732  0.00  0.00           C
+ATOM   1728  O   TYR A 220      -9.836  46.030  10.522  0.00  0.00           O
+ATOM   1729  CB  TYR A 220      -9.160  43.188  12.395  0.00  0.00           C
+ATOM   1730  CG  TYR A 220      -8.939  44.160  13.521  0.00  0.00           C
+ATOM   1731  CD1 TYR A 220      -9.999  44.899  14.047  0.00  0.00           C
+ATOM   1732  CD2 TYR A 220      -7.662  44.371  14.039  0.00  0.00           C
+ATOM   1733  CE1 TYR A 220      -9.789  45.818  15.063  0.00  0.00           C
+ATOM   1734  CE2 TYR A 220      -7.443  45.285  15.052  0.00  0.00           C
+ATOM   1735  CZ  TYR A 220      -8.506  46.001  15.564  0.00  0.00           C
+ATOM   1736  OH  TYR A 220      -8.288  46.916  16.576  0.00  0.00           O
+ATOM   1737  N   GLY A 221     -11.306  44.319  10.763  0.00  0.00           N
+ATOM   1738  CA  GLY A 221     -12.503  45.115  10.531  0.00  0.00           C
+ATOM   1767  CA  ARG A 225     -11.124  49.254   7.519  0.00  0.00           C
+ATOM   1768  C   ARG A 225      -9.858  48.412   7.542  0.00  0.00           C
+ATOM   1769  O   ARG A 225      -8.774  48.911   7.879  0.00  0.00           O
+ATOM   1770  CB  ARG A 225     -11.966  48.990   8.777  0.00  0.00           C
+ATOM   1771  CG  ARG A 225     -12.375  50.218   9.630  0.00  0.00           C
+ATOM   1773  NE  ARG A 225     -11.368  52.283   8.726  0.00  0.00           N
+ATOM   1777  N   LEU A 226      -9.997  47.133   7.181  0.00  0.00           N
+ATOM   1778  CA  LEU A 226      -8.850  46.241   7.025  0.00  0.00           C
+ATOM   1779  C   LEU A 226      -7.842  46.802   6.018  0.00  0.00           C
+ATOM   1780  O   LEU A 226      -6.655  46.976   6.339  0.00  0.00           O
+ATOM   1781  CB  LEU A 226      -9.308  44.825   6.620  0.00  0.00           C
+ATOM   1783  CD1 LEU A 226      -7.217  43.563   7.275  0.00  0.00           C
+ATOM   1805  N   GLY A 229      -6.345  50.135   7.066  0.00  0.00           N
+ATOM   1806  CA  GLY A 229      -5.403  49.841   8.134  0.00  0.00           C
+ATOM   1807  C   GLY A 229      -4.053  49.380   7.620  0.00  0.00           C
+ATOM   1809  N   ILE A 230      -4.055  48.384   6.730  0.00  0.00           N
+ATOM   1840  C   LYS A 234      -1.609  50.374  12.436  0.00  0.00           C
+ATOM   1841  O   LYS A 234      -2.640  49.923  11.945  0.00  0.00           O
+ATOM   1848  CA  TYR A 235      -1.698  48.838  14.318  0.00  0.00           C
+ATOM   1851  CB  TYR A 235      -1.104  47.464  13.951  0.00  0.00           C
+ATOM   1859  N   LYS A 236      -2.163  48.449  16.641  0.00  0.00           N
+ATOM   1863  CB  LYS A 236      -3.430  49.076  18.643  0.00  0.00           C
+ATOM   1864  CG  LYS A 236      -3.991  50.372  18.061  0.00  0.00           C
+ATOM   1866  CE  LYS A 236      -6.396  49.815  18.650  0.00  0.00           C

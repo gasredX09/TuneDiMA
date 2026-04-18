@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  21.23  21.43  45.52 with max radius 5.41
+ATOM   1817  CD1 LEU A 263      24.801  19.888  47.260  0.00  0.00           C
+ATOM   1842  CD1 LEU A 266      21.776  23.640  49.225  0.00  0.00           C
+ATOM   1922  CB  PRO A 276      18.971  20.571  48.827  0.00  0.00           C
+ATOM   1923  CG  PRO A 276      20.306  20.322  49.466  0.00  0.00           C
+ATOM   1951  CA  GLY A 280      17.128  18.843  44.378  0.00  0.00           C
+ATOM   1952  C   GLY A 280      18.637  18.728  44.199  0.00  0.00           C
+ATOM   1953  O   GLY A 280      19.241  19.298  43.248  0.00  0.00           O
+ATOM   1954  N   ILE A 281      19.245  17.962  45.109  0.00  0.00           N
+ATOM   1955  CA  ILE A 281      20.664  17.652  45.001  0.00  0.00           C
+ATOM   1956  C   ILE A 281      20.988  17.046  43.652  0.00  0.00           C
+ATOM   1957  O   ILE A 281      21.913  17.520  42.998  0.00  0.00           O
+ATOM   1958  CB  ILE A 281      21.172  16.719  46.121  0.00  0.00           C
+ATOM   1959  CG1 ILE A 281      21.034  17.390  47.491  0.00  0.00           C
+ATOM   1960  CG2 ILE A 281      22.660  16.391  45.898  0.00  0.00           C
+ATOM   1980  N   LYS A 284      20.845  19.432  40.720  0.00  0.00           N
+ATOM   1981  CA  LYS A 284      22.046  20.274  40.529  0.00  0.00           C
+ATOM   1984  CB  LYS A 284      22.300  21.196  41.727  0.00  0.00           C
+ATOM   1985  CG  LYS A 284      21.629  22.556  41.607  0.00  0.00           C
+ATOM   1986  CD  LYS A 284      22.091  23.514  42.698  0.00  0.00           C
+ATOM   1987  CE  LYS A 284      23.453  24.121  42.378  0.00  0.00           C
+ATOM   1988  NZ  LYS A 284      23.543  25.529  42.856  0.00  0.00           N
+ATOM   1989  N   PHE A 285      23.571  18.390  40.853  0.00  0.00           N

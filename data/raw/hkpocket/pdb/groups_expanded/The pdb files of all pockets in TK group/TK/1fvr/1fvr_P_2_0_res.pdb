@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.80 -31.74   8.56 with max radius 7.73
+ATOM   1041  CA  ASP A 953      -1.251 -30.390  13.372  0.00  0.00           C
+ATOM   1042  C   ASP A 953      -2.443 -29.690  12.724  0.00  0.00           C
+ATOM   1043  O   ASP A 953      -2.545 -29.599  11.503  0.00  0.00           O
+ATOM   1044  CB  ASP A 953      -1.679 -31.714  14.005  0.00  0.00           C
+ATOM   1045  CG  ASP A 953      -2.333 -32.656  13.014  0.00  0.00           C
+ATOM   1047  OD2 ASP A 953      -1.703 -32.998  11.994  0.00  0.00           O
+ATOM   1069  CA  SER A 956      -0.168 -26.880   9.402  0.00  0.00           C
+ATOM   1070  C   SER A 956      -1.072 -27.545   8.361  0.00  0.00           C
+ATOM   1071  O   SER A 956      -0.901 -27.326   7.163  0.00  0.00           O
+ATOM   1072  CB  SER A 956       1.030 -27.784   9.738  0.00  0.00           C
+ATOM   1073  OG  SER A 956       0.626 -29.006  10.312  0.00  0.00           O
+ATOM   1074  N   GLN A 957      -2.039 -28.339   8.814  0.00  0.00           N
+ATOM   1075  CA  GLN A 957      -2.961 -28.989   7.886  0.00  0.00           C
+ATOM   1078  CB  GLN A 957      -3.980 -29.853   8.632  0.00  0.00           C
+ATOM   1079  CG  GLN A 957      -3.398 -31.104   9.263  0.00  0.00           C
+ATOM   1080  CD  GLN A 957      -2.965 -32.127   8.239  0.00  0.00           C
+ATOM   1081  OE1 GLN A 957      -2.142 -31.839   7.361  0.00  0.00           O
+ATOM   1082  NE2 GLN A 957      -3.516 -33.339   8.343  0.00  0.00           N
+ATOM   1531  C   THR A1017       7.075 -27.496   8.922  0.00  0.00           C
+ATOM   1532  O   THR A1017       7.109 -27.882  10.083  0.00  0.00           O
+ATOM   1533  CB  THR A1017       4.707 -27.382   8.125  0.00  0.00           C
+ATOM   1534  OG1 THR A1017       4.989 -28.315   7.079  0.00  0.00           O
+ATOM   1535  CG2 THR A1017       3.610 -26.486   7.689  0.00  0.00           C
+ATOM   1536  N   ASN A1018       7.984 -27.856   8.017  0.00  0.00           N
+ATOM   1537  CA  ASN A1018       9.108 -28.716   8.378  0.00  0.00           C
+ATOM   1540  CB  ASN A1018       9.929 -29.115   7.144  0.00  0.00           C
+ATOM   1541  CG  ASN A1018       9.334 -30.298   6.392  0.00  0.00           C
+ATOM   1542  OD1 ASN A1018       8.800 -31.230   6.993  0.00  0.00           O
+ATOM   1564  CG2 VAL A1021       7.180 -30.526  12.253  0.00  0.00           C
+ATOM   2067  O   ARG A1082       9.297 -35.405   9.339  0.00  0.00           O
+ATOM   2077  C   PRO A1083       7.201 -35.169  11.429  0.00  0.00           C
+ATOM   2078  O   PRO A1083       7.548 -33.985  11.463  0.00  0.00           O
+ATOM   2082  N   SER A1084       5.951 -35.543  11.187  0.00  0.00           N
+ATOM   2083  CA  SER A1084       4.894 -34.559  10.999  0.00  0.00           C
+ATOM   2084  C   SER A1084       4.348 -34.313  12.394  0.00  0.00           C
+ATOM   2086  CB  SER A1084       3.782 -35.131  10.127  0.00  0.00           C
+ATOM   2087  OG  SER A1084       3.208 -36.261  10.767  0.00  0.00           O
+ATOM   2088  N   PHE A1085       3.583 -33.246  12.567  0.00  0.00           N
+ATOM   2089  CA  PHE A1085       3.012 -32.965  13.872  0.00  0.00           C
+ATOM   2090  C   PHE A1085       2.050 -34.064  14.292  0.00  0.00           C
+ATOM   2092  CB  PHE A1085       2.304 -31.611  13.865  0.00  0.00           C
+ATOM   2093  CG  PHE A1085       3.242 -30.446  13.971  0.00  0.00           C
+ATOM   2095  CD2 PHE A1085       3.403 -29.562  12.905  0.00  0.00           C
+ATOM   2097  CE2 PHE A1085       4.299 -28.485  12.997  0.00  0.00           C
+ATOM   2099  N   ALA A1086       1.433 -34.729  13.322  0.00  0.00           N
+ATOM   2100  CA  ALA A1086       0.503 -35.814  13.635  0.00  0.00           C
+ATOM   2103  CB  ALA A1086      -0.265 -36.250  12.373  0.00  0.00           C

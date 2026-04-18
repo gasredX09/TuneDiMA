@@ -1,0 +1,72 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 66 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  10.78  37.24   0.65 with max radius 11.68
+ATOM    977  CA  VAL A1182      15.080  37.520  -7.524  0.00  0.00           C
+ATOM    978  C   VAL A1182      15.802  36.570  -8.465  0.00  0.00           C
+ATOM    979  O   VAL A1182      15.967  35.387  -8.156  0.00  0.00           O
+ATOM    980  CB  VAL A1182      13.659  37.808  -8.064  0.00  0.00           C
+ATOM    981  CG1 VAL A1182      12.988  36.537  -8.575  0.00  0.00           C
+ATOM    982  CG2 VAL A1182      12.811  38.440  -6.966  0.00  0.00           C
+ATOM   1004  CB  LEU A1185      17.581  34.112  -5.251  0.00  0.00           C
+ATOM   1006  CD1 LEU A1185      16.900  35.996  -3.723  0.00  0.00           C
+ATOM   1013  CG1 ILE A1186      14.578  32.502  -9.076  0.00  0.00           C
+ATOM   1015  CD1 ILE A1186      13.434  33.044  -9.915  0.00  0.00           C
+ATOM   1798  CA  LEU A1281      13.555  33.280  -1.990  0.00  0.00           C
+ATOM   1799  C   LEU A1281      12.970  33.967  -0.751  0.00  0.00           C
+ATOM   1800  O   LEU A1281      12.422  35.051  -0.870  0.00  0.00           O
+ATOM   1801  CB  LEU A1281      12.456  32.825  -2.961  0.00  0.00           C
+ATOM   1802  CG  LEU A1281      13.006  32.881  -4.389  0.00  0.00           C
+ATOM   1803  CD1 LEU A1281      13.694  31.590  -4.769  0.00  0.00           C
+ATOM   1804  CD2 LEU A1281      11.930  33.206  -5.366  0.00  0.00           C
+ATOM   1805  N   THR A1282      13.098  33.352   0.421  0.00  0.00           N
+ATOM   1806  CA  THR A1282      12.924  34.075   1.688  0.00  0.00           C
+ATOM   1807  C   THR A1282      14.239  34.701   2.201  0.00  0.00           C
+ATOM   1808  O   THR A1282      14.243  35.383   3.231  0.00  0.00           O
+ATOM   1809  CB  THR A1282      12.370  33.149   2.781  0.00  0.00           C
+ATOM   1811  CG2 THR A1282      11.034  32.583   2.365  0.00  0.00           C
+ATOM   1816  CB  ARG A1283      16.966  36.335   1.864  0.00  0.00           C
+ATOM   1831  CB  ALA A1285      12.579  32.652   6.153  0.00  0.00           C
+ATOM   2037  CA  PRO A1309       7.442  33.977  -0.710  0.00  0.00           C
+ATOM   2038  C   PRO A1309       7.003  35.204  -1.500  0.00  0.00           C
+ATOM   2039  O   PRO A1309       6.615  35.087  -2.672  0.00  0.00           O
+ATOM   2040  CB  PRO A1309       8.906  33.639  -1.034  0.00  0.00           C
+ATOM   2041  CG  PRO A1309       8.972  32.156  -0.999  0.00  0.00           C
+ATOM   2043  N   GLU A1310       7.092  36.368  -0.859  0.00  0.00           N
+ATOM   2044  CA  GLU A1310       6.624  37.620  -1.451  0.00  0.00           C
+ATOM   2045  C   GLU A1310       7.008  37.764  -2.910  0.00  0.00           C
+ATOM   2047  CB  GLU A1310       7.119  38.842  -0.662  0.00  0.00           C
+ATOM   2048  CG  GLU A1310       6.000  39.635  -0.003  0.00  0.00           C
+ATOM   2049  CD  GLU A1310       6.450  41.005   0.465  0.00  0.00           C
+ATOM   2050  OE1 GLU A1310       7.421  41.074   1.251  0.00  0.00           O
+ATOM   2052  N   TYR A1311       8.299  37.702  -3.200  0.00  0.00           N
+ATOM   2053  CA  TYR A1311       8.771  38.024  -4.551  0.00  0.00           C
+ATOM   2054  C   TYR A1311       9.054  36.781  -5.396  0.00  0.00           C
+ATOM   2055  O   TYR A1311       9.705  36.857  -6.438  0.00  0.00           O
+ATOM   2056  CB  TYR A1311       9.981  38.965  -4.474  0.00  0.00           C
+ATOM   2057  CG  TYR A1311       9.654  40.262  -3.762  0.00  0.00           C
+ATOM   2059  CD2 TYR A1311      10.294  40.608  -2.572  0.00  0.00           C
+ATOM   2061  CE2 TYR A1311       9.992  41.796  -1.903  0.00  0.00           C
+ATOM   2064  N   CYS A1312       8.517  35.647  -4.955  0.00  0.00           N
+ATOM   2065  CA  CYS A1312       8.665  34.392  -5.672  0.00  0.00           C
+ATOM   2068  CB  CYS A1312       8.517  33.216  -4.715  0.00  0.00           C
+ATOM   2076  CD  PRO A1313       9.464  34.168  -8.486  0.00  0.00           C
+ATOM   2401  CB  VAL A1354      14.734  39.118  -2.406  0.00  0.00           C
+ATOM   2402  CG1 VAL A1354      13.930  38.395  -1.314  0.00  0.00           C
+ATOM   2403  CG2 VAL A1354      14.286  38.663  -3.778  0.00  0.00           C
+ATOM   2404  N   GLN A1355      14.316  41.278   0.089  0.00  0.00           N
+ATOM   2405  CA  GLN A1355      14.674  41.775   1.418  0.00  0.00           C
+ATOM   2406  C   GLN A1355      14.900  40.612   2.374  0.00  0.00           C
+ATOM   2407  O   GLN A1355      14.639  39.462   2.025  0.00  0.00           O
+ATOM   2408  CB  GLN A1355      13.536  42.649   1.960  0.00  0.00           C
+ATOM   2413  N   LEU A1356      15.359  40.920   3.587  0.00  0.00           N
+ATOM   2414  CA  LEU A1356      15.574  39.905   4.632  0.00  0.00           C
+ATOM   2415  C   LEU A1356      14.334  39.743   5.527  0.00  0.00           C
+ATOM   2416  O   LEU A1356      13.546  40.687   5.675  0.00  0.00           O
+ATOM   2421  N   PRO A1357      14.152  38.544   6.127  0.00  0.00           N
+ATOM   2422  CA  PRO A1357      13.040  38.330   7.065  0.00  0.00           C
+ATOM   2425  CB  PRO A1357      12.948  36.798   7.160  0.00  0.00           C
+ATOM   2426  CG  PRO A1357      14.305  36.295   6.828  0.00  0.00           C
+ATOM   2427  CD  PRO A1357      14.976  37.327   5.954  0.00  0.00           C

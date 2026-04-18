@@ -1,0 +1,48 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 42 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  25.46  20.72  39.48 with max radius 6.61
+ATOM   1891  C   MET A 482      26.319  23.858  43.725  0.00  0.00           C
+ATOM   1892  O   MET A 482      25.575  23.110  43.108  0.00  0.00           O
+ATOM   1893  CB  MET A 482      28.643  23.943  42.754  0.00  0.00           C
+ATOM   1896  CE  MET A 482      28.307  23.051  39.666  0.00  0.00           C
+ATOM   1950  CA  LEU A 485      23.021  24.667  40.987  0.00  0.00           C
+ATOM   1951  C   LEU A 485      22.521  23.230  41.029  0.00  0.00           C
+ATOM   1952  O   LEU A 485      21.603  22.853  40.289  0.00  0.00           O
+ATOM   1953  CB  LEU A 485      24.293  24.786  40.131  0.00  0.00           C
+ATOM   1954  CG  LEU A 485      24.058  24.776  38.655  0.00  0.00           C
+ATOM   1956  CD2 LEU A 485      25.354  24.623  37.910  0.00  0.00           C
+ATOM   1968  N   GLU A 486      23.107  22.413  41.890  0.00  0.00           N
+ATOM   1969  CA  GLU A 486      22.717  21.008  42.043  0.00  0.00           C
+ATOM   1972  CB  GLU A 486      23.692  20.318  43.008  0.00  0.00           C
+ATOM   1973  CG  GLU A 486      23.324  18.919  43.469  0.00  0.00           C
+ATOM   1974  CD  GLU A 486      24.370  18.401  44.436  0.00  0.00           C
+ATOM   1976  OE2 GLU A 486      25.359  17.819  43.948  0.00  0.00           O
+ATOM   2024  CA  PHE A 490      21.328  22.159  36.329  0.00  0.00           C
+ATOM   2025  C   PHE A 490      22.719  21.569  36.478  0.00  0.00           C
+ATOM   2026  O   PHE A 490      23.278  21.575  37.586  0.00  0.00           O
+ATOM   2043  N   VAL A 491      23.298  21.163  35.387  0.00  0.00           N
+ATOM   2044  CA  VAL A 491      24.701  20.748  35.334  0.00  0.00           C
+ATOM   2045  C   VAL A 491      25.463  21.846  34.627  0.00  0.00           C
+ATOM   2047  CB  VAL A 491      24.946  19.360  34.712  0.00  0.00           C
+ATOM   2048  CG1 VAL A 491      24.390  18.294  35.635  0.00  0.00           C
+ATOM   2059  N   HIS A 492      26.659  22.190  35.119  0.00  0.00           N
+ATOM   2060  CA  HIS A 492      27.475  23.276  34.570  0.00  0.00           C
+ATOM   2063  CB  HIS A 492      28.385  23.841  35.684  0.00  0.00           C
+ATOM   2521  CD1 LEU A 519      20.594  17.168  36.749  0.00  0.00           C
+ATOM   3051  C   SER A 550      26.082  15.909  37.373  0.00  0.00           C
+ATOM   3052  O   SER A 550      27.208  16.393  37.117  0.00  0.00           O
+ATOM   3060  N   SER A 551      25.425  16.261  38.468  0.00  0.00           N
+ATOM   3061  CA  SER A 551      26.056  17.167  39.406  0.00  0.00           C
+ATOM   3062  C   SER A 551      27.291  16.488  40.010  0.00  0.00           C
+ATOM   3063  O   SER A 551      28.284  17.185  40.273  0.00  0.00           O
+ATOM   3064  CB  SER A 551      25.097  17.615  40.495  0.00  0.00           C
+ATOM   3065  OG  SER A 551      24.102  18.475  39.949  0.00  0.00           O
+ATOM   3108  CB  ASP A 554      29.492  19.712  38.384  0.00  0.00           C
+ATOM   3109  CG  ASP A 554      28.796  20.153  37.120  0.00  0.00           C
+ATOM   3111  OD2 ASP A 554      27.645  20.588  37.228  0.00  0.00           O
+ATOM   4138  CG  PHE A 619      28.439  20.566  44.268  0.00  0.00           C
+ATOM   4140  CD2 PHE A 619      28.089  20.170  42.994  0.00  0.00           C
+ATOM   4142  CE2 PHE A 619      29.009  20.288  41.943  0.00  0.00           C

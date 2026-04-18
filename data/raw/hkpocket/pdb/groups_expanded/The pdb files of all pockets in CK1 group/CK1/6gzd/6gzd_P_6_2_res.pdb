@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   9.82 -26.35  -6.50 with max radius 6.19
+ATOM    971  C   ARG A 123      10.944 -23.401 -10.854  0.00  0.00           C
+ATOM    972  O   ARG A 123      11.180 -22.826  -9.788  0.00  0.00           O
+ATOM    980  N   ILE A 124      11.024 -24.717 -11.007  0.00  0.00           N
+ATOM    981  CA  ILE A 124      11.397 -25.612  -9.918  0.00  0.00           C
+ATOM    982  C   ILE A 124      12.855 -25.375  -9.492  0.00  0.00           C
+ATOM    983  O   ILE A 124      13.145 -25.285  -8.298  0.00  0.00           O
+ATOM    984  CB  ILE A 124      11.191 -27.089 -10.285  0.00  0.00           C
+ATOM    985  CG1 ILE A 124       9.708 -27.385 -10.539  0.00  0.00           C
+ATOM    986  CG2 ILE A 124      11.704 -27.990  -9.163  0.00  0.00           C
+ATOM    987  CD1 ILE A 124       9.463 -28.689 -11.272  0.00  0.00           C
+ATOM   1013  CB  VAL A 127      11.534 -23.323  -5.748  0.00  0.00           C
+ATOM   1014  CG1 VAL A 127      11.173 -23.789  -4.349  0.00  0.00           C
+ATOM   1015  CG2 VAL A 127      10.432 -22.407  -6.295  0.00  0.00           C
+ATOM   1021  CG  HIS A 128      14.876 -27.370  -6.200  0.00  0.00           C
+ATOM   1023  CD2 HIS A 128      13.675 -27.501  -5.580  0.00  0.00           C
+ATOM   1024  CE1 HIS A 128      13.869 -29.157  -7.004  0.00  0.00           C
+ATOM   1025  NE2 HIS A 128      13.065 -28.620  -6.102  0.00  0.00           N
+ATOM   1053  O   PHE A 132      13.451 -25.898  -2.816  0.00  0.00           O
+ATOM   1062  CA  ILE A 133      11.419 -27.817  -2.207  0.00  0.00           C
+ATOM   1063  C   ILE A 133       9.915 -27.487  -2.135  0.00  0.00           C
+ATOM   1069  N   HIS A 134       9.200 -27.710  -3.228  0.00  0.00           N
+ATOM   1070  CA  HIS A 134       7.796 -27.297  -3.338  0.00  0.00           C
+ATOM   1073  CB  HIS A 134       7.436 -27.099  -4.816  0.00  0.00           C
+ATOM   1074  CG  HIS A 134       6.109 -26.444  -5.041  0.00  0.00           C
+ATOM   1076  CD2 HIS A 134       5.777 -25.145  -5.239  0.00  0.00           C
+ATOM   1079  N   ARG A 135       7.069 -29.583  -3.010  0.00  0.00           N
+ATOM   1103  CG1 ILE A 137       6.609 -30.107  -8.029  0.00  0.00           C
+ATOM   1105  CD1 ILE A 137       6.780 -28.614  -8.253  0.00  0.00           C
+ATOM   1251  CD2 LEU A 155       7.352 -24.400  -8.595  0.00  0.00           C
+ATOM   1274  CD1 PHE A 158       6.838 -22.162  -3.048  0.00  0.00           C
+ATOM   1276  CE1 PHE A 158       7.410 -22.014  -4.304  0.00  0.00           C
+ATOM   1647  CB  ASP A 203      10.491 -30.986  -6.927  0.00  0.00           C
+ATOM   1648  CG  ASP A 203       9.966 -30.387  -5.630  0.00  0.00           C
+ATOM   1649  OD1 ASP A 203       9.003 -30.943  -5.054  0.00  0.00           O
+ATOM   1650  OD2 ASP A 203      10.517 -29.342  -5.181  0.00  0.00           O

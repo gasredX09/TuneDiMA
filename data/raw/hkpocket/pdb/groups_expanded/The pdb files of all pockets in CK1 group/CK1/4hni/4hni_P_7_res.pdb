@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -27.52 -12.19 -18.25 with max radius 8.02
+ATOM    223  CA  GLU A  33     -20.087 -14.081 -15.895  0.00  0.00           C
+ATOM    226  CB  GLU A  33     -20.385 -12.595 -16.117  0.00  0.00           C
+ATOM    227  CG  GLU A  33     -20.242 -11.740 -14.896  0.00  0.00           C
+ATOM    228  CD  GLU A  33     -21.073 -10.475 -14.999  0.00  0.00           C
+ATOM    229  OE1 GLU A  33     -21.218  -9.964 -16.148  0.00  0.00           O
+ATOM    231  N   GLU A  34     -21.145 -15.675 -17.358  0.00  0.00           N
+ATOM    232  CA  GLU A  34     -21.358 -16.367 -18.618  0.00  0.00           C
+ATOM    233  C   GLU A  34     -21.597 -15.260 -19.653  0.00  0.00           C
+ATOM    234  O   GLU A  34     -22.271 -14.262 -19.362  0.00  0.00           O
+ATOM    235  CB  GLU A  34     -22.590 -17.273 -18.519  0.00  0.00           C
+ATOM    241  CA  VAL A  35     -21.197 -14.427 -21.889  0.00  0.00           C
+ATOM    245  CG1 VAL A  35     -20.034 -12.667 -20.544  0.00  0.00           C
+ATOM    552  CA  GLU A  83     -24.219 -10.443 -22.103  0.00  0.00           C
+ATOM    553  C   GLU A  83     -24.939 -11.663 -22.639  0.00  0.00           C
+ATOM    555  CB  GLU A  83     -25.234  -9.559 -21.389  0.00  0.00           C
+ATOM    556  CG  GLU A  83     -26.509  -9.314 -22.217  0.00  0.00           C
+ATOM    557  CD  GLU A  83     -27.429  -8.264 -21.613  0.00  0.00           C
+ATOM    558  OE1 GLU A  83     -27.990  -8.500 -20.519  0.00  0.00           O
+ATOM    560  N   LEU A  84     -25.008 -12.700 -21.817  0.00  0.00           N
+ATOM    561  CA  LEU A  84     -25.690 -13.917 -22.210  0.00  0.00           C
+ATOM    562  C   LEU A  84     -27.187 -13.669 -22.088  0.00  0.00           C
+ATOM    563  O   LEU A  84     -27.648 -12.996 -21.166  0.00  0.00           O
+ATOM    564  CB  LEU A  84     -25.264 -15.070 -21.304  0.00  0.00           C
+ATOM    565  CG  LEU A  84     -25.638 -16.487 -21.726  0.00  0.00           C
+ATOM    567  CD2 LEU A  84     -25.168 -17.441 -20.648  0.00  0.00           C
+ATOM    569  CA  LEU A  85     -29.389 -14.046 -23.038  0.00  0.00           C
+ATOM    570  C   LEU A  85     -30.031 -15.428 -23.003  0.00  0.00           C
+ATOM    572  CB  LEU A  85     -29.825 -13.260 -24.280  0.00  0.00           C
+ATOM    575  CD2 LEU A  85     -29.853 -11.035 -23.158  0.00  0.00           C
+ATOM    576  N   GLY A  86     -31.357 -15.474 -23.076  0.00  0.00           N
+ATOM    994  O   MET A 136     -33.530 -13.818 -23.086  0.00  0.00           O
+ATOM   1000  CA  GLY A 137     -33.973 -12.163 -20.954  0.00  0.00           C
+ATOM   1001  C   GLY A 137     -33.670 -13.305 -20.009  0.00  0.00           C
+ATOM   1003  N   LEU A 138     -32.712 -13.080 -19.131  0.00  0.00           N
+ATOM   1004  CA  LEU A 138     -32.356 -14.117 -18.193  0.00  0.00           C
+ATOM   1005  C   LEU A 138     -32.570 -13.665 -16.781  0.00  0.00           C
+ATOM   1006  O   LEU A 138     -32.471 -12.480 -16.478  0.00  0.00           O
+ATOM   1007  CB  LEU A 138     -30.904 -14.517 -18.392  0.00  0.00           C
+ATOM   1008  CG  LEU A 138     -30.655 -15.998 -18.667  0.00  0.00           C
+ATOM   1010  CD2 LEU A 138     -29.221 -16.115 -19.127  0.00  0.00           C
+ATOM   1028  CB  LYS A 141     -33.862  -9.583 -17.667  0.00  0.00           C
+ATOM   1029  CG  LYS A 141     -33.175  -8.434 -16.871  0.00  0.00           C
+ATOM   1066  CD1 TYR A 146     -33.511  -9.484 -23.472  0.00  0.00           C
+ATOM   1068  CE1 TYR A 146     -33.236  -9.172 -22.145  0.00  0.00           C
+ATOM   1069  CE2 TYR A 146     -31.489  -7.685 -22.869  0.00  0.00           C
+ATOM   1070  CZ  TYR A 146     -32.226  -8.275 -21.850  0.00  0.00           C
+ATOM   1071  OH  TYR A 146     -31.944  -7.980 -20.536  0.00  0.00           O

@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  15.45  32.25  40.20 with max radius 6.35
+ATOM     98  CE1 TYR A  20      18.548  36.082  38.094  0.00  0.00           C
+ATOM    100  CZ  TYR A  20      17.348  36.665  37.671  0.00  0.00           C
+ATOM    101  OH  TYR A  20      16.144  36.079  37.989  0.00  0.00           O
+ATOM    242  CB  ASP A  39      19.667  35.190  41.592  0.00  0.00           C
+ATOM    243  CG  ASP A  39      18.376  35.961  41.912  0.00  0.00           C
+ATOM    245  OD2 ASP A  39      17.265  35.435  41.612  0.00  0.00           O
+ATOM    265  NH2 ARG A  41      15.377  37.818  40.500  0.00  0.00           N
+ATOM    271  OG1 THR A  42      19.035  33.799  44.748  0.00  0.00           O
+ATOM    272  CG2 THR A  42      17.096  34.986  45.686  0.00  0.00           C
+ATOM    286  CB  LYS A  44      20.183  31.005  43.529  0.00  0.00           C
+ATOM    287  CG  LYS A  44      19.921  29.596  42.881  0.00  0.00           C
+ATOM    288  CD  LYS A  44      18.402  29.271  42.854  0.00  0.00           C
+ATOM    289  CE  LYS A  44      18.049  27.982  42.091  0.00  0.00           C
+ATOM    304  CG1 VAL A  46      19.430  31.387  38.583  0.00  0.00           C
+ATOM    478  CA  ASP A  82      12.529  29.841  36.622  0.00  0.00           C
+ATOM    479  C   ASP A  82      11.990  31.251  36.567  0.00  0.00           C
+ATOM    480  O   ASP A  82      11.429  31.739  37.549  0.00  0.00           O
+ATOM    481  CB  ASP A  82      13.820  29.818  37.461  0.00  0.00           C
+ATOM    482  CG  ASP A  82      14.299  28.401  37.785  0.00  0.00           C
+ATOM    483  OD1 ASP A  82      13.480  27.520  38.122  0.00  0.00           O
+ATOM    484  OD2 ASP A  82      15.521  28.161  37.736  0.00  0.00           O
+ATOM    485  N   ASP A  83      12.157  31.931  35.439  0.00  0.00           N
+ATOM    489  CB  ASP A  83      12.388  34.160  36.451  0.00  0.00           C
+ATOM    490  CG  ASP A  83      11.407  34.970  37.313  0.00  0.00           C
+ATOM    492  OD2 ASP A  83      11.663  35.056  38.539  0.00  0.00           O
+ATOM    509  CE1 TYR A  85      13.800  37.873  36.700  0.00  0.00           C
+ATOM    578  CB  ILE A  94      15.845  33.465  35.027  0.00  0.00           C
+ATOM    579  CG1 ILE A  94      15.665  34.986  34.800  0.00  0.00           C
+ATOM    580  CG2 ILE A  94      16.863  33.065  36.130  0.00  0.00           C

@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   3.57   7.34  23.43 with max radius 6.42
+ATOM    278  CG1 VAL A 245      -0.246  10.157  25.465  0.00  0.00           C
+ATOM    279  CG2 VAL A 245       2.153  10.064  26.050  0.00  0.00           C
+ATOM    282  C   GLU A 246       3.574  12.975  23.659  0.00  0.00           C
+ATOM    283  O   GLU A 246       4.044  11.866  23.931  0.00  0.00           O
+ATOM    290  CA  VAL A 247       3.487  12.595  21.229  0.00  0.00           C
+ATOM    293  CB  VAL A 247       2.145  12.107  20.620  0.00  0.00           C
+ATOM    294  CG1 VAL A 247       1.395  11.259  21.636  0.00  0.00           C
+ATOM    497  CB  ARG A 282       2.382   3.800  19.773  0.00  0.00           C
+ATOM    498  CG  ARG A 282       0.868   3.738  19.749  0.00  0.00           C
+ATOM    499  CD  ARG A 282       0.388   3.732  21.187  0.00  0.00           C
+ATOM    501  CZ  ARG A 282      -1.678   3.755  22.533  0.00  0.00           C
+ATOM    502  NH1 ARG A 282      -0.961   3.642  23.646  0.00  0.00           N
+ATOM    523  CE1 TYR A 284       0.740   7.735  20.423  0.00  0.00           C
+ATOM    525  CZ  TYR A 284      -0.156   7.502  21.452  0.00  0.00           C
+ATOM    526  OH  TYR A 284       0.298   7.311  22.723  0.00  0.00           O
+ATOM    616  O   THR A 301       3.896  10.045  18.585  0.00  0.00           O
+ATOM    620  N   GLU A 302       4.161   7.797  18.755  0.00  0.00           N
+ATOM    621  CA  GLU A 302       4.801   7.784  20.063  0.00  0.00           C
+ATOM    622  C   GLU A 302       6.071   8.580  19.998  0.00  0.00           C
+ATOM    624  CB  GLU A 302       5.059   6.329  20.515  0.00  0.00           C
+ATOM    625  CG  GLU A 302       6.050   6.097  21.625  0.00  0.00           C
+ATOM    626  CD  GLU A 302       6.064   4.649  22.109  0.00  0.00           C
+ATOM    627  OE1 GLU A 302       5.686   3.730  21.338  0.00  0.00           O
+ATOM    628  OE2 GLU A 302       6.481   4.439  23.265  0.00  0.00           O
+ATOM    629  N   LEU A 303       6.361   9.239  21.097  0.00  0.00           N
+ATOM    630  CA  LEU A 303       7.530  10.071  21.173  0.00  0.00           C
+ATOM    631  C   LEU A 303       8.665   9.263  21.816  0.00  0.00           C
+ATOM    632  O   LEU A 303       8.622   8.932  23.005  0.00  0.00           O
+ATOM    633  CB  LEU A 303       7.236  11.303  21.999  0.00  0.00           C

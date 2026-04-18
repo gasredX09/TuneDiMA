@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -4.64 -20.04  13.44 with max radius 7.14
+ATOM      2  CA  MET A   1      -2.550 -24.924  12.195  0.00  0.00           C
+ATOM      3  C   MET A   1      -1.627 -24.469  13.316  0.00  0.00           C
+ATOM      4  O   MET A   1      -2.089 -24.229  14.442  0.00  0.00           O
+ATOM      5  CB  MET A   1      -3.971 -25.009  12.749  0.00  0.00           C
+ATOM      7  SD  MET A   1      -6.621 -24.907  12.322  0.00  0.00           S
+ATOM      8  CE  MET A   1      -6.620 -23.146  11.944  0.00  0.00           C
+ATOM     11  C   GLU A   2       0.278 -23.482  15.231  0.00  0.00           C
+ATOM     12  O   GLU A   2      -0.244 -22.352  15.181  0.00  0.00           O
+ATOM     19  CA  PRO A   3       0.047 -23.439  17.615  0.00  0.00           C
+ATOM     32  CD2 PHE A   4      -0.466 -18.616  16.970  0.00  0.00           C
+ATOM     33  CE1 PHE A   4      -2.285 -16.806  17.953  0.00  0.00           C
+ATOM     34  CE2 PHE A   4      -1.431 -18.052  16.105  0.00  0.00           C
+ATOM     35  CZ  PHE A   4      -2.302 -17.143  16.602  0.00  0.00           C
+ATOM    499  CA  GLU A  62      -6.076 -14.972  14.128  0.00  0.00           C
+ATOM    500  C   GLU A  62      -6.245 -14.755  12.587  0.00  0.00           C
+ATOM    501  O   GLU A  62      -5.638 -15.455  11.790  0.00  0.00           O
+ATOM    502  CB  GLU A  62      -7.109 -15.950  14.660  0.00  0.00           C
+ATOM    503  CG  GLU A  62      -6.773 -16.483  16.054  0.00  0.00           C
+ATOM    504  CD  GLU A  62      -7.717 -17.574  16.500  0.00  0.00           C
+ATOM    505  OE1 GLU A  62      -8.678 -17.862  15.729  0.00  0.00           O
+ATOM    506  OE2 GLU A  62      -7.495 -18.143  17.603  0.00  0.00           O
+ATOM    539  CA  VAL A  65      -1.957 -14.534  11.207  0.00  0.00           C
+ATOM    540  C   VAL A  65      -2.260 -15.509  10.042  0.00  0.00           C
+ATOM    542  CB  VAL A  65      -1.893 -15.262  12.525  0.00  0.00           C
+ATOM    543  CG1 VAL A  65      -1.022 -16.542  12.387  0.00  0.00           C
+ATOM    544  CG2 VAL A  65      -1.355 -14.331  13.632  0.00  0.00           C
+ATOM    545  N   SER A  66      -3.536 -15.870   9.890  0.00  0.00           N
+ATOM    547  CA  SER A  66      -3.938 -16.776   8.821  0.00  0.00           C
+ATOM    553  CB  SER A  66      -5.463 -16.970   8.788  0.00  0.00           C
+ATOM    555  OG  SER A  66      -5.864 -17.677   7.615  0.00  0.00           O
+ATOM    579  CD  ARG A  69       0.020 -19.443  10.067  0.00  0.00           C
+ATOM    581  CZ  ARG A  69       0.337 -20.071  12.466  0.00  0.00           C
+ATOM    582  NH1 ARG A  69      -0.891 -20.541  12.502  0.00  0.00           N

@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   3.10   8.22  13.62 with max radius 6.39
+ATOM    109  O   LYS A 213      -0.537  11.512  11.336  0.00  0.00           O
+ATOM    114  CA  GLY A 214       1.990  12.664  11.727  0.00  0.00           C
+ATOM    115  C   GLY A 214       2.112  12.883  13.224  0.00  0.00           C
+ATOM    117  N   ARG A 215       3.211  12.409  13.841  0.00  0.00           N
+ATOM    118  CA  ARG A 215       3.472  12.669  15.264  0.00  0.00           C
+ATOM    121  CB  ARG A 215       4.755  11.936  15.647  0.00  0.00           C
+ATOM    122  CG  ARG A 215       5.118  11.932  17.122  0.00  0.00           C
+ATOM    123  CD  ARG A 215       6.322  11.024  17.378  0.00  0.00           C
+ATOM    124  NE  ARG A 215       7.153  10.830  16.179  0.00  0.00           N
+ATOM    125  CZ  ARG A 215       8.085  11.681  15.755  0.00  0.00           C
+ATOM    127  NH2 ARG A 215       8.761  11.431  14.643  0.00  0.00           N
+ATOM   1096  OD2 ASP A 333       6.883   6.645  16.821  0.00  0.00           O
+ATOM   1112  CE  LYS A 335       3.475   4.385  15.923  0.00  0.00           C
+ATOM   1113  NZ  LYS A 335       2.573   5.221  16.800  0.00  0.00           N
+ATOM   1122  C   LYS A 337       3.113   2.910  11.289  0.00  0.00           C
+ATOM   1123  O   LYS A 337       2.880   3.819  10.457  0.00  0.00           O
+ATOM   1124  CB  LYS A 337       1.150   3.032  12.885  0.00  0.00           C
+ATOM   1126  CD  LYS A 337      -0.989   3.346  14.188  0.00  0.00           C
+ATOM   1134  CG  ASN A 338       5.971   4.806  13.057  0.00  0.00           C
+ATOM   1135  OD1 ASN A 338       5.049   5.498  12.599  0.00  0.00           O
+ATOM   1136  ND2 ASN A 338       6.565   5.109  14.200  0.00  0.00           N
+ATOM   1226  CB  ASP A 351       7.704   7.250  11.283  0.00  0.00           C
+ATOM   1227  CG  ASP A 351       6.533   8.133  10.924  0.00  0.00           C
+ATOM   1228  OD1 ASP A 351       6.574   9.336  11.264  0.00  0.00           O
+ATOM   1229  OD2 ASP A 351       5.584   7.629  10.306  0.00  0.00           O

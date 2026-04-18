@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  12.70  14.92  18.32 with max radius 6.64
+ATOM   1530  C   LEU A1069      13.125  12.739  22.170  0.00  0.00           C
+ATOM   1531  O   LEU A1069      13.510  12.938  21.021  0.00  0.00           O
+ATOM   1536  N   LYS A1070      12.206  13.497  22.766  0.00  0.00           N
+ATOM   1537  CA  LYS A1070      11.551  14.601  22.054  0.00  0.00           C
+ATOM   1538  C   LYS A1070      12.494  15.753  21.689  0.00  0.00           C
+ATOM   1539  O   LYS A1070      12.153  16.598  20.863  0.00  0.00           O
+ATOM   1540  CB  LYS A1070      10.349  15.132  22.839  0.00  0.00           C
+ATOM   1545  N   TRP A1071      13.675  15.776  22.303  0.00  0.00           N
+ATOM   1546  CA  TRP A1071      14.661  16.823  22.050  0.00  0.00           C
+ATOM   1547  C   TRP A1071      15.837  16.328  21.209  0.00  0.00           C
+ATOM   1548  O   TRP A1071      16.730  17.101  20.863  0.00  0.00           O
+ATOM   1559  N   MET A1072      15.829  15.041  20.872  0.00  0.00           N
+ATOM   1560  CA  MET A1072      16.988  14.409  20.248  0.00  0.00           C
+ATOM   1561  C   MET A1072      16.934  14.371  18.724  0.00  0.00           C
+ATOM   1562  O   MET A1072      15.894  14.078  18.132  0.00  0.00           O
+ATOM   1602  CD1 ILE A1077      15.045  10.628  17.999  0.00  0.00           C
+ATOM   1703  CD1 TRP A1089      16.326  17.855  17.427  0.00  0.00           C
+ATOM   1705  NE1 TRP A1089      15.175  17.254  16.973  0.00  0.00           N
+ATOM   1706  CE2 TRP A1089      15.269  17.088  15.615  0.00  0.00           C
+ATOM   1708  CZ2 TRP A1089      14.359  16.525  14.712  0.00  0.00           C
+ATOM   1737  CG1 VAL A1093      11.989  20.314  21.446  0.00  0.00           C
+ATOM   1738  CG2 VAL A1093      13.450  19.778  19.502  0.00  0.00           C
+ATOM   1839  CD1 TYR A1106       8.227  16.213  19.604  0.00  0.00           C
+ATOM   1841  CE1 TYR A1106       9.379  16.462  18.865  0.00  0.00           C
+ATOM   1842  CE2 TYR A1106       8.104  16.264  16.834  0.00  0.00           C
+ATOM   1843  CZ  TYR A1106       9.309  16.486  17.482  0.00  0.00           C
+ATOM   1844  OH  TYR A1106      10.441  16.730  16.742  0.00  0.00           O
+ATOM   1904  CD1 PHE A1115       9.574  10.239  18.434  0.00  0.00           C
+ATOM   1906  CE1 PHE A1115      10.307  11.397  18.689  0.00  0.00           C
+ATOM   1907  CE2 PHE A1115       8.453  12.725  17.923  0.00  0.00           C
+ATOM   1908  CZ  PHE A1115       9.744  12.642  18.433  0.00  0.00           C
+ATOM   1941  CB  LEU A1119      11.545  11.921  13.815  0.00  0.00           C
+ATOM   1942  CG  LEU A1119      12.325  13.160  14.264  0.00  0.00           C
+ATOM   1943  CD1 LEU A1119      11.377  14.295  14.628  0.00  0.00           C
+ATOM   1944  CD2 LEU A1119      13.222  12.817  15.436  0.00  0.00           C
+ATOM   1992  CE  MET A1125       8.927  20.372  18.676  0.00  0.00           C

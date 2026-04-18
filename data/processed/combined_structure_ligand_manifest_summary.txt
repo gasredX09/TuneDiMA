@@ -1,0 +1,11 @@
+KLIFS targets selected: 256
+KLIFS manifest rows: 256
+KLIFS all-structure rows: 9348
+HKPocket manifest rows: 6219
+Combined manifest rows: 6475
+Combined all-structure manifest rows: 15567
+
+KLIFS rows are structure-backed template complexes using local PDB files.
+KLIFS all-structure rows include every resolvable KLIFS structure in structures_list.csv.
+HKPocket rows are merged when a HKPocket manifest exists at data/raw/hkpocket/hkpocket_manifest.csv.
+Prediction-time inputs remain: one pocket structure plus candidate ligand SMILES.

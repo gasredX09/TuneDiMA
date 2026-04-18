@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  27.20  76.14  53.01 with max radius 5.62
+ATOM    934  NH2 ARG A1065      22.733  77.583  51.673  0.00  0.00           N
+ATOM   1799  C   ALA A1176      27.022  71.658  50.905  0.00  0.00           C
+ATOM   1800  O   ALA A1176      27.380  72.061  52.016  0.00  0.00           O
+ATOM   1802  N   THR A1177      26.437  72.449  50.011  0.00  0.00           N
+ATOM   1803  CA  THR A1177      26.198  73.864  50.294  0.00  0.00           C
+ATOM   1804  C   THR A1177      24.717  74.187  50.451  0.00  0.00           C
+ATOM   1805  O   THR A1177      24.342  75.353  50.576  0.00  0.00           O
+ATOM   1806  CB  THR A1177      26.742  74.763  49.166  0.00  0.00           C
+ATOM   1808  CG2 THR A1177      28.234  74.546  48.980  0.00  0.00           C
+ATOM   1809  N   LEU A1178      23.884  73.153  50.452  0.00  0.00           N
+ATOM   1813  CB  LEU A1178      22.068  73.994  51.888  0.00  0.00           C
+ATOM   1814  CG  LEU A1178      22.377  73.117  53.106  0.00  0.00           C
+ATOM   1815  CD1 LEU A1178      21.941  73.834  54.376  0.00  0.00           C
+ATOM   1827  CG  GLU A1180      25.183  78.350  49.051  0.00  0.00           C
+ATOM   2018  CB  PRO A1204      31.104  73.462  50.613  0.00  0.00           C
+ATOM   2021  N   ASP A1205      32.124  75.243  53.144  0.00  0.00           N
+ATOM   2024  O   ASP A1205      30.744  73.594  54.922  0.00  0.00           O
+ATOM   2025  CB  ASP A1205      31.765  76.503  55.226  0.00  0.00           C
+ATOM   2026  CG  ASP A1205      32.296  77.810  54.677  0.00  0.00           C
+ATOM   2028  OD2 ASP A1205      31.475  78.663  54.283  0.00  0.00           O

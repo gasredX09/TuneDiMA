@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  27.25   4.27  32.49 with max radius 6.03
+ATOM   1332  CB  LEU A 162      25.003   0.013  34.957  0.00  0.00           C
+ATOM   1333  CG  LEU A 162      25.132   1.205  35.922  0.00  0.00           C
+ATOM   1334  CD1 LEU A 162      26.382   2.035  35.667  0.00  0.00           C
+ATOM   1335  CD2 LEU A 162      23.878   2.072  35.914  0.00  0.00           C
+ATOM   1663  CA  LYS A 202      28.614   1.291  27.924  0.00  0.00           C
+ATOM   1664  C   LYS A 202      27.687   0.380  28.719  0.00  0.00           C
+ATOM   1665  O   LYS A 202      26.712  -0.124  28.156  0.00  0.00           O
+ATOM   1666  CB  LYS A 202      28.440   2.751  28.344  0.00  0.00           C
+ATOM   1667  CG  LYS A 202      27.017   3.232  28.221  0.00  0.00           C
+ATOM   1668  CD  LYS A 202      26.858   4.702  28.504  0.00  0.00           C
+ATOM   1669  CE  LYS A 202      25.425   5.101  28.170  0.00  0.00           C
+ATOM   1670  NZ  LYS A 202      25.272   6.439  28.796  0.00  0.00           N
+ATOM   1671  N   PRO A 203      27.951   0.186  30.041  0.00  0.00           N
+ATOM   1672  CA  PRO A 203      27.225  -0.859  30.739  0.00  0.00           C
+ATOM   1673  C   PRO A 203      25.738  -0.640  30.956  0.00  0.00           C
+ATOM   1675  CB  PRO A 203      27.937  -0.893  32.127  0.00  0.00           C
+ATOM   1676  CG  PRO A 203      29.362  -0.481  31.783  0.00  0.00           C
+ATOM   1677  CD  PRO A 203      29.100   0.684  30.838  0.00  0.00           C
+ATOM   1678  N   ASP A 204      25.264   0.599  31.023  0.00  0.00           N
+ATOM   1679  CA  ASP A 204      23.815   0.778  31.174  0.00  0.00           C
+ATOM   1682  CB  ASP A 204      23.426   2.168  31.658  0.00  0.00           C
+ATOM   1683  CG  ASP A 204      23.508   3.235  30.611  0.00  0.00           C
+ATOM   1684  OD1 ASP A 204      24.037   2.990  29.510  0.00  0.00           O
+ATOM   1685  OD2 ASP A 204      23.034   4.379  30.900  0.00  0.00           O
+ATOM   1936  CB  THR A 239      29.155   8.111  28.250  0.00  0.00           C
+ATOM   1937  OG1 THR A 239      27.755   7.904  27.982  0.00  0.00           O
+ATOM   1938  CG2 THR A 239      29.405   8.424  29.738  0.00  0.00           C
+ATOM   1960  CD1 TYR A 242      31.512   5.090  29.198  0.00  0.00           C
+ATOM   1962  CE1 TYR A 242      31.150   4.610  30.449  0.00  0.00           C
+ATOM   1964  CZ  TYR A 242      31.535   3.348  30.827  0.00  0.00           C
+ATOM   1965  OH  TYR A 242      31.179   2.886  32.069  0.00  0.00           O

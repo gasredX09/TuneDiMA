@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  36.65  65.30  28.60 with max radius 5.65
+ATOM    756  CA  GLU A  95      41.396  62.527  26.501  0.00  0.00           C
+ATOM    759  CB  GLU A  95      41.317  63.110  27.928  0.00  0.00           C
+ATOM   1119  C   SER A 139      40.110  68.092  27.794  0.00  0.00           C
+ATOM   1120  O   SER A 139      39.558  67.130  28.334  0.00  0.00           O
+ATOM   1123  N   ASN A 140      39.474  68.948  26.990  0.00  0.00           N
+ATOM   1124  CA  ASN A 140      38.091  68.747  26.574  0.00  0.00           C
+ATOM   1125  C   ASN A 140      38.005  68.022  25.242  0.00  0.00           C
+ATOM   1126  O   ASN A 140      36.955  68.026  24.605  0.00  0.00           O
+ATOM   1127  CB  ASN A 140      37.354  70.083  26.404  0.00  0.00           C
+ATOM   1130  ND2 ASN A 140      36.886  70.340  28.792  0.00  0.00           N
+ATOM   1131  N   LEU A 141      39.106  67.437  24.790  0.00  0.00           N
+ATOM   1132  CA  LEU A 141      39.080  66.710  23.525  0.00  0.00           C
+ATOM   1133  C   LEU A 141      39.317  65.245  23.762  0.00  0.00           C
+ATOM   1134  O   LEU A 141      40.284  64.863  24.421  0.00  0.00           O
+ATOM   1139  N   LEU A 142      38.423  64.424  23.224  0.00  0.00           N
+ATOM   1140  CA  LEU A 142      38.553  62.980  23.354  0.00  0.00           C
+ATOM   1143  CB  LEU A 142      37.256  62.336  23.844  0.00  0.00           C
+ATOM   1144  CG  LEU A 142      36.706  62.591  25.261  0.00  0.00           C
+ATOM   1145  CD1 LEU A 142      35.292  61.961  25.410  0.00  0.00           C
+ATOM   1146  CD2 LEU A 142      37.641  62.071  26.383  0.00  0.00           C
+ATOM   1222  N   ALA A 152      34.125  67.436  23.743  0.00  0.00           N
+ATOM   1223  CA  ALA A 152      33.331  66.834  24.814  0.00  0.00           C
+ATOM   1224  C   ALA A 152      33.038  67.841  25.914  0.00  0.00           C
+ATOM   1225  O   ALA A 152      33.603  68.955  25.930  0.00  0.00           O
+ATOM   1226  CB  ALA A 152      34.061  65.624  25.402  0.00  0.00           C
+ATOM   1227  N   ASP A 153      32.140  67.429  26.816  0.00  0.00           N
+ATOM   1228  CA  ASP A 153      31.801  68.150  28.056  0.00  0.00           C
+ATOM   1231  CB  ASP A 153      32.982  68.187  29.062  0.00  0.00           C

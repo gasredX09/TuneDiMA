@@ -1,0 +1,50 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 44 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -28.59  12.51 -21.56 with max radius 6.88
+ATOM    722  CG  LEU X  90     -22.758  12.905 -21.593  0.00  0.00           C
+ATOM    723  CD1 LEU X  90     -22.528  11.407 -21.629  0.00  0.00           C
+ATOM    724  CD2 LEU X  90     -24.212  13.212 -21.259  0.00  0.00           C
+ATOM    874  CA  MET X 110     -27.966   7.639 -20.362  0.00  0.00           C
+ATOM    875  C   MET X 110     -28.903   8.833 -20.405  0.00  0.00           C
+ATOM    876  O   MET X 110     -29.040   9.553 -19.423  0.00  0.00           O
+ATOM    877  CB  MET X 110     -26.622   8.022 -20.957  0.00  0.00           C
+ATOM    879  SD  MET X 110     -24.059   7.334 -21.665  0.00  0.00           S
+ATOM    881  N   ALA X 111     -29.556   9.042 -21.540  0.00  0.00           N
+ATOM    882  CA  ALA X 111     -30.487  10.162 -21.684  0.00  0.00           C
+ATOM    883  C   ALA X 111     -31.626  10.014 -20.675  0.00  0.00           C
+ATOM    884  O   ALA X 111     -32.015  10.980 -20.020  0.00  0.00           O
+ATOM    885  CB  ALA X 111     -31.047  10.187 -23.103  0.00  0.00           C
+ATOM    900  N   VAL X 114     -30.559  11.141 -17.327  0.00  0.00           N
+ATOM    901  CA  VAL X 114     -30.570  12.588 -17.141  0.00  0.00           C
+ATOM    904  CB  VAL X 114     -29.886  13.326 -18.315  0.00  0.00           C
+ATOM    905  CG1 VAL X 114     -30.024  14.838 -18.140  0.00  0.00           C
+ATOM    906  CG2 VAL X 114     -28.421  12.936 -18.370  0.00  0.00           C
+ATOM   1082  CG1 ILE X 136     -25.454  15.751 -18.417  0.00  0.00           C
+ATOM   1083  CG2 ILE X 136     -24.380  13.571 -17.750  0.00  0.00           C
+ATOM   1136  CB  CYS X 144     -25.563   9.905 -16.869  0.00  0.00           C
+ATOM   1137  SG  CYS X 144     -24.724   9.215 -18.270  0.00  0.00           S
+ATOM   1524  O   PHE X 192     -31.944  17.467 -24.499  0.00  0.00           O
+ATOM   1526  CG  PHE X 192     -33.637  16.643 -21.818  0.00  0.00           C
+ATOM   1527  CD1 PHE X 192     -32.792  15.990 -20.948  0.00  0.00           C
+ATOM   1528  CD2 PHE X 192     -34.330  15.902 -22.757  0.00  0.00           C
+ATOM   1529  CE1 PHE X 192     -32.629  14.620 -21.015  0.00  0.00           C
+ATOM   1530  CE2 PHE X 192     -34.175  14.545 -22.834  0.00  0.00           C
+ATOM   1531  CZ  PHE X 192     -33.316  13.901 -21.957  0.00  0.00           C
+ATOM   1546  C   LEU X 195     -28.674  16.424 -25.838  0.00  0.00           C
+ATOM   1548  CB  LEU X 195     -28.748  17.454 -23.554  0.00  0.00           C
+ATOM   1549  CG  LEU X 195     -27.675  16.583 -22.868  0.00  0.00           C
+ATOM   1550  CD1 LEU X 195     -27.685  16.817 -21.377  0.00  0.00           C
+ATOM   1551  CD2 LEU X 195     -27.914  15.113 -23.206  0.00  0.00           C
+ATOM   1552  N   LEU X 196     -29.921  16.072 -26.149  0.00  0.00           N
+ATOM   1553  CA  LEU X 196     -30.172  14.854 -26.909  0.00  0.00           C
+ATOM   1556  CB  LEU X 196     -31.623  14.770 -27.351  0.00  0.00           C
+ATOM   1557  CG  LEU X 196     -32.677  14.459 -26.293  0.00  0.00           C
+ATOM   1559  CD2 LEU X 196     -32.317  13.155 -25.584  0.00  0.00           C
+ATOM   1580  CB  LEU X 199     -26.665  12.424 -25.730  0.00  0.00           C
+ATOM   1581  CG  LEU X 199     -26.592  11.022 -25.150  0.00  0.00           C
+ATOM   1582  CD1 LEU X 199     -25.195  10.776 -24.608  0.00  0.00           C
+ATOM   1583  CD2 LEU X 199     -27.622  10.871 -24.063  0.00  0.00           C
+ATOM   2091  CD1 LEU X 260     -34.643  10.713 -22.798  0.00  0.00           C

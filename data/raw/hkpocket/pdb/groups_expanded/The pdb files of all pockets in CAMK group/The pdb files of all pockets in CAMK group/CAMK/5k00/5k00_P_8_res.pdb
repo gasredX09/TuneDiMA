@@ -1,0 +1,64 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 58 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -22.11   6.62   0.57 with max radius 8.25
+ATOM   2369  CA  LEU A 304     -24.443  10.730  -0.050  0.00  0.00           C
+ATOM   2370  C   LEU A 304     -23.102  10.139   0.368  0.00  0.00           C
+ATOM   2371  O   LEU A 304     -23.090   9.281   1.245  0.00  0.00           O
+ATOM   2372  CB  LEU A 304     -24.943  10.148  -1.376  0.00  0.00           C
+ATOM   2373  CG  LEU A 304     -26.457  10.261  -1.633  0.00  0.00           C
+ATOM   2375  CD2 LEU A 304     -27.254   9.318  -0.733  0.00  0.00           C
+ATOM   2376  N   ILE A 305     -21.969  10.623  -0.206  0.00  0.00           N
+ATOM   2377  CA  ILE A 305     -20.623  10.158   0.164  0.00  0.00           C
+ATOM   2378  C   ILE A 305     -20.388  10.400   1.668  0.00  0.00           C
+ATOM   2379  O   ILE A 305     -19.871   9.525   2.374  0.00  0.00           O
+ATOM   2380  CB  ILE A 305     -19.523  10.855  -0.686  0.00  0.00           C
+ATOM   2381  CG1 ILE A 305     -19.678  10.550  -2.196  0.00  0.00           C
+ATOM   2382  CG2 ILE A 305     -18.121  10.452  -0.207  0.00  0.00           C
+ATOM   2390  N   LEU A 307     -22.342  10.307   4.108  0.00  0.00           N
+ATOM   2391  CA  LEU A 307     -23.073   9.379   4.979  0.00  0.00           C
+ATOM   2392  C   LEU A 307     -22.201   8.181   5.405  0.00  0.00           C
+ATOM   2393  O   LEU A 307     -22.524   7.528   6.398  0.00  0.00           O
+ATOM   2394  CB  LEU A 307     -24.398   8.905   4.332  0.00  0.00           C
+ATOM   2395  CG  LEU A 307     -25.505   9.955   4.106  0.00  0.00           C
+ATOM   2396  CD1 LEU A 307     -26.660   9.368   3.311  0.00  0.00           C
+ATOM   2398  N   TRP A 308     -21.074   7.918   4.679  0.00  0.00           N
+ATOM   2399  CA  TRP A 308     -20.125   6.808   4.891  0.00  0.00           C
+ATOM   2400  C   TRP A 308     -20.831   5.498   5.248  0.00  0.00           C
+ATOM   2402  CB  TRP A 308     -19.012   7.156   5.901  0.00  0.00           C
+ATOM   2403  CG  TRP A 308     -18.186   8.335   5.492  0.00  0.00           C
+ATOM   2405  CD2 TRP A 308     -17.252   8.397   4.404  0.00  0.00           C
+ATOM   2408  CE3 TRP A 308     -16.789   7.464   3.459  0.00  0.00           C
+ATOM   2410  CZ3 TRP A 308     -15.876   7.884   2.498  0.00  0.00           C
+ATOM   2411  CH2 TRP A 308     -15.400   9.203   2.477  0.00  0.00           C
+ATOM   2412  N   GLN A 309     -21.730   5.058   4.363  0.00  0.00           N
+ATOM   2413  CA  GLN A 309     -22.504   3.837   4.592  0.00  0.00           C
+ATOM   2414  C   GLN A 309     -21.710   2.560   4.305  0.00  0.00           C
+ATOM   2416  CB  GLN A 309     -23.807   3.853   3.771  0.00  0.00           C
+ATOM   2417  CG  GLN A 309     -24.768   4.970   4.146  0.00  0.00           C
+ATOM   2418  CD  GLN A 309     -26.102   4.779   3.477  0.00  0.00           C
+ATOM   2419  OE1 GLN A 309     -26.374   5.334   2.405  0.00  0.00           O
+ATOM   2421  N   TYR A 310     -20.515   2.681   3.689  0.00  0.00           N
+ATOM   2422  CA  TYR A 310     -19.660   1.555   3.281  0.00  0.00           C
+ATOM   2433  N   ASP A 311     -21.153   1.295   1.410  0.00  0.00           N
+ATOM   2438  CG  ASP A 311     -23.289   2.775  -0.114  0.00  0.00           C
+ATOM   2439  OD1 ASP A 311     -22.210   3.428  -0.081  0.00  0.00           O
+ATOM   2440  OD2 ASP A 311     -24.398   3.308  -0.287  0.00  0.00           O
+ATOM   2452  CA  LEU A 313     -20.604   4.551  -3.369  0.00  0.00           C
+ATOM   2453  C   LEU A 313     -19.355   4.856  -2.535  0.00  0.00           C
+ATOM   2454  O   LEU A 313     -18.412   5.463  -3.050  0.00  0.00           O
+ATOM   2455  CB  LEU A 313     -21.763   5.459  -2.952  0.00  0.00           C
+ATOM   2456  CG  LEU A 313     -21.551   6.943  -3.216  0.00  0.00           C
+ATOM   2458  CD2 LEU A 313     -22.347   7.764  -2.249  0.00  0.00           C
+ATOM   2459  N   THR A 314     -19.335   4.415  -1.256  0.00  0.00           N
+ATOM   2460  CA  THR A 314     -18.152   4.587  -0.401  0.00  0.00           C
+ATOM   2461  C   THR A 314     -16.958   3.936  -1.089  0.00  0.00           C
+ATOM   2462  O   THR A 314     -15.901   4.560  -1.164  0.00  0.00           O
+ATOM   2463  CB  THR A 314     -18.347   3.920   0.983  0.00  0.00           C
+ATOM   2464  OG1 THR A 314     -19.459   4.506   1.645  0.00  0.00           O
+ATOM   2465  CG2 THR A 314     -17.103   4.027   1.875  0.00  0.00           C
+ATOM   2482  CB  TYR A 317     -15.883   7.990  -2.707  0.00  0.00           C
+ATOM   2483  CG  TYR A 317     -15.140   9.196  -2.173  0.00  0.00           C
+ATOM   2485  CD2 TYR A 317     -14.411   9.119  -0.987  0.00  0.00           C

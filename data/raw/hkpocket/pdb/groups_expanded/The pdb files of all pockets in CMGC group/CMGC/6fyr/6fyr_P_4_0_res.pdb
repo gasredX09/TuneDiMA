@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.21  24.91  23.74 with max radius 5.76
+ATOM   1111  CD2 HIS A 259      -3.848  25.058  20.026  0.00  0.00           C
+ATOM   1136  CB  HIS A 262       0.897  21.355  19.495  0.00  0.00           C
+ATOM   1137  CG  HIS A 262       1.828  21.335  20.665  0.00  0.00           C
+ATOM   1138  ND1 HIS A 262       1.462  21.782  21.915  0.00  0.00           N
+ATOM   1139  CD2 HIS A 262       3.108  20.907  20.777  0.00  0.00           C
+ATOM   1140  CE1 HIS A 262       2.479  21.636  22.746  0.00  0.00           C
+ATOM   1141  NE2 HIS A 262       3.490  21.107  22.082  0.00  0.00           N
+ATOM   1564  O   LYS A 312      -2.424  27.320  25.548  0.00  0.00           O
+ATOM   1571  CA  ASN A 313      -1.775  25.026  27.009  0.00  0.00           C
+ATOM   1572  C   ASN A 313      -2.114  23.638  26.478  0.00  0.00           C
+ATOM   1574  CB  ASN A 313      -1.048  24.930  28.353  0.00  0.00           C
+ATOM   1575  CG  ASN A 313       0.370  24.441  28.205  0.00  0.00           C
+ATOM   1576  OD1 ASN A 313       0.605  23.359  27.681  0.00  0.00           O
+ATOM   1577  ND2 ASN A 313       1.333  25.240  28.667  0.00  0.00           N
+ATOM   1578  N   THR A 314      -1.537  23.294  25.328  0.00  0.00           N
+ATOM   1579  CA  THR A 314      -1.822  22.021  24.658  0.00  0.00           C
+ATOM   1580  C   THR A 314      -0.860  20.885  25.039  0.00  0.00           C
+ATOM   1582  CB  THR A 314      -1.865  22.185  23.114  0.00  0.00           C
+ATOM   1583  OG1 THR A 314      -0.736  22.947  22.682  0.00  0.00           O
+ATOM   1584  CG2 THR A 314      -3.137  22.889  22.681  0.00  0.00           C
+ATOM   1585  N   SER A 315      -0.081  21.068  26.104  0.00  0.00           N
+ATOM   1586  CA  SER A 315       0.763  19.988  26.612  0.00  0.00           C
+ATOM   1589  CB  SER A 315       1.676  20.472  27.739  0.00  0.00           C
+ATOM   1590  OG  SER A 315       2.549  21.492  27.286  0.00  0.00           O
+ATOM   2974  C   GLU A 478       7.829  24.740  21.989  0.00  0.00           C
+ATOM   2975  O   GLU A 478       7.700  24.136  23.058  0.00  0.00           O
+ATOM   2977  CG  GLU A 478       7.280  27.541  22.994  0.00  0.00           C
+ATOM   2981  N   GLU A 479       7.097  24.477  20.907  0.00  0.00           N
+ATOM   2982  CA  GLU A 479       6.202  23.326  20.821  0.00  0.00           C
+ATOM   2983  C   GLU A 479       7.006  22.031  20.752  0.00  0.00           C
+ATOM   2985  CB  GLU A 479       5.291  23.449  19.599  0.00  0.00           C
+ATOM   2986  CG  GLU A 479       4.137  24.422  19.787  0.00  0.00           C
+ATOM   2987  CD  GLU A 479       3.402  24.733  18.496  0.00  0.00           C
+ATOM   2989  OE2 GLU A 479       2.172  24.927  18.553  0.00  0.00           O

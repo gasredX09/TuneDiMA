@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  26.53  -1.27  64.25 with max radius 6.16
+ATOM     70  O   SER A 183      21.504   2.732  61.047  0.00  0.00           O
+ATOM     74  CA  GLN A 184      23.419   3.095  62.991  0.00  0.00           C
+ATOM     75  C   GLN A 184      22.520   2.781  64.207  0.00  0.00           C
+ATOM     76  O   GLN A 184      22.644   1.706  64.792  0.00  0.00           O
+ATOM     77  CB  GLN A 184      24.847   3.443  63.412  0.00  0.00           C
+ATOM     78  CG  GLN A 184      25.852   3.426  62.220  0.00  0.00           C
+ATOM     79  CD  GLN A 184      27.260   3.910  62.607  0.00  0.00           C
+ATOM     80  OE1 GLN A 184      28.214   3.841  61.813  0.00  0.00           O
+ATOM     81  NE2 GLN A 184      27.387   4.407  63.827  0.00  0.00           N
+ATOM     95  CA  GLY A 187      21.133  -1.219  62.900  0.00  0.00           C
+ATOM     96  C   GLY A 187      21.979  -1.852  61.828  0.00  0.00           C
+ATOM     97  O   GLY A 187      21.935  -1.476  60.643  0.00  0.00           O
+ATOM     98  N   SER A 188      22.769  -2.814  62.320  0.00  0.00           N
+ATOM     99  CA  SER A 188      23.624  -3.725  61.544  0.00  0.00           C
+ATOM    100  C   SER A 188      24.948  -3.114  61.059  0.00  0.00           C
+ATOM    101  O   SER A 188      26.025  -3.510  61.533  0.00  0.00           O
+ATOM    104  N   GLY A 189      24.865  -2.154  60.135  0.00  0.00           N
+ATOM    105  CA  GLY A 189      26.051  -1.666  59.427  0.00  0.00           C
+ATOM    106  C   GLY A 189      26.644  -0.409  60.032  0.00  0.00           C
+ATOM    107  O   GLY A 189      25.917   0.546  60.341  0.00  0.00           O
+ATOM    108  N   SER A 190      27.965  -0.435  60.233  0.00  0.00           N
+ATOM    109  CA  SER A 190      28.719   0.768  60.553  0.00  0.00           C
+ATOM    112  CB  SER A 190      30.160   0.449  60.998  0.00  0.00           C
+ATOM    113  OG  SER A 190      30.197  -0.554  62.010  0.00  0.00           O
+ATOM    606  C   THR A 250      30.876  -5.090  61.826  0.00  0.00           C
+ATOM    607  O   THR A 250      30.987  -3.898  62.202  0.00  0.00           O
+ATOM    611  N   VAL A 251      30.042  -5.968  62.383  0.00  0.00           N
+ATOM    612  CA  VAL A 251      29.153  -5.607  63.485  0.00  0.00           C
+ATOM    613  C   VAL A 251      29.937  -5.441  64.794  0.00  0.00           C
+ATOM    615  CB  VAL A 251      28.003  -6.626  63.707  0.00  0.00           C
+ATOM    616  CG1 VAL A 251      27.242  -6.924  62.380  0.00  0.00           C
+ATOM    618  N   LEU A 252      29.640  -4.345  65.496  0.00  0.00           N
+ATOM    619  CA  LEU A 252      30.233  -4.081  66.808  0.00  0.00           C
+ATOM    622  CB  LEU A 252      30.064  -5.289  67.766  0.00  0.00           C
+ATOM    623  CG  LEU A 252      28.648  -5.485  68.313  0.00  0.00           C
+ATOM    625  CD2 LEU A 252      28.309  -4.341  69.277  0.00  0.00           C
+ATOM    638  CB  ARG A 254      31.297   1.359  65.332  0.00  0.00           C
+ATOM    639  CG  ARG A 254      31.346   2.875  65.371  0.00  0.00           C
+ATOM    640  CD  ARG A 254      30.317   3.514  64.448  0.00  0.00           C

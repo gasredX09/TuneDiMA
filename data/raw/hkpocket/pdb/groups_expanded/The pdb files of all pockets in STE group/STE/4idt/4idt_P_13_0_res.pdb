@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  77.89  50.02 123.50 with max radius 5.19
+ATOM    635  CD  GLU A 375      73.697  52.954 124.140  0.00  0.00           C
+ATOM    636  OE1 GLU A 375      74.223  52.199 123.296  0.00  0.00           O
+ATOM    637  OE2 GLU A 375      74.129  53.091 125.305  0.00  0.00           O
+ATOM    965  CB  GLU A 395      78.535  46.020 121.394  0.00  0.00           C
+ATOM    966  CG  GLU A 395      79.420  45.116 122.209  0.00  0.00           C
+ATOM    967  CD  GLU A 395      80.505  45.872 122.938  0.00  0.00           C
+ATOM    969  OE2 GLU A 395      80.438  47.117 122.967  0.00  0.00           O
+ATOM   1036  CZ2 TRP A 399      81.244  46.654 119.087  0.00  0.00           C
+ATOM   1525  CD  LYS A 430      83.372  50.406 124.515  0.00  0.00           C
+ATOM   1526  CE  LYS A 430      83.133  49.043 123.872  0.00  0.00           C
+ATOM   1527  NZ  LYS A 430      81.832  49.067 123.152  0.00  0.00           N
+ATOM   2017  N   GLU A 461      77.843  53.811 119.222  0.00  0.00           N
+ATOM   2018  CA  GLU A 461      76.650  53.469 119.991  0.00  0.00           C
+ATOM   2019  C   GLU A 461      76.522  54.439 121.159  0.00  0.00           C
+ATOM   2020  O   GLU A 461      77.283  54.368 122.120  0.00  0.00           O
+ATOM   2021  CB  GLU A 461      76.709  52.047 120.532  0.00  0.00           C
+ATOM   2022  CG  GLU A 461      76.534  50.962 119.500  0.00  0.00           C
+ATOM   2023  CD  GLU A 461      76.533  49.589 120.131  0.00  0.00           C
+ATOM   2024  OE1 GLU A 461      75.605  49.313 120.922  0.00  0.00           O
+ATOM   2025  OE2 GLU A 461      77.466  48.800 119.853  0.00  0.00           O
+ATOM   2057  CB  TRP A 464      80.561  53.824 123.167  0.00  0.00           C
+ATOM   2058  CG  TRP A 464      80.422  53.758 124.648  0.00  0.00           C
+ATOM   2059  CD1 TRP A 464      79.267  53.704 125.368  0.00  0.00           C
+ATOM   2061  NE1 TRP A 464      79.549  53.664 126.714  0.00  0.00           N
+ATOM   2098  CG  ASN A 466      82.238  50.309 119.634  0.00  0.00           C
+ATOM   2099  OD1 ASN A 466      82.807  50.039 120.691  0.00  0.00           O
+ATOM   2100  ND2 ASN A 466      80.923  50.465 119.548  0.00  0.00           N

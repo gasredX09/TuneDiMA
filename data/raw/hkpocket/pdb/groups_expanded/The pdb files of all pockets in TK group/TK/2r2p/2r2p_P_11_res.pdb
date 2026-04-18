@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -7.26  57.37  -6.51 with max radius 6.29
+ATOM     77  CA  ALA A 672      -6.403  60.313  -2.841  0.00  0.00           C
+ATOM     78  C   ALA A 672      -4.881  60.338  -2.971  0.00  0.00           C
+ATOM     79  O   ALA A 672      -4.274  59.331  -3.339  0.00  0.00           O
+ATOM     80  CB  ALA A 672      -7.060  60.866  -4.105  0.00  0.00           C
+ATOM     94  CA  ILE A 675      -2.611  56.098  -2.449  0.00  0.00           C
+ATOM     95  C   ILE A 675      -1.794  56.260  -3.716  0.00  0.00           C
+ATOM     96  O   ILE A 675      -2.026  57.193  -4.491  0.00  0.00           O
+ATOM     97  CB  ILE A 675      -4.040  55.563  -2.805  0.00  0.00           C
+ATOM     98  CG1 ILE A 675      -4.773  55.074  -1.549  0.00  0.00           C
+ATOM     99  CG2 ILE A 675      -3.979  54.406  -3.784  0.00  0.00           C
+ATOM    100  CD1 ILE A 675      -5.763  56.088  -1.053  0.00  0.00           C
+ATOM    113  CG1 ILE A 677      -3.371  52.612  -7.864  0.00  0.00           C
+ATOM    115  CD1 ILE A 677      -4.510  52.868  -8.799  0.00  0.00           C
+ATOM    616  CB  VAL A 743     -10.744  57.139  -2.650  0.00  0.00           C
+ATOM    617  CG1 VAL A 743     -10.688  58.585  -3.212  0.00  0.00           C
+ATOM    618  CG2 VAL A 743      -9.454  56.773  -1.943  0.00  0.00           C
+ATOM    637  C   SER A 746     -12.861  60.519  -7.081  0.00  0.00           C
+ATOM    638  O   SER A 746     -13.270  59.468  -6.582  0.00  0.00           O
+ATOM    639  CB  SER A 746     -11.357  62.347  -6.190  0.00  0.00           C
+ATOM    640  OG  SER A 746     -10.622  61.759  -5.122  0.00  0.00           O
+ATOM    641  N   LYS A 747     -12.458  60.612  -8.342  0.00  0.00           N
+ATOM    642  CA  LYS A 747     -12.459  59.471  -9.249  0.00  0.00           C
+ATOM    643  C   LYS A 747     -11.021  59.001  -9.511  0.00  0.00           C
+ATOM    644  O   LYS A 747     -10.120  59.830  -9.600  0.00  0.00           O
+ATOM    646  N   PRO A 748     -10.793  57.671  -9.607  0.00  0.00           N
+ATOM    647  CA  PRO A 748     -11.779  56.612  -9.431  0.00  0.00           C
+ATOM    648  C   PRO A 748     -12.072  56.329  -7.961  0.00  0.00           C
+ATOM    649  O   PRO A 748     -11.240  56.603  -7.079  0.00  0.00           O
+ATOM    650  CB  PRO A 748     -11.118  55.395 -10.082  0.00  0.00           C
+ATOM    651  CG  PRO A 748      -9.686  55.611  -9.894  0.00  0.00           C
+ATOM    652  CD  PRO A 748      -9.464  57.118  -9.929  0.00  0.00           C
+ATOM    664  CB  MET A 750     -10.164  53.462  -4.274  0.00  0.00           C
+ATOM    665  CG  MET A 750      -9.434  53.477  -5.626  0.00  0.00           C
+ATOM    666  SD  MET A 750      -7.942  54.499  -5.624  0.00  0.00           S
+ATOM    667  CE  MET A 750      -7.433  54.302  -3.935  0.00  0.00           C

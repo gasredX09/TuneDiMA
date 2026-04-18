@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -5.80  20.14  19.85 with max radius 4.99
+ATOM   1879  C   HIS A 420      -2.689  20.181  25.407  0.00  0.00           C
+ATOM   1880  O   HIS A 420      -2.770  20.107  24.178  0.00  0.00           O
+ATOM   1882  CG  HIS A 420      -4.599  22.557  25.341  0.00  0.00           C
+ATOM   1884  CD2 HIS A 420      -3.906  23.530  24.703  0.00  0.00           C
+ATOM   1885  CE1 HIS A 420      -5.776  23.215  23.595  0.00  0.00           C
+ATOM   1886  NE2 HIS A 420      -4.657  23.922  23.621  0.00  0.00           N
+ATOM   1902  C   LYS A 423      -3.092  16.808  21.722  0.00  0.00           C
+ATOM   1903  O   LYS A 423      -3.122  16.137  20.695  0.00  0.00           O
+ATOM   1904  CB  LYS A 423      -5.031  16.954  23.309  0.00  0.00           C
+ATOM   1905  CG  LYS A 423      -6.063  16.919  22.194  0.00  0.00           C
+ATOM   1906  CD  LYS A 423      -7.344  17.607  22.615  0.00  0.00           C
+ATOM   1907  CE  LYS A 423      -8.483  17.326  21.640  0.00  0.00           C
+ATOM   1909  N   LEU A 424      -2.532  18.018  21.791  0.00  0.00           N
+ATOM   1910  CA  LEU A 424      -1.886  18.637  20.630  0.00  0.00           C
+ATOM   1913  CB  LEU A 424      -1.355  20.053  20.954  0.00  0.00           C
+ATOM   1914  CG  LEU A 424      -0.681  20.803  19.778  0.00  0.00           C
+ATOM   1915  CD1 LEU A 424      -1.716  21.084  18.664  0.00  0.00           C
+ATOM   1916  CD2 LEU A 424      -0.007  22.097  20.174  0.00  0.00           C
+ATOM   1938  CB  ILE A 427      -3.763  16.173  17.333  0.00  0.00           C
+ATOM   1939  CG1 ILE A 427      -5.170  15.844  17.853  0.00  0.00           C
+ATOM   1940  CG2 ILE A 427      -3.875  17.032  16.145  0.00  0.00           C
+ATOM   1941  CD1 ILE A 427      -5.213  15.130  19.177  0.00  0.00           C
+ATOM   2083  CG1 ILE A 445      -5.438  24.714  17.881  0.00  0.00           C
+ATOM   2084  CG2 ILE A 445      -3.824  24.387  19.833  0.00  0.00           C
+ATOM   2085  CD1 ILE A 445      -5.368  23.263  17.342  0.00  0.00           C

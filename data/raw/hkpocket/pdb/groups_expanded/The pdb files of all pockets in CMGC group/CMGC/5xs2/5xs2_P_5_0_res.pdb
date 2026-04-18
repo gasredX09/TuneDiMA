@@ -1,0 +1,61 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 55 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.17  42.90 -17.94 with max radius 7.92
+ATOM    636  CE1 HIS A  75       3.565  37.914 -22.653  0.00  0.00           C
+ATOM    637  NE2 HIS A  75       3.600  38.325 -23.928  0.00  0.00           N
+ATOM    639  CA  PRO A  76       7.544  37.896 -20.159  0.00  0.00           C
+ATOM    640  C   PRO A  76       6.568  37.169 -19.216  0.00  0.00           C
+ATOM    641  O   PRO A  76       6.841  37.083 -18.011  0.00  0.00           O
+ATOM    642  CB  PRO A  76       7.299  39.414 -20.110  0.00  0.00           C
+ATOM    643  CG  PRO A  76       7.743  39.899 -21.465  0.00  0.00           C
+ATOM    644  CD  PRO A  76       7.271  38.807 -22.411  0.00  0.00           C
+ATOM    645  N   ASN A  77       5.457  36.653 -19.740  0.00  0.00           N
+ATOM    649  CB  ASN A  77       3.072  36.501 -19.074  0.00  0.00           C
+ATOM    650  CG  ASN A  77       2.967  37.955 -18.650  0.00  0.00           C
+ATOM    651  OD1 ASN A  77       2.536  38.794 -19.436  0.00  0.00           O
+ATOM    652  ND2 ASN A  77       3.393  38.267 -17.413  0.00  0.00           N
+ATOM   1089  CA  SER A 130      -3.254  42.980 -12.909  0.00  0.00           C
+ATOM   1090  C   SER A 130      -2.869  41.542 -13.188  0.00  0.00           C
+ATOM   1091  O   SER A 130      -2.239  41.256 -14.208  0.00  0.00           O
+ATOM   1092  CB  SER A 130      -2.189  43.625 -12.017  0.00  0.00           C
+ATOM   1111  CA  TYR A 133      -4.325  40.907 -17.507  0.00  0.00           C
+ATOM   1112  C   TYR A 133      -3.077  40.176 -17.978  0.00  0.00           C
+ATOM   1113  O   TYR A 133      -2.909  39.939 -19.178  0.00  0.00           O
+ATOM   1114  CB  TYR A 133      -3.962  42.388 -17.301  0.00  0.00           C
+ATOM   1115  CG  TYR A 133      -3.703  43.100 -18.614  0.00  0.00           C
+ATOM   1117  CD2 TYR A 133      -2.399  43.254 -19.113  0.00  0.00           C
+ATOM   1119  CE2 TYR A 133      -2.162  43.880 -20.346  0.00  0.00           C
+ATOM   1122  N   GLN A 134      -2.182  39.864 -17.045  0.00  0.00           N
+ATOM   1123  CA  GLN A 134      -0.945  39.183 -17.397  0.00  0.00           C
+ATOM   1126  CB  GLN A 134       0.088  39.333 -16.283  0.00  0.00           C
+ATOM   1127  CG  GLN A 134       0.659  40.741 -16.237  0.00  0.00           C
+ATOM   1128  CD  GLN A 134       1.783  40.859 -15.232  0.00  0.00           C
+ATOM   1129  OE1 GLN A 134       2.659  39.971 -15.136  0.00  0.00           O
+ATOM   1130  NE2 GLN A 134       1.773  41.954 -14.470  0.00  0.00           N
+ATOM   1151  CB  ASP A 137      -0.414  39.443 -21.419  0.00  0.00           C
+ATOM   1152  CG  ASP A 137       0.443  40.247 -22.398  0.00  0.00           C
+ATOM   1154  OD2 ASP A 137       1.135  41.172 -21.946  0.00  0.00           O
+ATOM   1395  CA  ARG A 168       5.417  39.476 -12.803  0.00  0.00           C
+ATOM   1398  CB  ARG A 168       6.622  39.545 -13.729  0.00  0.00           C
+ATOM   1399  CG  ARG A 168       6.191  39.156 -15.141  0.00  0.00           C
+ATOM   1400  CD  ARG A 168       7.189  39.628 -16.132  0.00  0.00           C
+ATOM   1401  NE  ARG A 168       7.128  41.070 -16.332  0.00  0.00           N
+ATOM   1402  CZ  ARG A 168       8.204  41.832 -16.505  0.00  0.00           C
+ATOM   1404  NH2 ARG A 168       8.039  43.140 -16.717  0.00  0.00           N
+ATOM   2828  CA  PRO A 341      -3.374  46.912 -14.395  0.00  0.00           C
+ATOM   2829  C   PRO A 341      -1.943  47.418 -14.395  0.00  0.00           C
+ATOM   2830  O   PRO A 341      -1.615  48.284 -15.206  0.00  0.00           O
+ATOM   2831  CB  PRO A 341      -3.583  45.887 -15.522  0.00  0.00           C
+ATOM   2832  CG  PRO A 341      -4.058  46.692 -16.678  0.00  0.00           C
+ATOM   2834  N   THR A 342      -1.111  46.900 -13.494  0.00  0.00           N
+ATOM   2835  CA  THR A 342       0.285  47.329 -13.359  0.00  0.00           C
+ATOM   2836  C   THR A 342       1.205  46.137 -13.660  0.00  0.00           C
+ATOM   2837  O   THR A 342       0.811  44.976 -13.445  0.00  0.00           O
+ATOM   2841  N   SER A 343       2.431  46.403 -14.108  0.00  0.00           N
+ATOM   2842  CA  SER A 343       3.339  45.307 -14.487  0.00  0.00           C
+ATOM   2843  C   SER A 343       3.875  44.535 -13.287  0.00  0.00           C
+ATOM   2844  O   SER A 343       4.156  43.354 -13.404  0.00  0.00           O
+ATOM   2845  CB  SER A 343       4.466  45.784 -15.417  0.00  0.00           C

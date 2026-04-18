@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   5.08  29.51  17.68 with max radius 6.32
+ATOM    587  CD2 HIS A1044       9.363  32.424  18.118  0.00  0.00           C
+ATOM    588  CE1 HIS A1044       8.377  33.517  16.491  0.00  0.00           C
+ATOM    589  NE2 HIS A1044       8.551  32.317  17.015  0.00  0.00           N
+ATOM   1117  O   CYS A1130       1.637  33.800  16.400  0.00  0.00           O
+ATOM   1121  CA  ASN A1131       4.068  33.039  15.299  0.00  0.00           C
+ATOM   1122  C   ASN A1131       4.622  33.861  16.455  0.00  0.00           C
+ATOM   1123  O   ASN A1131       4.934  33.322  17.518  0.00  0.00           O
+ATOM   1124  CB  ASN A1131       5.198  32.686  14.332  0.00  0.00           C
+ATOM   1125  CG  ASN A1131       4.782  31.664  13.301  0.00  0.00           C
+ATOM   1126  OD1 ASN A1131       3.867  30.875  13.528  0.00  0.00           O
+ATOM   1141  CA  GLU A1134       1.635  33.094  20.006  0.00  0.00           C
+ATOM   1142  C   GLU A1134       2.762  32.864  21.007  0.00  0.00           C
+ATOM   1143  O   GLU A1134       2.529  32.397  22.119  0.00  0.00           O
+ATOM   1144  CB  GLU A1134       1.533  31.919  19.032  0.00  0.00           C
+ATOM   1145  CG  GLU A1134       0.883  30.680  19.623  0.00  0.00           C
+ATOM   1146  CD  GLU A1134       0.575  29.630  18.574  0.00  0.00           C
+ATOM   1147  OE1 GLU A1134       0.674  29.948  17.368  0.00  0.00           O
+ATOM   1148  OE2 GLU A1134       0.229  28.490  18.957  0.00  0.00           O
+ATOM   1149  N   HIS A1135       3.983  33.205  20.607  0.00  0.00           N
+ATOM   1150  CA  HIS A1135       5.143  33.068  21.478  0.00  0.00           C
+ATOM   1153  CB  HIS A1135       6.435  33.244  20.678  0.00  0.00           C
+ATOM   1154  CG  HIS A1135       7.680  32.995  21.473  0.00  0.00           C
+ATOM   1155  ND1 HIS A1135       8.270  31.752  21.561  0.00  0.00           N
+ATOM   1181  CG  GLU A1138       2.739  29.893  24.025  0.00  0.00           C
+ATOM   1182  CD  GLU A1138       3.653  29.158  23.064  0.00  0.00           C
+ATOM   1183  OE1 GLU A1138       4.862  29.473  23.034  0.00  0.00           O
+ATOM   1184  OE2 GLU A1138       3.164  28.268  22.336  0.00  0.00           O
+ATOM   2087  CD  LYS A1322       1.157  28.970  13.937  0.00  0.00           C
+ATOM   2088  CE  LYS A1322       2.320  28.094  13.505  0.00  0.00           C
+ATOM   2089  NZ  LYS A1322       3.243  27.812  14.641  0.00  0.00           N
+ATOM   2508  NE2 GLN A1386       8.365  27.828  12.547  0.00  0.00           N

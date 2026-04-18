@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   1.56  22.03   7.23 with max radius 5.71
+ATOM   1007  CB  ILE A 476       2.312  16.754   8.799  0.00  0.00           C
+ATOM   1009  CG2 ILE A 476       3.152  17.308   7.569  0.00  0.00           C
+ATOM   1010  CD1 ILE A 476       0.308  18.155   8.187  0.00  0.00           C
+ATOM   1028  CG  ARG A 478       5.306  19.502   9.502  0.00  0.00           C
+ATOM   1029  CD  ARG A 478       4.487  20.495  10.366  0.00  0.00           C
+ATOM   1030  NE  ARG A 478       5.235  21.732  10.565  0.00  0.00           N
+ATOM   1217  CG  LYS A 502       1.084  20.562  12.614  0.00  0.00           C
+ATOM   1218  CD  LYS A 502      -0.028  20.933  11.612  0.00  0.00           C
+ATOM   1219  CE  LYS A 502      -0.654  22.321  11.852  0.00  0.00           C
+ATOM   1220  NZ  LYS A 502      -0.217  23.286  10.786  0.00  0.00           N
+ATOM   1341  CA  GLU A 528      -2.301  24.606   3.655  0.00  0.00           C
+ATOM   1342  C   GLU A 528      -3.225  23.796   4.560  0.00  0.00           C
+ATOM   1343  O   GLU A 528      -2.813  22.777   5.139  0.00  0.00           O
+ATOM   1344  CB  GLU A 528      -1.759  25.774   4.472  0.00  0.00           C
+ATOM   1345  CG  GLU A 528      -0.973  25.307   5.677  0.00  0.00           C
+ATOM   1346  CD  GLU A 528      -1.728  25.435   7.039  0.00  0.00           C
+ATOM   1348  OE2 GLU A 528      -1.157  24.928   8.037  0.00  0.00           O
+ATOM   1377  N   GLY A 532      -1.970  19.734   3.957  0.00  0.00           N
+ATOM   1378  CA  GLY A 532      -0.858  19.747   4.806  0.00  0.00           C
+ATOM   1379  C   GLY A 532       0.175  18.624   4.527  0.00  0.00           C
+ATOM   1380  O   GLY A 532       1.354  18.917   4.477  0.00  0.00           O
+ATOM   1397  CB  VAL A 535       4.901  20.376   3.629  0.00  0.00           C
+ATOM   1398  CG1 VAL A 535       3.881  21.549   3.472  0.00  0.00           C
+ATOM   1399  CG2 VAL A 535       4.646  19.617   5.017  0.00  0.00           C

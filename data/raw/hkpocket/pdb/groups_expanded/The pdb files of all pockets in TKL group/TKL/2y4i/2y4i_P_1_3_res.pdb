@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -14.17  65.67 -28.70 with max radius 5.52
+ATOM      1  N   SER B 653     -12.296  60.577 -28.677  0.00  0.00           N
+ATOM      2  CA  SER B 653     -11.469  61.086 -29.763  0.00  0.00           C
+ATOM      3  C   SER B 653     -11.056  62.539 -29.528  0.00  0.00           C
+ATOM      4  O   SER B 653     -11.647  63.463 -30.089  0.00  0.00           O
+ATOM      5  CB  SER B 653     -12.197  60.940 -31.104  0.00  0.00           C
+ATOM      6  OG  SER B 653     -13.555  61.333 -30.999  0.00  0.00           O
+ATOM     11  CB  ILE B 654     -10.307  64.780 -27.301  0.00  0.00           C
+ATOM     12  CG1 ILE B 654      -9.508  65.961 -26.748  0.00  0.00           C
+ATOM     13  CG2 ILE B 654     -10.662  63.814 -26.188  0.00  0.00           C
+ATOM     14  CD1 ILE B 654     -10.118  66.586 -25.518  0.00  0.00           C
+ATOM     49  CD  GLU B 658      -8.732  67.760 -30.255  0.00  0.00           C
+ATOM     50  OE1 GLU B 658      -9.852  68.238 -29.970  0.00  0.00           O
+ATOM     51  OE2 GLU B 658      -8.576  66.587 -30.656  0.00  0.00           O
+ATOM    447  CA  PHE B 707     -17.539  64.915 -24.192  0.00  0.00           C
+ATOM    448  C   PHE B 707     -17.244  65.761 -25.417  0.00  0.00           C
+ATOM    449  O   PHE B 707     -16.580  66.793 -25.326  0.00  0.00           O
+ATOM    450  CB  PHE B 707     -16.581  63.730 -24.122  0.00  0.00           C
+ATOM    457  N   LYS B 708     -17.739  65.313 -26.564  0.00  0.00           N
+ATOM    458  CA  LYS B 708     -17.636  66.088 -27.791  0.00  0.00           C
+ATOM    459  C   LYS B 708     -18.223  67.473 -27.546  0.00  0.00           C
+ATOM    460  O   LYS B 708     -18.018  68.397 -28.333  0.00  0.00           O
+ATOM    461  CB  LYS B 708     -18.377  65.383 -28.932  0.00  0.00           C
+ATOM    462  CG  LYS B 708     -17.905  65.757 -30.331  0.00  0.00           C
+ATOM    463  CD  LYS B 708     -18.566  67.029 -30.837  0.00  0.00           C
+ATOM    464  CE  LYS B 708     -18.062  67.392 -32.223  0.00  0.00           C
+ATOM    491  CG1 VAL B 711     -14.339  66.385 -23.111  0.00  0.00           C
+ATOM    497  CB  MET B 712     -14.282  70.281 -25.699  0.00  0.00           C
+ATOM    498  CG  MET B 712     -13.459  69.198 -26.372  0.00  0.00           C
+ATOM    499  SD  MET B 712     -11.683  69.447 -26.154  0.00  0.00           S
+ATOM    500  CE  MET B 712     -11.466  71.047 -26.927  0.00  0.00           C
+ATOM    646  CE  MET B 730     -13.831  62.064 -26.087  0.00  0.00           C

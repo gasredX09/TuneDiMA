@@ -1,0 +1,62 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 56 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -24.12   1.45  36.15 with max radius 7.43
+ATOM   1691  NE1 TRP A 238     -29.173   0.728  36.576  0.00  0.00           N
+ATOM   1692  CE2 TRP A 238     -28.533   1.110  35.428  0.00  0.00           C
+ATOM   1694  CZ2 TRP A 238     -27.171   1.218  35.152  0.00  0.00           C
+ATOM   1695  CZ3 TRP A 238     -27.772   1.936  32.918  0.00  0.00           C
+ATOM   1696  CH2 TRP A 238     -26.810   1.632  33.894  0.00  0.00           C
+ATOM   1723  CA  THR A 242     -28.050   6.540  36.498  0.00  0.00           C
+ATOM   1724  C   THR A 242     -27.430   7.396  35.393  0.00  0.00           C
+ATOM   1725  O   THR A 242     -26.225   7.651  35.415  0.00  0.00           O
+ATOM   1726  CB  THR A 242     -27.506   5.121  36.325  0.00  0.00           C
+ATOM   1727  OG1 THR A 242     -27.965   4.587  35.077  0.00  0.00           O
+ATOM   1728  CG2 THR A 242     -27.997   4.223  37.443  0.00  0.00           C
+ATOM   1739  C   SER A 244     -26.387   4.574  31.107  0.00  0.00           C
+ATOM   1741  CB  SER A 244     -24.864   4.989  33.038  0.00  0.00           C
+ATOM   1742  OG  SER A 244     -24.227   5.948  33.874  0.00  0.00           O
+ATOM   1743  N   ILE A 245     -25.542   3.898  30.341  0.00  0.00           N
+ATOM   1745  C   ILE A 245     -25.856   1.504  30.211  0.00  0.00           C
+ATOM   1746  O   ILE A 245     -24.846   1.260  30.878  0.00  0.00           O
+ATOM   1751  N   PRO A 246     -26.876   0.634  30.121  0.00  0.00           N
+ATOM   1752  CA  PRO A 246     -26.894  -0.671  30.791  0.00  0.00           C
+ATOM   1753  C   PRO A 246     -25.723  -1.574  30.443  0.00  0.00           C
+ATOM   1755  CB  PRO A 246     -28.213  -1.283  30.326  0.00  0.00           C
+ATOM   1758  N   HIS A 247     -24.990  -2.003  31.470  0.00  0.00           N
+ATOM   1759  CA  HIS A 247     -23.861  -2.920  31.308  0.00  0.00           C
+ATOM   1760  C   HIS A 247     -22.600  -2.359  30.676  0.00  0.00           C
+ATOM   1762  CB  HIS A 247     -24.333  -4.147  30.536  0.00  0.00           C
+ATOM   1763  CG  HIS A 247     -25.546  -4.777  31.131  0.00  0.00           C
+ATOM   1765  CD2 HIS A 247     -25.998  -4.803  32.408  0.00  0.00           C
+ATOM   1767  NE2 HIS A 247     -27.195  -5.476  32.399  0.00  0.00           N
+ATOM   1768  N   ILE A 248     -22.379  -1.065  30.874  0.00  0.00           N
+ATOM   1769  CA  ILE A 248     -21.194  -0.395  30.362  0.00  0.00           C
+ATOM   1770  C   ILE A 248     -20.496   0.149  31.600  0.00  0.00           C
+ATOM   1771  O   ILE A 248     -20.892   1.185  32.146  0.00  0.00           O
+ATOM   1772  CB  ILE A 248     -21.557   0.765  29.415  0.00  0.00           C
+ATOM   1776  N   ASN A 249     -19.475  -0.578  32.053  0.00  0.00           N
+ATOM   1777  CA  ASN A 249     -18.712  -0.208  33.243  0.00  0.00           C
+ATOM   1780  CB  ASN A 249     -18.923  -1.256  34.331  0.00  0.00           C
+ATOM   1781  CG  ASN A 249     -20.304  -1.872  34.279  0.00  0.00           C
+ATOM   1782  OD1 ASN A 249     -21.282  -1.285  34.749  0.00  0.00           O
+ATOM   1783  ND2 ASN A 249     -20.397  -3.060  33.685  0.00  0.00           N
+ATOM   2019  CA  PRO A 279     -27.999  -3.795  36.055  0.00  0.00           C
+ATOM   2022  CB  PRO A 279     -28.107  -2.567  35.155  0.00  0.00           C
+ATOM   2023  CG  PRO A 279     -28.859  -3.083  33.981  0.00  0.00           C
+ATOM   2025  N   PRO A 280     -26.805  -3.145  38.078  0.00  0.00           N
+ATOM   2027  C   PRO A 280     -27.257  -1.370  39.715  0.00  0.00           C
+ATOM   2028  O   PRO A 280     -26.941  -0.424  38.997  0.00  0.00           O
+ATOM   2029  CB  PRO A 280     -25.169  -2.799  39.707  0.00  0.00           C
+ATOM   2030  CG  PRO A 280     -24.622  -2.437  38.361  0.00  0.00           C
+ATOM   2031  CD  PRO A 280     -25.483  -3.255  37.436  0.00  0.00           C
+ATOM   2033  CA  ILE A 281     -28.740   0.009  41.045  0.00  0.00           C
+ATOM   2034  C   ILE A 281     -27.815   0.870  41.915  0.00  0.00           C
+ATOM   2040  N   ASN A 282     -27.798   2.172  41.645  0.00  0.00           N
+ATOM   2041  CA  ASN A 282     -26.955   3.119  42.370  0.00  0.00           C
+ATOM   2044  CB  ASN A 282     -26.481   4.217  41.407  0.00  0.00           C
+ATOM   2045  CG  ASN A 282     -27.637   5.046  40.839  0.00  0.00           C
+ATOM   2047  ND2 ASN A 282     -27.510   6.367  40.909  0.00  0.00           N
+ATOM   2072  OE1 GLU A 285     -25.139   7.143  40.810  0.00  0.00           O

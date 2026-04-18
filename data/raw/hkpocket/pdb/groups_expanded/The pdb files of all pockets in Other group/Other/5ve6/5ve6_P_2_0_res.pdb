@@ -1,0 +1,60 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 54 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   3.08  47.77  20.16 with max radius 7.00
+ATOM    380  CB  ASP A1005       6.317  53.748  18.492  0.00  0.00           C
+ATOM   1216  CA  HIS A1143       0.432  43.723  23.141  0.00  0.00           C
+ATOM   1217  C   HIS A1143      -0.852  44.524  22.998  0.00  0.00           C
+ATOM   1218  O   HIS A1143      -1.651  44.306  22.085  0.00  0.00           O
+ATOM   1219  CB  HIS A1143       1.160  43.612  21.803  0.00  0.00           C
+ATOM   1220  CG  HIS A1143       2.639  43.840  21.908  0.00  0.00           C
+ATOM   1222  CD2 HIS A1143       3.392  44.930  21.633  0.00  0.00           C
+ATOM   1224  NE2 HIS A1143       4.697  44.601  21.914  0.00  0.00           N
+ATOM   1225  N   ARG A1144      -1.020  45.460  23.925  0.00  0.00           N
+ATOM   1226  CA  ARG A1144      -2.242  46.237  24.089  0.00  0.00           C
+ATOM   1227  C   ARG A1144      -2.619  47.058  22.856  0.00  0.00           C
+ATOM   1229  CB  ARG A1144      -2.082  47.148  25.307  0.00  0.00           C
+ATOM   1230  N   ASP A1145      -1.632  47.410  22.041  0.00  0.00           N
+ATOM   1231  CA  ASP A1145      -1.933  48.016  20.749  0.00  0.00           C
+ATOM   1232  C   ASP A1145      -1.017  47.476  19.658  0.00  0.00           C
+ATOM   1233  O   ASP A1145       0.172  47.797  19.598  0.00  0.00           O
+ATOM   1234  CB  ASP A1145      -1.832  49.546  20.811  0.00  0.00           C
+ATOM   1238  N   LEU A1146      -1.593  46.638  18.805  0.00  0.00           N
+ATOM   1239  CA  LEU A1146      -0.939  46.200  17.588  0.00  0.00           C
+ATOM   1240  C   LEU A1146      -1.342  47.143  16.467  0.00  0.00           C
+ATOM   1242  CB  LEU A1146      -1.328  44.761  17.248  0.00  0.00           C
+ATOM   1243  CG  LEU A1146      -0.495  43.630  17.848  0.00  0.00           C
+ATOM   1245  CD2 LEU A1146       0.839  43.503  17.127  0.00  0.00           C
+ATOM   1246  N   CYS A1147      -0.357  47.686  15.769  0.00  0.00           N
+ATOM   1247  CA  CYS A1147      -0.631  48.528  14.618  0.00  0.00           C
+ATOM   1248  C   CYS A1147       0.415  48.263  13.549  0.00  0.00           C
+ATOM   1249  O   CYS A1147       1.495  47.745  13.841  0.00  0.00           O
+ATOM   1251  SG  CYS A1147       0.886  50.602  15.771  0.00  0.00           S
+ATOM   1270  CA  ASN A1150       4.869  48.786  14.959  0.00  0.00           C
+ATOM   1271  C   ASN A1150       5.311  47.401  14.503  0.00  0.00           C
+ATOM   1272  O   ASN A1150       5.918  46.653  15.268  0.00  0.00           O
+ATOM   1273  CB  ASN A1150       4.175  48.683  16.319  0.00  0.00           C
+ATOM   1274  CG  ASN A1150       4.103  50.017  17.036  0.00  0.00           C
+ATOM   1275  OD1 ASN A1150       4.980  50.867  16.876  0.00  0.00           O
+ATOM   1276  ND2 ASN A1150       3.056  50.209  17.832  0.00  0.00           N
+ATOM   1277  N   LEU A1151       5.004  47.061  13.257  0.00  0.00           N
+ATOM   1282  CG  LEU A1151       3.128  44.677  12.862  0.00  0.00           C
+ATOM   1283  CD1 LEU A1151       2.075  43.913  12.070  0.00  0.00           C
+ATOM   1284  CD2 LEU A1151       3.611  43.857  14.051  0.00  0.00           C
+ATOM   1393  CG2 ILE A1214       4.894  42.612  17.991  0.00  0.00           C
+ATOM   1395  N   SER A1215       7.621  44.871  17.353  0.00  0.00           N
+ATOM   1397  C   SER A1215       7.911  45.813  19.619  0.00  0.00           C
+ATOM   1398  O   SER A1215       6.757  45.492  19.899  0.00  0.00           O
+ATOM   1399  CB  SER A1215       8.356  47.204  17.593  0.00  0.00           C
+ATOM   1400  OG  SER A1215       7.059  47.758  17.718  0.00  0.00           O
+ATOM   1402  CA  ASN A1216       8.481  46.271  21.949  0.00  0.00           C
+ATOM   1403  C   ASN A1216       7.972  47.647  22.362  0.00  0.00           C
+ATOM   1404  O   ASN A1216       8.149  48.626  21.640  0.00  0.00           O
+ATOM   1409  N   PHE A1217       7.338  47.713  23.528  0.00  0.00           N
+ATOM   1410  CA  PHE A1217       6.793  48.968  24.037  0.00  0.00           C
+ATOM   1413  CB  PHE A1217       5.295  48.825  24.317  0.00  0.00           C
+ATOM   1414  CG  PHE A1217       4.948  47.645  25.183  0.00  0.00           C
+ATOM   1416  CD2 PHE A1217       4.646  46.416  24.614  0.00  0.00           C
+ATOM   1418  CE2 PHE A1217       4.324  45.329  25.405  0.00  0.00           C

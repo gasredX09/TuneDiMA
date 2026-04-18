@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  13.41  28.73 -38.86 with max radius 5.21
+ATOM    291  CA  LYS A  49      10.353  25.883 -37.331  0.00  0.00           C
+ATOM    292  C   LYS A  49      11.734  25.410 -37.776  0.00  0.00           C
+ATOM    293  O   LYS A  49      12.137  25.632 -38.926  0.00  0.00           O
+ATOM    294  CB  LYS A  49      10.469  27.247 -36.644  0.00  0.00           C
+ATOM    295  CG  LYS A  49       9.158  27.930 -36.324  0.00  0.00           C
+ATOM    296  CD  LYS A  49       9.350  29.215 -35.509  0.00  0.00           C
+ATOM    297  CE  LYS A  49       9.717  30.431 -36.363  0.00  0.00           C
+ATOM    299  N   THR A  50      12.464  24.748 -36.875  0.00  0.00           N
+ATOM    300  CA  THR A  50      13.857  24.402 -37.124  0.00  0.00           C
+ATOM    301  C   THR A  50      14.010  23.597 -38.409  0.00  0.00           C
+ATOM    302  O   THR A  50      14.856  23.910 -39.254  0.00  0.00           O
+ATOM    303  CB  THR A  50      14.405  23.640 -35.919  0.00  0.00           C
+ATOM    305  CG2 THR A  50      14.099  24.405 -34.643  0.00  0.00           C
+ATOM    312  CA  LEU A  52      12.746  24.592 -42.375  0.00  0.00           C
+ATOM    313  C   LEU A  52      13.718  25.762 -42.481  0.00  0.00           C
+ATOM    314  O   LEU A  52      14.304  26.186 -41.479  0.00  0.00           O
+ATOM    315  CB  LEU A  52      11.317  25.110 -42.147  0.00  0.00           C
+ATOM    316  N   ASP A  53      13.872  26.282 -43.699  0.00  0.00           N
+ATOM    317  CA  ASP A  53      14.735  27.428 -43.964  0.00  0.00           C
+ATOM    318  C   ASP A  53      14.026  28.729 -43.610  0.00  0.00           C
+ATOM    319  O   ASP A  53      12.806  28.766 -43.445  0.00  0.00           O
+ATOM    324  N   THR A  54      14.809  29.814 -43.501  0.00  0.00           N
+ATOM    325  CA  THR A  54      14.208  31.112 -43.183  0.00  0.00           C
+ATOM    328  CB  THR A  54      15.266  32.141 -42.760  0.00  0.00           C
+ATOM    330  CG2 THR A  54      16.089  31.636 -41.588  0.00  0.00           C
+ATOM    345  CB  THR A  57      10.780  29.827 -41.284  0.00  0.00           C
+ATOM    570  O   GLN A  85      12.213  29.723 -33.881  0.00  0.00           O

@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  28.40 -17.65  -3.72 with max radius 5.44
+ATOM    468  C   HIS A 259      33.537 -15.919  -4.189  0.00  0.00           C
+ATOM    469  O   HIS A 259      32.643 -16.047  -3.351  0.00  0.00           O
+ATOM    477  CA  GLU A 260      33.146 -18.123  -5.156  0.00  0.00           C
+ATOM    478  C   GLU A 260      33.066 -18.819  -3.774  0.00  0.00           C
+ATOM    479  O   GLU A 260      32.109 -19.527  -3.489  0.00  0.00           O
+ATOM    493  N   ILE A 262      33.209 -17.339  -0.671  0.00  0.00           N
+ATOM    495  C   ILE A 262      31.192 -16.308   0.154  0.00  0.00           C
+ATOM    496  O   ILE A 262      30.774 -16.061  -0.971  0.00  0.00           O
+ATOM    501  N   LEU A 263      30.385 -16.496   1.183  0.00  0.00           N
+ATOM    502  CA  LEU A 263      28.926 -16.450   1.036  0.00  0.00           C
+ATOM    503  C   LEU A 263      28.529 -15.148   0.339  0.00  0.00           C
+ATOM    505  CB  LEU A 263      28.256 -16.538   2.409  0.00  0.00           C
+ATOM    507  CD1 LEU A 263      26.137 -17.698   1.604  0.00  0.00           C
+ATOM    509  N   GLY A 264      27.714 -15.283  -0.716  0.00  0.00           N
+ATOM    510  CA  GLY A 264      27.296 -14.146  -1.550  0.00  0.00           C
+ATOM    671  CB  HIS A 284      23.880 -16.760  -2.093  0.00  0.00           C
+ATOM    673  CG  HIS A 284      23.738 -17.645  -3.291  0.00  0.00           C
+ATOM    675  ND1 HIS A 284      24.362 -17.375  -4.490  0.00  0.00           N
+ATOM    677  CD2 HIS A 284      23.085 -18.816  -3.463  0.00  0.00           C
+ATOM    679  CE1 HIS A 284      24.084 -18.336  -5.352  0.00  0.00           C
+ATOM    681  NE2 HIS A 284      23.306 -19.221  -4.754  0.00  0.00           N
+ATOM    702  CD2 HIS A 286      25.246 -20.674  -0.160  0.00  0.00           C
+ATOM    703  CE1 HIS A 286      25.490 -20.953  -2.327  0.00  0.00           C
+ATOM    704  NE2 HIS A 286      25.732 -20.121  -1.326  0.00  0.00           N
+ATOM   1164  CG  LYS A 345      28.110 -23.490  -2.890  0.00  0.00           C
+ATOM   1165  CD  LYS A 345      28.604 -22.577  -4.002  0.00  0.00           C
+ATOM   1166  CE  LYS A 345      29.723 -21.678  -3.582  0.00  0.00           C
+ATOM   1167  NZ  LYS A 345      29.951 -20.648  -4.664  0.00  0.00           N
+ATOM   1214  CB  CYS A 351      30.786 -20.084   0.118  0.00  0.00           C
+ATOM   1215  SG  CYS A 351      29.051 -20.302   0.487  0.00  0.00           S

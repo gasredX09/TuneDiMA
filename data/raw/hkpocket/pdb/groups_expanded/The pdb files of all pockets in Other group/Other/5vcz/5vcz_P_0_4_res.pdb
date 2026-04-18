@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -13.73   3.01   0.60 with max radius 6.10
+ATOM   1420  CA  ALA A 156     -10.842   2.673  -4.769  0.00  0.00           C
+ATOM   1421  C   ALA A 156      -9.516   2.782  -4.057  0.00  0.00           C
+ATOM   1422  O   ALA A 156      -9.368   3.627  -3.175  0.00  0.00           O
+ATOM   1423  CB  ALA A 156     -11.759   1.814  -3.992  0.00  0.00           C
+ATOM   1472  OG  SER A 160      -9.077   3.621   0.028  0.00  0.00           O
+ATOM   1517  CE  LYS A 163     -12.445   7.707   0.618  0.00  0.00           C
+ATOM   1518  NZ  LYS A 163     -11.847   6.539  -0.107  0.00  0.00           N
+ATOM   2938  C   LEU A 255     -10.200   0.917   3.464  0.00  0.00           C
+ATOM   2939  O   LEU A 255     -10.698   0.943   2.302  0.00  0.00           O
+ATOM   2943  CD2 LEU A 255      -9.086   3.932   3.572  0.00  0.00           C
+ATOM   2955  N   VAL A 256     -10.904   1.148   4.574  0.00  0.00           N
+ATOM   2956  CA  VAL A 256     -12.299   1.593   4.541  0.00  0.00           C
+ATOM   2957  C   VAL A 256     -12.492   2.869   5.322  0.00  0.00           C
+ATOM   2959  CB  VAL A 256     -13.236   0.535   5.121  0.00  0.00           C
+ATOM   2960  CG1 VAL A 256     -13.164  -0.761   4.275  0.00  0.00           C
+ATOM   2971  N   GLU A 257     -13.487   3.624   4.882  0.00  0.00           N
+ATOM   2972  CA  GLU A 257     -13.910   4.811   5.572  0.00  0.00           C
+ATOM   2974  O   GLU A 257     -16.079   3.950   5.740  0.00  0.00           O
+ATOM   2975  CB  GLU A 257     -14.177   5.945   4.595  0.00  0.00           C
+ATOM   3016  CB  THR A 260     -18.384   2.729   3.879  0.00  0.00           C
+ATOM   3017  OG1 THR A 260     -17.581   2.980   2.729  0.00  0.00           O

@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -1.54  -9.10 -21.16 with max radius 7.06
+ATOM   3380  CA  SER B 122       2.703 -12.102 -18.509  0.00  0.00           C
+ATOM   3381  C   SER B 122       1.666 -11.146 -17.941  0.00  0.00           C
+ATOM   3382  O   SER B 122       1.026 -10.406 -18.682  0.00  0.00           O
+ATOM   3383  CB  SER B 122       2.014 -13.370 -19.015  0.00  0.00           C
+ATOM   3384  OG  SER B 122       1.280 -13.979 -17.967  0.00  0.00           O
+ATOM   3386  CA  LYS B 123       0.600 -10.225 -15.955  0.00  0.00           C
+ATOM   3390  CG  LYS B 123      -1.115 -11.831 -14.910  0.00  0.00           C
+ATOM   3391  CD  LYS B 123      -2.489 -11.110 -14.984  0.00  0.00           C
+ATOM   3392  CE  LYS B 123      -3.416 -11.704 -16.056  0.00  0.00           C
+ATOM   3403  CA  PHE B 125       3.212  -6.873 -19.476  0.00  0.00           C
+ATOM   3404  C   PHE B 125       1.837  -6.462 -20.003  0.00  0.00           C
+ATOM   3405  O   PHE B 125       0.864  -7.223 -19.932  0.00  0.00           O
+ATOM   3406  CB  PHE B 125       3.876  -7.810 -20.490  0.00  0.00           C
+ATOM   3413  N   ASN B 126       1.762  -5.249 -20.527  0.00  0.00           N
+ATOM   3414  CA  ASN B 126       0.568  -4.795 -21.216  0.00  0.00           C
+ATOM   3415  C   ASN B 126       1.004  -3.956 -22.404  0.00  0.00           C
+ATOM   3417  CB  ASN B 126      -0.337  -3.995 -20.271  0.00  0.00           C
+ATOM   3418  CG  ASN B 126      -1.623  -3.537 -20.936  0.00  0.00           C
+ATOM   3420  ND2 ASN B 126      -2.273  -4.441 -21.658  0.00  0.00           N
+ATOM   3421  N   HIS B 127       0.878  -4.515 -23.603  0.00  0.00           N
+ATOM   3422  CA  HIS B 127       1.374  -3.856 -24.821  0.00  0.00           C
+ATOM   3423  C   HIS B 127       0.585  -4.318 -26.059  0.00  0.00           C
+ATOM   3424  O   HIS B 127       0.212  -5.486 -26.152  0.00  0.00           O
+ATOM   3446  N   ILE B 130       2.010  -7.501 -27.549  0.00  0.00           N
+ATOM   3447  CA  ILE B 130       2.283  -8.670 -26.725  0.00  0.00           C
+ATOM   3448  C   ILE B 130       0.953  -9.338 -26.454  0.00  0.00           C
+ATOM   3449  O   ILE B 130       0.003  -8.664 -26.069  0.00  0.00           O
+ATOM   3450  CB  ILE B 130       3.028  -8.318 -25.411  0.00  0.00           C
+ATOM   3452  CG2 ILE B 130       3.152  -9.564 -24.517  0.00  0.00           C
+ATOM   3454  N   VAL B 131       0.893 -10.650 -26.682  0.00  0.00           N
+ATOM   3455  CA  VAL B 131      -0.335 -11.440 -26.514  0.00  0.00           C
+ATOM   3456  C   VAL B 131      -0.896 -11.365 -25.085  0.00  0.00           C
+ATOM   3457  O   VAL B 131      -0.205 -11.685 -24.125  0.00  0.00           O
+ATOM   3459  CG1 VAL B 131       0.894 -13.656 -26.108  0.00  0.00           C
+ATOM   3461  N   PRO B 132      -2.160 -10.941 -24.945  0.00  0.00           N
+ATOM   3462  CA  PRO B 132      -2.768 -10.872 -23.618  0.00  0.00           C
+ATOM   3463  C   PRO B 132      -3.155 -12.245 -23.051  0.00  0.00           C
+ATOM   3465  CB  PRO B 132      -4.029 -10.025 -23.854  0.00  0.00           C
+ATOM   3466  CG  PRO B 132      -3.917  -9.495 -25.278  0.00  0.00           C
+ATOM   3467  CD  PRO B 132      -3.092 -10.499 -25.994  0.00  0.00           C
+ATOM   3468  N   TYR B 133      -2.962 -12.419 -21.750  0.00  0.00           N
+ATOM   3469  CA  TYR B 133      -3.437 -13.596 -21.044  0.00  0.00           C
+ATOM   3470  C   TYR B 133      -4.737 -13.228 -20.326  0.00  0.00           C
+ATOM   3471  O   TYR B 133      -4.861 -12.137 -19.758  0.00  0.00           O
+ATOM   3472  CB  TYR B 133      -2.386 -14.065 -20.051  0.00  0.00           C
+ATOM   3473  CG  TYR B 133      -1.185 -14.741 -20.676  0.00  0.00           C
+ATOM   3474  CD1 TYR B 133      -0.472 -14.142 -21.722  0.00  0.00           C
+ATOM   3476  CE1 TYR B 133       0.644 -14.762 -22.282  0.00  0.00           C
+ATOM   3486  CD  ARG B 134      -7.648 -12.293 -22.713  0.00  0.00           C
+ATOM   4112  CD1 LEU B 214       4.126 -12.620 -22.122  0.00  0.00           C

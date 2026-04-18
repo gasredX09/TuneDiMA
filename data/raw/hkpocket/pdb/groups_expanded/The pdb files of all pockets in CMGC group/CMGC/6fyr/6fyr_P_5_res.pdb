@@ -1,0 +1,63 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 57 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -18.70   9.39   9.85 with max radius 7.83
+ATOM   1996  CE1 PHE A 365     -13.390  12.454  10.948  0.00  0.00           C
+ATOM   1998  CZ  PHE A 365     -13.282  12.785   9.592  0.00  0.00           C
+ATOM   2051  CB  PHE A 371     -17.780  13.734  14.458  0.00  0.00           C
+ATOM   2052  CG  PHE A 371     -17.495  14.248  13.067  0.00  0.00           C
+ATOM   2053  CD1 PHE A 371     -17.019  13.397  12.072  0.00  0.00           C
+ATOM   2055  CE1 PHE A 371     -16.776  13.870  10.778  0.00  0.00           C
+ATOM   2060  C   THR A 372     -15.127   9.813  13.593  0.00  0.00           C
+ATOM   2061  O   THR A 372     -16.079  10.051  12.847  0.00  0.00           O
+ATOM   2063  OG1 THR A 372     -17.100   8.603  15.312  0.00  0.00           O
+ATOM   2066  CA  LEU A 373     -13.835   8.829  11.791  0.00  0.00           C
+ATOM   2067  C   LEU A 373     -14.732   7.627  11.489  0.00  0.00           C
+ATOM   2068  O   LEU A 373     -15.346   7.563  10.418  0.00  0.00           O
+ATOM   2069  CB  LEU A 373     -12.367   8.501  11.491  0.00  0.00           C
+ATOM   2070  CG  LEU A 373     -12.010   8.091  10.061  0.00  0.00           C
+ATOM   2071  CD1 LEU A 373     -12.501   9.131   9.055  0.00  0.00           C
+ATOM   2073  N   PHE A 374     -14.789   6.678  12.423  0.00  0.00           N
+ATOM   2074  CA  PHE A 374     -15.554   5.452  12.245  0.00  0.00           C
+ATOM   2075  C   PHE A 374     -16.644   5.342  13.294  0.00  0.00           C
+ATOM   2079  CD1 PHE A 374     -13.961   4.032   9.886  0.00  0.00           C
+ATOM   2084  N   GLN A 375     -17.814   5.897  12.991  0.00  0.00           N
+ATOM   2085  CA  GLN A 375     -18.934   5.870  13.920  0.00  0.00           C
+ATOM   2086  C   GLN A 375     -19.792   4.647  13.619  0.00  0.00           C
+ATOM   2087  O   GLN A 375     -20.755   4.698  12.845  0.00  0.00           O
+ATOM   2088  CB  GLN A 375     -19.740   7.173  13.862  0.00  0.00           C
+ATOM   2089  CG  GLN A 375     -20.756   7.341  14.995  0.00  0.00           C
+ATOM   2176  CB  MET A 385     -16.661   2.727   7.558  0.00  0.00           C
+ATOM   2177  CG  MET A 385     -18.128   2.765   7.909  0.00  0.00           C
+ATOM   2178  SD  MET A 385     -18.310   3.376   9.588  0.00  0.00           S
+ATOM   2179  CE  MET A 385     -20.070   3.727   9.625  0.00  0.00           C
+ATOM   2211  CG1 ILE A 389     -14.383   6.773   5.190  0.00  0.00           C
+ATOM   2213  CD1 ILE A 389     -14.648   6.666   6.689  0.00  0.00           C
+ATOM   2499  C   TYR A 423     -24.566   6.131   5.815  0.00  0.00           C
+ATOM   2500  O   TYR A 423     -23.927   7.179   5.798  0.00  0.00           O
+ATOM   2504  CD2 TYR A 423     -23.984   5.576   8.907  0.00  0.00           C
+ATOM   2505  CE1 TYR A 423     -24.625   7.947  10.199  0.00  0.00           C
+ATOM   2506  CE2 TYR A 423     -23.084   6.142   9.807  0.00  0.00           C
+ATOM   2507  CZ  TYR A 423     -23.412   7.328  10.449  0.00  0.00           C
+ATOM   2508  OH  TYR A 423     -22.527   7.891  11.342  0.00  0.00           O
+ATOM   2510  CA  VAL A 424     -22.636   4.821   5.112  0.00  0.00           C
+ATOM   2535  CA  ASN A 427     -21.646   9.851   5.591  0.00  0.00           C
+ATOM   2536  C   ASN A 427     -20.169   9.504   5.452  0.00  0.00           C
+ATOM   2537  O   ASN A 427     -19.318  10.209   5.999  0.00  0.00           O
+ATOM   2538  CB  ASN A 427     -22.139   9.448   6.980  0.00  0.00           C
+ATOM   2539  CG  ASN A 427     -23.395  10.180   7.377  0.00  0.00           C
+ATOM   2540  OD1 ASN A 427     -23.339  11.300   7.888  0.00  0.00           O
+ATOM   2541  ND2 ASN A 427     -24.543   9.559   7.135  0.00  0.00           N
+ATOM   2542  N   CYS A 428     -19.866   8.429   4.728  0.00  0.00           N
+ATOM   2543  CA  CYS A 428     -18.491   7.935   4.623  0.00  0.00           C
+ATOM   2544  C   CYS A 428     -17.920   8.142   3.228  0.00  0.00           C
+ATOM   2546  CB  CYS A 428     -18.413   6.465   5.035  0.00  0.00           C
+ATOM   2547  SG  CYS A 428     -19.135   6.162   6.653  0.00  0.00           S
+ATOM   2593  CD1 TYR A 434     -15.181  13.884   6.590  0.00  0.00           C
+ATOM   2594  CD2 TYR A 434     -13.556  12.570   5.430  0.00  0.00           C
+ATOM   2595  CE1 TYR A 434     -16.111  12.861   6.454  0.00  0.00           C
+ATOM   2596  CE2 TYR A 434     -14.480  11.550   5.276  0.00  0.00           C
+ATOM   2597  CZ  TYR A 434     -15.751  11.700   5.792  0.00  0.00           C
+ATOM   2598  OH  TYR A 434     -16.658  10.679   5.645  0.00  0.00           O

@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  55.14  36.84  20.47 with max radius 5.81
+ATOM    775  C   ARG A 163      53.910  33.032  16.250  0.00  0.00           C
+ATOM    776  O   ARG A 163      54.081  32.888  17.456  0.00  0.00           O
+ATOM    785  CA  GLY A 164      54.685  35.343  16.304  0.00  0.00           C
+ATOM    786  C   GLY A 164      53.620  36.255  16.869  0.00  0.00           C
+ATOM    787  O   GLY A 164      53.927  37.204  17.607  0.00  0.00           O
+ATOM    788  N   GLY A 165      52.361  35.963  16.539  0.00  0.00           N
+ATOM    789  CA  GLY A 165      51.246  36.797  16.975  0.00  0.00           C
+ATOM    795  O   SER A 166      52.548  40.944  17.892  0.00  0.00           O
+ATOM    816  C   SER A 169      54.546  42.014  21.518  0.00  0.00           C
+ATOM    818  CB  SER A 169      52.525  40.473  21.570  0.00  0.00           C
+ATOM    819  OG  SER A 169      52.911  39.807  20.380  0.00  0.00           O
+ATOM    821  CA  HIS A 170      56.587  42.422  20.225  0.00  0.00           C
+ATOM    824  CB  HIS A 170      57.021  42.300  18.773  0.00  0.00           C
+ATOM    825  CG  HIS A 170      56.987  40.900  18.247  0.00  0.00           C
+ATOM    826  ND1 HIS A 170      55.842  40.129  18.248  0.00  0.00           N
+ATOM    827  CD2 HIS A 170      57.949  40.147  17.666  0.00  0.00           C
+ATOM    828  CE1 HIS A 170      56.104  38.958  17.696  0.00  0.00           C
+ATOM    829  NE2 HIS A 170      57.376  38.947  17.330  0.00  0.00           N
+ATOM    853  CG  LYS A 173      58.307  41.073  23.765  0.00  0.00           C
+ATOM    854  CD  LYS A 173      58.268  39.557  23.896  0.00  0.00           C
+ATOM    855  CE  LYS A 173      56.843  39.017  24.004  0.00  0.00           C
+ATOM    856  NZ  LYS A 173      56.829  37.519  24.179  0.00  0.00           N
+ATOM   1197  CA  PRO A 216      57.921  34.951  18.131  0.00  0.00           C
+ATOM   1198  C   PRO A 216      59.199  35.648  18.620  0.00  0.00           C
+ATOM   1199  O   PRO A 216      59.164  36.369  19.637  0.00  0.00           O
+ATOM   1200  CB  PRO A 216      57.582  33.777  19.061  0.00  0.00           C

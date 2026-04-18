@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -12.24  -9.80 -18.71 with max radius 6.47
+ATOM    849  C   PHE A 592     -17.947 -10.250 -18.030  0.00  0.00           C
+ATOM    858  N   VAL A 593     -17.460 -11.359 -18.581  0.00  0.00           N
+ATOM    859  CA  VAL A 593     -16.651 -11.341 -19.791  0.00  0.00           C
+ATOM    860  C   VAL A 593     -17.420 -10.706 -20.944  0.00  0.00           C
+ATOM    861  O   VAL A 593     -16.875  -9.891 -21.684  0.00  0.00           O
+ATOM    862  CB  VAL A 593     -16.210 -12.761 -20.196  0.00  0.00           C
+ATOM    863  CG1 VAL A 593     -15.342 -12.713 -21.443  0.00  0.00           C
+ATOM    864  CG2 VAL A 593     -15.467 -13.432 -19.052  0.00  0.00           C
+ATOM    887  CB  VAL A 596     -15.245  -6.583 -19.578  0.00  0.00           C
+ATOM    888  CG1 VAL A 596     -15.622  -6.368 -18.119  0.00  0.00           C
+ATOM    889  CG2 VAL A 596     -14.940  -8.049 -19.841  0.00  0.00           C
+ATOM   1578  CB  LEU A 682     -11.354  -4.683 -15.928  0.00  0.00           C
+ATOM   1579  CG  LEU A 682     -11.110  -4.599 -17.435  0.00  0.00           C
+ATOM   1580  CD1 LEU A 682      -9.689  -5.026 -17.767  0.00  0.00           C
+ATOM   1581  CD2 LEU A 682     -12.107  -5.458 -18.184  0.00  0.00           C
+ATOM   1619  CD2 PHE A 686     -14.037  -8.671 -14.158  0.00  0.00           C
+ATOM   1620  CE1 PHE A 686     -14.294 -11.416 -14.059  0.00  0.00           C
+ATOM   1621  CE2 PHE A 686     -14.150  -9.397 -15.330  0.00  0.00           C
+ATOM   1622  CZ  PHE A 686     -14.278 -10.771 -15.281  0.00  0.00           C
+ATOM   1875  O   TRP A 720      -5.982 -11.003 -17.585  0.00  0.00           O
+ATOM   1882  CE3 TRP A 720      -8.575 -12.690 -19.708  0.00  0.00           C
+ATOM   1883  CZ2 TRP A 720     -11.030 -14.033 -19.273  0.00  0.00           C
+ATOM   1884  CZ3 TRP A 720      -9.748 -12.263 -20.304  0.00  0.00           C
+ATOM   1885  CH2 TRP A 720     -10.959 -12.932 -20.083  0.00  0.00           C
+ATOM   1887  CA  VAL A 721      -8.368 -10.561 -16.231  0.00  0.00           C
+ATOM   1890  CB  VAL A 721      -9.752 -10.747 -15.576  0.00  0.00           C
+ATOM   1891  CG1 VAL A 721     -10.458  -9.407 -15.426  0.00  0.00           C
+ATOM   1892  CG2 VAL A 721     -10.599 -11.712 -16.390  0.00  0.00           C
+ATOM   1914  CB  LEU A 724      -6.571  -7.821 -18.995  0.00  0.00           C
+ATOM   1917  CD2 LEU A 724      -8.506  -7.438 -20.543  0.00  0.00           C
+ATOM   2108  CG  LEU A 746     -11.769  -8.775 -23.288  0.00  0.00           C
+ATOM   2109  CD1 LEU A 746     -12.536  -7.552 -22.829  0.00  0.00           C
+ATOM   2110  CD2 LEU A 746     -11.485  -9.702 -22.116  0.00  0.00           C
+ATOM   2127  O   TRP A 749     -13.036 -14.814 -22.382  0.00  0.00           O

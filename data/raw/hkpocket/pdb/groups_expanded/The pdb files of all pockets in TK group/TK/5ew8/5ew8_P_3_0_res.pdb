@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  77.01 -13.60   9.07 with max radius 6.40
+ATOM    788  CD1 LEU A 569      76.460  -7.318  11.421  0.00  0.00           C
+ATOM    817  CD2 TYR A 572      76.749  -8.118   7.559  0.00  0.00           C
+ATOM    819  CE2 TYR A 572      77.007  -9.467   7.317  0.00  0.00           C
+ATOM    820  CZ  TYR A 572      77.972  -9.827   6.386  0.00  0.00           C
+ATOM    821  OH  TYR A 572      78.243 -11.157   6.147  0.00  0.00           O
+ATOM    827  CG  LEU A 573      72.949  -6.844   9.911  0.00  0.00           C
+ATOM    829  CD2 LEU A 573      72.622  -8.332   9.834  0.00  0.00           C
+ATOM    911  CB  LEU A 595      72.056 -13.092   6.157  0.00  0.00           C
+ATOM    912  CG  LEU A 595      73.086 -11.998   5.838  0.00  0.00           C
+ATOM    913  CD1 LEU A 595      72.924 -10.773   6.769  0.00  0.00           C
+ATOM    914  CD2 LEU A 595      74.505 -12.555   5.845  0.00  0.00           C
+ATOM    918  O   SER A 596      70.861 -16.311   8.397  0.00  0.00           O
+ATOM    937  CA  ASP A 599      74.347 -16.629   9.455  0.00  0.00           C
+ATOM    938  C   ASP A 599      74.038 -15.544  10.482  0.00  0.00           C
+ATOM    939  O   ASP A 599      74.945 -14.958  11.073  0.00  0.00           O
+ATOM    940  CB  ASP A 599      74.181 -15.986   8.063  0.00  0.00           C
+ATOM    941  CG  ASP A 599      74.688 -16.812   6.902  0.00  0.00           C
+ATOM    942  OD1 ASP A 599      75.578 -17.668   7.126  0.00  0.00           O
+ATOM    943  OD2 ASP A 599      74.182 -16.613   5.772  0.00  0.00           O
+ATOM    944  N   LEU A 600      72.756 -15.260  10.691  0.00  0.00           N
+ATOM    945  CA  LEU A 600      72.364 -14.215  11.651  0.00  0.00           C
+ATOM    946  C   LEU A 600      72.719 -14.602  13.087  0.00  0.00           C
+ATOM    947  O   LEU A 600      73.285 -13.795  13.836  0.00  0.00           O
+ATOM    948  CB  LEU A 600      70.867 -13.900  11.517  0.00  0.00           C
+ATOM    949  CG  LEU A 600      70.433 -13.255  10.184  0.00  0.00           C
+ATOM    951  CD2 LEU A 600      71.142 -11.909   9.947  0.00  0.00           C
+ATOM    960  CA  SER A 602      76.501 -16.750  13.915  0.00  0.00           C
+ATOM    961  C   SER A 602      77.046 -15.346  14.170  0.00  0.00           C
+ATOM    962  O   SER A 602      77.989 -15.187  14.955  0.00  0.00           O
+ATOM    963  CB  SER A 602      77.059 -17.327  12.614  0.00  0.00           C
+ATOM    964  OG  SER A 602      78.473 -17.210  12.626  0.00  0.00           O
+ATOM    965  N   CYS A 603      76.441 -14.344  13.536  0.00  0.00           N
+ATOM    967  CA  CYS A 603      76.816 -12.959  13.749  0.00  0.00           C
+ATOM    973  CB  CYS A 603      75.957 -12.063  12.875  0.00  0.00           C
+ATOM    975  SG  CYS A 603      76.113 -10.323  13.273  0.00  0.00           S
+ATOM   1000  CD  GLN A 606      81.459 -14.413  13.578  0.00  0.00           C
+ATOM   1002  NE2 GLN A 606      80.510 -14.803  12.711  0.00  0.00           N
+ATOM   1225  O   ASN A 635      81.999 -12.713   9.486  0.00  0.00           O
+ATOM   1226  CB  ASN A 635      81.648 -12.921   6.765  0.00  0.00           C
+ATOM   1227  CG  ASN A 635      81.345 -12.626   5.323  0.00  0.00           C
+ATOM   1228  OD1 ASN A 635      81.080 -11.482   4.949  0.00  0.00           O
+ATOM   1229  ND2 ASN A 635      81.475 -13.629   4.480  0.00  0.00           N
+ATOM   1244  CE  MET A 637      79.531 -10.532  10.628  0.00  0.00           C
+ATOM   1704  CB  ILE A 693      71.456  -9.331  14.529  0.00  0.00           C
+ATOM   1705  CG1 ILE A 693      72.839  -8.728  14.825  0.00  0.00           C
+ATOM   1706  CG2 ILE A 693      71.567 -10.660  13.706  0.00  0.00           C

@@ -1,0 +1,50 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 44 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -26.67 -35.82  14.85 with max radius 6.57
+ATOM    803  CA  GLY A 549     -25.859 -33.503  20.605  0.00  0.00           C
+ATOM    804  C   GLY A 549     -24.461 -33.903  20.171  0.00  0.00           C
+ATOM    806  N   ASN A 550     -24.324 -34.145  18.868  0.00  0.00           N
+ATOM    807  CA  ASN A 550     -23.074 -34.589  18.244  0.00  0.00           C
+ATOM    808  C   ASN A 550     -22.738 -33.571  17.147  0.00  0.00           C
+ATOM    809  O   ASN A 550     -23.306 -32.473  17.136  0.00  0.00           O
+ATOM    810  CB  ASN A 550     -23.250 -36.021  17.684  0.00  0.00           C
+ATOM    811  CG  ASN A 550     -21.995 -36.890  17.818  0.00  0.00           C
+ATOM    814  N   ASP A 551     -21.827 -33.928  16.237  0.00  0.00           N
+ATOM    815  CA  ASP A 551     -21.350 -33.014  15.193  0.00  0.00           C
+ATOM    816  C   ASP A 551     -21.812 -33.425  13.801  0.00  0.00           C
+ATOM    817  O   ASP A 551     -22.306 -34.531  13.600  0.00  0.00           O
+ATOM    823  CA  LEU A 552     -22.076 -32.700  11.465  0.00  0.00           C
+ATOM    839  CA  PHE A 554     -21.503 -37.947  12.770  0.00  0.00           C
+ATOM    840  C   PHE A 554     -22.872 -37.982  12.082  0.00  0.00           C
+ATOM    841  O   PHE A 554     -23.327 -39.048  11.682  0.00  0.00           O
+ATOM    842  CB  PHE A 554     -21.688 -37.882  14.289  0.00  0.00           C
+ATOM    843  CG  PHE A 554     -22.379 -39.083  14.866  0.00  0.00           C
+ATOM    845  CD2 PHE A 554     -23.763 -39.101  15.019  0.00  0.00           C
+ATOM    847  CE2 PHE A 554     -24.401 -40.209  15.549  0.00  0.00           C
+ATOM    849  N   TYR A 555     -23.518 -36.823  11.954  0.00  0.00           N
+ATOM    850  CA  TYR A 555     -24.823 -36.717  11.288  0.00  0.00           C
+ATOM    851  C   TYR A 555     -24.767 -37.267   9.869  0.00  0.00           C
+ATOM    853  CB  TYR A 555     -25.305 -35.260  11.256  0.00  0.00           C
+ATOM    854  CG  TYR A 555     -26.716 -35.066  10.728  0.00  0.00           C
+ATOM    856  CD2 TYR A 555     -27.781 -34.845  11.597  0.00  0.00           C
+ATOM    858  CE2 TYR A 555     -29.072 -34.656  11.121  0.00  0.00           C
+ATOM    882  CB  GLN A 558     -26.840 -41.171  11.041  0.00  0.00           C
+ATOM    883  CG  GLN A 558     -26.100 -41.024  12.373  0.00  0.00           C
+ATOM    893  ND1 HIS A 559     -28.818 -38.374  10.248  0.00  0.00           N
+ATOM    895  CE1 HIS A 559     -29.562 -38.698  11.291  0.00  0.00           C
+ATOM   1221  N   LEU A 600     -24.016 -29.844  15.923  0.00  0.00           N
+ATOM   1222  CA  LEU A 600     -25.476 -29.712  15.795  0.00  0.00           C
+ATOM   1224  O   LEU A 600     -26.429 -30.954  17.622  0.00  0.00           O
+ATOM   1225  CB  LEU A 600     -26.048 -30.770  14.842  0.00  0.00           C
+ATOM   1226  CG  LEU A 600     -25.908 -30.523  13.336  0.00  0.00           C
+ATOM   1227  CD1 LEU A 600     -24.502 -30.105  12.947  0.00  0.00           C
+ATOM   1228  CD2 LEU A 600     -26.321 -31.760  12.554  0.00  0.00           C
+ATOM   1244  N   GLY A 603     -29.344 -31.584  17.896  0.00  0.00           N
+ATOM   1245  CA  GLY A 603     -29.409 -32.901  17.265  0.00  0.00           C
+ATOM   1246  C   GLY A 603     -30.048 -32.936  15.883  0.00  0.00           C
+ATOM   1247  O   GLY A 603     -30.352 -34.020  15.382  0.00  0.00           O
+ATOM   1248  N   THR A 604     -30.233 -31.767  15.261  0.00  0.00           N
+ATOM   1249  CA  THR A 604     -30.914 -31.650  13.962  0.00  0.00           C

@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 18 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -9.24 -26.74  65.90 with max radius 6.42
+ATOM   2683  CA  PRO A 359      -3.444 -27.263  64.371  0.00  0.00           C
+ATOM   2684  C   PRO A 359      -4.405 -27.071  63.200  0.00  0.00           C
+ATOM   2686  CB  PRO A 359      -4.221 -27.472  65.679  0.00  0.00           C
+ATOM   2689  N   GLU A 360      -5.205 -26.012  63.256  0.00  0.00           N
+ATOM   2690  CA  GLU A 360      -6.186 -25.724  62.206  0.00  0.00           C
+ATOM   2693  CB  GLU A 360      -7.053 -24.506  62.576  0.00  0.00           C
+ATOM   2694  CG  GLU A 360      -6.350 -23.143  62.587  0.00  0.00           C
+ATOM   2695  CD  GLU A 360      -5.573 -22.838  63.858  0.00  0.00           C
+ATOM   2696  OE1 GLU A 360      -5.378 -23.747  64.693  0.00  0.00           O
+ATOM   2719  CD  GLN A 363      -6.999 -30.177  62.620  0.00  0.00           C
+ATOM   2720  OE1 GLN A 363      -6.803 -30.656  63.734  0.00  0.00           O
+ATOM   2721  NE2 GLN A 363      -7.827 -29.153  62.413  0.00  0.00           N
+ATOM   2740  CG1 VAL A 366     -10.095 -26.692  60.734  0.00  0.00           C
+ATOM   2741  CG2 VAL A 366      -9.910 -29.041  59.947  0.00  0.00           C
+ATOM   3262  C   ARG A 431      -6.189 -25.631  69.638  0.00  0.00           C
+ATOM   3263  O   ARG A 431      -6.421 -25.502  68.434  0.00  0.00           O
+ATOM   3271  N   ASP A 432      -7.073 -25.350  70.593  0.00  0.00           N
+ATOM   3272  CA  ASP A 432      -8.372 -24.731  70.327  0.00  0.00           C
+ATOM   3273  C   ASP A 432      -8.218 -23.273  69.916  0.00  0.00           C
+ATOM   3275  CB  ASP A 432      -9.248 -24.746  71.600  0.00  0.00           C
+ATOM   3276  CG  ASP A 432     -10.198 -25.934  71.670  0.00  0.00           C
+ATOM   3279  N   VAL A 433      -8.615 -22.931  68.690  0.00  0.00           N
+ATOM   3280  CA  VAL A 433      -8.818 -21.526  68.332  0.00  0.00           C
+ATOM   3283  CB  VAL A 433      -9.258 -21.357  66.864  0.00  0.00           C
+ATOM   3285  CG2 VAL A 433      -8.115 -21.697  65.925  0.00  0.00           C
+ATOM   3291  CG  ASN A 434     -13.060 -23.376  69.475  0.00  0.00           C
+ATOM   3292  OD1 ASN A 434     -13.159 -22.814  68.380  0.00  0.00           O
+ATOM   3293  ND2 ASN A 434     -13.119 -24.701  69.606  0.00  0.00           N

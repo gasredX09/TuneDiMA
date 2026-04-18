@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  29.22  -0.09   4.90 with max radius 6.95
+ATOM    729  CA  ALA A 116      28.489   3.831   7.243  0.00  0.00           C
+ATOM    730  C   ALA A 116      28.636   3.085   8.567  0.00  0.00           C
+ATOM    731  O   ALA A 116      27.949   2.084   8.817  0.00  0.00           O
+ATOM    732  CB  ALA A 116      29.785   3.803   6.458  0.00  0.00           C
+ATOM    757  CB  LEU A 119      25.048   1.500   7.720  0.00  0.00           C
+ATOM    758  CG  LEU A 119      24.226   0.496   6.885  0.00  0.00           C
+ATOM    760  CD2 LEU A 119      24.139   0.857   5.435  0.00  0.00           C
+ATOM    761  N   MET A 120      26.528   0.043  10.077  0.00  0.00           N
+ATOM    766  CG  MET A 120      28.917  -0.647   9.032  0.00  0.00           C
+ATOM    767  SD  MET A 120      30.524  -1.109   8.482  0.00  0.00           S
+ATOM    768  CE  MET A 120      30.230  -2.857   8.145  0.00  0.00           C
+ATOM    791  OE1 GLN A 123      24.307  -4.195   7.587  0.00  0.00           O
+ATOM   1013  C   GLY A 149      35.213  -1.922   7.073  0.00  0.00           C
+ATOM   1014  O   GLY A 149      34.180  -1.278   6.909  0.00  0.00           O
+ATOM   1016  CA  VAL A 150      34.043  -3.826   8.006  0.00  0.00           C
+ATOM   2212  CA  PRO A 301      27.223   5.182   3.362  0.00  0.00           C
+ATOM   2213  C   PRO A 301      28.475   4.992   2.456  0.00  0.00           C
+ATOM   2214  O   PRO A 301      28.401   4.367   1.381  0.00  0.00           O
+ATOM   2215  CB  PRO A 301      26.801   3.874   4.032  0.00  0.00           C
+ATOM   2216  CG  PRO A 301      25.682   3.385   3.205  0.00  0.00           C
+ATOM   2220  C   THR A 302      31.281   3.969   2.191  0.00  0.00           C
+ATOM   2221  O   THR A 302      31.328   3.387   3.283  0.00  0.00           O
+ATOM   2225  N   PRO A 303      31.592   3.415   1.012  0.00  0.00           N
+ATOM   2226  CA  PRO A 303      31.638   1.961   0.785  0.00  0.00           C
+ATOM   2227  C   PRO A 303      32.649   1.204   1.645  0.00  0.00           C
+ATOM   2228  O   PRO A 303      32.522  -0.024   1.811  0.00  0.00           O
+ATOM   2232  N   GLY A 304      33.634   1.906   2.188  0.00  0.00           N
+ATOM   2233  CA  GLY A 304      34.218   1.390   3.391  0.00  0.00           C
+ATOM   2234  C   GLY A 304      35.475   0.595   3.254  0.00  0.00           C
+ATOM   2235  O   GLY A 304      35.763  -0.264   4.076  0.00  0.00           O
+ATOM   2258  CD2 LEU A 307      33.549   2.453   6.537  0.00  0.00           C

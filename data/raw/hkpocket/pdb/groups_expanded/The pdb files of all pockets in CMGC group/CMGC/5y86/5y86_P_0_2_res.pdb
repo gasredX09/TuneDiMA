@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  24.19  18.97  27.10 with max radius 5.33
+ATOM    871  C   ARG A 245      27.589  21.732  29.670  0.00  0.00           C
+ATOM    872  O   ARG A 245      27.925  21.826  28.487  0.00  0.00           O
+ATOM    873  CB  ARG A 245      27.757  19.324  30.519  0.00  0.00           C
+ATOM    875  CD  ARG A 245      28.345  16.894  30.852  0.00  0.00           C
+ATOM    880  N   PHE A 246      26.667  22.504  30.190  0.00  0.00           N
+ATOM    881  CA  PHE A 246      25.999  23.509  29.381  0.00  0.00           C
+ATOM    884  CB  PHE A 246      24.763  24.038  30.068  0.00  0.00           C
+ATOM    885  CG  PHE A 246      23.572  23.162  29.930  0.00  0.00           C
+ATOM    886  CD1 PHE A 246      22.793  23.189  28.781  0.00  0.00           C
+ATOM    887  CD2 PHE A 246      23.250  22.259  30.937  0.00  0.00           C
+ATOM    888  CE1 PHE A 246      21.673  22.346  28.658  0.00  0.00           C
+ATOM    889  CE2 PHE A 246      22.118  21.473  30.820  0.00  0.00           C
+ATOM    890  CZ  PHE A 246      21.346  21.513  29.706  0.00  0.00           C
+ATOM    916  CB  GLN A 249      27.164  22.691  25.030  0.00  0.00           C
+ATOM    917  CG  GLN A 249      27.305  21.233  25.182  0.00  0.00           C
+ATOM    918  CD  GLN A 249      28.153  20.675  24.099  0.00  0.00           C
+ATOM    920  NE2 GLN A 249      27.739  20.898  22.880  0.00  0.00           N
+ATOM   1803  O   GLY A 357      24.936  22.124  22.660  0.00  0.00           O
+ATOM   1888  CE1 TYR A 367      27.838  15.097  26.774  0.00  0.00           C
+ATOM   1889  CE2 TYR A 367      28.356  16.795  25.165  0.00  0.00           C
+ATOM   1890  CZ  TYR A 367      28.223  16.389  26.478  0.00  0.00           C
+ATOM   1891  OH  TYR A 367      28.496  17.276  27.492  0.00  0.00           O

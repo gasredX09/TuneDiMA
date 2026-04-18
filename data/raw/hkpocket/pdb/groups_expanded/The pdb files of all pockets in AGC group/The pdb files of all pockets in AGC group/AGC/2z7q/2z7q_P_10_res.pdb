@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -7.97   6.98  -2.30 with max radius 6.75
+ATOM    706  CB  GLU A 161      -9.957   2.213   0.918  0.00  0.00           C
+ATOM    707  CG  GLU A 161      -9.875   0.949   0.069  0.00  0.00           C
+ATOM    708  CD  GLU A 161      -9.175   1.164  -1.263  0.00  0.00           C
+ATOM    710  OE2 GLU A 161      -8.722   2.304  -1.532  0.00  0.00           O
+ATOM    742  CE  LYS A 165      -7.400   7.768   1.484  0.00  0.00           C
+ATOM    743  NZ  LYS A 165      -8.336   8.752   0.871  0.00  0.00           N
+ATOM   1613  CB  SER A 286      -8.946   2.081  -4.917  0.00  0.00           C
+ATOM   1614  OG  SER A 286      -7.773   2.243  -4.134  0.00  0.00           O
+ATOM   1626  CB  GLU A 288      -5.123   5.056  -5.158  0.00  0.00           C
+ATOM   1627  CG  GLU A 288      -5.614   6.228  -6.012  0.00  0.00           C
+ATOM   1628  CD  GLU A 288      -6.864   5.909  -6.810  0.00  0.00           C
+ATOM   1629  OE1 GLU A 288      -7.785   5.279  -6.251  0.00  0.00           O
+ATOM   1630  OE2 GLU A 288      -6.934   6.299  -7.994  0.00  0.00           O
+ATOM   1865  C   VAL A 319      -2.681   8.721  -3.719  0.00  0.00           C
+ATOM   1866  O   VAL A 319      -3.751   9.289  -3.494  0.00  0.00           O
+ATOM   1868  CG1 VAL A 319      -3.415   9.457  -6.504  0.00  0.00           C
+ATOM   1871  CA  PHE A 320      -3.248   6.926  -2.183  0.00  0.00           C
+ATOM   1872  C   PHE A 320      -3.577   7.846  -1.011  0.00  0.00           C
+ATOM   1873  O   PHE A 320      -4.680   7.798  -0.474  0.00  0.00           O
+ATOM   1874  CB  PHE A 320      -2.636   5.622  -1.652  0.00  0.00           C
+ATOM   1875  CG  PHE A 320      -3.555   4.848  -0.743  0.00  0.00           C
+ATOM   1876  CD1 PHE A 320      -4.665   4.197  -1.248  0.00  0.00           C
+ATOM   1878  CE1 PHE A 320      -5.523   3.507  -0.409  0.00  0.00           C
+ATOM   1880  CZ  PHE A 320      -5.274   3.463   0.954  0.00  0.00           C
+ATOM   1897  CB  SER A 322      -4.741  12.434  -2.994  0.00  0.00           C
+ATOM   1898  OG  SER A 322      -3.874  11.931  -3.994  0.00  0.00           O
+ATOM   1899  N   THR A 323      -5.965  12.752  -0.190  0.00  0.00           N
+ATOM   1905  CG2 THR A 323      -8.798  12.538  -0.684  0.00  0.00           C

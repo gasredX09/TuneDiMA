@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  32.75   4.39  42.72 with max radius 6.70
+ATOM    428  C   LYS A 383      30.187   3.795  36.880  0.00  0.00           C
+ATOM    429  O   LYS A 383      30.051   3.646  38.086  0.00  0.00           O
+ATOM    430  CB  LYS A 383      32.176   5.096  36.119  0.00  0.00           C
+ATOM    431  CG  LYS A 383      32.375   5.806  37.472  0.00  0.00           C
+ATOM    432  CD  LYS A 383      33.491   6.858  37.416  0.00  0.00           C
+ATOM    452  CA  LYS A 386      30.407   0.128  39.594  0.00  0.00           C
+ATOM    453  C   LYS A 386      29.848   0.896  40.784  0.00  0.00           C
+ATOM    454  O   LYS A 386      29.766   0.340  41.903  0.00  0.00           O
+ATOM    455  CB  LYS A 386      31.873   0.550  39.366  0.00  0.00           C
+ATOM    456  CG  LYS A 386      32.647  -0.381  38.469  0.00  0.00           C
+ATOM    457  CD  LYS A 386      33.601  -1.277  39.250  0.00  0.00           C
+ATOM    460  N   VAL A 387      29.482   2.171  40.575  0.00  0.00           N
+ATOM    461  CA  VAL A 387      28.945   2.983  41.633  0.00  0.00           C
+ATOM    462  C   VAL A 387      27.568   2.468  42.042  0.00  0.00           C
+ATOM    463  O   VAL A 387      27.308   2.237  43.209  0.00  0.00           O
+ATOM    464  CB  VAL A 387      28.801   4.492  41.229  0.00  0.00           C
+ATOM    465  CG1 VAL A 387      27.976   5.259  42.259  0.00  0.00           C
+ATOM    466  CG2 VAL A 387      30.145   5.111  41.132  0.00  0.00           C
+ATOM    496  CB  CYS A 390      28.756   0.235  45.809  0.00  0.00           C
+ATOM    498  SG  CYS A 390      30.017  -0.750  45.036  0.00  0.00           S
+ATOM   1038  CA  ILE A 456      31.435   9.687  46.300  0.00  0.00           C
+ATOM   1041  CB  ILE A 456      30.455   8.640  45.742  0.00  0.00           C
+ATOM   1042  CG1 ILE A 456      31.044   7.237  45.859  0.00  0.00           C
+ATOM   1043  CG2 ILE A 456      30.066   8.985  44.309  0.00  0.00           C
+ATOM   1044  CD1 ILE A 456      30.011   6.167  45.753  0.00  0.00           C
+ATOM   1246  CA  ALA A 482      31.019  10.414  39.940  0.00  0.00           C
+ATOM   1247  C   ALA A 482      32.517  10.233  40.131  0.00  0.00           C
+ATOM   1248  O   ALA A 482      33.183   9.620  39.289  0.00  0.00           O
+ATOM   1249  CB  ALA A 482      30.252   9.285  40.635  0.00  0.00           C
+ATOM   1250  N   ARG A 483      33.059  10.785  41.215  0.00  0.00           N
+ATOM   1251  CA  ARG A 483      34.464  10.535  41.589  0.00  0.00           C
+ATOM   1252  C   ARG A 483      34.502  10.016  43.028  0.00  0.00           C
+ATOM   1253  O   ARG A 483      33.752  10.480  43.882  0.00  0.00           O
+ATOM   1261  N   LEU A 484      35.370   9.051  43.297  0.00  0.00           N
+ATOM   1262  CA  LEU A 484      35.644   8.636  44.658  0.00  0.00           C
+ATOM   1265  CB  LEU A 484      36.232   7.221  44.675  0.00  0.00           C
+ATOM   1266  CG  LEU A 484      36.510   6.556  46.027  0.00  0.00           C
+ATOM   1267  CD1 LEU A 484      35.209   6.303  46.777  0.00  0.00           C
+ATOM   1268  CD2 LEU A 484      37.291   5.228  45.853  0.00  0.00           C

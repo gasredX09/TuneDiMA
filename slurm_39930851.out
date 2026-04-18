@@ -1,0 +1,44 @@
+Running on: w002.ib.bridges2.psc.edu
+Job ID: 39930851
+Python: /jet/home/mjaju/miniconda3/envs/nn/bin/python
+PWD: /ocean/projects/cis260039p/mjaju
+✅ Training manifest exists: /ocean/projects/cis260039p/mjaju/projects/data/processed/training_manifest.csv
+Loading training records from training_manifest.csv...
+   Total records: 9348
+
+Splitting data with randomization...
+   Train: 6543 (70.0%)
+   Valid: 1402 (15.0%) [randomized]
+   Test:  1403 (15.0%)
+
+Creating datasets...
+Building LigandPocketNet model...
+   Device: cuda
+   Model parameters: 2,480,129
+
+Validating data-model dimensions...
+✓ Ligand node features shape: torch.Size([2, 16])
+✓ Ligand edges: torch.Size([2, 2])
+✓ Pocket node features shape: torch.Size([280, 25])
+✓ Pocket edges: torch.Size([2, 2658])
+✓ Interaction node features shape: torch.Size([282, 25])
+✓ Label shape: torch.Size([1])
+✓ Model output shape: torch.Size([1])
+✓ All dimensions validated!
+
+✓ Ligand node features shape: torch.Size([2, 16])
+✓ Ligand edges: torch.Size([2, 2])
+✓ Pocket node features shape: torch.Size([275, 25])
+✓ Pocket edges: torch.Size([2, 2612])
+✓ Interaction node features shape: torch.Size([277, 25])
+✓ Label shape: torch.Size([1])
+✓ Model output shape: torch.Size([1])
+✓ All dimensions validated!
+
+Starting training...
+   Epochs: 50
+   Batch size: 16
+   Learning rate: 0.001
+   Checkpoint: /ocean/projects/cis260039p/mjaju/projects/checkpoints/model_epoch_best_20260418_192111.pt
+   Log: /ocean/projects/cis260039p/mjaju/projects/checkpoints/training_log_20260418_192111.txt
+

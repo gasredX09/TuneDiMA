@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -65.57  44.97  23.93 with max radius 7.91
+ATOM   5387  CB  LEU C  80     -72.724  44.023  28.050  0.00  0.00           C
+ATOM   5389  CD1 LEU C  80     -70.548  44.089  29.273  0.00  0.00           C
+ATOM   5431  CB  LEU C  85     -73.554  48.892  23.979  0.00  0.00           C
+ATOM   5432  CG  LEU C  85     -73.218  48.123  25.264  0.00  0.00           C
+ATOM   5433  CD1 LEU C  85     -72.442  46.847  24.947  0.00  0.00           C
+ATOM   5434  CD2 LEU C  85     -72.453  49.000  26.263  0.00  0.00           C
+ATOM   5485  CA  GLU C  92     -68.992  50.056  23.316  0.00  0.00           C
+ATOM   5486  C   GLU C  92     -67.508  50.336  23.540  0.00  0.00           C
+ATOM   5487  O   GLU C  92     -66.739  49.417  23.821  0.00  0.00           O
+ATOM   5488  CB  GLU C  92     -69.278  49.728  21.849  0.00  0.00           C
+ATOM   5489  CG  GLU C  92     -70.695  50.082  21.409  0.00  0.00           C
+ATOM   5490  CD  GLU C  92     -71.295  49.067  20.458  0.00  0.00           C
+ATOM   5491  OE1 GLU C  92     -71.301  47.863  20.796  0.00  0.00           O
+ATOM   5507  CA  VAL C  95     -66.651  48.965  27.927  0.00  0.00           C
+ATOM   5508  C   VAL C  95     -65.322  48.340  27.492  0.00  0.00           C
+ATOM   5509  O   VAL C  95     -64.654  47.675  28.288  0.00  0.00           O
+ATOM   5510  CB  VAL C  95     -67.864  48.112  27.471  0.00  0.00           C
+ATOM   5511  CG1 VAL C  95     -67.694  46.655  27.862  0.00  0.00           C
+ATOM   5512  CG2 VAL C  95     -69.140  48.660  28.077  0.00  0.00           C
+ATOM   5513  N   LYS C  96     -64.944  48.571  26.236  0.00  0.00           N
+ATOM   5514  CA  LYS C  96     -63.629  48.191  25.728  0.00  0.00           C
+ATOM   5515  C   LYS C  96     -62.558  48.624  26.737  0.00  0.00           C
+ATOM   5516  O   LYS C  96     -61.740  47.809  27.167  0.00  0.00           O
+ATOM   5517  CB  LYS C  96     -63.391  48.853  24.363  0.00  0.00           C
+ATOM   5518  CG  LYS C  96     -62.594  48.036  23.349  0.00  0.00           C
+ATOM   5519  CD  LYS C  96     -62.551  48.770  21.996  0.00  0.00           C
+ATOM   5520  CE  LYS C  96     -61.898  47.940  20.885  0.00  0.00           C
+ATOM   5544  CB  ILE C  99     -62.595  44.784  28.960  0.00  0.00           C
+ATOM   5545  CG1 ILE C  99     -64.094  44.535  29.121  0.00  0.00           C
+ATOM   5546  CG2 ILE C  99     -61.887  43.458  28.683  0.00  0.00           C
+ATOM   5547  CD1 ILE C  99     -64.814  44.276  27.848  0.00  0.00           C
+ATOM   5553  CG  GLN C 100     -58.595  46.940  26.802  0.00  0.00           C
+ATOM   5554  CD  GLN C 100     -58.283  47.805  25.577  0.00  0.00           C
+ATOM   5556  NE2 GLN C 100     -58.340  47.189  24.395  0.00  0.00           N
+ATOM   5581  CZ  ARG C 103     -59.789  40.814  27.572  0.00  0.00           C
+ATOM   5582  NH1 ARG C 103     -59.091  41.237  26.530  0.00  0.00           N
+ATOM   5583  NH2 ARG C 103     -60.909  40.130  27.377  0.00  0.00           N
+ATOM   5692  CB  VAL C 116     -64.479  39.081  28.178  0.00  0.00           C
+ATOM   5693  CG1 VAL C 116     -65.421  39.674  27.135  0.00  0.00           C
+ATOM   5694  CG2 VAL C 116     -64.163  40.123  29.248  0.00  0.00           C
+ATOM   5711  CE1 TYR C 118     -67.230  40.275  23.178  0.00  0.00           C
+ATOM   5713  CZ  TYR C 118     -65.947  39.952  23.597  0.00  0.00           C
+ATOM   5714  OH  TYR C 118     -65.084  40.945  23.998  0.00  0.00           O
+ATOM   5745  CB  MET C 125     -70.894  41.165  25.186  0.00  0.00           C
+ATOM   5746  CG  MET C 125     -69.620  41.492  25.927  0.00  0.00           C
+ATOM   5747  SD  MET C 125     -68.881  43.031  25.345  0.00  0.00           S
+ATOM   5748  CE  MET C 125     -67.584  43.182  26.556  0.00  0.00           C

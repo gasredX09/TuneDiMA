@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  47.03 -10.09 -69.34 with max radius 6.22
+ATOM   3013  N   ARG A 404      51.243  -8.517 -69.284  0.00  0.00           N
+ATOM   3014  CA  ARG A 404      52.141  -7.712 -68.456  0.00  0.00           C
+ATOM   3016  O   ARG A 404      51.046  -8.417 -66.412  0.00  0.00           O
+ATOM   3017  CB  ARG A 404      51.823  -6.206 -68.562  0.00  0.00           C
+ATOM   3321  CB  LEU A 440      44.548  -4.988 -69.876  0.00  0.00           C
+ATOM   3322  CG  LEU A 440      45.080  -6.191 -69.068  0.00  0.00           C
+ATOM   3323  CD1 LEU A 440      46.351  -5.904 -68.303  0.00  0.00           C
+ATOM   3324  CD2 LEU A 440      44.042  -6.703 -68.123  0.00  0.00           C
+ATOM   4501  CA  ILE A 598      42.690 -10.312 -68.144  0.00  0.00           C
+ATOM   4502  C   ILE A 598      42.134 -11.344 -69.141  0.00  0.00           C
+ATOM   4503  O   ILE A 598      42.696 -11.523 -70.226  0.00  0.00           O
+ATOM   4504  CB  ILE A 598      43.366 -10.984 -66.918  0.00  0.00           C
+ATOM   4505  CG1 ILE A 598      44.185  -9.959 -66.104  0.00  0.00           C
+ATOM   4506  CG2 ILE A 598      44.248 -12.160 -67.366  0.00  0.00           C
+ATOM   4507  CD1 ILE A 598      44.456 -10.343 -64.629  0.00  0.00           C
+ATOM   4525  C   PHE A 601      42.881 -10.411 -73.922  0.00  0.00           C
+ATOM   4527  CB  PHE A 601      43.461  -8.816 -72.090  0.00  0.00           C
+ATOM   4528  CG  PHE A 601      44.841  -8.597 -72.665  0.00  0.00           C
+ATOM   4529  CD1 PHE A 601      45.249  -7.333 -73.070  0.00  0.00           C
+ATOM   4530  CD2 PHE A 601      45.748  -9.650 -72.766  0.00  0.00           C
+ATOM   4531  CE1 PHE A 601      46.533  -7.128 -73.585  0.00  0.00           C
+ATOM   4532  CE2 PHE A 601      47.024  -9.448 -73.304  0.00  0.00           C
+ATOM   4533  CZ  PHE A 601      47.410  -8.187 -73.700  0.00  0.00           C
+ATOM   4534  N   GLU A 602      43.157 -11.573 -73.291  0.00  0.00           N
+ATOM   4535  CA  GLU A 602      43.723 -12.741 -73.978  0.00  0.00           C
+ATOM   4538  CB  GLU A 602      44.167 -13.849 -73.008  0.00  0.00           C
+ATOM   4539  CG  GLU A 602      43.222 -14.225 -71.875  0.00  0.00           C
+ATOM   4540  CD  GLU A 602      43.899 -15.023 -70.768  0.00  0.00           C
+ATOM   4541  OE1 GLU A 602      45.003 -14.623 -70.326  0.00  0.00           O

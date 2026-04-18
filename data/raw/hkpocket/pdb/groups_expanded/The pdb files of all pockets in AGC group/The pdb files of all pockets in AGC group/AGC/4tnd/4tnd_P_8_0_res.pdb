@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.37 -25.02   9.99 with max radius 5.57
+ATOM   1837  C   GLU A 239      19.180 -28.849  12.452  0.00  0.00           C
+ATOM   1838  O   GLU A 239      18.918 -27.653  12.527  0.00  0.00           O
+ATOM   1839  CB  GLU A 239      21.303 -29.549  11.276  0.00  0.00           C
+ATOM   1840  CG  GLU A 239      21.380 -28.347  10.403  0.00  0.00           C
+ATOM   1845  CA  LYS A 240      16.854 -29.353  11.936  0.00  0.00           C
+ATOM   1846  C   LYS A 240      15.960 -29.117  13.160  0.00  0.00           C
+ATOM   1847  O   LYS A 240      14.889 -28.520  13.050  0.00  0.00           O
+ATOM   1848  CB  LYS A 240      16.182 -30.390  11.042  0.00  0.00           C
+ATOM   1850  CD  LYS A 240      17.055 -29.221   8.960  0.00  0.00           C
+ATOM   1851  CE  LYS A 240      17.346 -29.411   7.463  0.00  0.00           C
+ATOM   1852  NZ  LYS A 240      18.162 -28.293   6.921  0.00  0.00           N
+ATOM   1865  CG  ASN A 242      16.566 -24.914  15.414  0.00  0.00           C
+ATOM   1866  OD1 ASN A 242      16.105 -25.050  14.277  0.00  0.00           O
+ATOM   1867  ND2 ASN A 242      17.868 -24.868  15.657  0.00  0.00           N
+ATOM   3996  C   VAL A 507      23.758 -22.664  11.831  0.00  0.00           C
+ATOM   3999  CG1 VAL A 507      22.580 -25.411  12.314  0.00  0.00           C
+ATOM   4001  N   SER A 508      22.879 -22.263  10.917  0.00  0.00           N
+ATOM   4002  CA  SER A 508      22.363 -20.881  10.897  0.00  0.00           C
+ATOM   4005  CB  SER A 508      21.356 -20.719   9.761  0.00  0.00           C
+ATOM   4006  OG  SER A 508      21.969 -21.023   8.530  0.00  0.00           O
+ATOM   4007  N   ILE A 509      20.715 -21.128  12.658  0.00  0.00           N
+ATOM   4011  CB  ILE A 509      18.625 -21.429  13.906  0.00  0.00           C
+ATOM   4012  CG1 ILE A 509      17.742 -21.139  12.667  0.00  0.00           C
+ATOM   4014  CD1 ILE A 509      16.519 -22.043  12.525  0.00  0.00           C
+ATOM   4021  CD  PRO A 510      21.432 -23.064  14.925  0.00  0.00           C

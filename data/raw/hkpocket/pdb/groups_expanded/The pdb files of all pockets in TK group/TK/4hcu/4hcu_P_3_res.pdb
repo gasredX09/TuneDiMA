@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -4.70  19.75  27.80 with max radius 7.62
+ATOM     39  CA  PRO A 360      -8.751  18.613  30.080  0.00  0.00           C
+ATOM     40  C   PRO A 360      -9.004  17.927  31.416  0.00  0.00           C
+ATOM     41  O   PRO A 360      -8.134  17.194  31.888  0.00  0.00           O
+ATOM     42  CB  PRO A 360      -8.252  20.047  30.289  0.00  0.00           C
+ATOM     43  CG  PRO A 360      -8.799  20.811  29.115  0.00  0.00           C
+ATOM     44  CD  PRO A 360     -10.127  20.180  28.798  0.00  0.00           C
+ATOM     63  O   LEU A 363      -6.385  14.791  33.342  0.00  0.00           O
+ATOM     64  CB  LEU A 363      -6.469  13.949  30.341  0.00  0.00           C
+ATOM     65  CG  LEU A 363      -7.122  13.611  28.993  0.00  0.00           C
+ATOM     66  CD1 LEU A 363      -6.471  14.432  27.866  0.00  0.00           C
+ATOM     84  CE2 PHE A 365      -2.461  16.096  30.911  0.00  0.00           C
+ATOM     85  CZ  PHE A 365      -1.960  15.918  29.644  0.00  0.00           C
+ATOM    297  CG2 THR A 392       0.924  17.334  26.231  0.00  0.00           C
+ATOM    554  CA  CYS A 425      -8.012  17.600  23.955  0.00  0.00           C
+ATOM    555  C   CYS A 425      -7.485  18.913  23.355  0.00  0.00           C
+ATOM    556  O   CYS A 425      -6.276  19.102  23.216  0.00  0.00           O
+ATOM    557  CB  CYS A 425      -7.317  17.219  25.258  0.00  0.00           C
+ATOM    558  SG  CYS A 425      -7.558  18.413  26.576  0.00  0.00           S
+ATOM    559  N   LEU A 426      -8.412  19.805  22.962  0.00  0.00           N
+ATOM    560  CA  LEU A 426      -8.072  21.017  22.209  0.00  0.00           C
+ATOM    561  C   LEU A 426      -8.450  22.325  22.874  0.00  0.00           C
+ATOM    567  N   GLU A 427      -8.884  22.288  24.146  0.00  0.00           N
+ATOM    568  CA  GLU A 427      -9.313  23.498  24.858  0.00  0.00           C
+ATOM    569  C   GLU A 427      -8.213  24.559  24.948  0.00  0.00           C
+ATOM    571  CB  GLU A 427      -9.821  23.118  26.249  0.00  0.00           C
+ATOM    576  N   GLN A 428      -6.992  24.131  25.230  0.00  0.00           N
+ATOM    577  CA  GLN A 428      -5.869  25.055  25.337  0.00  0.00           C
+ATOM    578  C   GLN A 428      -4.641  24.486  24.671  0.00  0.00           C
+ATOM    579  O   GLN A 428      -4.521  23.264  24.550  0.00  0.00           O
+ATOM    580  CB  GLN A 428      -5.588  25.427  26.815  0.00  0.00           C
+ATOM    581  CG  GLN A 428      -5.544  24.250  27.791  0.00  0.00           C
+ATOM    582  CD  GLN A 428      -6.104  24.615  29.147  0.00  0.00           C
+ATOM    584  NE2 GLN A 428      -7.184  23.954  29.540  0.00  0.00           N
+ATOM    587  C   ALA A 429      -1.540  24.593  24.761  0.00  0.00           C
+ATOM    590  N   PRO A 430      -0.757  23.493  24.668  0.00  0.00           N
+ATOM    591  CA  PRO A 430      -0.635  22.594  23.518  0.00  0.00           C
+ATOM    592  C   PRO A 430      -1.801  21.626  23.455  0.00  0.00           C
+ATOM    593  O   PRO A 430      -2.307  21.168  24.486  0.00  0.00           O
+ATOM    594  CB  PRO A 430       0.704  21.885  23.770  0.00  0.00           C
+ATOM    595  CG  PRO A 430       0.850  21.856  25.258  0.00  0.00           C
+ATOM    596  CD  PRO A 430       0.134  23.087  25.779  0.00  0.00           C
+ATOM    598  CA  ILE A 431      -3.293  20.344  22.096  0.00  0.00           C
+ATOM    599  C   ILE A 431      -2.737  18.946  22.419  0.00  0.00           C
+ATOM    605  N   CYS A 432      -3.605  18.055  22.891  0.00  0.00           N
+ATOM    606  CA  CYS A 432      -3.227  16.681  23.238  0.00  0.00           C
+ATOM    609  CB  CYS A 432      -3.549  16.359  24.699  0.00  0.00           C
+ATOM    610  SG  CYS A 432      -2.778  17.442  25.919  0.00  0.00           S

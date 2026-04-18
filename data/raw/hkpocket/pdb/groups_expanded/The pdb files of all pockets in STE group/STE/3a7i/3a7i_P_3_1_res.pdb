@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   4.72  10.17  -4.82 with max radius 5.74
+ATOM    810  CA  PRO A 115       0.714   9.454  -1.242  0.00  0.00           C
+ATOM    811  C   PRO A 115       0.427  10.804  -1.822  0.00  0.00           C
+ATOM    813  CB  PRO A 115       1.301   8.523  -2.337  0.00  0.00           C
+ATOM    814  CG  PRO A 115       0.913   7.148  -1.862  0.00  0.00           C
+ATOM    816  N   LEU A 116       1.446  11.656  -1.732  0.00  0.00           N
+ATOM    817  CA  LEU A 116       1.420  12.968  -2.360  0.00  0.00           C
+ATOM    818  C   LEU A 116       2.026  12.824  -3.722  0.00  0.00           C
+ATOM    819  O   LEU A 116       2.752  11.837  -3.983  0.00  0.00           O
+ATOM    825  CA  ASP A 117       2.399  13.769  -5.897  0.00  0.00           C
+ATOM    826  C   ASP A 117       3.594  14.742  -5.818  0.00  0.00           C
+ATOM    828  CB  ASP A 117       1.419  14.098  -7.072  0.00  0.00           C
+ATOM    832  N   GLU A 118       4.496  14.725  -6.790  0.00  0.00           N
+ATOM    837  CG  GLU A 118       7.220  13.781  -7.549  0.00  0.00           C
+ATOM    840  OE2 GLU A 118       8.820  12.236  -8.265  0.00  0.00           O
+ATOM    864  CD1 ILE A 121       6.448  13.877  -3.022  0.00  0.00           C
+ATOM   1585  CA  ALA A 213       7.536  11.164  -0.560  0.00  0.00           C
+ATOM   1586  C   ALA A 213       7.079   9.736  -0.287  0.00  0.00           C
+ATOM   1587  O   ALA A 213       6.357   9.119  -1.108  0.00  0.00           O
+ATOM   1588  CB  ALA A 213       8.905  11.122  -1.244  0.00  0.00           C
+ATOM   1825  CD2 TYR A 243       9.020   9.678  -5.337  0.00  0.00           C
+ATOM   1827  CE2 TYR A 243       8.144   9.089  -4.439  0.00  0.00           C
+ATOM   1828  CZ  TYR A 243       8.518   7.918  -3.802  0.00  0.00           C
+ATOM   1829  OH  TYR A 243       7.605   7.241  -3.004  0.00  0.00           O

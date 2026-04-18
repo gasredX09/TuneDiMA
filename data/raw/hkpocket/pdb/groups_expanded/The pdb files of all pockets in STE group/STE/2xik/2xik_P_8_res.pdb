@@ -1,0 +1,49 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 43 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -26.38 -16.79   1.44 with max radius 6.06
+ATOM   1291  CD  LYS A 171     -22.931 -19.965   3.830  0.00  0.00           C
+ATOM   1292  CE  LYS A 171     -24.414 -20.234   3.876  0.00  0.00           C
+ATOM   1293  NZ  LYS A 171     -25.105 -19.610   2.719  0.00  0.00           N
+ATOM   1409  CB  GLU A 185     -22.999 -10.998   3.486  0.00  0.00           C
+ATOM   1410  CG  GLU A 185     -22.794 -11.736   2.166  0.00  0.00           C
+ATOM   1411  CD  GLU A 185     -23.525 -11.290   0.909  0.00  0.00           C
+ATOM   1413  OE2 GLU A 185     -23.585 -12.109  -0.033  0.00  0.00           O
+ATOM   1453  C   ALA A 191     -21.683 -15.993   5.263  0.00  0.00           C
+ATOM   1454  O   ALA A 191     -22.832 -15.577   5.148  0.00  0.00           O
+ATOM   1457  CA  TYR A 192     -21.346 -16.042   2.815  0.00  0.00           C
+ATOM   1458  C   TYR A 192     -20.997 -17.200   1.877  0.00  0.00           C
+ATOM   1460  CB  TYR A 192     -20.855 -14.695   2.245  0.00  0.00           C
+ATOM   1468  N   ASP A 193     -21.666 -17.277   0.718  0.00  0.00           N
+ATOM   1469  CA  ASP A 193     -21.422 -18.349  -0.252  0.00  0.00           C
+ATOM   1470  C   ASP A 193     -21.360 -17.797  -1.687  0.00  0.00           C
+ATOM   1471  O   ASP A 193     -20.998 -16.630  -1.863  0.00  0.00           O
+ATOM   1472  CB  ASP A 193     -22.464 -19.495  -0.077  0.00  0.00           C
+ATOM   1473  CG  ASP A 193     -23.910 -19.086  -0.366  0.00  0.00           C
+ATOM   1474  OD1 ASP A 193     -24.135 -17.918  -0.816  0.00  0.00           O
+ATOM   1475  OD2 ASP A 193     -24.811 -19.898  -0.108  0.00  0.00           O
+ATOM   1476  N   PHE A 194     -21.763 -18.614  -2.690  0.00  0.00           N
+ATOM   1480  C   PHE A 194     -22.560 -17.001  -4.413  0.00  0.00           C
+ATOM   1498  N   LYS A 195     -23.540 -16.654  -3.554  0.00  0.00           N
+ATOM   1499  CA  LYS A 195     -24.372 -15.445  -3.704  0.00  0.00           C
+ATOM   1500  C   LYS A 195     -23.570 -14.146  -3.717  0.00  0.00           C
+ATOM   1502  CB  LYS A 195     -25.530 -15.406  -2.690  0.00  0.00           C
+ATOM   1503  CG  LYS A 195     -26.527 -16.561  -2.798  0.00  0.00           C
+ATOM   1504  CD  LYS A 195     -27.255 -16.654  -4.181  0.00  0.00           C
+ATOM   1505  CE  LYS A 195     -28.378 -17.682  -4.227  0.00  0.00           C
+ATOM   1506  NZ  LYS A 195     -29.396 -17.430  -3.176  0.00  0.00           N
+ATOM   1507  N   ALA A 196     -22.352 -14.149  -3.136  0.00  0.00           N
+ATOM   1508  CA  ALA A 196     -21.435 -13.001  -3.163  0.00  0.00           C
+ATOM   1511  CB  ALA A 196     -20.197 -13.292  -2.311  0.00  0.00           C
+ATOM   1965  C   PRO A 255     -29.500 -14.156  -0.828  0.00  0.00           C
+ATOM   1967  O   PRO A 255     -29.427 -14.672  -1.943  0.00  0.00           O
+ATOM   1969  CB  PRO A 255     -27.270 -13.615   0.224  0.00  0.00           C
+ATOM   1971  CG  PRO A 255     -27.483 -13.380   1.676  0.00  0.00           C
+ATOM   1973  CD  PRO A 255     -28.184 -12.042   1.731  0.00  0.00           C
+ATOM   1975  N   ARG A 256     -30.411 -14.517   0.097  0.00  0.00           N
+ATOM   1976  CA  ARG A 256     -31.416 -15.576  -0.116  0.00  0.00           C
+ATOM   1979  CB  ARG A 256     -32.337 -15.726   1.108  0.00  0.00           C
+ATOM   1980  CG  ARG A 256     -31.649 -16.125   2.415  0.00  0.00           C
+ATOM   2006  NH1 ARG A 258     -25.028 -11.401  -2.299  0.00  0.00           N

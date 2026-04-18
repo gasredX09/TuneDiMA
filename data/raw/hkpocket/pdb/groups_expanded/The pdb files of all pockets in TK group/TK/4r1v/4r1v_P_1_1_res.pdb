@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at 110.45  12.51 143.22 with max radius 5.34
+ATOM    851  CB  ASP A1164     110.624  17.554 144.905  0.00  0.00           C
+ATOM    852  CG  ASP A1164     111.603  16.440 144.662  0.00  0.00           C
+ATOM    853  OD1 ASP A1164     112.256  16.508 143.592  0.00  0.00           O
+ATOM    854  OD2 ASP A1164     111.686  15.502 145.478  0.00  0.00           O
+ATOM    867  CB  ARG A1166     111.931  13.500 148.347  0.00  0.00           C
+ATOM    868  CG  ARG A1166     112.498  12.141 148.754  0.00  0.00           C
+ATOM    869  CD  ARG A1166     111.863  10.956 148.057  0.00  0.00           C
+ATOM    871  CZ  ARG A1166     112.650   8.600 147.784  0.00  0.00           C
+ATOM    872  NH1 ARG A1166     112.244   8.550 146.516  0.00  0.00           N
+ATOM    879  CG  ASN A1167     114.999  14.369 143.889  0.00  0.00           C
+ATOM    880  OD1 ASN A1167     115.682  13.335 143.852  0.00  0.00           O
+ATOM    881  ND2 ASN A1167     113.879  14.516 143.181  0.00  0.00           N
+ATOM   1212  CA  ARG A1208     108.256  14.441 146.820  0.00  0.00           C
+ATOM   1213  C   ARG A1208     107.313  15.521 146.296  0.00  0.00           C
+ATOM   1214  O   ARG A1208     107.492  15.980 145.171  0.00  0.00           O
+ATOM   1215  CB  ARG A1208     107.972  13.123 146.079  0.00  0.00           C
+ATOM   1216  CG  ARG A1208     106.551  12.568 146.276  0.00  0.00           C
+ATOM   1217  CD  ARG A1208     106.214  11.290 145.447  0.00  0.00           C
+ATOM   1396  CA  TYR A1230     105.543  12.988 139.997  0.00  0.00           C
+ATOM   1397  C   TYR A1230     106.575  11.898 140.246  0.00  0.00           C
+ATOM   1398  O   TYR A1230     107.691  12.010 139.768  0.00  0.00           O
+ATOM   1399  CB  TYR A1230     105.927  14.272 140.737  0.00  0.00           C
+ATOM   1407  N   ASP A1231     106.221  10.872 141.017  0.00  0.00           N
+ATOM   1408  CA  ASP A1231     107.049   9.658 141.113  0.00  0.00           C
+ATOM   1411  CB  ASP A1231     107.946   9.670 142.352  0.00  0.00           C
+ATOM   1412  CG  ASP A1231     108.937   8.520 142.368  0.00  0.00           C
+ATOM   1414  OD2 ASP A1231     109.957   8.612 143.092  0.00  0.00           O
+ATOM   1441  CE1 TYR A1234     108.884   6.703 145.688  0.00  0.00           C

@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.36  72.05  30.01 with max radius 5.36
+ATOM    270  CA  GLY A 981       2.488  72.747  30.165  0.00  0.00           C
+ATOM    273  N   MET A 982       1.198  72.689  32.204  0.00  0.00           N
+ATOM    277  CB  MET A 982      -0.467  72.871  33.975  0.00  0.00           C
+ATOM    296  CE1 TYR A 984      -2.754  70.031  34.622  0.00  0.00           C
+ATOM    298  CZ  TYR A 984      -3.750  70.800  35.208  0.00  0.00           C
+ATOM    299  OH  TYR A 984      -4.333  71.829  34.505  0.00  0.00           O
+ATOM    445  CB  THR A1004      -0.926  68.619  30.563  0.00  0.00           C
+ATOM    446  OG1 THR A1004      -0.631  69.973  30.936  0.00  0.00           O
+ATOM    447  CG2 THR A1004      -1.500  67.893  31.774  0.00  0.00           C
+ATOM    448  N   VAL A1005       0.406  68.968  27.900  0.00  0.00           N
+ATOM    449  CA  VAL A1005       0.896  69.854  26.858  0.00  0.00           C
+ATOM    450  C   VAL A1005      -0.135  70.964  26.733  0.00  0.00           C
+ATOM    451  O   VAL A1005      -1.328  70.692  26.586  0.00  0.00           O
+ATOM    455  N   ASN A1006       0.322  72.208  26.802  0.00  0.00           N
+ATOM    456  CA  ASN A1006      -0.579  73.344  26.700  0.00  0.00           C
+ATOM    457  C   ASN A1006      -1.450  73.198  25.457  0.00  0.00           C
+ATOM    459  CB  ASN A1006       0.215  74.649  26.634  0.00  0.00           C
+ATOM    460  CG  ASN A1006      -0.669  75.871  26.763  0.00  0.00           C
+ATOM    462  ND2 ASN A1006      -0.447  76.654  27.814  0.00  0.00           N
+ATOM    463  N   GLU A1007      -2.746  73.418  25.637  0.00  0.00           N
+ATOM    464  CA  GLU A1007      -3.724  73.314  24.561  0.00  0.00           C
+ATOM    467  CB  GLU A1007      -5.100  73.721  25.095  0.00  0.00           C
+ATOM    756  N   PRO A1044      -6.147  67.245  27.041  0.00  0.00           N
+ATOM    757  CA  PRO A1044      -4.798  67.458  26.511  0.00  0.00           C
+ATOM    760  CB  PRO A1044      -4.214  68.476  27.481  0.00  0.00           C
+ATOM    761  CG  PRO A1044      -4.817  68.044  28.788  0.00  0.00           C
+ATOM    762  CD  PRO A1044      -6.263  67.771  28.413  0.00  0.00           C

@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -9.89 -61.57  18.09 with max radius 9.20
+ATOM   1852  CA  LEU A 241     -14.733 -62.920  21.341  0.00  0.00           C
+ATOM   1853  C   LEU A 241     -13.583 -63.924  21.387  0.00  0.00           C
+ATOM   1854  O   LEU A 241     -12.973 -64.197  20.359  0.00  0.00           O
+ATOM   1855  CB  LEU A 241     -14.202 -61.486  21.194  0.00  0.00           C
+ATOM   1856  CG  LEU A 241     -15.207 -60.341  20.987  0.00  0.00           C
+ATOM   1857  CD1 LEU A 241     -14.487 -59.046  20.594  0.00  0.00           C
+ATOM   1858  CD2 LEU A 241     -16.281 -60.689  19.942  0.00  0.00           C
+ATOM   1860  CA  GLY A 242     -12.206 -65.406  22.758  0.00  0.00           C
+ATOM   1861  C   GLY A 242     -10.921 -64.725  23.196  0.00  0.00           C
+ATOM   1862  O   GLY A 242     -10.671 -63.558  22.866  0.00  0.00           O
+ATOM   1865  C   THR A 243      -7.981 -64.583  23.097  0.00  0.00           C
+ATOM   1866  O   THR A 243      -7.985 -65.285  22.083  0.00  0.00           O
+ATOM   1870  N   PRO A 244      -7.313 -63.410  23.162  0.00  0.00           N
+ATOM   1871  CA  PRO A 244      -6.518 -62.992  22.016  0.00  0.00           C
+ATOM   1872  C   PRO A 244      -5.192 -63.757  21.979  0.00  0.00           C
+ATOM   1874  CB  PRO A 244      -6.294 -61.498  22.272  0.00  0.00           C
+ATOM   1877  N   SER A 245      -4.374 -63.493  20.964  0.00  0.00           N
+ATOM   1878  CA  SER A 245      -3.154 -64.264  20.709  0.00  0.00           C
+ATOM   1881  CB  SER A 245      -2.578 -63.909  19.330  0.00  0.00           C
+ATOM   1882  OG  SER A 245      -1.833 -62.700  19.371  0.00  0.00           O
+ATOM   2084  CD1 PHE A 271     -17.915 -62.775  15.303  0.00  0.00           C
+ATOM   2086  CE1 PHE A 271     -17.082 -61.904  16.012  0.00  0.00           C
+ATOM   2088  CZ  PHE A 271     -17.552 -60.639  16.372  0.00  0.00           C
+ATOM   2304  CA  SER A 299     -17.175 -59.392  12.899  0.00  0.00           C
+ATOM   2306  O   SER A 299     -14.789 -59.146  13.005  0.00  0.00           O
+ATOM   2328  C   LEU A 302     -14.347 -57.136  17.206  0.00  0.00           C
+ATOM   2329  O   LEU A 302     -14.484 -58.349  17.323  0.00  0.00           O
+ATOM   2334  N   VAL A 303     -13.166 -56.540  17.098  0.00  0.00           N
+ATOM   2335  CA  VAL A 303     -11.909 -57.258  17.035  0.00  0.00           C
+ATOM   2336  C   VAL A 303     -10.998 -56.658  18.100  0.00  0.00           C
+ATOM   2338  CB  VAL A 303     -11.262 -57.117  15.629  0.00  0.00           C
+ATOM   2339  CG1 VAL A 303      -9.894 -57.777  15.581  0.00  0.00           C
+ATOM   2340  CG2 VAL A 303     -12.187 -57.693  14.551  0.00  0.00           C
+ATOM   2341  N   ILE A 304     -10.515 -57.495  19.011  0.00  0.00           N
+ATOM   2342  CA  ILE A 304      -9.720 -57.015  20.144  0.00  0.00           C
+ATOM   2343  C   ILE A 304      -8.464 -56.286  19.703  0.00  0.00           C
+ATOM   2345  CB  ILE A 304      -9.364 -58.161  21.117  0.00  0.00           C
+ATOM   2346  CG1 ILE A 304     -10.644 -58.677  21.786  0.00  0.00           C
+ATOM   2347  CG2 ILE A 304      -8.333 -57.697  22.158  0.00  0.00           C
+ATOM   2348  CD1 ILE A 304     -10.489 -59.981  22.514  0.00  0.00           C
+ATOM   2349  N   ASP A 305      -7.671 -56.968  18.875  0.00  0.00           N
+ATOM   2350  CA  ASP A 305      -6.382 -56.462  18.421  0.00  0.00           C
+ATOM   2353  CB  ASP A 305      -5.521 -57.615  17.886  0.00  0.00           C
+ATOM   2356  OD2 ASP A 305      -3.466 -58.003  16.784  0.00  0.00           O
+ATOM   2376  CB  LYS A 308      -6.638 -58.052  13.322  0.00  0.00           C
+ATOM   2377  CG  LYS A 308      -5.265 -58.678  13.636  0.00  0.00           C

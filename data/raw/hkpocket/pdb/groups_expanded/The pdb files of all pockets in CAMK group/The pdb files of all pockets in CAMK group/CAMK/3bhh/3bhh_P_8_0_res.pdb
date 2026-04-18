@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  10.87  59.94   3.92 with max radius 5.85
+ATOM    730  CA  SER A 109      12.776  64.181   7.610  0.00  0.00           C
+ATOM    731  C   SER A 109      13.839  63.153   8.009  0.00  0.00           C
+ATOM    733  CB  SER A 109      13.228  64.913   6.356  0.00  0.00           C
+ATOM    735  N   GLU A 110      14.006  62.127   7.178  0.00  0.00           N
+ATOM    736  CA  GLU A 110      15.129  61.172   7.276  0.00  0.00           C
+ATOM    739  CB  GLU A 110      15.199  60.303   6.031  0.00  0.00           C
+ATOM    740  CG  GLU A 110      14.354  59.074   5.993  0.00  0.00           C
+ATOM    741  CD  GLU A 110      14.542  58.398   4.666  0.00  0.00           C
+ATOM    743  OE2 GLU A 110      13.569  57.851   4.094  0.00  0.00           O
+ATOM   1708  CA  THR A 240       8.140  56.009   1.916  0.00  0.00           C
+ATOM   1709  C   THR A 240       9.580  56.108   2.411  0.00  0.00           C
+ATOM   1710  O   THR A 240      10.340  56.941   1.927  0.00  0.00           O
+ATOM   1711  CB  THR A 240       7.353  57.269   2.403  0.00  0.00           C
+ATOM   1712  OG1 THR A 240       6.977  57.096   3.784  0.00  0.00           O
+ATOM   1713  CG2 THR A 240       6.107  57.516   1.531  0.00  0.00           C
+ATOM   1714  N   VAL A 241       9.956  55.272   3.387  0.00  0.00           N
+ATOM   1715  CA  VAL A 241      11.319  55.278   3.930  0.00  0.00           C
+ATOM   1720  CG2 VAL A 241      10.666  55.144   6.399  0.00  0.00           C
+ATOM   2012  C   SER A 280      14.729  63.056   2.738  0.00  0.00           C
+ATOM   2013  O   SER A 280      14.982  63.076   3.939  0.00  0.00           O
+ATOM   2014  CB  SER A 280      13.578  60.891   2.150  0.00  0.00           C
+ATOM   2015  OG  SER A 280      12.418  61.597   1.733  0.00  0.00           O
+ATOM   2022  N   MET A 282      11.914  64.616   2.921  0.00  0.00           N
+ATOM   2023  CA  MET A 282      10.471  64.725   2.966  0.00  0.00           C
+ATOM   2025  O   MET A 282      10.407  63.940   5.120  0.00  0.00           O
+ATOM   2026  CB  MET A 282       9.814  63.552   2.240  0.00  0.00           C
+ATOM   2027  CG  MET A 282       8.330  63.536   2.278  0.00  0.00           C
+ATOM   2028  SD  MET A 282       7.464  62.048   1.760  0.00  0.00           S
+ATOM   2029  CE  MET A 282       7.223  61.212   3.323  0.00  0.00           C
+ATOM   2045  CG  ARG A 284       9.146  61.323   7.244  0.00  0.00           C
+ATOM   2046  CD  ARG A 284      10.121  60.229   7.602  0.00  0.00           C
+ATOM   2047  NE  ARG A 284       9.416  58.990   7.894  0.00  0.00           N
+ATOM   2048  CZ  ARG A 284       8.930  58.161   6.988  0.00  0.00           C
+ATOM   2049  NH1 ARG A 284       9.066  58.413   5.700  0.00  0.00           N

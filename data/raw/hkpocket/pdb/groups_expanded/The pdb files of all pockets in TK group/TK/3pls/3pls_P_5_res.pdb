@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   5.77  28.91   7.97 with max radius 9.27
+ATOM   1777  CZ2 TRP A1278       8.948  30.099   4.098  0.00  0.00           C
+ATOM   1778  CZ3 TRP A1278      11.130  29.231   4.704  0.00  0.00           C
+ATOM   1779  CH2 TRP A1278       9.949  29.931   5.017  0.00  0.00           C
+ATOM   1831  CB  ALA A1285      12.579  32.652   6.153  0.00  0.00           C
+ATOM   1835  O   PRO A1286      11.055  29.258   8.356  0.00  0.00           O
+ATOM   1838  CD  PRO A1286      13.370  31.437   9.513  0.00  0.00           C
+ATOM   1840  CA  PRO A1287      10.901  26.791   7.162  0.00  0.00           C
+ATOM   1841  C   PRO A1287      10.051  26.219   8.282  0.00  0.00           C
+ATOM   1846  N   TYR A1288       8.729  26.308   8.132  0.00  0.00           N
+ATOM   1847  CA  TYR A1288       7.784  25.771   9.117  0.00  0.00           C
+ATOM   1848  C   TYR A1288       8.114  26.313  10.521  0.00  0.00           C
+ATOM   1849  O   TYR A1288       7.992  25.608  11.521  0.00  0.00           O
+ATOM   1850  CB  TYR A1288       7.779  24.233   9.085  0.00  0.00           C
+ATOM   1851  CG  TYR A1288       7.515  23.640   7.712  0.00  0.00           C
+ATOM   1852  CD1 TYR A1288       6.329  23.901   7.042  0.00  0.00           C
+ATOM   1854  CE1 TYR A1288       6.072  23.360   5.776  0.00  0.00           C
+ATOM   1858  N   ARG A1289       8.506  27.586  10.563  0.00  0.00           N
+ATOM   1859  CA  ARG A1289       9.035  28.232  11.768  0.00  0.00           C
+ATOM   1860  C   ARG A1289       8.103  28.079  12.969  0.00  0.00           C
+ATOM   1862  CB  ARG A1289       9.290  29.721  11.490  0.00  0.00           C
+ATOM   1863  CG  ARG A1289      10.122  30.450  12.552  0.00  0.00           C
+ATOM   1864  CD  ARG A1289       9.689  31.918  12.712  0.00  0.00           C
+ATOM   1865  NE  ARG A1289      10.508  32.882  11.974  0.00  0.00           N
+ATOM   1866  CZ  ARG A1289      11.644  33.428  12.421  0.00  0.00           C
+ATOM   1869  N   HIS A1290       6.851  28.495  12.791  0.00  0.00           N
+ATOM   1870  CA  HIS A1290       5.879  28.550  13.880  0.00  0.00           C
+ATOM   1871  C   HIS A1290       5.063  27.263  14.051  0.00  0.00           C
+ATOM   1873  CB  HIS A1290       4.951  29.739  13.666  0.00  0.00           C
+ATOM   1874  CG  HIS A1290       5.673  31.040  13.524  0.00  0.00           C
+ATOM   1876  CD2 HIS A1290       5.905  31.817  12.440  0.00  0.00           C
+ATOM   1878  NE2 HIS A1290       6.617  32.910  12.870  0.00  0.00           N
+ATOM   1879  N   ILE A1291       5.511  26.179  13.423  0.00  0.00           N
+ATOM   1883  CB  ILE A1291       4.984  24.005  12.294  0.00  0.00           C
+ATOM   1884  CG1 ILE A1291       4.219  24.631  11.122  0.00  0.00           C
+ATOM   1886  CD1 ILE A1291       2.713  24.585  11.253  0.00  0.00           C
+ATOM   1961  CE1 PHE A1299       0.880  23.870   8.421  0.00  0.00           C
+ATOM   1962  CE2 PHE A1299       2.547  22.770   7.115  0.00  0.00           C
+ATOM   1963  CZ  PHE A1299       1.781  23.884   7.380  0.00  0.00           C
+ATOM   1994  CB  ARG A1304      -0.747  22.893   5.305  0.00  0.00           C
+ATOM   2001  N   ARG A1305       1.576  23.456   3.166  0.00  0.00           N
+ATOM   2002  CA  ARG A1305       2.940  23.619   2.705  0.00  0.00           C
+ATOM   2003  C   ARG A1305       3.465  25.003   3.024  0.00  0.00           C
+ATOM   2004  O   ARG A1305       2.743  25.864   3.513  0.00  0.00           O
+ATOM   2012  N   LEU A1306       4.738  25.215   2.728  0.00  0.00           N
+ATOM   2013  CA  LEU A1306       5.339  26.518   2.899  0.00  0.00           C
+ATOM   2016  CB  LEU A1306       6.834  26.479   2.603  0.00  0.00           C
+ATOM   2019  CD2 LEU A1306       7.884  26.146   4.904  0.00  0.00           C
+ATOM   2024  CB  PRO A1307       3.302  30.778   2.842  0.00  0.00           C
+ATOM   2025  CG  PRO A1307       4.430  30.641   3.796  0.00  0.00           C
+ATOM   2026  CD  PRO A1307       4.672  29.170   3.861  0.00  0.00           C

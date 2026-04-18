@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  21.28   6.55  21.76 with max radius 6.42
+ATOM   1894  C   THR A 368      25.367   9.456  21.885  0.00  0.00           C
+ATOM   1895  O   THR A 368      24.778   8.969  20.882  0.00  0.00           O
+ATOM   1896  CB  THR A 368      27.480   8.147  22.184  0.00  0.00           C
+ATOM   1915  N   ILE A 370      22.633  11.553  21.355  0.00  0.00           N
+ATOM   1978  CD  ARG A 376      18.622   8.909  18.882  0.00  0.00           C
+ATOM   1979  NE  ARG A 376      18.461  10.040  19.754  0.00  0.00           N
+ATOM   1980  CZ  ARG A 376      17.742   9.997  20.864  0.00  0.00           C
+ATOM   1981  NH1 ARG A 376      17.257   8.862  21.282  0.00  0.00           N
+ATOM   2006  C   ILE A 380      22.438   5.984  17.915  0.00  0.00           C
+ATOM   2007  O   ILE A 380      23.056   5.658  18.944  0.00  0.00           O
+ATOM   2010  CG2 ILE A 380      22.256   8.817  18.566  0.00  0.00           C
+ATOM   2012  N   ILE A 381      21.261   5.481  17.631  0.00  0.00           N
+ATOM   2013  CA  ILE A 381      20.633   4.444  18.460  0.00  0.00           C
+ATOM   2014  C   ILE A 381      21.478   3.166  18.505  0.00  0.00           C
+ATOM   2015  O   ILE A 381      21.611   2.547  19.536  0.00  0.00           O
+ATOM   2016  CB  ILE A 381      19.212   4.134  17.927  0.00  0.00           C
+ATOM   2017  CG1 ILE A 381      18.359   5.358  18.026  0.00  0.00           C
+ATOM   2018  CG2 ILE A 381      18.593   3.060  18.729  0.00  0.00           C
+ATOM   2019  CD1 ILE A 381      17.012   5.217  17.309  0.00  0.00           C
+ATOM   2270  CB  GLU A 414      16.455   4.656  21.982  0.00  0.00           C
+ATOM   2271  CG  GLU A 414      16.835   3.708  23.038  0.00  0.00           C
+ATOM   2272  CD  GLU A 414      18.316   3.741  23.418  0.00  0.00           C
+ATOM   2273  OE1 GLU A 414      18.671   2.994  24.413  0.00  0.00           O
+ATOM   2274  OE2 GLU A 414      19.139   4.435  22.789  0.00  0.00           O
+ATOM   2453  CD  ARG A 438      24.018   1.637  22.107  0.00  0.00           C
+ATOM   2454  NE  ARG A 438      23.191   1.541  23.272  0.00  0.00           N
+ATOM   2455  CZ  ARG A 438      21.959   2.033  23.404  0.00  0.00           C
+ATOM   2456  NH1 ARG A 438      21.344   2.614  22.388  0.00  0.00           N
+ATOM   2457  NH2 ARG A 438      21.344   2.028  24.590  0.00  0.00           N

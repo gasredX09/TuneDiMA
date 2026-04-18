@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  31.66   5.41  35.95 with max radius 5.87
+ATOM   2893  CA  PRO A 541      35.398   9.406  33.771  0.00  0.00           C
+ATOM   2894  C   PRO A 541      34.071   9.050  33.123  0.00  0.00           C
+ATOM   2895  O   PRO A 541      34.092   8.658  31.969  0.00  0.00           O
+ATOM   2896  CB  PRO A 541      35.936   8.292  34.655  0.00  0.00           C
+ATOM   2906  N   GLU A 542      32.937   9.161  33.810  0.00  0.00           N
+ATOM   2907  CA  GLU A 542      31.661   8.779  33.213  0.00  0.00           C
+ATOM   2910  CB  GLU A 542      30.523   8.688  34.251  0.00  0.00           C
+ATOM   2911  CG  GLU A 542      30.098   9.990  34.917  0.00  0.00           C
+ATOM   2912  CD  GLU A 542      30.947  10.484  36.064  0.00  0.00           C
+ATOM   2913  OE1 GLU A 542      31.952   9.821  36.398  0.00  0.00           O
+ATOM   2955  CB  ASN A 545      33.669   6.072  29.988  0.00  0.00           C
+ATOM   2956  CG  ASN A 545      35.100   6.071  30.482  0.00  0.00           C
+ATOM   2958  ND2 ASN A 545      35.311   5.759  31.759  0.00  0.00           N
+ATOM   2972  CD2 TYR A 546      30.059   5.435  31.750  0.00  0.00           C
+ATOM   2974  CE2 TYR A 546      30.773   4.351  32.260  0.00  0.00           C
+ATOM   2975  CZ  TYR A 546      31.033   3.258  31.454  0.00  0.00           C
+ATOM   2976  OH  TYR A 546      31.726   2.171  31.948  0.00  0.00           O
+ATOM   4012  C   TYR A 611      34.617   6.792  39.901  0.00  0.00           C
+ATOM   4013  O   TYR A 611      33.995   7.242  38.939  0.00  0.00           O
+ATOM   4016  CD1 TYR A 611      36.268   5.025  37.455  0.00  0.00           C
+ATOM   4018  CE1 TYR A 611      36.482   4.837  36.081  0.00  0.00           C
+ATOM   4020  CZ  TYR A 611      37.559   5.463  35.472  0.00  0.00           C
+ATOM   4021  OH  TYR A 611      37.764   5.334  34.112  0.00  0.00           O
+ATOM   4031  N   ASP A 612      34.095   5.971  40.787  0.00  0.00           N
+ATOM   4032  CA  ASP A 612      32.701   5.532  40.705  0.00  0.00           C
+ATOM   4033  C   ASP A 612      31.792   6.671  41.106  0.00  0.00           C
+ATOM   4035  CB  ASP A 612      32.454   4.320  41.609  0.00  0.00           C
+ATOM   4036  CG  ASP A 612      31.071   3.691  41.528  0.00  0.00           C
+ATOM   4037  OD1 ASP A 612      30.179   4.272  40.844  0.00  0.00           O
+ATOM   4043  N   VAL A 613      30.950   7.094  40.184  0.00  0.00           N
+ATOM   4044  CA  VAL A 613      30.058   8.211  40.405  0.00  0.00           C
+ATOM   4047  CB  VAL A 613      29.315   8.538  39.080  0.00  0.00           C
+ATOM   4048  CG1 VAL A 613      28.307   7.463  38.683  0.00  0.00           C
+ATOM   4098  NH2 ARG A 616      33.060  10.171  39.041  0.00  0.00           N

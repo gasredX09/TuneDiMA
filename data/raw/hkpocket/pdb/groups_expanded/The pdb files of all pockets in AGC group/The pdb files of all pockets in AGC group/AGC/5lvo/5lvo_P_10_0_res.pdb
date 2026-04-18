@@ -1,0 +1,25 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 19 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -30.76  15.27  -2.31 with max radius 5.39
+ATOM   1569  CD1 LEU A 168     -26.706  12.123  -3.161  0.00  0.00           C
+ATOM   1570  CD2 LEU A 168     -26.368  13.769  -5.042  0.00  0.00           C
+ATOM   2294  CD  GLU A 209     -26.460  17.059  -3.667  0.00  0.00           C
+ATOM   2296  OE1 GLU A 209     -26.403  16.826  -2.403  0.00  0.00           O
+ATOM   2298  OE2 GLU A 209     -27.528  17.435  -4.247  0.00  0.00           O
+ATOM   2896  CB  GLN A 247     -33.136  18.436   0.539  0.00  0.00           C
+ATOM   2898  CG  GLN A 247     -34.028  17.907  -0.523  0.00  0.00           C
+ATOM   2900  CD  GLN A 247     -33.950  18.695  -1.844  0.00  0.00           C
+ATOM   2902  OE1 GLN A 247     -33.139  19.626  -2.099  0.00  0.00           O
+ATOM   2904  NE2 GLN A 247     -34.844  18.314  -2.709  0.00  0.00           N
+ATOM   2929  CE2 TYR A 248     -29.479  18.177   0.416  0.00  0.00           C
+ATOM   2930  CZ  TYR A 248     -29.265  17.035   1.140  0.00  0.00           C
+ATOM   2931  OH  TYR A 248     -29.235  15.822   0.470  0.00  0.00           O
+ATOM   3332  CD  GLN A 274     -28.823  12.535   1.230  0.00  0.00           C
+ATOM   3333  OE1 GLN A 274     -28.602  13.639   1.762  0.00  0.00           O
+ATOM   3334  NE2 GLN A 274     -28.780  12.370  -0.056  0.00  0.00           N
+ATOM   3418  CB  PRO A 280     -32.376  14.398   2.428  0.00  0.00           C
+ATOM   3419  CG  PRO A 280     -32.810  14.167   1.069  0.00  0.00           C
+ATOM   3420  CD  PRO A 280     -32.747  12.663   0.764  0.00  0.00           C

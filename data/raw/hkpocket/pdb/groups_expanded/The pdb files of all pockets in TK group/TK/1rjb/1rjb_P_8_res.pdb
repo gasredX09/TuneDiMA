@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  67.23  72.49   8.64 with max radius 5.92
+ATOM   1847  NE1 TRP A 879      68.631  73.466  14.302  0.00  0.00           N
+ATOM   1848  CE2 TRP A 879      68.163  72.179  14.349  0.00  0.00           C
+ATOM   1850  CZ2 TRP A 879      67.047  71.597  13.729  0.00  0.00           C
+ATOM   1852  CH2 TRP A 879      66.829  70.255  13.956  0.00  0.00           C
+ATOM   1921  N   TYR A 889      69.666  68.418  10.463  0.00  0.00           N
+ATOM   1922  CA  TYR A 889      69.307  68.535   9.041  0.00  0.00           C
+ATOM   1923  C   TYR A 889      68.096  67.623   8.766  0.00  0.00           C
+ATOM   1925  CB  TYR A 889      70.507  68.127   8.169  0.00  0.00           C
+ATOM   1926  CG  TYR A 889      71.825  68.781   8.569  0.00  0.00           C
+ATOM   1928  CD2 TYR A 889      72.208  70.016   8.035  0.00  0.00           C
+ATOM   1933  N   PRO A 890      67.008  67.814   9.542  0.00  0.00           N
+ATOM   1934  CA  PRO A 890      65.790  67.010   9.416  0.00  0.00           C
+ATOM   1935  C   PRO A 890      65.227  66.957   8.007  0.00  0.00           C
+ATOM   1936  O   PRO A 890      65.036  67.992   7.367  0.00  0.00           O
+ATOM   1937  CB  PRO A 890      64.832  67.649  10.437  0.00  0.00           C
+ATOM   1938  CG  PRO A 890      65.304  69.091  10.500  0.00  0.00           C
+ATOM   1939  CD  PRO A 890      66.803  68.958  10.454  0.00  0.00           C
+ATOM   1949  CG1 ILE A 892      67.992  68.319   4.510  0.00  0.00           C
+ATOM   1951  CD1 ILE A 892      68.856  69.559   4.769  0.00  0.00           C
+ATOM   2065  CE2 PHE A 906      70.987  72.940   5.372  0.00  0.00           C
+ATOM   2066  CZ  PHE A 906      70.071  73.396   4.437  0.00  0.00           C
+ATOM   2070  O   LYS A 907      71.499  75.970   7.828  0.00  0.00           O
+ATOM   2077  CA  MET A 908      70.740  74.636  10.085  0.00  0.00           C
+ATOM   2078  C   MET A 908      70.172  75.950  10.579  0.00  0.00           C
+ATOM   2080  CB  MET A 908      70.647  73.614  11.224  0.00  0.00           C
+ATOM   2081  CG  MET A 908      70.849  72.152  10.795  0.00  0.00           C
+ATOM   2082  SD  MET A 908      70.479  71.005  12.127  0.00  0.00           S
+ATOM   2084  N   ASP A 909      68.842  76.034  10.541  0.00  0.00           N
+ATOM   2085  CA  ASP A 909      68.089  77.178  11.034  0.00  0.00           C
+ATOM   2087  O   ASP A 909      68.305  76.084  13.173  0.00  0.00           O
+ATOM   2088  CB  ASP A 909      66.650  77.124  10.529  0.00  0.00           C
+ATOM   2089  CG  ASP A 909      66.549  77.319   9.040  0.00  0.00           C
+ATOM   2090  OD1 ASP A 909      65.662  76.690   8.428  0.00  0.00           O

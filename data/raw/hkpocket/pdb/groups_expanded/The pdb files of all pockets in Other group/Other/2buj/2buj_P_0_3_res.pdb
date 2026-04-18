@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -5.81 -27.28  -1.42 with max radius 5.97
+ATOM   1168  CB  ASP A 148      -8.539 -30.429   2.138  0.00  0.00           C
+ATOM   1169  CG  ASP A 148      -8.646 -29.038   2.770  0.00  0.00           C
+ATOM   1170  OD1 ASP A 148      -8.240 -28.109   2.059  0.00  0.00           O
+ATOM   1293  CA  ASP A 166     -10.829 -29.629  -4.480  0.00  0.00           C
+ATOM   1294  C   ASP A 166      -9.890 -30.784  -4.135  0.00  0.00           C
+ATOM   1295  O   ASP A 166      -9.732 -31.169  -2.965  0.00  0.00           O
+ATOM   1296  CB  ASP A 166     -11.068 -28.768  -3.247  0.00  0.00           C
+ATOM   1297  CG  ASP A 166      -9.837 -27.988  -2.848  0.00  0.00           C
+ATOM   1298  OD1 ASP A 166      -9.342 -27.211  -3.700  0.00  0.00           O
+ATOM   1299  OD2 ASP A 166      -9.364 -28.166  -1.698  0.00  0.00           O
+ATOM   1300  N   LEU A 167      -9.249 -31.308  -5.174  0.00  0.00           N
+ATOM   1301  CA  LEU A 167      -8.391 -32.472  -5.057  0.00  0.00           C
+ATOM   1302  C   LEU A 167      -6.925 -32.081  -5.125  0.00  0.00           C
+ATOM   1308  N   GLY A 168      -6.599 -30.844  -4.745  0.00  0.00           N
+ATOM   1309  CA  GLY A 168      -5.217 -30.381  -4.729  0.00  0.00           C
+ATOM   1310  C   GLY A 168      -4.382 -30.714  -3.492  0.00  0.00           C
+ATOM   1311  O   GLY A 168      -3.222 -30.296  -3.392  0.00  0.00           O
+ATOM   1312  N   SER A 169      -4.962 -31.426  -2.525  0.00  0.00           N
+ATOM   1313  CA  SER A 169      -4.183 -31.967  -1.402  0.00  0.00           C
+ATOM   1316  CB  SER A 169      -4.549 -31.240  -0.113  0.00  0.00           C
+ATOM   1317  OG  SER A 169      -5.941 -31.159   0.011  0.00  0.00           O
+ATOM   1493  CA  ARG A 193      -3.078 -28.250   3.246  0.00  0.00           C
+ATOM   1494  C   ARG A 193      -4.370 -28.757   3.877  0.00  0.00           C
+ATOM   1495  O   ARG A 193      -5.308 -29.110   3.151  0.00  0.00           O
+ATOM   1496  CB  ARG A 193      -2.475 -29.406   2.463  0.00  0.00           C
+ATOM   1497  CG  ARG A 193      -1.149 -29.083   1.846  0.00  0.00           C
+ATOM   1498  CD  ARG A 193      -1.246 -28.666   0.400  0.00  0.00           C
+ATOM   1501  NH1 ARG A 193      -0.720 -28.377  -2.389  0.00  0.00           N

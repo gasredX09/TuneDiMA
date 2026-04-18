@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -1.66   8.32  21.73 with max radius 6.60
+ATOM    960  CA  ALA A 121      -0.921   5.032  18.782  0.00  0.00           C
+ATOM    961  C   ALA A 121      -2.256   5.602  18.305  0.00  0.00           C
+ATOM    962  O   ALA A 121      -3.070   6.052  19.124  0.00  0.00           O
+ATOM    963  CB  ALA A 121       0.176   6.091  18.629  0.00  0.00           C
+ATOM    964  N   TYR A 122      -2.496   5.578  16.971  0.00  0.00           N
+ATOM    965  CA  TYR A 122      -3.765   6.083  16.449  0.00  0.00           C
+ATOM    966  C   TYR A 122      -4.917   5.197  16.911  0.00  0.00           C
+ATOM    984  CA  HIS A 124      -5.385   3.877  21.053  0.00  0.00           C
+ATOM    985  C   HIS A 124      -6.075   5.235  21.152  0.00  0.00           C
+ATOM    987  CB  HIS A 124      -4.087   3.864  21.859  0.00  0.00           C
+ATOM    989  ND1 HIS A 124      -2.237   2.342  22.561  0.00  0.00           N
+ATOM    993  N   SER A 125      -5.683   6.209  20.313  0.00  0.00           N
+ATOM    994  CA  SER A 125      -6.286   7.553  20.344  0.00  0.00           C
+ATOM    997  CB  SER A 125      -5.562   8.485  19.370  0.00  0.00           C
+ATOM    998  OG  SER A 125      -6.001   8.314  18.031  0.00  0.00           O
+ATOM   1939  C   MET A 254       3.036   6.422  23.834  0.00  0.00           C
+ATOM   1941  CB  MET A 254       1.167   4.790  23.484  0.00  0.00           C
+ATOM   1942  CG  MET A 254       1.130   4.970  21.979  0.00  0.00           C
+ATOM   1946  CA  LYS A 255       3.031   8.766  24.576  0.00  0.00           C
+ATOM   1949  CB  LYS A 255       2.411   9.574  25.742  0.00  0.00           C
+ATOM   1950  CG  LYS A 255       2.765  11.056  25.785  0.00  0.00           C
+ATOM   1951  CD  LYS A 255       2.344  11.773  24.527  0.00  0.00           C
+ATOM   1953  NZ  LYS A 255       0.416  13.187  24.971  0.00  0.00           N
+ATOM   1975  CG  LEU A 258       3.720   8.858  20.270  0.00  0.00           C
+ATOM   1976  CD1 LEU A 258       2.675   9.946  20.609  0.00  0.00           C
+ATOM   1977  CD2 LEU A 258       3.395   8.302  18.888  0.00  0.00           C
+ATOM   2109  CB  TRP A 273       0.358   8.819  16.133  0.00  0.00           C
+ATOM   2110  CG  TRP A 273       0.064  10.003  17.005  0.00  0.00           C
+ATOM   2111  CD1 TRP A 273       0.978  10.862  17.551  0.00  0.00           C
+ATOM   2112  CD2 TRP A 273      -1.231  10.513  17.364  0.00  0.00           C
+ATOM   2113  NE1 TRP A 273       0.336  11.858  18.249  0.00  0.00           N
+ATOM   2114  CE2 TRP A 273      -1.021  11.653  18.174  0.00  0.00           C
+ATOM   2115  CE3 TRP A 273      -2.552  10.091  17.120  0.00  0.00           C
+ATOM   2116  CZ2 TRP A 273      -2.081  12.397  18.715  0.00  0.00           C
+ATOM   2117  CZ3 TRP A 273      -3.600  10.827  17.670  0.00  0.00           C
+ATOM   2118  CH2 TRP A 273      -3.361  11.968  18.445  0.00  0.00           C

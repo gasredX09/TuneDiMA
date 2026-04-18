@@ -1,0 +1,51 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 45 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -22.55  20.44 -10.12 with max radius 7.86
+ATOM    327  C   ASN A 625     -28.753  19.415 -13.306  0.00  0.00           C
+ATOM    328  O   ASN A 625     -27.553  19.633 -13.485  0.00  0.00           O
+ATOM    332  ND2 ASN A 625     -28.936  19.412 -10.401  0.00  0.00           N
+ATOM    333  N   SER A 626     -29.694  20.345 -13.460  0.00  0.00           N
+ATOM    334  CA  SER A 626     -29.377  21.731 -13.801  0.00  0.00           C
+ATOM    335  C   SER A 626     -29.827  22.705 -12.702  0.00  0.00           C
+ATOM    336  O   SER A 626     -29.917  23.916 -12.932  0.00  0.00           O
+ATOM    337  CB  SER A 626     -30.002  22.104 -15.151  0.00  0.00           C
+ATOM    338  N   SER A 627     -30.082  22.162 -11.509  0.00  0.00           N
+ATOM    339  CA  SER A 627     -30.569  22.923 -10.348  0.00  0.00           C
+ATOM    340  C   SER A 627     -29.674  24.108  -9.960  0.00  0.00           C
+ATOM    341  O   SER A 627     -28.469  24.105 -10.232  0.00  0.00           O
+ATOM    355  CA  GLU A 630     -26.308  22.038  -7.334  0.00  0.00           C
+ATOM    356  C   GLU A 630     -25.204  22.876  -7.989  0.00  0.00           C
+ATOM    357  O   GLU A 630     -24.018  22.562  -7.852  0.00  0.00           O
+ATOM    358  CB  GLU A 630     -26.768  20.921  -8.281  0.00  0.00           C
+ATOM    359  CG  GLU A 630     -25.687  19.909  -8.691  0.00  0.00           C
+ATOM    360  CD  GLU A 630     -25.470  18.797  -7.670  0.00  0.00           C
+ATOM    361  OE1 GLU A 630     -25.422  19.082  -6.452  0.00  0.00           O
+ATOM    362  OE2 GLU A 630     -25.333  17.629  -8.095  0.00  0.00           O
+ATOM    363  N   ILE A 631     -25.597  23.933  -8.697  0.00  0.00           N
+ATOM    364  CA  ILE A 631     -24.639  24.779  -9.415  0.00  0.00           C
+ATOM    367  CB  ILE A 631     -25.301  25.554 -10.599  0.00  0.00           C
+ATOM    368  CG1 ILE A 631     -24.262  25.903 -11.670  0.00  0.00           C
+ATOM    376  CA  GLU A 633     -22.312  23.933  -4.698  0.00  0.00           C
+ATOM    377  C   GLU A 633     -21.021  23.658  -5.481  0.00  0.00           C
+ATOM    378  O   GLU A 633     -19.998  23.287  -4.897  0.00  0.00           O
+ATOM    379  CB  GLU A 633     -23.086  22.634  -4.451  0.00  0.00           C
+ATOM    380  CG  GLU A 633     -22.569  21.758  -3.314  0.00  0.00           C
+ATOM    381  CD  GLU A 633     -23.437  20.525  -3.089  0.00  0.00           C
+ATOM    383  OE2 GLU A 633     -22.880  19.411  -2.961  0.00  0.00           O
+ATOM    384  N   PHE A 634     -21.082  23.844  -6.800  0.00  0.00           N
+ATOM    385  CA  PHE A 634     -19.923  23.696  -7.682  0.00  0.00           C
+ATOM    388  CB  PHE A 634     -20.375  23.428  -9.118  0.00  0.00           C
+ATOM    389  CG  PHE A 634     -19.247  23.113 -10.067  0.00  0.00           C
+ATOM    390  CD1 PHE A 634     -18.788  21.805 -10.198  0.00  0.00           C
+ATOM    391  CD2 PHE A 634     -18.651  24.127 -10.845  0.00  0.00           C
+ATOM    392  CE1 PHE A 634     -17.753  21.509 -11.085  0.00  0.00           C
+ATOM    413  CB  GLU A 637     -16.386  22.968  -4.803  0.00  0.00           C
+ATOM    416  OE1 GLU A 637     -16.818  20.274  -5.312  0.00  0.00           O
+ATOM    597  CB  PRO A 667     -19.389  23.760 -15.504  0.00  0.00           C
+ATOM    598  CG  PRO A 667     -20.297  22.583 -15.605  0.00  0.00           C
+ATOM    599  CD  PRO A 667     -21.150  22.791 -16.839  0.00  0.00           C
+ATOM   1237  O   LEU A 744     -16.629  17.357  -9.532  0.00  0.00           O
+ATOM   1246  CB  SER A 745     -17.427  14.887  -7.937  0.00  0.00           C

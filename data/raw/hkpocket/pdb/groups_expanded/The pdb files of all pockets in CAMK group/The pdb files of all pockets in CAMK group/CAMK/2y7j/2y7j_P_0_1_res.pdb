@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -27.78 -10.07  37.44 with max radius 10.20
+ATOM    242  CG2 VAL A  38     -20.432  -4.375  41.644  0.00  0.00           C
+ATOM    364  CE  LYS A  53     -25.389  -4.467  41.441  0.00  0.00           C
+ATOM    365  NZ  LYS A  53     -26.182  -5.623  40.969  0.00  0.00           N
+ATOM   1147  C   HIS A 151     -31.652 -17.265  38.004  0.00  0.00           C
+ATOM   1148  O   HIS A 151     -31.672 -16.040  38.023  0.00  0.00           O
+ATOM   1150  CG  HIS A 151     -28.862 -17.588  39.200  0.00  0.00           C
+ATOM   1151  ND1 HIS A 151     -28.525 -16.926  38.021  0.00  0.00           N
+ATOM   1152  CD2 HIS A 151     -28.135 -17.065  40.219  0.00  0.00           C
+ATOM   1153  CE1 HIS A 151     -27.594 -16.051  38.351  0.00  0.00           C
+ATOM   1156  CA  ARG A 152     -32.230 -17.474  35.573  0.00  0.00           C
+ATOM   1157  C   ARG A 152     -31.154 -16.663  34.835  0.00  0.00           C
+ATOM   1158  O   ARG A 152     -31.462 -16.023  33.821  0.00  0.00           O
+ATOM   1159  CB  ARG A 152     -33.557 -16.694  35.611  0.00  0.00           C
+ATOM   1166  N   ASP A 153     -29.891 -16.789  35.236  0.00  0.00           N
+ATOM   1167  CA  ASP A 153     -28.801 -16.110  34.517  0.00  0.00           C
+ATOM   1170  CB  ASP A 153     -28.826 -14.576  34.709  0.00  0.00           C
+ATOM   1171  CG  ASP A 153     -28.032 -13.784  33.684  0.00  0.00           C
+ATOM   1173  OD2 ASP A 153     -27.449 -12.743  34.065  0.00  0.00           O
+ATOM   1214  ND2 ASN A 158     -25.187 -13.951  35.770  0.00  0.00           N
+ATOM   1314  CA  ASP A 171     -25.927 -11.653  40.241  0.00  0.00           C
+ATOM   1315  C   ASP A 171     -27.317 -12.295  40.177  0.00  0.00           C
+ATOM   1316  O   ASP A 171     -27.673 -12.939  39.196  0.00  0.00           O
+ATOM   1317  CB  ASP A 171     -25.268 -11.592  38.858  0.00  0.00           C
+ATOM   1318  CG  ASP A 171     -24.323 -10.408  38.686  0.00  0.00           C
+ATOM   1319  OD1 ASP A 171     -23.403 -10.242  39.531  0.00  0.00           O
+ATOM   1320  OD2 ASP A 171     -24.561  -9.589  37.775  0.00  0.00           O
+ATOM   1321  N   PHE A 172     -28.088 -12.088  41.260  0.00  0.00           N
+ATOM   1322  CA  PHE A 172     -29.432 -12.617  41.490  0.00  0.00           C
+ATOM   1323  C   PHE A 172     -30.534 -11.634  41.009  0.00  0.00           C
+ATOM   1324  O   PHE A 172     -31.685 -11.768  41.416  0.00  0.00           O
+ATOM   1332  N   GLY A 173     -30.170 -10.706  40.104  0.00  0.00           N
+ATOM   1333  CA  GLY A 173     -31.087  -9.717  39.535  0.00  0.00           C
+ATOM   1334  C   GLY A 173     -32.246 -10.298  38.744  0.00  0.00           C
+ATOM   1336  N   PHE A 174     -32.094 -11.520  38.214  0.00  0.00           N
+ATOM   1337  CA  PHE A 174     -33.141 -12.202  37.431  0.00  0.00           C
+ATOM   1338  C   PHE A 174     -33.806 -13.327  38.207  0.00  0.00           C
+ATOM   1340  CB  PHE A 174     -32.581 -12.744  36.108  0.00  0.00           C
+ATOM   1341  CG  PHE A 174     -32.239 -11.653  35.132  0.00  0.00           C
+ATOM   1342  CD1 PHE A 174     -33.166 -10.668  34.813  0.00  0.00           C
+ATOM   1343  CD2 PHE A 174     -30.996 -11.618  34.509  0.00  0.00           C
+ATOM   1344  CE1 PHE A 174     -32.847  -9.657  33.897  0.00  0.00           C
+ATOM   1345  CE2 PHE A 174     -30.675 -10.590  33.604  0.00  0.00           C
+ATOM   1346  CZ  PHE A 174     -31.604  -9.618  33.307  0.00  0.00           C
+ATOM   1347  N   SER A 175     -33.282 -13.645  39.397  0.00  0.00           N
+ATOM   1348  CA  SER A 175     -33.796 -14.701  40.286  0.00  0.00           C
+ATOM   1351  CB  SER A 175     -32.905 -14.878  41.515  0.00  0.00           C
+ATOM   1352  OG  SER A 175     -31.590 -15.151  41.073  0.00  0.00           O

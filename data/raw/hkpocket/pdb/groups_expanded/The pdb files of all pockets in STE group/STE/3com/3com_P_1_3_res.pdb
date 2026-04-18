@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  40.99  49.40  58.38 with max radius 5.58
+ATOM    735  CA  THR A 128      39.867  44.669  59.546  0.00  0.00           C
+ATOM    736  C   THR A 128      39.466  45.838  58.645  0.00  0.00           C
+ATOM    737  O   THR A 128      38.935  46.860  59.129  0.00  0.00           O
+ATOM    738  CB  THR A 128      41.392  44.661  59.819  0.00  0.00           C
+ATOM    740  CG2 THR A 128      41.797  45.836  60.725  0.00  0.00           C
+ATOM    741  N   ILE A 129      39.711  45.703  57.345  0.00  0.00           N
+ATOM    742  CA  ILE A 129      39.396  46.794  56.434  0.00  0.00           C
+ATOM    743  C   ILE A 129      37.892  47.099  56.381  0.00  0.00           C
+ATOM    744  O   ILE A 129      37.494  48.244  56.381  0.00  0.00           O
+ATOM    745  CB  ILE A 129      39.958  46.525  55.022  0.00  0.00           C
+ATOM    746  CG1 ILE A 129      41.495  46.594  55.054  0.00  0.00           C
+ATOM    747  CG2 ILE A 129      39.391  47.534  53.995  0.00  0.00           C
+ATOM    766  N   SER A 132      36.249  49.075  59.417  0.00  0.00           N
+ATOM    767  CA  SER A 132      36.324  50.540  59.294  0.00  0.00           C
+ATOM    770  CB  SER A 132      37.740  50.989  58.946  0.00  0.00           C
+ATOM    771  OG  SER A 132      38.660  50.454  59.868  0.00  0.00           O
+ATOM    980  CD2 LEU A 157      43.351  50.700  55.015  0.00  0.00           C
+ATOM   1003  C   GLY A 161      44.891  51.702  58.395  0.00  0.00           C
+ATOM   1004  O   GLY A 161      44.107  50.765  58.410  0.00  0.00           O
+ATOM   1006  CA  HIS A 162      43.103  53.313  58.775  0.00  0.00           C
+ATOM   1007  C   HIS A 162      42.407  53.556  57.414  0.00  0.00           C
+ATOM   1011  ND1 HIS A 162      42.636  53.375  61.946  0.00  0.00           N
+ATOM   1015  N   ALA A 163      41.294  52.860  57.184  0.00  0.00           N
+ATOM   1016  CA  ALA A 163      40.559  52.945  55.923  0.00  0.00           C
+ATOM   1019  CB  ALA A 163      39.768  51.668  55.676  0.00  0.00           C
+ATOM   1991  CG1 VAL A 287      43.375  49.569  61.566  0.00  0.00           C
+ATOM   2013  CD1 LEU A 290      44.525  47.519  57.551  0.00  0.00           C

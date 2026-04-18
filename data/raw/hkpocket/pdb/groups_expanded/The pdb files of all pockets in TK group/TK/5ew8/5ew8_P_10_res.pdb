@@ -1,0 +1,57 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 51 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  84.81   3.12  26.45 with max radius 5.86
+ATOM    522  SD  MET A 534      89.940   0.551  27.659  0.00  0.00           S
+ATOM    523  CE  MET A 534      89.931   2.213  28.411  0.00  0.00           C
+ATOM   1101  SG  CYS A 619      86.741  -2.636  27.063  0.00  0.00           S
+ATOM   1104  C   ILE A 620      83.068  -1.171  28.388  0.00  0.00           C
+ATOM   1105  O   ILE A 620      83.748  -0.146  28.304  0.00  0.00           O
+ATOM   1110  N   HIS A 621      82.320  -1.613  27.373  0.00  0.00           N
+ATOM   1111  CA  HIS A 621      82.274  -0.903  26.092  0.00  0.00           C
+ATOM   1112  C   HIS A 621      81.575   0.455  26.215  0.00  0.00           C
+ATOM   1113  O   HIS A 621      82.140   1.477  25.811  0.00  0.00           O
+ATOM   1114  CB  HIS A 621      81.605  -1.782  25.009  0.00  0.00           C
+ATOM   1115  CG  HIS A 621      81.766  -1.207  23.631  0.00  0.00           C
+ATOM   1116  ND1 HIS A 621      81.138  -0.025  23.249  0.00  0.00           N
+ATOM   1117  CD2 HIS A 621      82.527  -1.643  22.600  0.00  0.00           C
+ATOM   1118  CE1 HIS A 621      81.537   0.214  22.010  0.00  0.00           C
+ATOM   1119  NE2 HIS A 621      82.347  -0.756  21.567  0.00  0.00           N
+ATOM   1124  CB  ARG A 622      80.278   2.841  27.647  0.00  0.00           C
+ATOM   1125  CG  ARG A 622      80.977   2.484  28.949  0.00  0.00           C
+ATOM   1126  CD  ARG A 622      81.601   3.689  29.650  0.00  0.00           C
+ATOM   1127  NE  ARG A 622      82.070   3.309  30.996  0.00  0.00           N
+ATOM   1128  CZ  ARG A 622      83.188   2.627  31.248  0.00  0.00           C
+ATOM   1129  NH1 ARG A 622      83.991   2.253  30.250  0.00  0.00           N
+ATOM   1131  N   ASP A 623      79.067   1.672  24.567  0.00  0.00           N
+ATOM   1132  CA  ASP A 623      78.268   2.060  23.395  0.00  0.00           C
+ATOM   1135  CB  ASP A 623      78.802   3.339  22.708  0.00  0.00           C
+ATOM   1269  C   ASP A 641      85.744   1.107  21.122  0.00  0.00           C
+ATOM   1270  O   ASP A 641      85.126   1.875  21.878  0.00  0.00           O
+ATOM   1271  CB  ASP A 641      84.977   2.498  19.156  0.00  0.00           C
+ATOM   1275  N   PHE A 642      86.267  -0.038  21.539  0.00  0.00           N
+ATOM   1276  CA  PHE A 642      86.098  -0.501  22.919  0.00  0.00           C
+ATOM   1277  C   PHE A 642      87.005   0.259  23.916  0.00  0.00           C
+ATOM   1278  O   PHE A 642      86.806   0.134  25.126  0.00  0.00           O
+ATOM   1279  CB  PHE A 642      86.280  -2.025  22.999  0.00  0.00           C
+ATOM   1286  N   GLY A 643      87.989   0.994  23.417  0.00  0.00           N
+ATOM   1287  CA  GLY A 643      88.920   1.754  24.260  0.00  0.00           C
+ATOM   1288  C   GLY A 643      88.773   3.254  24.133  0.00  0.00           C
+ATOM   1289  O   GLY A 643      89.582   4.010  24.670  0.00  0.00           O
+ATOM   1290  N   LEU A 644      87.735   3.700  23.415  0.00  0.00           N
+ATOM   1291  CA  LEU A 644      87.463   5.112  23.125  0.00  0.00           C
+ATOM   1292  C   LEU A 644      87.362   5.936  24.385  0.00  0.00           C
+ATOM   1293  O   LEU A 644      86.694   5.524  25.345  0.00  0.00           O
+ATOM   1294  CB  LEU A 644      86.123   5.195  22.371  0.00  0.00           C
+ATOM   1295  CG  LEU A 644      85.972   5.861  21.025  0.00  0.00           C
+ATOM   1296  CD1 LEU A 644      84.574   6.435  20.875  0.00  0.00           C
+ATOM   1299  CA  ALA A 645      87.951   7.987  25.558  0.00  0.00           C
+ATOM   1303  N   ARG A 646      85.918   8.528  26.798  0.00  0.00           N
+ATOM   1307  CB  ARG A 646      83.633   7.672  26.790  0.00  0.00           C
+ATOM   1308  CG  ARG A 646      82.123   7.883  26.865  0.00  0.00           C
+ATOM   1309  CD  ARG A 646      81.365   6.552  26.753  0.00  0.00           C
+ATOM   1310  NE  ARG A 646      81.789   5.755  25.590  0.00  0.00           N
+ATOM   1311  CZ  ARG A 646      81.351   5.939  24.346  0.00  0.00           C
+ATOM   1313  NH2 ARG A 646      81.808   5.183  23.357  0.00  0.00           N

@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -2.87   6.26   1.46 with max radius 6.07
+ATOM     85  CD  GLU A 209      -6.298  10.503  -1.160  0.00  0.00           C
+ATOM     86  OE1 GLU A 209      -7.262   9.817  -0.761  0.00  0.00           O
+ATOM     87  OE2 GLU A 209      -5.481  10.071  -2.003  0.00  0.00           O
+ATOM     98  CB  ILE A 211      -1.799  10.710   3.775  0.00  0.00           C
+ATOM     99  CG1 ILE A 211      -1.691  10.529   2.255  0.00  0.00           C
+ATOM    100  CG2 ILE A 211      -1.427   9.374   4.504  0.00  0.00           C
+ATOM    101  CD1 ILE A 211      -0.294  10.127   1.790  0.00  0.00           C
+ATOM    179  CD  ARG A 221      -1.902   9.977  -3.665  0.00  0.00           C
+ATOM    699  CD1 TYR A 282       1.494   8.027  -1.520  0.00  0.00           C
+ATOM    701  CE1 TYR A 282       0.137   7.726  -1.352  0.00  0.00           C
+ATOM    703  CZ  TYR A 282      -0.519   6.992  -2.322  0.00  0.00           C
+ATOM    704  OH  TYR A 282      -1.848   6.679  -2.177  0.00  0.00           O
+ATOM    707  C   HIS A 283       1.799   3.575  -0.872  0.00  0.00           C
+ATOM    708  O   HIS A 283       1.282   3.860   0.213  0.00  0.00           O
+ATOM    715  N   GLU A 284       1.085   3.184  -1.937  0.00  0.00           N
+ATOM    716  CA  GLU A 284      -0.391   3.135  -1.949  0.00  0.00           C
+ATOM    717  C   GLU A 284      -1.023   2.295  -0.833  0.00  0.00           C
+ATOM    718  O   GLU A 284      -2.087   2.682  -0.330  0.00  0.00           O
+ATOM    734  N   GLY A 286      -0.043   2.026   2.120  0.00  0.00           N
+ATOM    735  CA  GLY A 286       0.098   2.695   3.406  0.00  0.00           C

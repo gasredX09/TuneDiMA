@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  74.43  58.66  20.37 with max radius 4.72
+ATOM     12  CA  PRO A  82      77.485  61.722  19.207  0.00  0.00           C
+ATOM     13  C   PRO A  82      78.839  61.007  19.211  0.00  0.00           C
+ATOM     15  CB  PRO A  82      76.548  61.106  18.153  0.00  0.00           C
+ATOM     16  CG  PRO A  82      75.740  62.281  17.645  0.00  0.00           C
+ATOM     18  N   ALA A  83      79.055  60.151  20.213  0.00  0.00           N
+ATOM     22  CB  ALA A  83      80.254  58.503  21.624  0.00  0.00           C
+ATOM    556  CG  HIS A 160      73.750  53.116  20.835  0.00  0.00           C
+ATOM    557  ND1 HIS A 160      74.396  54.124  21.522  0.00  0.00           N
+ATOM    558  CD2 HIS A 160      72.616  53.666  20.336  0.00  0.00           C
+ATOM    559  CE1 HIS A 160      73.683  55.234  21.444  0.00  0.00           C
+ATOM    560  NE2 HIS A 160      72.596  54.982  20.731  0.00  0.00           N
+ATOM    561  N   ALA A 161      76.867  53.488  19.782  0.00  0.00           N
+ATOM    562  CA  ALA A 161      78.104  54.189  20.089  0.00  0.00           C
+ATOM    563  C   ALA A 161      78.298  54.499  21.586  0.00  0.00           C
+ATOM    565  CB  ALA A 161      78.208  55.462  19.265  0.00  0.00           C
+ATOM    566  N   ASN A 162      77.230  54.508  22.377  0.00  0.00           N
+ATOM    571  CG  ASN A 162      76.220  56.988  23.737  0.00  0.00           C
+ATOM    572  OD1 ASN A 162      77.138  57.405  23.031  0.00  0.00           O
+ATOM    573  ND2 ASN A 162      75.170  57.727  24.037  0.00  0.00           N
+ATOM    960  CD  GLN A 210      76.173  61.476  23.976  0.00  0.00           C
+ATOM    961  OE1 GLN A 210      77.274  61.030  23.615  0.00  0.00           O
+ATOM    962  NE2 GLN A 210      75.098  61.489  23.183  0.00  0.00           N
+ATOM    981  CB  GLU A 213      71.604  58.375  23.853  0.00  0.00           C
+ATOM    982  CG  GLU A 213      70.895  59.321  22.872  0.00  0.00           C
+ATOM    983  CD  GLU A 213      69.882  58.555  22.021  0.00  0.00           C
+ATOM    984  OE1 GLU A 213      70.241  57.545  21.426  0.00  0.00           O

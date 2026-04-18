@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  23.77  34.31  54.00 with max radius 7.04
+ATOM   1872  CA  PRO A 581      18.433  31.734  52.832  0.00  0.00           C
+ATOM   1873  C   PRO A 581      19.220  30.417  52.752  0.00  0.00           C
+ATOM   1874  O   PRO A 581      20.439  30.438  52.557  0.00  0.00           O
+ATOM   1875  CB  PRO A 581      18.078  32.139  54.268  0.00  0.00           C
+ATOM   1876  CG  PRO A 581      16.886  33.046  54.050  0.00  0.00           C
+ATOM   1894  CA  VAL A 584      21.730  31.362  49.117  0.00  0.00           C
+ATOM   1895  C   VAL A 584      23.007  30.795  49.727  0.00  0.00           C
+ATOM   1896  O   VAL A 584      24.093  30.911  49.143  0.00  0.00           O
+ATOM   1897  CB  VAL A 584      21.344  32.720  49.703  0.00  0.00           C
+ATOM   1898  CG1 VAL A 584      22.562  33.649  49.770  0.00  0.00           C
+ATOM   1899  CG2 VAL A 584      20.187  33.365  48.879  0.00  0.00           C
+ATOM   1900  N   ARG A 585      22.871  30.146  50.888  0.00  0.00           N
+ATOM   1901  CA  ARG A 585      24.022  29.531  51.535  0.00  0.00           C
+ATOM   1904  CB  ARG A 585      23.629  29.018  52.913  0.00  0.00           C
+ATOM   1905  CG  ARG A 585      24.764  28.905  53.869  0.00  0.00           C
+ATOM   1906  CD  ARG A 585      25.166  30.290  54.393  0.00  0.00           C
+ATOM   1907  NE  ARG A 585      26.369  30.184  55.201  0.00  0.00           N
+ATOM   1908  CZ  ARG A 585      27.070  31.238  55.619  0.00  0.00           C
+ATOM   1910  NH2 ARG A 585      26.685  32.476  55.291  0.00  0.00           N
+ATOM   1928  CG  ASP A 588      29.186  31.585  50.433  0.00  0.00           C
+ATOM   1930  OD2 ASP A 588      28.493  32.332  51.142  0.00  0.00           O
+ATOM   2225  O   GLN A 623      20.426  33.745  60.821  0.00  0.00           O
+ATOM   2232  CA  LEU A 624      20.060  31.664  59.052  0.00  0.00           C
+ATOM   2233  C   LEU A 624      19.211  32.697  58.356  0.00  0.00           C
+ATOM   2234  O   LEU A 624      19.711  33.484  57.551  0.00  0.00           O
+ATOM   2235  CB  LEU A 624      19.809  30.320  58.434  0.00  0.00           C
+ATOM   2236  CG  LEU A 624      20.255  30.131  56.992  0.00  0.00           C
+ATOM   2237  CD1 LEU A 624      21.817  29.978  56.972  0.00  0.00           C
+ATOM   2238  CD2 LEU A 624      19.576  28.915  56.379  0.00  0.00           C
+ATOM   2258  N   GLY A 627      20.050  36.314  59.671  0.00  0.00           N
+ATOM   2259  CA  GLY A 627      21.421  36.663  59.219  0.00  0.00           C
+ATOM   2260  C   GLY A 627      21.447  37.025  57.751  0.00  0.00           C
+ATOM   2261  O   GLY A 627      22.106  37.999  57.329  0.00  0.00           O
+ATOM   2262  N   PHE A 628      20.689  36.263  56.960  0.00  0.00           N
+ATOM   2263  CA  PHE A 628      20.610  36.558  55.551  0.00  0.00           C
+ATOM   2264  C   PHE A 628      20.029  37.944  55.338  0.00  0.00           C
+ATOM   2265  O   PHE A 628      20.600  38.760  54.593  0.00  0.00           O
+ATOM   2266  CB  PHE A 628      19.809  35.524  54.766  0.00  0.00           C
+ATOM   2267  CG  PHE A 628      19.560  35.967  53.391  0.00  0.00           C
+ATOM   2268  CD1 PHE A 628      20.561  35.927  52.437  0.00  0.00           C
+ATOM   2270  CE1 PHE A 628      20.351  36.450  51.175  0.00  0.00           C
+ATOM   2300  CB  THR A 631      24.140  39.689  55.262  0.00  0.00           C
+ATOM   2301  OG1 THR A 631      24.598  39.188  56.517  0.00  0.00           O
+ATOM   2302  CG2 THR A 631      25.351  39.881  54.364  0.00  0.00           C
+ATOM   2352  C   SER A 637      23.901  39.182  49.874  0.00  0.00           C
+ATOM   2353  O   SER A 637      23.828  38.022  49.449  0.00  0.00           O
+ATOM   2356  OXT SER A 637      23.636  39.361  51.058  0.00  0.00           O

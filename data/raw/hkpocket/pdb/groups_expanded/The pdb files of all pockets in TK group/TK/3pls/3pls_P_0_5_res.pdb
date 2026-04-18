@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  32.28  16.51  -8.23 with max radius 4.88
+ATOM    632  CA  LEU A1138      32.301  12.244  -8.762  0.00  0.00           C
+ATOM    633  C   LEU A1138      32.981  13.504  -9.293  0.00  0.00           C
+ATOM    634  O   LEU A1138      33.776  14.131  -8.592  0.00  0.00           O
+ATOM    635  CB  LEU A1138      31.397  12.616  -7.582  0.00  0.00           C
+ATOM    637  CD1 LEU A1138      29.921  11.901  -5.660  0.00  0.00           C
+ATOM    638  CD2 LEU A1138      29.492  11.041  -7.966  0.00  0.00           C
+ATOM    639  N   ASN A1139      32.652  13.874 -10.528  0.00  0.00           N
+ATOM    640  CA  ASN A1139      33.254  15.028 -11.190  0.00  0.00           C
+ATOM    641  C   ASN A1139      32.196  15.873 -11.884  0.00  0.00           C
+ATOM    644  CG  ASN A1139      35.125  15.728 -12.770  0.00  0.00           C
+ATOM    645  OD1 ASN A1139      35.475  16.670 -12.063  0.00  0.00           O
+ATOM    647  N   HIS A1140      31.802  16.956 -11.213  0.00  0.00           N
+ATOM    648  CA  HIS A1140      30.838  17.915 -11.723  0.00  0.00           C
+ATOM    649  C   HIS A1140      31.102  19.318 -11.146  0.00  0.00           C
+ATOM    650  O   HIS A1140      31.429  19.441  -9.958  0.00  0.00           O
+ATOM    651  CB  HIS A1140      29.430  17.470 -11.373  0.00  0.00           C
+ATOM    673  CA  VAL A1143      29.394  19.209  -6.789  0.00  0.00           C
+ATOM    674  C   VAL A1143      30.741  19.399  -6.148  0.00  0.00           C
+ATOM    675  O   VAL A1143      31.739  19.514  -6.853  0.00  0.00           O
+ATOM    676  CB  VAL A1143      29.258  17.730  -7.253  0.00  0.00           C
+ATOM    677  CG1 VAL A1143      29.379  16.773  -6.052  0.00  0.00           C
+ATOM    678  CG2 VAL A1143      27.932  17.511  -7.958  0.00  0.00           C
+ATOM    681  C   LEU A1144      32.880  18.292  -4.305  0.00  0.00           C
+ATOM    682  O   LEU A1144      32.361  17.196  -4.111  0.00  0.00           O
+ATOM    687  N   ALA A1145      34.148  18.429  -4.707  0.00  0.00           N
+ATOM    688  CA  ALA A1145      35.028  17.260  -4.903  0.00  0.00           C
+ATOM    691  CB  ALA A1145      36.287  17.641  -5.686  0.00  0.00           C
+ATOM   1105  CD2 TYR A1198      27.750  14.438 -10.425  0.00  0.00           C
+ATOM   1107  CE2 TYR A1198      28.921  13.704 -10.501  0.00  0.00           C
+ATOM   1108  CZ  TYR A1198      29.362  13.262 -11.742  0.00  0.00           C

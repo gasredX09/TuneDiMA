@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   9.99   5.34   5.77 with max radius 6.30
+ATOM    624  CB  ASP A 708       9.353   9.915   5.885  0.00  0.00           C
+ATOM    625  CG  ASP A 708       9.691   9.717   4.416  0.00  0.00           C
+ATOM    627  OD2 ASP A 708      10.220   8.646   4.074  0.00  0.00           O
+ATOM    661  CZ  ARG A 712      13.566   9.418   5.386  0.00  0.00           C
+ATOM    662  NH1 ARG A 712      12.736   8.631   6.065  0.00  0.00           N
+ATOM    939  CA  ALA A 748       2.807   6.321   5.784  0.00  0.00           C
+ATOM    940  C   ALA A 748       3.308   7.760   5.573  0.00  0.00           C
+ATOM    942  CB  ALA A 748       3.706   5.345   5.049  0.00  0.00           C
+ATOM    943  N   ALA A 749       4.362   8.158   6.311  0.00  0.00           N
+ATOM    944  CA  ALA A 749       4.949   9.505   6.260  0.00  0.00           C
+ATOM    945  C   ALA A 749       5.519   9.892   4.891  0.00  0.00           C
+ATOM    947  CB  ALA A 749       5.994   9.665   7.348  0.00  0.00           C
+ATOM    948  N   ARG A 750       5.955   8.900   4.096  0.00  0.00           N
+ATOM    949  CA  ARG A 750       6.492   9.100   2.747  0.00  0.00           C
+ATOM    952  CB  ARG A 750       7.308   7.863   2.294  0.00  0.00           C
+ATOM    953  CG  ARG A 750       6.463   6.610   2.041  0.00  0.00           C
+ATOM    954  CD  ARG A 750       7.254   5.371   1.638  0.00  0.00           C
+ATOM    955  NE  ARG A 750       6.369   4.369   1.033  0.00  0.00           N
+ATOM    956  CZ  ARG A 750       5.631   3.492   1.711  0.00  0.00           C
+ATOM    957  NH1 ARG A 750       5.684   3.452   3.035  0.00  0.00           N
+ATOM   1108  NE1 TRP A 792       4.855   3.864   7.915  0.00  0.00           N
+ATOM   1109  CE2 TRP A 792       5.750   3.124   7.181  0.00  0.00           C
+ATOM   1111  CZ2 TRP A 792       7.088   3.382   6.847  0.00  0.00           C
+ATOM   1112  CZ3 TRP A 792       7.101   1.274   5.642  0.00  0.00           C
+ATOM   1113  CH2 TRP A 792       7.740   2.448   6.070  0.00  0.00           C
+ATOM   1317  CB  GLU A 818       6.834   7.996  11.023  0.00  0.00           C
+ATOM   1318  CG  GLU A 818       7.150   6.637  10.428  0.00  0.00           C
+ATOM   1319  CD  GLU A 818       6.637   6.500   9.010  0.00  0.00           C
+ATOM   1320  OE1 GLU A 818       5.400   6.462   8.828  0.00  0.00           O
+ATOM   1321  OE2 GLU A 818       7.469   6.496   8.075  0.00  0.00           O
+ATOM   1356  CA  GLY A 823      10.982  10.143  10.215  0.00  0.00           C
+ATOM   1357  C   GLY A 823      11.889   8.941  10.162  0.00  0.00           C
+ATOM   1358  O   GLY A 823      12.276   8.523   9.070  0.00  0.00           O
+ATOM   1359  N   GLU A 824      12.204   8.342  11.306  0.00  0.00           N
+ATOM   1360  CA  GLU A 824      13.062   7.173  11.232  0.00  0.00           C
+ATOM   1361  C   GLU A 824      12.243   5.917  10.809  0.00  0.00           C
+ATOM   1362  O   GLU A 824      11.003   5.966  10.774  0.00  0.00           O
+ATOM   1368  N   ARG A 825      12.957   4.858  10.375  0.00  0.00           N
+ATOM   1369  CA  ARG A 825      12.401   3.599   9.906  0.00  0.00           C
+ATOM   1372  CB  ARG A 825      13.485   2.731   9.205  0.00  0.00           C
+ATOM   1373  CG  ARG A 825      13.078   1.262   8.908  0.00  0.00           C
+ATOM   1374  CD  ARG A 825      12.272   1.049   7.637  0.00  0.00           C
+ATOM   1376  CZ  ARG A 825      12.547  -0.414   5.655  0.00  0.00           C
+ATOM   1377  NH1 ARG A 825      12.015   0.511   4.861  0.00  0.00           N
+ATOM   1384  CG  PRO A 826       8.151   2.698  10.297  0.00  0.00           C
+ATOM   1385  CD  PRO A 826       9.514   2.848   9.720  0.00  0.00           C

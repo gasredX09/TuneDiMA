@@ -1,0 +1,55 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 49 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  33.96 198.45 -90.08 with max radius 7.27
+ATOM   1440  CZ3 TRP U 197      30.966 196.899 -85.119  0.00  0.00           C
+ATOM   1441  CH2 TRP U 197      31.399 197.809 -84.112  0.00  0.00           C
+ATOM   1679  O   ASN U 228      34.765 203.755 -90.556  0.00  0.00           O
+ATOM   1686  C   ARG U 229      36.598 202.712 -88.431  0.00  0.00           C
+ATOM   1687  O   ARG U 229      35.851 202.286 -87.498  0.00  0.00           O
+ATOM   1690  N   VAL U 230      37.331 201.907 -89.195  0.00  0.00           N
+ATOM   1691  CA  VAL U 230      37.342 200.437 -88.966  0.00  0.00           C
+ATOM   1692  C   VAL U 230      37.975 200.162 -87.584  0.00  0.00           C
+ATOM   1694  CB  VAL U 230      38.040 199.671 -90.142  0.00  0.00           C
+ATOM   1695  CG1 VAL U 230      38.167 198.154 -89.864  0.00  0.00           C
+ATOM   1696  CG2 VAL U 230      37.330 199.870 -91.482  0.00  0.00           C
+ATOM   1697  N   ILE U 231      37.480 199.154 -86.843  0.00  0.00           N
+ATOM   1698  CA  ILE U 231      38.003 198.821 -85.528  0.00  0.00           C
+ATOM   1701  CB  ILE U 231      37.171 197.698 -84.861  0.00  0.00           C
+ATOM   1702  CG1 ILE U 231      35.744 198.169 -84.606  0.00  0.00           C
+ATOM   1703  CG2 ILE U 231      37.806 197.205 -83.533  0.00  0.00           C
+ATOM   1704  CD1 ILE U 231      35.637 199.261 -83.626  0.00  0.00           C
+ATOM   1717  CD2 LEU U 233      39.968 193.675 -83.118  0.00  0.00           C
+ATOM   1817  CA  GLN U 248      37.483 191.549 -87.359  0.00  0.00           C
+ATOM   1818  C   GLN U 248      36.178 191.482 -88.168  0.00  0.00           C
+ATOM   1819  O   GLN U 248      35.580 192.527 -88.464  0.00  0.00           O
+ATOM   1821  CG  GLN U 248      38.866 192.793 -89.113  0.00  0.00           C
+ATOM   1822  CD  GLN U 248      39.477 193.938 -88.288  0.00  0.00           C
+ATOM   1823  OE1 GLN U 248      38.875 195.059 -88.174  0.00  0.00           O
+ATOM   1845  CA  LEU U 251      33.142 193.925 -85.611  0.00  0.00           C
+ATOM   1846  C   LEU U 251      33.166 194.793 -86.877  0.00  0.00           C
+ATOM   1847  O   LEU U 251      33.756 195.855 -86.879  0.00  0.00           O
+ATOM   1848  CB  LEU U 251      34.230 194.254 -84.614  0.00  0.00           C
+ATOM   1852  N   GLU U 252      32.454 194.359 -87.914  0.00  0.00           N
+ATOM   1853  CA  GLU U 252      32.239 195.130 -89.121  0.00  0.00           C
+ATOM   1854  C   GLU U 252      31.028 196.040 -88.817  0.00  0.00           C
+ATOM   1856  CB  GLU U 252      31.933 194.168 -90.265  0.00  0.00           C
+ATOM   1857  CG  GLU U 252      31.326 194.789 -91.498  0.00  0.00           C
+ATOM   1858  CD  GLU U 252      32.149 195.950 -92.073  0.00  0.00           C
+ATOM   1859  OE1 GLU U 252      33.357 195.639 -92.287  0.00  0.00           O
+ATOM   1860  OE2 GLU U 252      31.567 197.096 -92.324  0.00  0.00           O
+ATOM   1861  N   ARG U 253      31.130 197.370 -89.062  0.00  0.00           N
+ATOM   1862  CA  ARG U 253      30.020 198.289 -88.756  0.00  0.00           C
+ATOM   1863  C   ARG U 253      28.754 198.175 -89.630  0.00  0.00           C
+ATOM   1865  CB  ARG U 253      30.515 199.751 -88.716  0.00  0.00           C
+ATOM   1866  CG  ARG U 253      31.625 200.057 -87.717  0.00  0.00           C
+ATOM   1867  CD  ARG U 253      32.121 201.503 -87.870  0.00  0.00           C
+ATOM   1868  NE  ARG U 253      33.089 201.948 -86.866  0.00  0.00           N
+ATOM   1869  CZ  ARG U 253      32.808 202.497 -85.679  0.00  0.00           C
+ATOM   1871  NH2 ARG U 253      33.784 202.895 -84.853  0.00  0.00           N
+ATOM   1872  N   ASP U 254      28.924 197.775 -90.883  0.00  0.00           N
+ATOM   1873  CA  ASP U 254      27.846 197.620 -91.838  0.00  0.00           C
+ATOM   1876  CB  ASP U 254      28.369 197.899 -93.284  0.00  0.00           C
+ATOM   1899  CD  ARG U 257      31.129 196.305 -96.430  0.00  0.00           C

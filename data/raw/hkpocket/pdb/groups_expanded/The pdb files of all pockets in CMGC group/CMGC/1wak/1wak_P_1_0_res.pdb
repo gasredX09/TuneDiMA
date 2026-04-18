@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  27.17  15.88  49.99 with max radius 5.83
+ATOM      1  N   CYS A  63      28.099  15.695  44.121  0.00  0.00           N
+ATOM      2  CA  CYS A  63      27.303  16.891  43.722  0.00  0.00           C
+ATOM      3  C   CYS A  63      26.997  17.797  44.913  0.00  0.00           C
+ATOM      4  O   CYS A  63      27.720  17.789  45.912  0.00  0.00           O
+ATOM      7  N   LYS A  64      25.922  18.572  44.802  0.00  0.00           N
+ATOM      8  CA  LYS A  64      25.525  19.504  45.852  0.00  0.00           C
+ATOM      9  C   LYS A  64      24.810  18.828  47.017  0.00  0.00           C
+ATOM     10  O   LYS A  64      25.181  17.681  47.328  0.00  0.00           O
+ATOM     11  CB  LYS A  64      24.622  20.586  45.261  0.00  0.00           C
+ATOM     18  C   TYR A  67      32.220  15.771  49.888  0.00  0.00           C
+ATOM     19  O   TYR A  67      32.337  16.562  48.949  0.00  0.00           O
+ATOM     20  CB  TYR A  67      30.730  16.144  51.841  0.00  0.00           C
+ATOM     21  CG  TYR A  67      30.424  16.998  53.052  0.00  0.00           C
+ATOM     22  CD1 TYR A  67      30.112  18.353  52.915  0.00  0.00           C
+ATOM     24  CE1 TYR A  67      29.834  19.142  54.028  0.00  0.00           C
+ATOM     28  N   HIS A  68      32.132  14.457  49.721  0.00  0.00           N
+ATOM     29  CA  HIS A  68      32.149  13.865  48.391  0.00  0.00           C
+ATOM     30  C   HIS A  68      30.998  12.880  48.243  0.00  0.00           C
+ATOM     31  O   HIS A  68      31.140  11.699  48.552  0.00  0.00           O
+ATOM     38  N   LEU A  69      29.858  13.381  47.774  0.00  0.00           N
+ATOM     39  CA  LEU A  69      28.671  12.554  47.568  0.00  0.00           C
+ATOM     40  C   LEU A  69      29.042  11.259  46.840  0.00  0.00           C
+ATOM     41  O   LEU A  69      28.695  10.158  47.278  0.00  0.00           O
+ATOM     42  CB  LEU A  69      27.645  13.328  46.740  0.00  0.00           C
+ATOM     43  CG  LEU A  69      26.319  12.633  46.428  0.00  0.00           C
+ATOM     44  CD1 LEU A  69      25.470  12.529  47.701  0.00  0.00           C
+ATOM     45  CD2 LEU A  69      25.578  13.435  45.360  0.00  0.00           C
+ATOM    741  O   SER A 154      23.302  10.732  50.662  0.00  0.00           O
+ATOM    744  N   GLY A 155      22.543  12.837  50.422  0.00  0.00           N
+ATOM    745  CA  GLY A 155      23.793  13.436  50.834  0.00  0.00           C
+ATOM    746  C   GLY A 155      23.479  14.429  51.934  0.00  0.00           C
+ATOM    748  N   VAL A 156      24.455  15.247  52.302  0.00  0.00           N
+ATOM    749  CA  VAL A 156      24.237  16.230  53.350  0.00  0.00           C
+ATOM    750  C   VAL A 156      23.162  17.234  52.923  0.00  0.00           C
+ATOM    752  CB  VAL A 156      25.551  16.976  53.689  0.00  0.00           C
+ATOM    753  CG1 VAL A 156      25.314  17.967  54.818  0.00  0.00           C
+ATOM    754  CG2 VAL A 156      26.630  15.971  54.086  0.00  0.00           C
+ATOM    755  N   ASN A 157      23.212  17.668  51.665  0.00  0.00           N
+ATOM    756  CA  ASN A 157      22.243  18.636  51.161  0.00  0.00           C
+ATOM    759  CB  ASN A 157      22.870  19.483  50.049  0.00  0.00           C
+ATOM    760  CG  ASN A 157      23.498  20.764  50.575  0.00  0.00           C
+ATOM    761  OD1 ASN A 157      24.104  21.527  49.822  0.00  0.00           O
+ATOM    762  ND2 ASN A 157      23.347  21.009  51.874  0.00  0.00           N
+ATOM    781  CD2 HIS A 160      22.252  14.246  46.613  0.00  0.00           C
+ATOM    782  CE1 HIS A 160      23.314  15.965  45.758  0.00  0.00           C
+ATOM    783  NE2 HIS A 160      23.004  15.362  46.892  0.00  0.00           N

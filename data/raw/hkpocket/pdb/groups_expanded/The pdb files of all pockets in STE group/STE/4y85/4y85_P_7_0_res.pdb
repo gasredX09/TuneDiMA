@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   4.63   3.16 187.79 with max radius 6.45
+ATOM    493  CA  GLY A 150       9.008   4.197 188.235  0.00  0.00           C
+ATOM    494  C   GLY A 150       8.891   4.125 189.743  0.00  0.00           C
+ATOM    496  N   LYS A 151       7.717   3.705 190.236  0.00  0.00           N
+ATOM    497  CA  LYS A 151       7.441   3.566 191.670  0.00  0.00           C
+ATOM    500  CB  LYS A 151       5.967   3.851 191.978  0.00  0.00           C
+ATOM    501  CG  LYS A 151       5.569   5.316 191.835  0.00  0.00           C
+ATOM    502  CD  LYS A 151       4.084   5.489 192.095  0.00  0.00           C
+ATOM    503  CE  LYS A 151       3.591   6.845 191.662  0.00  0.00           C
+ATOM    504  NZ  LYS A 151       2.109   6.939 191.696  0.00  0.00           N
+ATOM    521  CE2 TYR A 153       4.154   0.597 192.227  0.00  0.00           C
+ATOM    522  CZ  TYR A 153       3.110   1.309 192.797  0.00  0.00           C
+ATOM    523  OH  TYR A 153       2.510   2.326 192.085  0.00  0.00           O
+ATOM    628  CA  LEU A 168       7.023  -0.661 188.054  0.00  0.00           C
+ATOM    629  C   LEU A 168       7.478   0.442 187.107  0.00  0.00           C
+ATOM    630  O   LEU A 168       7.436   1.607 187.473  0.00  0.00           O
+ATOM    631  CB  LEU A 168       5.556  -0.475 188.478  0.00  0.00           C
+ATOM    632  CG  LEU A 168       4.700  -1.730 188.670  0.00  0.00           C
+ATOM    634  CD2 LEU A 168       3.246  -1.349 188.937  0.00  0.00           C
+ATOM    648  CG  PRO A 170       5.971   4.185 183.050  0.00  0.00           C
+ATOM    649  CD  PRO A 170       7.083   3.485 183.783  0.00  0.00           C
+ATOM    890  CB  THR A 202       3.853  -1.960 183.498  0.00  0.00           C
+ATOM    891  OG1 THR A 202       2.831  -1.008 183.216  0.00  0.00           O
+ATOM    892  CG2 THR A 202       4.554  -1.594 184.812  0.00  0.00           C

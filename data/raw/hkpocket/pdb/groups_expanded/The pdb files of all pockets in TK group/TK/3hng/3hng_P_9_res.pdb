@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  22.70  12.77  12.98 with max radius 5.33
+ATOM   1460  CB  VAL A1054      19.723   9.841  17.082  0.00  0.00           C
+ATOM   1461  CG1 VAL A1054      20.602   8.751  16.498  0.00  0.00           C
+ATOM   1465  C   ARG A1055      23.903  11.586  18.540  0.00  0.00           C
+ATOM   1466  O   ARG A1055      24.063  11.136  17.412  0.00  0.00           O
+ATOM   1469  CA  LYS A1056      24.591  13.836  17.838  0.00  0.00           C
+ATOM   1472  CB  LYS A1056      23.638  15.032  17.717  0.00  0.00           C
+ATOM   1511  CG  LEU A1063      18.472  13.566  14.866  0.00  0.00           C
+ATOM   1512  CD1 LEU A1063      19.208  12.660  13.856  0.00  0.00           C
+ATOM   1513  CD2 LEU A1063      18.757  15.037  14.592  0.00  0.00           C
+ATOM   1850  CA  MET A1105      19.142   8.532  11.117  0.00  0.00           C
+ATOM   1851  C   MET A1105      20.628   8.943  11.120  0.00  0.00           C
+ATOM   1852  O   MET A1105      21.240   9.032  12.191  0.00  0.00           O
+ATOM   1853  CB  MET A1105      18.608   8.700  12.533  0.00  0.00           C
+ATOM   1856  CE  MET A1105      17.467  10.965  11.416  0.00  0.00           C
+ATOM   1857  N   ASP A1106      21.193   9.236   9.946  0.00  0.00           N
+ATOM   1858  CA  ASP A1106      22.614   9.593   9.846  0.00  0.00           C
+ATOM   1859  C   ASP A1106      22.849  10.996   9.266  0.00  0.00           C
+ATOM   1860  O   ASP A1106      21.919  11.784   9.151  0.00  0.00           O
+ATOM   1861  CB  ASP A1106      23.341   8.551   9.002  0.00  0.00           C
+ATOM   1865  N   GLU A1107      24.095  11.303   8.909  0.00  0.00           N
+ATOM   1866  CA  GLU A1107      24.426  12.593   8.305  0.00  0.00           C
+ATOM   1870  CG  GLU A1107      26.929  12.509   9.025  0.00  0.00           C
+ATOM   1889  CD2 PHE A1109      17.379  12.997   9.640  0.00  0.00           C
+ATOM   1898  SG  CYS A1110      20.769  15.851   9.685  0.00  0.00           S

@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   5.81 -10.19  21.77 with max radius 6.59
+ATOM   2435  O   SER A 896       2.520  -6.520  20.833  0.00  0.00           O
+ATOM   2437  OG  SER A 896       3.929  -5.420  18.165  0.00  0.00           O
+ATOM   2474  CA  MET A 899       1.203  -9.751  22.713  0.00  0.00           C
+ATOM   2475  C   MET A 899       2.177  -9.292  23.789  0.00  0.00           C
+ATOM   2476  O   MET A 899       2.471 -10.031  24.730  0.00  0.00           O
+ATOM   2477  CB  MET A 899       1.973 -10.213  21.475  0.00  0.00           C
+ATOM   2478  CG  MET A 899       1.137 -11.003  20.479  0.00  0.00           C
+ATOM   2479  SD  MET A 899       2.119 -11.704  19.139  0.00  0.00           S
+ATOM   2480  CE  MET A 899       2.830 -10.235  18.401  0.00  0.00           C
+ATOM   2490  N   ARG A 900       2.670  -8.065  23.648  0.00  0.00           N
+ATOM   2491  CA  ARG A 900       3.585  -7.495  24.627  0.00  0.00           C
+ATOM   2494  CB  ARG A 900       4.097  -6.132  24.147  0.00  0.00           C
+ATOM   2495  CG  ARG A 900       5.011  -5.408  25.128  0.00  0.00           C
+ATOM   2496  CD  ARG A 900       6.321  -6.152  25.357  0.00  0.00           C
+ATOM   2497  NE  ARG A 900       7.228  -6.039  24.217  0.00  0.00           N
+ATOM   2498  CZ  ARG A 900       8.475  -6.501  24.202  0.00  0.00           C
+ATOM   2499  NH1 ARG A 900       9.226  -6.350  23.120  0.00  0.00           N
+ATOM   2500  NH2 ARG A 900       8.976  -7.113  25.268  0.00  0.00           N
+ATOM   2554  CB  TYR A 903       5.050 -10.788  26.941  0.00  0.00           C
+ATOM   2555  CG  TYR A 903       6.437 -11.349  27.166  0.00  0.00           C
+ATOM   2556  CD1 TYR A 903       6.663 -12.720  27.158  0.00  0.00           C
+ATOM   2557  CD2 TYR A 903       7.525 -10.507  27.362  0.00  0.00           C
+ATOM   2558  CE1 TYR A 903       7.932 -13.237  27.354  0.00  0.00           C
+ATOM   2559  CE2 TYR A 903       8.795 -11.014  27.557  0.00  0.00           C
+ATOM   3008  OG  SER A 939       5.828  -5.376  21.321  0.00  0.00           O
+ATOM   4771  CG  ARG A1051       2.495 -13.581  23.064  0.00  0.00           C
+ATOM   4772  CD  ARG A1051       3.606 -13.011  23.928  0.00  0.00           C
+ATOM   4773  NE  ARG A1051       4.356 -14.054  24.622  0.00  0.00           N
+ATOM   4774  CZ  ARG A1051       5.356 -14.748  24.085  0.00  0.00           C
+ATOM   4776  NH2 ARG A1051       5.739 -14.525  22.834  0.00  0.00           N
+ATOM   4852  CB  LYS A1055       2.637 -15.115  18.203  0.00  0.00           C
+ATOM   4853  CG  LYS A1055       4.037 -14.995  17.627  0.00  0.00           C
+ATOM   4854  CD  LYS A1055       5.063 -15.627  18.556  0.00  0.00           C
+ATOM   4855  CE  LYS A1055       6.420 -14.951  18.437  0.00  0.00           C

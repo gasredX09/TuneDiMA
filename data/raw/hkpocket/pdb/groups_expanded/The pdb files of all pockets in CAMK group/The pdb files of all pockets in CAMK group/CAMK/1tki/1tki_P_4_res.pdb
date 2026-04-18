@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  40.76  30.87  27.79 with max radius 6.97
+ATOM   1593  CE1 TYR A 211      38.990  36.729  27.972  0.00  0.00           C
+ATOM   1595  CZ  TYR A 211      39.925  36.479  28.960  0.00  0.00           C
+ATOM   1596  OH  TYR A 211      41.075  35.804  28.637  0.00  0.00           O
+ATOM   1632  C   ILE A 217      37.131  35.890  24.336  0.00  0.00           C
+ATOM   1633  O   ILE A 217      36.936  36.443  25.417  0.00  0.00           O
+ATOM   1634  CB  ILE A 217      39.534  36.211  23.748  0.00  0.00           C
+ATOM   1636  CG2 ILE A 217      39.758  34.713  23.904  0.00  0.00           C
+ATOM   1637  CD1 ILE A 217      41.958  36.755  23.222  0.00  0.00           C
+ATOM   1640  C   ASN A 218      36.616  33.421  25.921  0.00  0.00           C
+ATOM   1641  O   ASN A 218      37.434  32.564  25.587  0.00  0.00           O
+ATOM   1646  N   PRO A 219      36.513  33.844  27.190  0.00  0.00           N
+ATOM   1647  CA  PRO A 219      37.383  33.344  28.261  0.00  0.00           C
+ATOM   1648  C   PRO A 219      37.337  31.845  28.541  0.00  0.00           C
+ATOM   1649  O   PRO A 219      38.283  31.297  29.094  0.00  0.00           O
+ATOM   1650  CB  PRO A 219      36.931  34.157  29.476  0.00  0.00           C
+ATOM   1652  CD  PRO A 219      35.497  34.766  27.728  0.00  0.00           C
+ATOM   1653  N   PHE A 220      36.252  31.184  28.153  0.00  0.00           N
+ATOM   1654  CA  PHE A 220      36.107  29.752  28.406  0.00  0.00           C
+ATOM   1655  C   PHE A 220      36.133  28.912  27.134  0.00  0.00           C
+ATOM   1656  O   PHE A 220      35.700  27.761  27.126  0.00  0.00           O
+ATOM   1657  CB  PHE A 220      34.818  29.504  29.196  0.00  0.00           C
+ATOM   1664  N   LEU A 221      36.676  29.485  26.066  0.00  0.00           N
+ATOM   1665  CA  LEU A 221      36.752  28.800  24.784  0.00  0.00           C
+ATOM   1666  C   LEU A 221      37.488  27.459  24.837  0.00  0.00           C
+ATOM   1667  O   LEU A 221      38.487  27.295  25.546  0.00  0.00           O
+ATOM   1668  CB  LEU A 221      37.399  29.713  23.740  0.00  0.00           C
+ATOM   1671  CD2 LEU A 221      37.981  30.304  21.395  0.00  0.00           C
+ATOM   1748  CB  ASN A 231      36.349  25.994  30.637  0.00  0.00           C
+ATOM   1749  CG  ASN A 231      37.435  25.179  29.959  0.00  0.00           C
+ATOM   1750  OD1 ASN A 231      38.008  24.269  30.558  0.00  0.00           O
+ATOM   1751  ND2 ASN A 231      37.732  25.509  28.707  0.00  0.00           N
+ATOM   1783  C   GLU A 236      39.127  28.960  33.362  0.00  0.00           C
+ATOM   1784  O   GLU A 236      38.589  28.734  32.279  0.00  0.00           O
+ATOM   1785  CB  GLU A 236      39.086  26.584  34.125  0.00  0.00           C
+ATOM   1786  CG  GLU A 236      40.472  26.253  33.598  0.00  0.00           C
+ATOM   1790  N   TYR A 237      39.948  29.985  33.567  0.00  0.00           N
+ATOM   1791  CA  TYR A 237      40.294  30.920  32.503  0.00  0.00           C
+ATOM   1792  C   TYR A 237      41.613  31.607  32.842  0.00  0.00           C
+ATOM   1794  CB  TYR A 237      39.189  31.972  32.304  0.00  0.00           C
+ATOM   1802  N   THR A 238      42.191  32.279  31.856  0.00  0.00           N
+ATOM   1803  CA  THR A 238      43.445  32.997  32.040  0.00  0.00           C
+ATOM   1804  C   THR A 238      43.332  34.293  31.259  0.00  0.00           C
+ATOM   1805  O   THR A 238      42.569  34.377  30.307  0.00  0.00           O
+ATOM   1806  CB  THR A 238      44.639  32.196  31.474  0.00  0.00           C
+ATOM   1820  N   ASP A 240      44.417  36.457  28.571  0.00  0.00           N
+ATOM   1821  CA  ASP A 240      45.224  36.344  27.356  0.00  0.00           C
+ATOM   1824  CB  ASP A 240      44.341  36.513  26.113  0.00  0.00           C
+ATOM   1826  OD1 ASP A 240      45.224  35.057  24.443  0.00  0.00           O

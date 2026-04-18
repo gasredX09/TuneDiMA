@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.45  25.38  19.99 with max radius 7.56
+ATOM    317  O   LEU A  49      -2.340  24.107  14.970  0.00  0.00           O
+ATOM    319  CG  LEU A  49      -3.898  21.349  16.180  0.00  0.00           C
+ATOM    321  CD2 LEU A  49      -4.288  20.222  17.140  0.00  0.00           C
+ATOM    322  N   ARG A  50      -0.458  22.926  15.335  0.00  0.00           N
+ATOM    323  CA  ARG A  50       0.191  24.033  16.033  0.00  0.00           C
+ATOM    324  C   ARG A  50       0.433  25.222  15.132  0.00  0.00           C
+ATOM    325  O   ARG A  50       0.251  26.357  15.554  0.00  0.00           O
+ATOM    326  CB  ARG A  50       1.455  23.554  16.775  0.00  0.00           C
+ATOM    327  CG  ARG A  50       2.793  24.071  16.301  0.00  0.00           C
+ATOM    328  CD  ARG A  50       3.862  23.768  17.320  0.00  0.00           C
+ATOM    329  NE  ARG A  50       4.000  22.325  17.563  0.00  0.00           N
+ATOM    351  CA  CYS A  53      -3.229  27.744  15.950  0.00  0.00           C
+ATOM    354  CB  CYS A  53      -3.082  26.812  17.145  0.00  0.00           C
+ATOM    355  SG  CYS A  53      -4.322  25.491  17.206  0.00  0.00           S
+ATOM    356  N   LEU A  54      -1.112  28.975  15.857  0.00  0.00           N
+ATOM    361  CG  LEU A  54       1.644  28.855  17.227  0.00  0.00           C
+ATOM    362  CD1 LEU A  54       3.002  28.191  16.966  0.00  0.00           C
+ATOM    363  CD2 LEU A  54       1.641  29.675  18.560  0.00  0.00           C
+ATOM   1113  C   ALA A 148       6.656  26.299  19.100  0.00  0.00           C
+ATOM   1114  O   ALA A 148       5.871  25.351  19.209  0.00  0.00           O
+ATOM   1117  CA  ARG A 149       6.528  26.829  21.498  0.00  0.00           C
+ATOM   1118  C   ARG A 149       5.876  28.102  21.952  0.00  0.00           C
+ATOM   1127  N   ALA A 150       4.748  27.970  22.639  0.00  0.00           N
+ATOM   1128  CA  ALA A 150       4.030  29.114  23.204  0.00  0.00           C
+ATOM   1131  CB  ALA A 150       2.523  28.950  23.009  0.00  0.00           C
+ATOM   1167  CG1 VAL A 155       2.185  20.632  21.119  0.00  0.00           C
+ATOM   1168  CG2 VAL A 155       3.556  22.704  21.463  0.00  0.00           C

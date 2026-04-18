@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  64.16  41.69  11.63 with max radius 5.43
+ATOM    919  C   LEU A 180      66.172  46.662  10.797  0.00  0.00           C
+ATOM    920  O   LEU A 180      65.522  46.384   9.788  0.00  0.00           O
+ATOM    925  N   GLU A 181      65.812  46.322  12.036  0.00  0.00           N
+ATOM    926  CA  GLU A 181      64.559  45.624  12.342  0.00  0.00           C
+ATOM    927  C   GLU A 181      63.359  46.363  11.772  0.00  0.00           C
+ATOM    928  O   GLU A 181      62.568  45.789  11.024  0.00  0.00           O
+ATOM    929  CB  GLU A 181      64.380  45.455  13.860  0.00  0.00           C
+ATOM    930  CG  GLU A 181      65.386  44.558  14.516  0.00  0.00           C
+ATOM    931  CD  GLU A 181      65.169  44.454  16.011  0.00  0.00           C
+ATOM    932  OE1 GLU A 181      64.795  43.356  16.468  0.00  0.00           O
+ATOM    946  CA  VAL A 184      62.264  45.236   7.082  0.00  0.00           C
+ATOM    949  CB  VAL A 184      62.982  43.938   7.561  0.00  0.00           C
+ATOM    950  CG1 VAL A 184      62.533  42.734   6.720  0.00  0.00           C
+ATOM    951  CG2 VAL A 184      64.504  44.087   7.465  0.00  0.00           C
+ATOM   1212  CA  GLN A 218      62.197  38.113  15.402  0.00  0.00           C
+ATOM   1213  C   GLN A 218      61.042  38.879  14.814  0.00  0.00           C
+ATOM   1215  CB  GLN A 218      62.832  37.201  14.355  0.00  0.00           C
+ATOM   1216  CG  GLN A 218      63.268  37.846  13.065  0.00  0.00           C
+ATOM   1217  CD  GLN A 218      64.028  36.865  12.194  0.00  0.00           C
+ATOM   1219  NE2 GLN A 218      63.561  36.656  10.966  0.00  0.00           N
+ATOM   1220  N   VAL A 219      61.246  40.170  14.570  0.00  0.00           N
+ATOM   1221  CA  VAL A 219      60.136  41.088  14.265  0.00  0.00           C
+ATOM   1222  C   VAL A 219      59.563  40.966  12.857  0.00  0.00           C
+ATOM   1224  CB  VAL A 219      60.528  42.576  14.570  0.00  0.00           C
+ATOM   1225  CG1 VAL A 219      61.357  43.181  13.427  0.00  0.00           C
+ATOM   1227  N   SER A 220      60.347  40.380  11.956  0.00  0.00           N
+ATOM   1228  CA  SER A 220      59.915  40.132  10.582  0.00  0.00           C
+ATOM   1229  C   SER A 220      60.347  38.729  10.161  0.00  0.00           C
+ATOM   1230  O   SER A 220      61.246  38.160  10.774  0.00  0.00           O
+ATOM   1231  CB  SER A 220      60.536  41.175   9.647  0.00  0.00           C
+ATOM   1232  OG  SER A 220      61.936  40.982   9.573  0.00  0.00           O

@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.46 -25.90  -8.67 with max radius 5.60
+ATOM   1535  CZ3 TRP A 237      -0.007 -24.556 -14.265  0.00  0.00           C
+ATOM   1536  CH2 TRP A 237      -0.792 -23.436 -13.875  0.00  0.00           C
+ATOM   1775  CA  GLY A 268      -0.229 -21.209  -9.759  0.00  0.00           C
+ATOM   1776  C   GLY A 268      -1.133 -21.729  -8.657  0.00  0.00           C
+ATOM   1777  O   GLY A 268      -1.322 -22.911  -8.565  0.00  0.00           O
+ATOM   1784  CD  LYS A 269      -0.044 -21.799  -4.899  0.00  0.00           C
+ATOM   1795  CE1 TYR A 270      -3.758 -25.541  -8.688  0.00  0.00           C
+ATOM   1797  CZ  TYR A 270      -4.425 -26.742  -8.348  0.00  0.00           C
+ATOM   1798  OH  TYR A 270      -3.763 -27.942  -8.332  0.00  0.00           O
+ATOM   1910  C   LEU A 284      -3.674 -31.217 -10.360  0.00  0.00           C
+ATOM   1911  O   LEU A 284      -3.150 -30.437 -11.193  0.00  0.00           O
+ATOM   1916  N   LYS A 285      -3.029 -31.668  -9.302  0.00  0.00           N
+ATOM   1917  CA  LYS A 285      -1.645 -31.341  -9.079  0.00  0.00           C
+ATOM   1918  C   LYS A 285      -0.722 -31.899 -10.173  0.00  0.00           C
+ATOM   1919  O   LYS A 285       0.406 -31.451 -10.281  0.00  0.00           O
+ATOM   1920  CB  LYS A 285      -1.187 -31.974  -7.756  0.00  0.00           C
+ATOM   1921  CG  LYS A 285      -1.693 -31.198  -6.617  0.00  0.00           C
+ATOM   1948  CA  LEU A 288      -1.343 -27.662 -12.962  0.00  0.00           C
+ATOM   1949  C   LEU A 288      -0.016 -27.414 -12.313  0.00  0.00           C
+ATOM   1950  O   LEU A 288       0.048 -26.952 -11.131  0.00  0.00           O
+ATOM   1951  CB  LEU A 288      -2.526 -26.990 -12.163  0.00  0.00           C
+ATOM   1955  N   VAL A 289       1.060 -27.741 -13.024  0.00  0.00           N
+ATOM   1956  CA  VAL A 289       2.412 -27.653 -12.496  0.00  0.00           C
+ATOM   1957  C   VAL A 289       3.039 -26.492 -13.245  0.00  0.00           C
+ATOM   1959  CB  VAL A 289       3.150 -28.929 -12.818  0.00  0.00           C
+ATOM   1962  N   LEU A 290       3.603 -25.532 -12.539  0.00  0.00           N
+ATOM   1963  CA  LEU A 290       4.124 -24.368 -13.260  0.00  0.00           C
+ATOM   1966  CB  LEU A 290       4.665 -23.330 -12.284  0.00  0.00           C
+ATOM   1967  CG  LEU A 290       3.507 -22.685 -11.482  0.00  0.00           C
+ATOM   1968  CD1 LEU A 290       4.129 -21.864 -10.267  0.00  0.00           C
+ATOM   1969  CD2 LEU A 290       2.587 -21.727 -12.331  0.00  0.00           C

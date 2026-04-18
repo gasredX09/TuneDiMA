@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -25.82   1.20  -3.85 with max radius 6.26
+ATOM   1363  C   ILE A 509     -20.677   0.980  -1.080  0.00  0.00           C
+ATOM   1364  O   ILE A 509     -20.901   1.702  -2.059  0.00  0.00           O
+ATOM   1365  CB  ILE A 509     -22.066   1.758   0.910  0.00  0.00           C
+ATOM   1366  CG1 ILE A 509     -22.812   0.426   0.991  0.00  0.00           C
+ATOM   1367  CG2 ILE A 509     -22.861   2.777   0.119  0.00  0.00           C
+ATOM   1369  CA  GLY A 510     -20.330  -0.979  -2.477  0.00  0.00           C
+ATOM   1370  C   GLY A 510     -21.672  -1.288  -3.117  0.00  0.00           C
+ATOM   1371  O   GLY A 510     -22.717  -1.306  -2.468  0.00  0.00           O
+ATOM   1372  N   PHE A 511     -21.630  -1.544  -4.425  0.00  0.00           N
+ATOM   1373  CA  PHE A 511     -22.850  -1.804  -5.177  0.00  0.00           C
+ATOM   1374  C   PHE A 511     -23.631  -2.974  -4.589  0.00  0.00           C
+ATOM   1376  CB  PHE A 511     -22.522  -2.095  -6.644  0.00  0.00           C
+ATOM   1377  CG  PHE A 511     -23.703  -2.574  -7.426  0.00  0.00           C
+ATOM   1379  CD2 PHE A 511     -24.727  -1.699  -7.756  0.00  0.00           C
+ATOM   1381  CE2 PHE A 511     -25.835  -2.145  -8.480  0.00  0.00           C
+ATOM   1383  N   GLY A 512     -24.927  -2.765  -4.372  0.00  0.00           N
+ATOM   1384  CA  GLY A 512     -25.734  -3.851  -3.850  0.00  0.00           C
+ATOM   1385  C   GLY A 512     -25.418  -4.230  -2.420  0.00  0.00           C
+ATOM   1387  N   LYS A 513     -24.699  -3.382  -1.696  0.00  0.00           N
+ATOM   1388  CA  LYS A 513     -24.373  -3.625  -0.298  0.00  0.00           C
+ATOM   1389  C   LYS A 513     -25.146  -2.659   0.592  0.00  0.00           C
+ATOM   1390  O   LYS A 513     -25.652  -1.629   0.142  0.00  0.00           O
+ATOM   1580  CB  ASP A 536     -27.793   1.593   0.557  0.00  0.00           C
+ATOM   1581  CG  ASP A 536     -29.187   1.505  -0.049  0.00  0.00           C
+ATOM   1583  OD2 ASP A 536     -29.486   0.484  -0.711  0.00  0.00           O
+ATOM   1584  N   ILE A 537     -27.421   4.398   0.270  0.00  0.00           N
+ATOM   1585  CA  ILE A 537     -27.482   5.797  -0.146  0.00  0.00           C
+ATOM   1588  CB  ILE A 537     -26.878   5.937  -1.568  0.00  0.00           C
+ATOM   1589  CG1 ILE A 537     -25.366   6.190  -1.473  0.00  0.00           C
+ATOM   1590  CG2 ILE A 537     -27.572   7.027  -2.358  0.00  0.00           C
+ATOM   1591  CD1 ILE A 537     -24.623   6.038  -2.802  0.00  0.00           C

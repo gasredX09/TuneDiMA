@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -14.80  56.16 -11.95 with max radius 4.87
+ATOM    357  CA  LEU A 709     -14.700  51.221  -9.668  0.00  0.00           C
+ATOM    358  C   LEU A 709     -14.412  51.765 -11.064  0.00  0.00           C
+ATOM    359  O   LEU A 709     -14.043  52.932 -11.212  0.00  0.00           O
+ATOM    360  CB  LEU A 709     -15.765  52.064  -8.961  0.00  0.00           C
+ATOM    361  CG  LEU A 709     -17.193  52.026  -9.506  0.00  0.00           C
+ATOM    363  CD2 LEU A 709     -18.082  52.960  -8.699  0.00  0.00           C
+ATOM    365  CA  LYS A 710     -14.283  51.241 -13.471  0.00  0.00           C
+ATOM    366  C   LYS A 710     -15.105  52.432 -13.926  0.00  0.00           C
+ATOM    367  O   LYS A 710     -16.252  52.597 -13.496  0.00  0.00           O
+ATOM    369  N   VAL A 711     -14.508  53.254 -14.791  0.00  0.00           N
+ATOM    370  CA  VAL A 711     -15.186  54.402 -15.399  0.00  0.00           C
+ATOM    371  C   VAL A 711     -16.495  53.933 -16.014  0.00  0.00           C
+ATOM    373  CB  VAL A 711     -14.332  55.058 -16.526  0.00  0.00           C
+ATOM    374  CG1 VAL A 711     -14.796  56.484 -16.801  0.00  0.00           C
+ATOM    375  CG2 VAL A 711     -12.851  55.065 -16.161  0.00  0.00           C
+ATOM    376  N   GLY A 712     -17.497  54.842 -15.977  0.00  0.00           N
+ATOM    377  CA  GLY A 712     -18.763  54.629 -16.679  0.00  0.00           C
+ATOM    380  N   TYR A 713     -19.384  53.305 -14.760  0.00  0.00           N
+ATOM    387  CD2 TYR A 713     -18.288  54.478 -11.978  0.00  0.00           C
+ATOM    389  CE2 TYR A 713     -18.157  55.749 -11.443  0.00  0.00           C
+ATOM    390  CZ  TYR A 713     -19.251  56.351 -10.835  0.00  0.00           C
+ATOM    391  OH  TYR A 713     -19.124  57.615 -10.298  0.00  0.00           O
+ATOM    642  CA  LYS A 747     -12.459  59.471  -9.249  0.00  0.00           C
+ATOM    645  CB  LYS A 747     -13.164  59.856 -10.557  0.00  0.00           C
+ATOM    647  CA  PRO A 748     -11.779  56.612  -9.431  0.00  0.00           C
+ATOM    648  C   PRO A 748     -12.072  56.329  -7.961  0.00  0.00           C
+ATOM    650  CB  PRO A 748     -11.118  55.395 -10.082  0.00  0.00           C
+ATOM    653  N   VAL A 749     -13.273  55.802  -7.736  0.00  0.00           N
+ATOM    654  CA  VAL A 749     -13.759  55.389  -6.441  0.00  0.00           C
+ATOM    657  CB  VAL A 749     -15.293  55.172  -6.510  0.00  0.00           C
+ATOM    659  CG2 VAL A 749     -16.017  56.526  -6.665  0.00  0.00           C

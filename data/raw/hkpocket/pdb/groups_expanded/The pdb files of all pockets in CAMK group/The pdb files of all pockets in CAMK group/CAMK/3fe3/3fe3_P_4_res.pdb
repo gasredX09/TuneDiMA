@@ -1,0 +1,48 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 42 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -11.10 -45.04 -24.42 with max radius 7.72
+ATOM    517  ND1 HIS A 112     -11.445 -39.867 -29.522  0.00  0.00           N
+ATOM    519  CE1 HIS A 112     -11.055 -40.322 -28.337  0.00  0.00           C
+ATOM    520  NE2 HIS A 112      -9.894 -40.936 -28.489  0.00  0.00           N
+ATOM    525  CB  PRO A 113     -15.410 -42.396 -30.217  0.00  0.00           C
+ATOM    526  CG  PRO A 113     -14.118 -42.974 -29.695  0.00  0.00           C
+ATOM    527  CD  PRO A 113     -13.084 -42.705 -30.807  0.00  0.00           C
+ATOM    533  CG  ASN A 114     -14.897 -39.092 -27.043  0.00  0.00           C
+ATOM    534  OD1 ASN A 114     -14.276 -40.130 -26.777  0.00  0.00           O
+ATOM    912  CA  ARG A 160     -11.591 -39.823 -19.798  0.00  0.00           C
+ATOM    913  C   ARG A 160     -11.637 -39.698 -21.345  0.00  0.00           C
+ATOM    914  O   ARG A 160     -10.690 -40.078 -22.040  0.00  0.00           O
+ATOM    915  CB  ARG A 160     -12.245 -41.133 -19.404  0.00  0.00           C
+ATOM    918  NE  ARG A 160     -12.274 -43.975 -18.366  0.00  0.00           N
+ATOM    921  NH2 ARG A 160     -11.132 -45.904 -18.833  0.00  0.00           N
+ATOM    922  N   GLN A 161     -12.758 -39.175 -21.824  0.00  0.00           N
+ATOM    923  CA  GLN A 161     -12.963 -38.897 -23.277  0.00  0.00           C
+ATOM    926  CB  GLN A 161     -14.419 -38.532 -23.519  0.00  0.00           C
+ATOM    927  CG  GLN A 161     -15.375 -39.757 -23.373  0.00  0.00           C
+ATOM    928  CD  GLN A 161     -16.832 -39.366 -23.598  0.00  0.00           C
+ATOM    930  NE2 GLN A 161     -17.666 -40.329 -23.998  0.00  0.00           N
+ATOM    950  CB  SER A 164      -9.205 -41.025 -24.805  0.00  0.00           C
+ATOM    951  OG  SER A 164      -9.036 -41.828 -25.963  0.00  0.00           O
+ATOM   2175  O   ASP A 314      -9.976 -48.649 -18.111  0.00  0.00           O
+ATOM   2177  CG  ASP A 314     -12.356 -49.883 -18.956  0.00  0.00           C
+ATOM   2178  OD1 ASP A 314     -11.856 -50.206 -20.058  0.00  0.00           O
+ATOM   2182  C   GLU A 315      -7.332 -47.941 -18.572  0.00  0.00           C
+ATOM   2183  O   GLU A 315      -7.171 -48.485 -19.638  0.00  0.00           O
+ATOM   2189  N   LEU A 316      -7.453 -46.623 -18.443  0.00  0.00           N
+ATOM   2190  CA  LEU A 316      -7.374 -45.729 -19.601  0.00  0.00           C
+ATOM   2195  CD1 LEU A 316      -8.740 -43.524 -21.297  0.00  0.00           C
+ATOM   2197  N   LYS A 317      -5.909 -45.986 -21.534  0.00  0.00           N
+ATOM   2199  C   LYS A 317      -4.732 -45.392 -23.579  0.00  0.00           C
+ATOM   2200  O   LYS A 317      -5.845 -45.087 -24.039  0.00  0.00           O
+ATOM   2202  CG  LYS A 317      -5.051 -48.211 -23.332  0.00  0.00           C
+ATOM   2203  CD  LYS A 317      -5.142 -49.727 -23.131  0.00  0.00           C
+ATOM   2204  CE  LYS A 317      -6.094 -50.345 -24.179  0.00  0.00           C
+ATOM   2205  NZ  LYS A 317      -6.874 -51.448 -23.586  0.00  0.00           N
+ATOM   2213  N   PHE A 319      -5.291 -44.290 -27.228  0.00  0.00           N
+ATOM   2214  CA  PHE A 319      -6.244 -44.788 -28.210  0.00  0.00           C
+ATOM   2217  CB  PHE A 319      -6.998 -43.616 -28.861  0.00  0.00           C
+ATOM   2219  CD1 PHE A 319      -9.213 -44.717 -29.203  0.00  0.00           C
+ATOM   2221  CE1 PHE A 319     -10.288 -45.107 -30.019  0.00  0.00           C

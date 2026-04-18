@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.82  31.47  45.35 with max radius 5.84
+ATOM    825  CA  SER A 430       2.633  29.378  41.429  0.00  0.00           C
+ATOM    826  C   SER A 430       2.123  28.818  42.764  0.00  0.00           C
+ATOM    827  O   SER A 430       2.729  29.038  43.802  0.00  0.00           O
+ATOM    828  CB  SER A 430       2.305  30.871  41.337  0.00  0.00           C
+ATOM    829  OG  SER A 430       0.894  31.073  41.399  0.00  0.00           O
+ATOM    830  N   GLN A 431       1.035  28.078  42.717  0.00  0.00           N
+ATOM    831  CA  GLN A 431       0.431  27.483  43.886  0.00  0.00           C
+ATOM    834  CB  GLN A 431      -1.094  27.457  43.700  0.00  0.00           C
+ATOM    835  CG  GLN A 431      -1.721  28.864  43.464  0.00  0.00           C
+ATOM    864  CD1 TRP A 434       4.577  27.713  48.764  0.00  0.00           C
+ATOM    866  NE1 TRP A 434       4.955  28.648  47.826  0.00  0.00           N
+ATOM    867  CE2 TRP A 434       6.285  28.441  47.528  0.00  0.00           C
+ATOM    869  CZ2 TRP A 434       7.101  29.092  46.642  0.00  0.00           C
+ATOM    897  NH2 ARG A 437       5.217  26.976  43.965  0.00  0.00           N
+ATOM   1805  CB  PRO A 572       6.977  32.810  44.808  0.00  0.00           C
+ATOM   1806  CG  PRO A 572       8.020  31.851  44.814  0.00  0.00           C
+ATOM   1808  N   PRO A 573       6.201  35.325  46.681  0.00  0.00           N
+ATOM   1813  CG  PRO A 573       4.205  36.404  46.490  0.00  0.00           C
+ATOM   1814  CD  PRO A 573       5.263  35.840  45.672  0.00  0.00           C
+ATOM   1815  N   ASN A 574       5.247  33.620  48.657  0.00  0.00           N
+ATOM   1816  CA  ASN A 574       4.881  32.573  49.633  0.00  0.00           C
+ATOM   1819  CB  ASN A 574       3.544  31.903  49.230  0.00  0.00           C
+ATOM   1820  CG  ASN A 574       2.337  32.764  49.524  0.00  0.00           C
+ATOM   1822  ND2 ASN A 574       1.246  32.506  48.850  0.00  0.00           N

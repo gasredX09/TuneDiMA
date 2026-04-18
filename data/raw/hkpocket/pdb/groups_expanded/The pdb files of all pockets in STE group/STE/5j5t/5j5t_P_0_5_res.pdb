@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  25.97  -6.75  26.04 with max radius 5.61
+ATOM    433  C   CYS A  68      31.034  -6.933  25.546  0.00  0.00           C
+ATOM    434  O   CYS A  68      30.137  -7.606  25.040  0.00  0.00           O
+ATOM    438  CA  LYS A  69      29.678  -6.407  27.493  0.00  0.00           C
+ATOM    439  C   LYS A  69      29.226  -4.992  27.841  0.00  0.00           C
+ATOM    441  CB  LYS A  69      29.836  -7.250  28.759  0.00  0.00           C
+ATOM    442  CG  LYS A  69      30.336  -8.663  28.495  0.00  0.00           C
+ATOM    443  CD  LYS A  69      29.502  -9.697  29.235  0.00  0.00           C
+ATOM    446  N   HIS A  70      28.417  -4.413  26.959  0.00  0.00           N
+ATOM    447  CA  HIS A  70      27.961  -3.033  27.088  0.00  0.00           C
+ATOM    448  C   HIS A  70      26.525  -2.930  26.577  0.00  0.00           C
+ATOM    449  O   HIS A  70      26.167  -3.597  25.606  0.00  0.00           O
+ATOM    457  CA  PRO A  71      24.278  -1.998  26.851  0.00  0.00           C
+ATOM    473  C   ILE A  73      25.872  -4.746  21.936  0.00  0.00           C
+ATOM    474  O   ILE A  73      25.477  -5.215  23.004  0.00  0.00           O
+ATOM    477  CG2 ILE A  73      28.608  -5.078  21.778  0.00  0.00           C
+ATOM    481  C   VAL A  74      25.604  -7.665  21.467  0.00  0.00           C
+ATOM    482  O   VAL A  74      26.760  -8.010  21.216  0.00  0.00           O
+ATOM    486  N   ALA A  75      24.889  -8.189  22.457  0.00  0.00           N
+ATOM    487  CA  ALA A  75      25.453  -9.160  23.387  0.00  0.00           C
+ATOM    490  CB  ALA A  75      24.551  -9.305  24.602  0.00  0.00           C
+ATOM    631  OE2 GLU A  91      22.364  -7.148  23.283  0.00  0.00           O
+ATOM   1095  NZ  LYS A 151      22.058  -4.446  24.691  0.00  0.00           N

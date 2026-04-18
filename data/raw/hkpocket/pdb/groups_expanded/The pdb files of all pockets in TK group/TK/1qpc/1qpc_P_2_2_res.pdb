@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  14.25  31.33  74.46 with max radius 5.98
+ATOM    525  CA  GLN A 296       9.889  34.056  76.344  0.00  0.00           C
+ATOM    526  C   GLN A 296      10.094  34.290  74.857  0.00  0.00           C
+ATOM    527  O   GLN A 296       9.158  34.239  74.065  0.00  0.00           O
+ATOM    528  CB  GLN A 296       9.391  32.620  76.593  0.00  0.00           C
+ATOM    529  CG  GLN A 296       9.240  32.242  78.076  0.00  0.00           C
+ATOM    531  OE1 GLN A 296       9.296  29.906  77.494  0.00  0.00           O
+ATOM    533  N   HIS A 297      11.349  34.490  74.452  0.00  0.00           N
+ATOM    534  CA  HIS A 297      11.667  34.709  73.042  0.00  0.00           C
+ATOM    535  C   HIS A 297      13.175  34.449  72.851  0.00  0.00           C
+ATOM    536  O   HIS A 297      13.956  34.573  73.811  0.00  0.00           O
+ATOM    543  N   GLN A 298      13.573  34.036  71.657  0.00  0.00           N
+ATOM    544  CA  GLN A 298      15.013  33.818  71.377  0.00  0.00           C
+ATOM    545  C   GLN A 298      15.925  34.990  71.685  0.00  0.00           C
+ATOM    546  O   GLN A 298      17.099  34.823  72.012  0.00  0.00           O
+ATOM    547  CB  GLN A 298      15.300  33.484  69.903  0.00  0.00           C
+ATOM    548  CG  GLN A 298      14.997  32.104  69.355  0.00  0.00           C
+ATOM    549  CD  GLN A 298      15.649  30.957  70.130  0.00  0.00           C
+ATOM    550  OE1 GLN A 298      14.935  30.145  70.613  0.00  0.00           O
+ATOM    551  NE2 GLN A 298      17.002  30.904  70.237  0.00  0.00           N
+ATOM    566  O   LEU A 300      15.872  35.298  76.102  0.00  0.00           O
+ATOM    578  N   ARG A 302      16.551  33.666  78.661  0.00  0.00           N
+ATOM    579  CA  ARG A 302      15.474  32.770  79.103  0.00  0.00           C
+ATOM    582  CB  ARG A 302      15.495  31.536  78.171  0.00  0.00           C
+ATOM    583  CG  ARG A 302      14.401  30.467  78.475  0.00  0.00           C
+ATOM    584  CD  ARG A 302      14.573  29.236  77.581  0.00  0.00           C
+ATOM    585  NE  ARG A 302      13.573  28.193  77.840  0.00  0.00           N
+ATOM    705  CD  GLU A 317      19.459  31.830  76.475  0.00  0.00           C
+ATOM    706  OE1 GLU A 317      18.499  32.609  76.703  0.00  0.00           O
+ATOM   1191  NZ  LYS A 379      19.074  32.964  73.127  0.00  0.00           N

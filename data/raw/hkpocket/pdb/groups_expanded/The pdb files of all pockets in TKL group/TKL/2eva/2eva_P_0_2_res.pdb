@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  16.62  24.29  18.05 with max radius 5.85
+ATOM   1474  NE  ARG A 226      15.290  29.266  17.398  0.00  0.00           N
+ATOM   1475  CZ  ARG A 226      16.141  28.770  16.504  0.00  0.00           C
+ATOM   1477  NH2 ARG A 226      16.937  27.759  16.832  0.00  0.00           N
+ATOM   2126  N   PRO A 471      21.217  27.684  16.374  0.00  0.00           N
+ATOM   2127  CA  PRO A 471      21.165  26.495  15.512  0.00  0.00           C
+ATOM   2128  C   PRO A 471      19.720  26.159  15.092  0.00  0.00           C
+ATOM   2129  O   PRO A 471      19.017  25.439  15.810  0.00  0.00           O
+ATOM   2131  CG  PRO A 471      21.161  25.775  17.750  0.00  0.00           C
+ATOM   2132  CD  PRO A 471      21.263  27.295  17.801  0.00  0.00           C
+ATOM   2134  CA  PRO A 472      17.900  26.423  13.410  0.00  0.00           C
+ATOM   2135  C   PRO A 472      17.462  24.954  13.256  0.00  0.00           C
+ATOM   2136  O   PRO A 472      16.763  24.407  14.122  0.00  0.00           O
+ATOM   2157  CB  ASP A 475      13.761  19.883  15.489  0.00  0.00           C
+ATOM   2158  CG  ASP A 475      15.081  20.628  15.626  0.00  0.00           C
+ATOM   2159  OD1 ASP A 475      15.075  21.877  15.555  0.00  0.00           O
+ATOM   2160  OD2 ASP A 475      16.125  19.966  15.814  0.00  0.00           O
+ATOM   2167  C   ARG A 477      11.694  23.338  18.167  0.00  0.00           C
+ATOM   2168  O   ARG A 477      12.545  23.100  17.310  0.00  0.00           O
+ATOM   2177  CA  VAL A 478      13.009  25.156  19.156  0.00  0.00           C
+ATOM   2178  C   VAL A 478      13.370  25.301  20.626  0.00  0.00           C
+ATOM   2180  CB  VAL A 478      12.809  26.589  18.561  0.00  0.00           C
+ATOM   2181  CG1 VAL A 478      12.564  26.501  17.066  0.00  0.00           C
+ATOM   2183  N   GLU A 479      14.646  25.516  20.907  0.00  0.00           N
+ATOM   2184  CA  GLU A 479      15.093  25.670  22.276  0.00  0.00           C
+ATOM   2187  CB  GLU A 479      16.543  25.203  22.406  0.00  0.00           C
+ATOM   2188  CG  GLU A 479      16.717  23.741  22.067  0.00  0.00           C

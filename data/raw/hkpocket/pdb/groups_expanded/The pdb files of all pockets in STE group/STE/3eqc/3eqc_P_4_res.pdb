@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -4.18  69.01  48.13 with max radius 6.42
+ATOM    248  C   PHE A  68       0.470  72.487  49.887  0.00  0.00           C
+ATOM    249  O   PHE A  68      -0.118  72.014  50.855  0.00  0.00           O
+ATOM    250  CB  PHE A  68       1.028  70.615  48.345  0.00  0.00           C
+ATOM    258  CA  GLU A  69      -1.049  74.377  49.742  0.00  0.00           C
+ATOM    259  C   GLU A  69      -1.988  74.347  48.496  0.00  0.00           C
+ATOM    266  N   LYS A  70      -3.243  73.962  48.705  0.00  0.00           N
+ATOM    267  CA  LYS A  70      -4.234  73.942  47.631  0.00  0.00           C
+ATOM    270  CB  LYS A  70      -5.446  73.112  48.051  0.00  0.00           C
+ATOM    271  CG  LYS A  70      -6.651  73.259  47.147  0.00  0.00           C
+ATOM    272  CD  LYS A  70      -7.733  72.247  47.518  0.00  0.00           C
+ATOM    353  CB  PHE A  83      -5.503  70.543  43.612  0.00  0.00           C
+ATOM    354  CG  PHE A  83      -6.654  69.913  44.307  0.00  0.00           C
+ATOM    355  CD1 PHE A  83      -6.654  68.563  44.579  0.00  0.00           C
+ATOM    356  CD2 PHE A  83      -7.757  70.684  44.682  0.00  0.00           C
+ATOM    357  CE1 PHE A  83      -7.735  67.975  45.246  0.00  0.00           C
+ATOM    358  CE2 PHE A  83      -8.839  70.105  45.335  0.00  0.00           C
+ATOM    359  CZ  PHE A  83      -8.818  68.742  45.616  0.00  0.00           C
+ATOM    374  CG1 VAL A  85      -2.166  71.613  45.063  0.00  0.00           C
+ATOM    450  CB  ARG A  96      -1.007  68.192  43.025  0.00  0.00           C
+ATOM    451  CG  ARG A  96      -1.139  66.942  43.940  0.00  0.00           C
+ATOM    452  CD  ARG A  96      -0.996  67.328  45.441  0.00  0.00           C
+ATOM    453  NE  ARG A  96      -0.816  66.158  46.286  0.00  0.00           N
+ATOM    454  CZ  ARG A  96      -0.775  66.215  47.619  0.00  0.00           C
+ATOM    455  NH1 ARG A  96      -0.878  67.390  48.230  0.00  0.00           N
+ATOM    456  NH2 ARG A  96      -0.637  65.103  48.336  0.00  0.00           N
+ATOM    471  CG  LEU A  98      -4.309  64.424  45.127  0.00  0.00           C
+ATOM    472  CD1 LEU A  98      -5.080  65.654  44.716  0.00  0.00           C
+ATOM    473  CD2 LEU A  98      -4.129  64.346  46.639  0.00  0.00           C

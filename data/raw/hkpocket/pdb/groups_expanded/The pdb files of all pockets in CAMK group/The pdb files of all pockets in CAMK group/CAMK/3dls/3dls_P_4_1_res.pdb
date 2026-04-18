@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  32.04  19.67 -10.95 with max radius 5.71
+ATOM    827  CA  PHE A1091      29.549  24.047  -7.969  0.00  0.00           C
+ATOM    829  O   PHE A1091      28.579  23.605 -10.116  0.00  0.00           O
+ATOM    831  CG  PHE A1091      29.042  21.612  -7.303  0.00  0.00           C
+ATOM    832  CD1 PHE A1091      27.783  21.205  -7.767  0.00  0.00           C
+ATOM    833  CD2 PHE A1091      30.068  20.673  -7.243  0.00  0.00           C
+ATOM    834  CE1 PHE A1091      27.555  19.895  -8.190  0.00  0.00           C
+ATOM    835  CE2 PHE A1091      29.857  19.355  -7.665  0.00  0.00           C
+ATOM    836  CZ  PHE A1091      28.593  18.965  -8.140  0.00  0.00           C
+ATOM    855  C   ILE A1094      29.658  23.844 -13.478  0.00  0.00           C
+ATOM    856  O   ILE A1094      29.998  23.486 -14.602  0.00  0.00           O
+ATOM    857  CB  ILE A1094      31.624  24.575 -11.949  0.00  0.00           C
+ATOM    859  CG2 ILE A1094      32.295  23.321 -12.522  0.00  0.00           C
+ATOM    861  N   ASP A1095      28.644  23.296 -12.814  0.00  0.00           N
+ATOM    862  CA  ASP A1095      27.835  22.200 -13.353  0.00  0.00           C
+ATOM    865  CB  ASP A1095      26.972  21.587 -12.243  0.00  0.00           C
+ATOM    866  CG  ASP A1095      26.891  20.078 -12.334  0.00  0.00           C
+ATOM    867  OD1 ASP A1095      27.926  19.446 -12.642  0.00  0.00           O
+ATOM   1168  OD2 ASP A1131      32.781  22.528  -7.415  0.00  0.00           O
+ATOM   1674  CG2 THR A1195      35.739  22.200  -9.983  0.00  0.00           C
+ATOM   1703  C   GLU A1199      35.566  20.945 -14.705  0.00  0.00           C
+ATOM   1704  O   GLU A1199      34.678  20.220 -15.166  0.00  0.00           O
+ATOM   1710  N   GLU A1200      36.552  20.510 -13.924  0.00  0.00           N
+ATOM   1711  CA  GLU A1200      36.682  19.138 -13.450  0.00  0.00           C
+ATOM   1724  CG  ASN A1201      36.793  17.587  -8.572  0.00  0.00           C
+ATOM   1725  OD1 ASN A1201      36.817  18.699  -8.026  0.00  0.00           O
+ATOM   1726  ND2 ASN A1201      35.709  16.814  -8.574  0.00  0.00           N

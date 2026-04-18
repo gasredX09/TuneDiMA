@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   4.96  75.81  36.26 with max radius 5.26
+ATOM    129  CD1 PHE A  53       8.936  72.835  33.752  0.00  0.00           C
+ATOM    131  CE1 PHE A  53       8.229  71.880  34.486  0.00  0.00           C
+ATOM    156  OE1 GLN A  56      10.075  77.045  36.214  0.00  0.00           O
+ATOM    422  CB  LEU A  92       7.095  75.586  41.796  0.00  0.00           C
+ATOM    423  CG  LEU A  92       8.213  75.679  40.749  0.00  0.00           C
+ATOM    424  CD1 LEU A  92       8.818  77.078  40.539  0.00  0.00           C
+ATOM    425  CD2 LEU A  92       9.275  74.667  41.059  0.00  0.00           C
+ATOM    426  N   VAL A  93       4.111  76.914  41.378  0.00  0.00           N
+ATOM    427  CA  VAL A  93       2.704  76.517  41.312  0.00  0.00           C
+ATOM    428  C   VAL A  93       2.741  75.256  40.418  0.00  0.00           C
+ATOM    429  O   VAL A  93       3.501  75.223  39.460  0.00  0.00           O
+ATOM    430  CB  VAL A  93       1.815  77.639  40.679  0.00  0.00           C
+ATOM    434  CA  MET A  94       1.947  72.958  40.080  0.00  0.00           C
+ATOM    437  CB  MET A  94       2.743  71.829  40.781  0.00  0.00           C
+ATOM    438  CG  MET A  94       4.234  72.221  41.170  0.00  0.00           C
+ATOM    739  CE2 TYR A 130       6.253  71.664  38.071  0.00  0.00           C
+ATOM    740  CZ  TYR A 130       7.489  72.224  37.916  0.00  0.00           C
+ATOM    741  OH  TYR A 130       7.597  73.443  37.288  0.00  0.00           O
+ATOM    838  CA  GLU A 144       3.512  71.660  35.213  0.00  0.00           C
+ATOM    839  C   GLU A 144       2.019  72.045  35.131  0.00  0.00           C
+ATOM    841  CB  GLU A 144       4.156  71.709  33.815  0.00  0.00           C
+ATOM    842  CG  GLU A 144       3.996  72.994  33.096  0.00  0.00           C
+ATOM    843  CD  GLU A 144       4.518  72.913  31.668  0.00  0.00           C
+ATOM    846  N   HIS A 145       1.700  73.227  35.657  0.00  0.00           N
+ATOM    847  CA  HIS A 145       0.326  73.742  35.603  0.00  0.00           C
+ATOM    848  C   HIS A 145       0.144  74.409  34.234  0.00  0.00           C
+ATOM    849  O   HIS A 145       0.997  75.174  33.797  0.00  0.00           O
+ATOM    850  CB  HIS A 145       0.100  74.773  36.703  0.00  0.00           C

@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  49.87  37.26  37.52 with max radius 5.50
+ATOM   2031  CA  ALA A 324      51.216  31.552  39.549  0.00  0.00           C
+ATOM   2032  C   ALA A 324      49.867  31.107  39.046  0.00  0.00           C
+ATOM   2034  CB  ALA A 324      51.724  32.727  38.743  0.00  0.00           C
+ATOM   2035  N   ARG A 325      48.837  31.905  39.306  0.00  0.00           N
+ATOM   2036  CA  ARG A 325      47.510  31.689  38.753  0.00  0.00           C
+ATOM   2037  C   ARG A 325      47.596  31.622  37.211  0.00  0.00           C
+ATOM   2038  O   ARG A 325      48.220  32.488  36.565  0.00  0.00           O
+ATOM   2039  CB  ARG A 325      46.614  32.833  39.181  0.00  0.00           C
+ATOM   2040  CG  ARG A 325      45.136  32.514  39.185  0.00  0.00           C
+ATOM   2041  CD  ARG A 325      44.317  33.784  39.198  0.00  0.00           C
+ATOM   2393  CA  LEU A 372      55.215  38.352  38.848  0.00  0.00           C
+ATOM   2401  CD1 LEU A 372      53.903  36.165  37.190  0.00  0.00           C
+ATOM   2424  O   ALA A 375      51.861  34.112  41.918  0.00  0.00           O
+ATOM   2425  CB  ALA A 375      51.717  36.937  41.862  0.00  0.00           C
+ATOM   2993  CG  ASP A 446      51.776  40.515  34.012  0.00  0.00           C
+ATOM   2994  OD1 ASP A 446      50.803  39.758  34.161  0.00  0.00           O
+ATOM   2995  OD2 ASP A 446      51.917  41.523  34.718  0.00  0.00           O
+ATOM   3001  CG  PRO A 447      49.788  35.848  33.386  0.00  0.00           C
+ATOM   3002  CD  PRO A 447      51.098  36.576  33.329  0.00  0.00           C
+ATOM   3003  N   ALA A 448      48.634  39.026  32.215  0.00  0.00           N
+ATOM   3007  CB  ALA A 448      47.577  40.849  33.517  0.00  0.00           C

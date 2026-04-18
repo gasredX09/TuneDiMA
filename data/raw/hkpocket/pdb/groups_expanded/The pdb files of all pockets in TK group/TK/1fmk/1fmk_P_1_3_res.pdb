@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.94  14.35  21.34 with max radius 5.55
+ATOM    586  CA  THR A 154      -7.187  10.287  23.463  0.00  0.00           C
+ATOM    587  C   THR A 154      -8.440  11.020  22.955  0.00  0.00           C
+ATOM    589  CB  THR A 154      -6.039  10.630  22.475  0.00  0.00           C
+ATOM    590  OG1 THR A 154      -6.417  10.233  21.154  0.00  0.00           O
+ATOM    591  CG2 THR A 154      -4.765   9.917  22.839  0.00  0.00           C
+ATOM    592  N   ARG A 155      -8.424  12.350  22.984  0.00  0.00           N
+ATOM    593  CA  ARG A 155      -9.535  13.111  22.406  0.00  0.00           C
+ATOM    594  C   ARG A 155      -9.679  12.927  20.899  0.00  0.00           C
+ATOM    596  CB  ARG A 155      -9.420  14.602  22.718  0.00  0.00           C
+ATOM    603  N   ARG A 156      -8.549  12.797  20.204  0.00  0.00           N
+ATOM    604  CA  ARG A 156      -8.526  12.534  18.759  0.00  0.00           C
+ATOM    607  CB  ARG A 156      -7.108  12.259  18.247  0.00  0.00           C
+ATOM    608  CG  ARG A 156      -6.092  13.280  18.601  0.00  0.00           C
+ATOM    609  CD  ARG A 156      -5.295  13.818  17.424  0.00  0.00           C
+ATOM    790  CD  GLU A 178      -5.875  13.624  24.959  0.00  0.00           C
+ATOM    791  OE1 GLU A 178      -4.797  13.113  24.608  0.00  0.00           O
+ATOM    792  OE2 GLU A 178      -6.626  14.235  24.177  0.00  0.00           O
+ATOM   3374  CB  GLU A 517      -1.675  16.370  16.694  0.00  0.00           C
+ATOM   3375  CG  GLU A 517      -1.749  14.861  16.621  0.00  0.00           C
+ATOM   3376  CD  GLU A 517      -1.341  14.170  17.907  0.00  0.00           C
+ATOM   3377  OE1 GLU A 517      -0.817  14.822  18.825  0.00  0.00           O
+ATOM   3378  OE2 GLU A 517      -1.503  12.946  17.977  0.00  0.00           O
+ATOM   3422  OG  SER A 522      -6.245  19.026  18.358  0.00  0.00           O
+ATOM   3424  CA  THR A 523      -3.571  19.054  21.194  0.00  0.00           C
+ATOM   3425  C   THR A 523      -4.850  18.618  21.897  0.00  0.00           C
+ATOM   3426  O   THR A 523      -4.805  18.009  23.005  0.00  0.00           O
+ATOM   3427  CB  THR A 523      -2.504  19.358  22.247  0.00  0.00           C
+ATOM   3429  CG2 THR A 523      -1.246  18.445  22.045  0.00  0.00           C
+ATOM   3430  N   GLU A 524      -5.943  19.162  21.334  0.00  0.00           N
+ATOM   3434  CB  GLU A 524      -7.517  17.349  21.546  0.00  0.00           C
+ATOM   3435  CG  GLU A 524      -7.458  16.798  20.095  0.00  0.00           C

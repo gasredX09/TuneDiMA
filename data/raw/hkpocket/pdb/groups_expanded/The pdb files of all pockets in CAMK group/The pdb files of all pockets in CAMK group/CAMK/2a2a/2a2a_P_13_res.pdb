@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -6.29  18.67  -5.48 with max radius 5.98
+ATOM   1745  CE1 TYR A 208      -4.024  14.957  -5.957  0.00  0.00           C
+ATOM   1746  CE2 TYR A 208      -5.386  14.236  -7.743  0.00  0.00           C
+ATOM   1747  CZ  TYR A 208      -4.973  15.220  -6.851  0.00  0.00           C
+ATOM   1748  OH  TYR A 208      -5.472  16.542  -6.882  0.00  0.00           O
+ATOM   1787  CB  ALA A 214      -1.861  17.774  -4.074  0.00  0.00           C
+ATOM   1788  N   SER A 215      -3.041  15.701  -2.100  0.00  0.00           N
+ATOM   1789  CA  SER A 215      -3.905  14.560  -1.840  0.00  0.00           C
+ATOM   1790  C   SER A 215      -5.278  14.850  -2.401  0.00  0.00           C
+ATOM   1791  O   SER A 215      -5.781  15.951  -2.225  0.00  0.00           O
+ATOM   1795  CA  PRO A 216      -7.040  14.196  -3.910  0.00  0.00           C
+ATOM   1796  C   PRO A 216      -8.278  14.636  -3.152  0.00  0.00           C
+ATOM   1797  O   PRO A 216      -8.987  15.521  -3.612  0.00  0.00           O
+ATOM   1929  CA  TYR A 234     -10.975  15.922  -6.902  0.00  0.00           C
+ATOM   1930  C   TYR A 234     -10.649  16.566  -8.228  0.00  0.00           C
+ATOM   1932  CB  TYR A 234     -10.138  14.648  -6.729  0.00  0.00           C
+ATOM   1940  N   ASP A 235      -9.474  17.199  -8.291  0.00  0.00           N
+ATOM   1941  CA  ASP A 235      -9.014  17.822  -9.527  0.00  0.00           C
+ATOM   1942  C   ASP A 235      -7.596  17.450  -9.884  0.00  0.00           C
+ATOM   1943  O   ASP A 235      -6.881  16.834  -9.116  0.00  0.00           O
+ATOM   1944  CB  ASP A 235      -9.170  19.366  -9.476  0.00  0.00           C
+ATOM   1945  CG  ASP A 235      -8.380  19.999  -8.360  0.00  0.00           C
+ATOM   1946  OD1 ASP A 235      -7.134  19.896  -8.326  0.00  0.00           O
+ATOM   1947  OD2 ASP A 235      -9.009  20.621  -7.485  0.00  0.00           O
+ATOM   1948  N   PHE A 236      -7.211  17.820 -11.095  0.00  0.00           N
+ATOM   1949  CA  PHE A 236      -5.820  17.793 -11.498  0.00  0.00           C
+ATOM   1950  C   PHE A 236      -5.377  19.250 -11.689  0.00  0.00           C
+ATOM   1959  N   ASP A 237      -5.456  20.064 -10.650  0.00  0.00           N
+ATOM   1960  CA  ASP A 237      -5.051  21.462 -10.790  0.00  0.00           C
+ATOM   1961  C   ASP A 237      -3.635  21.609 -11.338  0.00  0.00           C
+ATOM   1962  O   ASP A 237      -2.689  20.917 -10.888  0.00  0.00           O
+ATOM   1963  CB  ASP A 237      -5.101  22.237  -9.491  0.00  0.00           C
+ATOM   1989  CB  PHE A 240      -0.493  19.740  -7.747  0.00  0.00           C
+ATOM   1990  CG  PHE A 240      -0.675  20.629  -6.555  0.00  0.00           C
+ATOM   1991  CD1 PHE A 240      -1.897  21.200  -6.281  0.00  0.00           C
+ATOM   1993  CE1 PHE A 240      -2.068  22.047  -5.191  0.00  0.00           C
+ATOM   2002  CD1 PHE A 241      -2.523  17.381 -10.117  0.00  0.00           C
+ATOM   2004  CE1 PHE A 241      -2.724  16.466  -9.074  0.00  0.00           C

@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -14.40   7.27  47.24 with max radius 5.84
+ATOM    142  CA  CYS A 146     -13.639   4.304  51.409  0.00  0.00           C
+ATOM    143  C   CYS A 146     -14.410   5.526  50.953  0.00  0.00           C
+ATOM    144  O   CYS A 146     -15.225   5.455  50.031  0.00  0.00           O
+ATOM    145  CB  CYS A 146     -12.204   4.332  50.854  0.00  0.00           C
+ATOM    146  SG  CYS A 146     -12.037   4.274  49.065  0.00  0.00           S
+ATOM    147  N   ARG A 147     -14.147   6.641  51.620  0.00  0.00           N
+ATOM    148  CA  ARG A 147     -14.770   7.904  51.272  0.00  0.00           C
+ATOM    149  C   ARG A 147     -13.740   9.024  51.336  0.00  0.00           C
+ATOM    150  O   ARG A 147     -12.661   8.860  51.921  0.00  0.00           O
+ATOM    151  CB  ARG A 147     -15.971   8.184  52.195  0.00  0.00           C
+ATOM    158  N   ILE A 148     -14.076  10.159  50.728  0.00  0.00           N
+ATOM    159  CA  ILE A 148     -13.262  11.360  50.849  0.00  0.00           C
+ATOM    162  CB  ILE A 148     -13.934  12.567  50.155  0.00  0.00           C
+ATOM    163  CG1 ILE A 148     -13.944  12.362  48.634  0.00  0.00           C
+ATOM    165  CD1 ILE A 148     -15.010  13.160  47.901  0.00  0.00           C
+ATOM    256  CG2 ILE A 158     -10.400  10.156  48.578  0.00  0.00           C
+ATOM    257  CD1 ILE A 158      -9.666   7.446  49.796  0.00  0.00           C
+ATOM    268  O   GLY A 160     -11.184  11.649  45.029  0.00  0.00           O
+ATOM    270  CA  ASN A 161     -13.246  11.389  43.135  0.00  0.00           C
+ATOM    274  CG  ASN A 161     -15.016  10.240  44.527  0.00  0.00           C
+ATOM    275  OD1 ASN A 161     -14.457   9.190  44.846  0.00  0.00           O
+ATOM    276  ND2 ASN A 161     -15.916  10.835  45.299  0.00  0.00           N
+ATOM    328  CB  LYS A 169     -12.507   4.002  42.785  0.00  0.00           C
+ATOM    330  CD  LYS A 169     -14.557   3.791  44.262  0.00  0.00           C
+ATOM    331  CE  LYS A 169     -15.747   2.888  44.581  0.00  0.00           C
+ATOM    332  NZ  LYS A 169     -16.590   3.394  45.702  0.00  0.00           N
+ATOM    344  CB  VAL A 171      -9.588   8.622  45.064  0.00  0.00           C
+ATOM    345  CG1 VAL A 171     -10.891   7.814  45.178  0.00  0.00           C

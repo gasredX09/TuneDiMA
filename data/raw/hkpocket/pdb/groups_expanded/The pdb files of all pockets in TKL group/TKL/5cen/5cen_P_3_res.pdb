@@ -1,0 +1,57 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 51 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -8.74  -7.19 -22.69 with max radius 7.45
+ATOM   1783  C   ASP A 337     -10.083  -1.943 -27.512  0.00  0.00           C
+ATOM   1784  O   ASP A 337     -10.932  -2.747 -27.125  0.00  0.00           O
+ATOM   1789  N   GLY A 338      -8.923  -1.699 -26.892  0.00  0.00           N
+ATOM   1790  CA  GLY A 338      -8.526  -2.371 -25.658  0.00  0.00           C
+ATOM   1791  C   GLY A 338      -9.534  -2.111 -24.548  0.00  0.00           C
+ATOM   1792  O   GLY A 338      -9.953  -3.046 -23.850  0.00  0.00           O
+ATOM   1814  CA  ILE A 341     -13.068  -5.180 -25.138  0.00  0.00           C
+ATOM   1815  C   ILE A 341     -13.129  -5.428 -23.629  0.00  0.00           C
+ATOM   1816  O   ILE A 341     -13.844  -6.331 -23.179  0.00  0.00           O
+ATOM   1817  CB  ILE A 341     -11.802  -5.846 -25.803  0.00  0.00           C
+ATOM   1818  CG1 ILE A 341     -11.960  -5.852 -27.343  0.00  0.00           C
+ATOM   1819  CG2 ILE A 341     -11.590  -7.281 -25.301  0.00  0.00           C
+ATOM   1820  CD1 ILE A 341     -10.620  -6.152 -28.183  0.00  0.00           C
+ATOM   1821  N   LEU A 342     -12.355  -4.645 -22.852  0.00  0.00           N
+ATOM   1822  CA  LEU A 342     -12.338  -4.823 -21.407  0.00  0.00           C
+ATOM   1823  C   LEU A 342     -13.722  -4.600 -20.801  0.00  0.00           C
+ATOM   1824  O   LEU A 342     -14.166  -5.410 -20.005  0.00  0.00           O
+ATOM   1825  CB  LEU A 342     -11.291  -3.901 -20.745  0.00  0.00           C
+ATOM   1826  CG  LEU A 342     -11.064  -4.118 -19.240  0.00  0.00           C
+ATOM   1827  CD1 LEU A 342     -10.842  -5.616 -18.896  0.00  0.00           C
+ATOM   1828  CD2 LEU A 342      -9.892  -3.285 -18.752  0.00  0.00           C
+ATOM   1852  CB  GLN A 345     -14.275  -9.024 -20.894  0.00  0.00           C
+ATOM   1853  CG  GLN A 345     -13.951  -9.748 -22.209  0.00  0.00           C
+ATOM   1854  CD  GLN A 345     -12.682 -10.561 -22.128  0.00  0.00           C
+ATOM   1855  OE1 GLN A 345     -11.678 -10.259 -22.786  0.00  0.00           O
+ATOM   1856  NE2 GLN A 345     -12.705 -11.630 -21.337  0.00  0.00           N
+ATOM   1941  CA  PRO A 355     -12.166 -11.806 -16.170  0.00  0.00           C
+ATOM   1944  CB  PRO A 355     -11.400 -10.772 -16.991  0.00  0.00           C
+ATOM   1945  CG  PRO A 355     -12.380  -9.608 -17.148  0.00  0.00           C
+ATOM   1946  CD  PRO A 355     -13.705 -10.307 -17.336  0.00  0.00           C
+ATOM   1976  CA  GLN A 359      -6.564 -10.656 -15.994  0.00  0.00           C
+ATOM   1977  C   GLN A 359      -6.803  -9.217 -16.407  0.00  0.00           C
+ATOM   1978  O   GLN A 359      -6.236  -8.757 -17.404  0.00  0.00           O
+ATOM   1979  CB  GLN A 359      -7.679 -11.586 -16.507  0.00  0.00           C
+ATOM   1980  CG  GLN A 359      -7.281 -13.050 -16.516  0.00  0.00           C
+ATOM   1981  CD  GLN A 359      -8.440 -13.995 -16.760  0.00  0.00           C
+ATOM   1984  N   ILE A 360      -7.641  -8.491 -15.650  0.00  0.00           N
+ATOM   1985  CA  ILE A 360      -7.885  -7.061 -15.918  0.00  0.00           C
+ATOM   1989  CG1 ILE A 360     -10.305  -7.069 -15.199  0.00  0.00           C
+ATOM   2009  CA  HIS A 363      -5.406  -6.199 -20.311  0.00  0.00           C
+ATOM   2010  C   HIS A 363      -5.422  -4.667 -20.197  0.00  0.00           C
+ATOM   2011  O   HIS A 363      -5.178  -3.988 -21.190  0.00  0.00           O
+ATOM   2012  CB  HIS A 363      -6.711  -6.870 -20.698  0.00  0.00           C
+ATOM   2013  CG  HIS A 363      -6.471  -8.233 -21.290  0.00  0.00           C
+ATOM   2014  ND1 HIS A 363      -6.780  -9.390 -20.592  0.00  0.00           N
+ATOM   2015  CD2 HIS A 363      -5.937  -8.576 -22.487  0.00  0.00           C
+ATOM   2016  CE1 HIS A 363      -6.442 -10.395 -21.390  0.00  0.00           C
+ATOM   2017  NE2 HIS A 363      -5.931  -9.953 -22.544  0.00  0.00           N
+ATOM   2040  CG2 ILE A 366      -2.139  -4.575 -24.945  0.00  0.00           C
+ATOM   2043  CA  ALA A 367      -4.616  -0.878 -23.402  0.00  0.00           C
+ATOM   2046  CB  ALA A 367      -6.044  -1.017 -22.897  0.00  0.00           C

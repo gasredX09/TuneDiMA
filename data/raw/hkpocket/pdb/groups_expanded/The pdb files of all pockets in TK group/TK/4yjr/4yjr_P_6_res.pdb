@@ -1,0 +1,57 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 51 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  20.97  35.36  37.28 with max radius 6.47
+ATOM    912  CA  MET A 424      21.376  32.235  33.529  0.00  0.00           C
+ATOM    913  C   MET A 424      20.133  33.078  33.918  0.00  0.00           C
+ATOM    914  O   MET A 424      20.023  33.450  35.108  0.00  0.00           O
+ATOM    915  CB  MET A 424      22.648  33.055  33.104  0.00  0.00           C
+ATOM    916  CG  MET A 424      23.917  32.159  33.071  0.00  0.00           C
+ATOM    918  CE  MET A 424      25.996  33.674  34.013  0.00  0.00           C
+ATOM    928  N   GLN A 425      19.114  33.247  33.048  0.00  0.00           N
+ATOM    929  CA  GLN A 425      17.907  33.974  33.443  0.00  0.00           C
+ATOM    930  C   GLN A 425      17.080  33.211  34.492  0.00  0.00           C
+ATOM    931  O   GLN A 425      16.279  33.845  35.194  0.00  0.00           O
+ATOM    932  CB  GLN A 425      17.042  34.386  32.231  0.00  0.00           C
+ATOM    963  CA  LEU A 427      19.391  31.310  38.226  0.00  0.00           C
+ATOM    964  C   LEU A 427      19.430  32.572  39.048  0.00  0.00           C
+ATOM    965  O   LEU A 427      19.416  33.674  38.491  0.00  0.00           O
+ATOM    966  CB  LEU A 427      20.834  30.911  37.834  0.00  0.00           C
+ATOM    967  CG  LEU A 427      20.953  29.700  36.932  0.00  0.00           C
+ATOM    968  CD1 LEU A 427      22.426  29.432  36.607  0.00  0.00           C
+ATOM    981  N   ASP A 428      19.467  32.420  40.364  0.00  0.00           N
+ATOM    982  CA  ASP A 428      19.554  33.532  41.287  0.00  0.00           C
+ATOM    983  C   ASP A 428      20.282  33.094  42.525  0.00  0.00           C
+ATOM    985  CB  ASP A 428      18.152  34.081  41.607  0.00  0.00           C
+ATOM    993  N   ASN A 429      21.578  33.390  42.569  0.00  0.00           N
+ATOM    994  CA  ASN A 429      22.399  33.009  43.699  0.00  0.00           C
+ATOM    995  C   ASN A 429      23.559  33.986  43.792  0.00  0.00           C
+ATOM    996  O   ASN A 429      24.102  34.367  42.756  0.00  0.00           O
+ATOM    997  CB  ASN A 429      22.931  31.574  43.515  0.00  0.00           C
+ATOM   1043  CA  ILE A 432      26.755  32.927  40.218  0.00  0.00           C
+ATOM   1044  C   ILE A 432      26.631  34.289  39.565  0.00  0.00           C
+ATOM   1045  O   ILE A 432      25.911  35.167  40.055  0.00  0.00           O
+ATOM   1046  CB  ILE A 432      25.545  32.010  39.886  0.00  0.00           C
+ATOM   1047  CG1 ILE A 432      25.740  30.626  40.534  0.00  0.00           C
+ATOM   1048  CG2 ILE A 432      25.354  31.873  38.355  0.00  0.00           C
+ATOM   1049  CD1 ILE A 432      24.629  29.652  40.299  0.00  0.00           C
+ATOM   1063  C   VAL A 433      25.852  36.011  37.315  0.00  0.00           C
+ATOM   1064  O   VAL A 433      25.186  35.113  36.781  0.00  0.00           O
+ATOM   1077  N   ARG A 434      25.395  37.253  37.510  0.00  0.00           N
+ATOM   1078  CA  ARG A 434      24.050  37.658  37.131  0.00  0.00           C
+ATOM   1079  C   ARG A 434      24.015  38.267  35.731  0.00  0.00           C
+ATOM   1081  CB  ARG A 434      23.499  38.660  38.152  0.00  0.00           C
+ATOM   1082  CG  ARG A 434      23.414  38.074  39.549  0.00  0.00           C
+ATOM   1083  CD  ARG A 434      22.786  39.003  40.579  0.00  0.00           C
+ATOM   1085  CZ  ARG A 434      22.109  37.555  42.503  0.00  0.00           C
+ATOM   1086  NH1 ARG A 434      21.202  36.921  41.764  0.00  0.00           N
+ATOM   1101  N   MET A 435      23.043  37.844  34.937  0.00  0.00           N
+ATOM   1102  CA  MET A 435      22.833  38.420  33.630  0.00  0.00           C
+ATOM   1103  C   MET A 435      22.012  39.706  33.706  0.00  0.00           C
+ATOM   1104  O   MET A 435      21.002  39.732  34.403  0.00  0.00           O
+ATOM   1105  CB  MET A 435      22.098  37.412  32.737  0.00  0.00           C
+ATOM   1106  CG  MET A 435      21.780  37.942  31.362  0.00  0.00           C
+ATOM   1108  CE  MET A 435      19.836  36.317  30.949  0.00  0.00           C
+ATOM   1937  CE2 TYR A 484      20.919  28.980  41.676  0.00  0.00           C

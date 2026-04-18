@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -13.50  11.15  -7.42 with max radius 5.09
+ATOM   1189  CA  ARG A 777     -13.733  16.076  -5.061  0.00  0.00           C
+ATOM   1190  C   ARG A 777     -12.414  15.295  -5.171  0.00  0.00           C
+ATOM   1191  O   ARG A 777     -12.381  14.104  -4.856  0.00  0.00           O
+ATOM   1192  CB  ARG A 777     -14.864  15.273  -5.722  0.00  0.00           C
+ATOM   1193  CG  ARG A 777     -16.209  15.981  -5.736  0.00  0.00           C
+ATOM   1194  CD  ARG A 777     -17.362  14.992  -5.820  0.00  0.00           C
+ATOM   1195  NE  ARG A 777     -17.292  14.140  -7.007  0.00  0.00           N
+ATOM   1196  CZ  ARG A 777     -18.130  13.137  -7.267  0.00  0.00           C
+ATOM   1198  NH2 ARG A 777     -17.979  12.419  -8.374  0.00  0.00           N
+ATOM   1200  CA  ASP A 778     -10.017  15.319  -5.670  0.00  0.00           C
+ATOM   1203  CB  ASP A 778      -9.959  14.294  -6.814  0.00  0.00           C
+ATOM   1204  CG  ASP A 778      -8.650  13.513  -6.843  0.00  0.00           C
+ATOM   1205  OD1 ASP A 778      -8.160  13.226  -7.955  0.00  0.00           O
+ATOM   1206  OD2 ASP A 778      -8.109  13.194  -5.761  0.00  0.00           O
+ATOM   1335  OD2 ASP A 796     -11.206  15.090 -11.419  0.00  0.00           O
+ATOM   1432  CE2 TYR A 809      -8.415   9.207  -7.183  0.00  0.00           C
+ATOM   1453  O   ARG A 816     -12.367   6.204  -7.018  0.00  0.00           O
+ATOM   1462  CA  LEU A 817     -11.741   6.924  -4.382  0.00  0.00           C
+ATOM   1468  CD2 LEU A 817     -14.630   8.127  -4.924  0.00  0.00           C
+ATOM   1474  CG  PRO A 818      -9.733  10.805  -3.992  0.00  0.00           C
+ATOM   1475  CD  PRO A 818     -10.676   9.652  -4.247  0.00  0.00           C
+ATOM   1588  CD2 TYR A 832     -17.005  14.178  -2.248  0.00  0.00           C
+ATOM   1590  CE2 TYR A 832     -16.517  12.876  -2.259  0.00  0.00           C
+ATOM   1591  CZ  TYR A 832     -17.403  11.813  -2.282  0.00  0.00           C
+ATOM   1592  OH  TYR A 832     -16.926  10.522  -2.293  0.00  0.00           O

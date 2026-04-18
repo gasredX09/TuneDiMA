@@ -1,0 +1,66 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 60 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  20.85  28.54  32.18 with max radius 7.29
+ATOM   3605  CB  ASN B 119      20.173  33.476  31.201  0.00  0.00           C
+ATOM   3606  CG  ASN B 119      20.771  32.164  31.684  0.00  0.00           C
+ATOM   3607  OD1 ASN B 119      20.477  31.694  32.793  0.00  0.00           O
+ATOM   3608  ND2 ASN B 119      21.628  31.568  30.858  0.00  0.00           N
+ATOM   3611  C   THR B 120      23.807  32.742  33.774  0.00  0.00           C
+ATOM   3612  O   THR B 120      23.288  31.701  34.187  0.00  0.00           O
+ATOM   3617  CA  ASP B 121      25.349  31.560  32.294  0.00  0.00           C
+ATOM   3618  C   ASP B 121      25.710  30.527  33.368  0.00  0.00           C
+ATOM   3624  N   PHE B 122      25.221  29.304  33.207  0.00  0.00           N
+ATOM   3625  CA  PHE B 122      25.224  28.369  34.321  0.00  0.00           C
+ATOM   3628  CB  PHE B 122      24.278  27.192  34.044  0.00  0.00           C
+ATOM   3629  CG  PHE B 122      24.812  26.186  33.067  0.00  0.00           C
+ATOM   3631  CD2 PHE B 122      24.616  26.355  31.707  0.00  0.00           C
+ATOM   3633  CE2 PHE B 122      25.093  25.433  30.807  0.00  0.00           C
+ATOM   3657  CB  LEU B 125      25.238  30.639  37.665  0.00  0.00           C
+ATOM   3660  CD2 LEU B 125      22.833  30.467  38.169  0.00  0.00           C
+ATOM   3667  CD1 TYR B 126      24.473  26.423  38.215  0.00  0.00           C
+ATOM   3669  CE1 TYR B 126      23.191  26.195  37.698  0.00  0.00           C
+ATOM   3670  CE2 TYR B 126      23.942  24.099  36.796  0.00  0.00           C
+ATOM   3671  CZ  TYR B 126      22.937  25.027  36.985  0.00  0.00           C
+ATOM   3672  OH  TYR B 126      21.678  24.781  36.464  0.00  0.00           O
+ATOM   3951  O   LYS B 159      18.297  22.939  31.713  0.00  0.00           O
+ATOM   3958  CA  PRO B 160      20.828  23.697  32.711  0.00  0.00           C
+ATOM   3959  C   PRO B 160      20.528  24.799  31.709  0.00  0.00           C
+ATOM   3960  O   PRO B 160      20.046  25.868  32.090  0.00  0.00           O
+ATOM   3961  CB  PRO B 160      22.343  23.548  32.900  0.00  0.00           C
+ATOM   3964  N   HIS B 161      20.798  24.529  30.441  0.00  0.00           N
+ATOM   3965  CA  HIS B 161      20.490  25.490  29.395  0.00  0.00           C
+ATOM   3966  C   HIS B 161      19.003  25.817  29.317  0.00  0.00           C
+ATOM   3967  O   HIS B 161      18.633  26.891  28.842  0.00  0.00           O
+ATOM   3968  CB  HIS B 161      20.990  24.978  28.046  0.00  0.00           C
+ATOM   3969  CG  HIS B 161      22.466  25.178  27.841  0.00  0.00           C
+ATOM   3971  CD2 HIS B 161      23.175  26.299  27.571  0.00  0.00           C
+ATOM   3974  N   ASN B 162      18.153  24.904  29.788  0.00  0.00           N
+ATOM   3975  CA  ASN B 162      16.719  25.133  29.752  0.00  0.00           C
+ATOM   3976  C   ASN B 162      16.180  25.607  31.097  0.00  0.00           C
+ATOM   3982  N   VAL B 163      17.095  25.874  32.028  0.00  0.00           N
+ATOM   3983  CA  VAL B 163      16.748  26.452  33.323  0.00  0.00           C
+ATOM   3984  C   VAL B 163      17.395  27.837  33.393  0.00  0.00           C
+ATOM   3985  O   VAL B 163      18.557  27.966  33.794  0.00  0.00           O
+ATOM   3986  CB  VAL B 163      17.217  25.568  34.504  0.00  0.00           C
+ATOM   3987  CG1 VAL B 163      16.885  26.228  35.856  0.00  0.00           C
+ATOM   3988  CG2 VAL B 163      16.574  24.183  34.427  0.00  0.00           C
+ATOM   3989  N   MET B 164      16.661  28.861  32.951  0.00  0.00           N
+ATOM   3990  CA  MET B 164      17.157  30.239  33.009  0.00  0.00           C
+ATOM   3991  C   MET B 164      17.107  30.794  34.425  0.00  0.00           C
+ATOM   3993  CB  MET B 164      16.342  31.169  32.107  0.00  0.00           C
+ATOM   3994  CG  MET B 164      16.274  30.783  30.652  0.00  0.00           C
+ATOM   3996  CE  MET B 164      17.163  33.173  29.609  0.00  0.00           C
+ATOM   3997  N   ILE B 165      18.243  31.259  34.922  0.00  0.00           N
+ATOM   3998  CA  ILE B 165      18.281  31.815  36.265  0.00  0.00           C
+ATOM   3999  C   ILE B 165      18.852  33.227  36.260  0.00  0.00           C
+ATOM   4000  O   ILE B 165      19.976  33.441  35.819  0.00  0.00           O
+ATOM   4001  CB  ILE B 165      19.109  30.943  37.218  0.00  0.00           C
+ATOM   4002  CG1 ILE B 165      18.364  29.640  37.538  0.00  0.00           C
+ATOM   4003  CG2 ILE B 165      19.409  31.713  38.519  0.00  0.00           C
+ATOM   4004  CD1 ILE B 165      19.153  28.683  38.431  0.00  0.00           C
+ATOM   4100  CG1 ILE B 175      14.560  27.839  28.566  0.00  0.00           C
+ATOM   4102  CD1 ILE B 175      15.521  28.708  27.769  0.00  0.00           C
+ATOM   4508  CE  MET B 222      19.060  22.350  36.423  0.00  0.00           C

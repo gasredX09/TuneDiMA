@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  31.37  13.99  24.34 with max radius 5.39
+ATOM   1933  CA  LYS A 612      34.991  10.153  25.024  0.00  0.00           C
+ATOM   1934  C   LYS A 612      35.143  10.017  23.506  0.00  0.00           C
+ATOM   1935  O   LYS A 612      34.246  10.373  22.751  0.00  0.00           O
+ATOM   1936  CB  LYS A 612      35.268  11.599  25.439  0.00  0.00           C
+ATOM   1937  CG  LYS A 612      34.768  11.960  26.831  0.00  0.00           C
+ATOM   1938  CD  LYS A 612      35.319  13.315  27.235  0.00  0.00           C
+ATOM   1939  CE  LYS A 612      34.726  13.822  28.552  0.00  0.00           C
+ATOM   1964  CB  VAL A 615      31.138   7.908  22.325  0.00  0.00           C
+ATOM   1965  CG1 VAL A 615      29.638   7.920  22.070  0.00  0.00           C
+ATOM   1966  CG2 VAL A 615      31.424   8.253  23.789  0.00  0.00           C
+ATOM   2004  CA  LYS A 620      27.881  11.980  20.895  0.00  0.00           C
+ATOM   2005  C   LYS A 620      29.388  11.867  21.123  0.00  0.00           C
+ATOM   2006  O   LYS A 620      29.856  11.904  22.259  0.00  0.00           O
+ATOM   2007  CB  LYS A 620      27.165  11.007  21.835  0.00  0.00           C
+ATOM   2012  N   ARG A 621      30.138  11.723  20.034  0.00  0.00           N
+ATOM   2013  CA  ARG A 621      31.584  11.570  20.105  0.00  0.00           C
+ATOM   2014  C   ARG A 621      32.317  12.903  20.139  0.00  0.00           C
+ATOM   2015  O   ARG A 621      32.048  13.792  19.326  0.00  0.00           O
+ATOM   2023  N   LEU A 622      33.243  13.036  21.087  0.00  0.00           N
+ATOM   2024  CA  LEU A 622      34.033  14.254  21.209  0.00  0.00           C
+ATOM   2027  CB  LEU A 622      35.085  14.099  22.321  0.00  0.00           C
+ATOM   2028  CG  LEU A 622      35.931  15.323  22.711  0.00  0.00           C
+ATOM   2029  CD1 LEU A 622      35.034  16.518  23.061  0.00  0.00           C
+ATOM   2030  CD2 LEU A 622      36.807  14.962  23.903  0.00  0.00           C
+ATOM   2043  CA  ARG A 625      30.232  17.133  19.663  0.00  0.00           C
+ATOM   2044  C   ARG A 625      31.248  17.760  20.633  0.00  0.00           C
+ATOM   2045  O   ARG A 625      32.221  17.108  21.012  0.00  0.00           O
+ATOM   2046  CB  ARG A 625      29.289  16.241  20.467  0.00  0.00           C
+ATOM   2047  CG  ARG A 625      28.593  17.086  21.482  0.00  0.00           C
+ATOM   2048  CD  ARG A 625      27.798  16.404  22.568  0.00  0.00           C
+ATOM   2053  N   GLY A 626      31.022  19.007  21.044  0.00  0.00           N
+ATOM   2054  CA  GLY A 626      31.937  19.653  21.972  0.00  0.00           C

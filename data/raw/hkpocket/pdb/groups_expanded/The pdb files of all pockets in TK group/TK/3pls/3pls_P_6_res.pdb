@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  46.19  12.75  -3.78 with max radius 6.39
+ATOM    117  CA  ILE A1075      45.630   9.990   1.465  0.00  0.00           C
+ATOM    120  CB  ILE A1075      45.329  11.519   1.619  0.00  0.00           C
+ATOM    121  CG1 ILE A1075      44.295  12.021   0.601  0.00  0.00           C
+ATOM    122  CG2 ILE A1075      46.618  12.337   1.497  0.00  0.00           C
+ATOM    123  CD1 ILE A1075      44.662  11.777  -0.852  0.00  0.00           C
+ATOM    130  CD  PRO A1076      48.384   8.839   1.467  0.00  0.00           C
+ATOM    156  CD  ARG A1079      51.001  11.804   0.222  0.00  0.00           C
+ATOM    158  CZ  ARG A1079      51.832  10.826  -1.890  0.00  0.00           C
+ATOM    160  NH2 ARG A1079      50.595  10.765  -2.379  0.00  0.00           N
+ATOM    330  CD2 TYR A1101      46.680  16.472  -0.529  0.00  0.00           C
+ATOM    332  CE2 TYR A1101      46.160  16.613  -1.808  0.00  0.00           C
+ATOM    333  CZ  TYR A1101      45.287  17.654  -2.084  0.00  0.00           C
+ATOM    334  OH  TYR A1101      44.753  17.798  -3.342  0.00  0.00           O
+ATOM    337  C   ILE A1102      50.315  16.329  -1.410  0.00  0.00           C
+ATOM    338  O   ILE A1102      49.763  15.236  -1.292  0.00  0.00           O
+ATOM    344  CA  ASP A1103      50.066  16.358  -3.865  0.00  0.00           C
+ATOM    345  C   ASP A1103      50.779  15.075  -4.260  0.00  0.00           C
+ATOM    346  O   ASP A1103      51.771  14.678  -3.646  0.00  0.00           O
+ATOM    351  N   GLN A1104      50.259  14.454  -5.321  0.00  0.00           N
+ATOM    352  CA  GLN A1104      50.987  13.441  -6.089  0.00  0.00           C
+ATOM    355  CB  GLN A1104      50.061  12.720  -7.080  0.00  0.00           C
+ATOM    356  CG  GLN A1104      48.953  11.861  -6.433  0.00  0.00           C
+ATOM    357  CD  GLN A1104      49.374  10.415  -6.113  0.00  0.00           C
+ATOM    358  OE1 GLN A1104      48.545   9.501  -6.133  0.00  0.00           O
+ATOM    359  NE2 GLN A1104      50.655  10.209  -5.820  0.00  0.00           N
+ATOM    624  CZ  ARG A1136      40.798  12.003  -6.857  0.00  0.00           C
+ATOM    625  NH1 ARG A1136      41.437  12.212  -8.008  0.00  0.00           N
+ATOM    626  NH2 ARG A1136      40.912  12.881  -5.867  0.00  0.00           N
+ATOM    702  C   ILE A1147      40.486  13.628  -1.941  0.00  0.00           C
+ATOM    703  O   ILE A1147      41.102  12.899  -2.732  0.00  0.00           O
+ATOM    706  CG2 ILE A1147      42.406  15.867  -1.757  0.00  0.00           C

@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  34.61  20.57  -7.66 with max radius 6.07
+ATOM    640  CA  ASN A1139      33.254  15.028 -11.190  0.00  0.00           C
+ATOM    641  C   ASN A1139      32.196  15.873 -11.884  0.00  0.00           C
+ATOM    643  CB  ASN A1139      34.312  14.570 -12.198  0.00  0.00           C
+ATOM    644  CG  ASN A1139      35.125  15.728 -12.770  0.00  0.00           C
+ATOM    645  OD1 ASN A1139      35.475  16.670 -12.063  0.00  0.00           O
+ATOM    647  N   HIS A1140      31.802  16.956 -11.213  0.00  0.00           N
+ATOM    648  CA  HIS A1140      30.838  17.915 -11.723  0.00  0.00           C
+ATOM    649  C   HIS A1140      31.102  19.318 -11.146  0.00  0.00           C
+ATOM    650  O   HIS A1140      31.429  19.441  -9.958  0.00  0.00           O
+ATOM    657  N   PRO A1141      30.986  20.374 -11.990  0.00  0.00           N
+ATOM    658  CA  PRO A1141      31.215  21.767 -11.575  0.00  0.00           C
+ATOM    659  C   PRO A1141      30.397  22.246 -10.378  0.00  0.00           C
+ATOM    660  O   PRO A1141      30.845  23.135  -9.662  0.00  0.00           O
+ATOM    674  C   VAL A1143      30.741  19.399  -6.148  0.00  0.00           C
+ATOM    675  O   VAL A1143      31.739  19.514  -6.853  0.00  0.00           O
+ATOM    680  CA  LEU A1144      32.063  19.567  -4.144  0.00  0.00           C
+ATOM    681  C   LEU A1144      32.880  18.292  -4.305  0.00  0.00           C
+ATOM    685  CD1 LEU A1144      33.779  21.546  -2.562  0.00  0.00           C
+ATOM    687  N   ALA A1145      34.148  18.429  -4.707  0.00  0.00           N
+ATOM    688  CA  ALA A1145      35.028  17.260  -4.903  0.00  0.00           C
+ATOM    691  CB  ALA A1145      36.287  17.641  -5.686  0.00  0.00           C
+ATOM    815  CB  PRO A1162      38.036  21.904  -2.826  0.00  0.00           C
+ATOM    816  CG  PRO A1162      37.628  20.541  -3.252  0.00  0.00           C
+ATOM    817  CD  PRO A1162      37.238  19.807  -1.996  0.00  0.00           C
+ATOM    837  CE  MET A1164      35.599  24.916  -3.675  0.00  0.00           C
+ATOM   1309  CG  LYS A1223      31.569  23.966  -5.246  0.00  0.00           C
+ATOM   1310  CD  LYS A1223      31.716  23.598  -6.700  0.00  0.00           C
+ATOM   1311  CE  LYS A1223      33.000  24.179  -7.255  0.00  0.00           C
+ATOM   1312  NZ  LYS A1223      33.221  23.795  -8.682  0.00  0.00           N

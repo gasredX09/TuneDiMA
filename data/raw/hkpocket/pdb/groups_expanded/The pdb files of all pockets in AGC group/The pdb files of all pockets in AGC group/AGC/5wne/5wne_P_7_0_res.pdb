@@ -1,0 +1,58 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 52 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -19.87   9.24  34.12 with max radius 7.70
+ATOM    937  C   ILE A 127     -22.655   3.098  34.732  0.00  0.00           C
+ATOM    938  O   ILE A 127     -22.830   4.311  34.671  0.00  0.00           O
+ATOM    943  N   MET A 128     -21.443   2.515  34.610  0.00  0.00           N
+ATOM    944  CA  MET A 128     -20.202   3.272  34.434  0.00  0.00           C
+ATOM    945  C   MET A 128     -20.135   4.009  33.097  0.00  0.00           C
+ATOM    946  O   MET A 128     -19.562   5.094  33.029  0.00  0.00           O
+ATOM    947  CB  MET A 128     -18.994   2.354  34.583  0.00  0.00           C
+ATOM    951  N   ALA A 129     -20.736   3.430  32.046  0.00  0.00           N
+ATOM    952  CA  ALA A 129     -20.727   3.995  30.707  0.00  0.00           C
+ATOM    953  C   ALA A 129     -21.725   5.108  30.495  0.00  0.00           C
+ATOM    954  O   ALA A 129     -21.403   6.074  29.800  0.00  0.00           O
+ATOM    956  N   PHE A 130     -22.941   4.970  31.052  0.00  0.00           N
+ATOM    957  CA  PHE A 130     -24.018   5.913  30.774  0.00  0.00           C
+ATOM    958  C   PHE A 130     -24.591   6.697  31.996  0.00  0.00           C
+ATOM    959  O   PHE A 130     -25.585   7.409  31.813  0.00  0.00           O
+ATOM    967  N   ALA A 131     -23.946   6.642  33.194  0.00  0.00           N
+ATOM    968  CA  ALA A 131     -24.397   7.399  34.374  0.00  0.00           C
+ATOM    969  C   ALA A 131     -24.304   8.909  34.136  0.00  0.00           C
+ATOM    971  CB  ALA A 131     -23.576   7.027  35.597  0.00  0.00           C
+ATOM    972  N   ASN A 132     -23.141   9.388  33.624  0.00  0.00           N
+ATOM    973  CA  ASN A 132     -22.839  10.804  33.378  0.00  0.00           C
+ATOM    974  C   ASN A 132     -23.108  11.641  34.655  0.00  0.00           C
+ATOM    975  O   ASN A 132     -23.728  12.709  34.614  0.00  0.00           O
+ATOM    976  CB  ASN A 132     -23.575  11.336  32.131  0.00  0.00           C
+ATOM    978  OD1 ASN A 132     -21.900  12.983  31.596  0.00  0.00           O
+ATOM    980  N   SER A 133     -22.656  11.096  35.798  0.00  0.00           N
+ATOM    981  CA  SER A 133     -22.792  11.661  37.136  0.00  0.00           C
+ATOM    982  C   SER A 133     -21.411  11.867  37.748  0.00  0.00           C
+ATOM    983  O   SER A 133     -20.544  11.008  37.562  0.00  0.00           O
+ATOM    984  CB  SER A 133     -23.605  10.720  38.025  0.00  0.00           C
+ATOM    986  N   PRO A 134     -21.184  12.955  38.524  0.00  0.00           N
+ATOM    987  CA  PRO A 134     -19.862  13.136  39.156  0.00  0.00           C
+ATOM    990  CB  PRO A 134     -19.890  14.589  39.647  0.00  0.00           C
+ATOM   1007  N   VAL A 136     -20.249   8.760  39.986  0.00  0.00           N
+ATOM   1008  CA  VAL A 136     -19.970   7.444  39.398  0.00  0.00           C
+ATOM   1009  C   VAL A 136     -18.674   7.490  38.575  0.00  0.00           C
+ATOM   1010  O   VAL A 136     -18.464   8.437  37.811  0.00  0.00           O
+ATOM   1011  CB  VAL A 136     -21.176   6.953  38.542  0.00  0.00           C
+ATOM   1012  CG1 VAL A 136     -20.954   5.549  37.986  0.00  0.00           C
+ATOM   1013  CG2 VAL A 136     -22.488   7.017  39.324  0.00  0.00           C
+ATOM   1014  N   VAL A 137     -17.812   6.463  38.734  0.00  0.00           N
+ATOM   1016  C   VAL A 137     -16.901   6.107  36.503  0.00  0.00           C
+ATOM   1017  O   VAL A 137     -17.684   5.215  36.183  0.00  0.00           O
+ATOM   1021  N   GLN A 138     -16.357   6.948  35.615  0.00  0.00           N
+ATOM   1022  CA  GLN A 138     -16.636   6.887  34.178  0.00  0.00           C
+ATOM   1025  CB  GLN A 138     -16.304   8.231  33.514  0.00  0.00           C
+ATOM   1026  CG  GLN A 138     -17.072   8.484  32.220  0.00  0.00           C
+ATOM   1027  CD  GLN A 138     -16.661   9.747  31.495  0.00  0.00           C
+ATOM   1028  OE1 GLN A 138     -16.753   9.827  30.265  0.00  0.00           O
+ATOM   1029  NE2 GLN A 138     -16.218  10.772  32.223  0.00  0.00           N
+ATOM   1175  OE1 GLU A 154     -15.075   9.241  36.618  0.00  0.00           O
+ATOM   1647  NZ  LYS A 213     -16.562  11.733  38.839  0.00  0.00           N

@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -27.45  -3.94 -16.45 with max radius 5.82
+ATOM   1310  CG  ASP A 185     -28.635  -3.094 -22.225  0.00  0.00           C
+ATOM   1311  OD1 ASP A 185     -27.867  -2.466 -21.465  0.00  0.00           O
+ATOM   1312  OD2 ASP A 185     -29.676  -3.654 -21.821  0.00  0.00           O
+ATOM   1313  N   VAL A 186     -25.193  -4.271 -22.458  0.00  0.00           N
+ATOM   1315  C   VAL A 186     -24.870  -5.958 -20.627  0.00  0.00           C
+ATOM   1316  O   VAL A 186     -24.964  -5.248 -19.629  0.00  0.00           O
+ATOM   1321  CA  PRO A 187     -25.535  -7.934 -19.353  0.00  0.00           C
+ATOM   1322  C   PRO A 187     -24.327  -8.068 -18.438  0.00  0.00           C
+ATOM   1324  CB  PRO A 187     -26.001  -9.328 -19.793  0.00  0.00           C
+ATOM   1327  N   GLU A 188     -24.570  -8.414 -17.177  0.00  0.00           N
+ATOM   1328  CA  GLU A 188     -23.474  -8.623 -16.234  0.00  0.00           C
+ATOM   1331  CB  GLU A 188     -23.977  -8.685 -14.787  0.00  0.00           C
+ATOM   1332  CG  GLU A 188     -24.079  -7.308 -14.121  0.00  0.00           C
+ATOM   1333  CD  GLU A 188     -24.428  -7.370 -12.634  0.00  0.00           C
+ATOM   1335  OE2 GLU A 188     -24.956  -6.358 -12.113  0.00  0.00           O
+ATOM   2116  CA  LEU A 288     -22.868  -1.733 -16.967  0.00  0.00           C
+ATOM   2117  C   LEU A 288     -23.891  -0.598 -16.998  0.00  0.00           C
+ATOM   2118  O   LEU A 288     -24.997  -0.777 -17.511  0.00  0.00           O
+ATOM   2119  CB  LEU A 288     -22.641  -2.224 -15.534  0.00  0.00           C
+ATOM   2120  CG  LEU A 288     -22.055  -3.636 -15.413  0.00  0.00           C
+ATOM   2122  CD2 LEU A 288     -23.045  -4.681 -15.939  0.00  0.00           C
+ATOM   2358  CA  ALA A 319     -29.802   1.085 -14.081  0.00  0.00           C
+ATOM   2359  C   ALA A 319     -29.418  -0.109 -13.205  0.00  0.00           C
+ATOM   2360  O   ALA A 319     -28.405  -0.756 -13.461  0.00  0.00           O
+ATOM   2361  CB  ALA A 319     -28.553   1.866 -14.473  0.00  0.00           C
+ATOM   2364  C   GLU A 320     -28.873  -2.443 -11.593  0.00  0.00           C
+ATOM   2365  O   GLU A 320     -29.104  -3.476 -12.223  0.00  0.00           O
+ATOM   2371  N   ILE A 321     -27.653  -2.073 -11.204  0.00  0.00           N
+ATOM   2372  CA  ILE A 321     -26.513  -2.989 -11.203  0.00  0.00           C
+ATOM   2375  CB  ILE A 321     -25.168  -2.232 -11.265  0.00  0.00           C
+ATOM   2376  CG1 ILE A 321     -25.065  -1.357 -12.542  0.00  0.00           C
+ATOM   2377  CG2 ILE A 321     -23.976  -3.198 -11.275  0.00  0.00           C
+ATOM   2378  CD1 ILE A 321     -25.592   0.052 -12.353  0.00  0.00           C

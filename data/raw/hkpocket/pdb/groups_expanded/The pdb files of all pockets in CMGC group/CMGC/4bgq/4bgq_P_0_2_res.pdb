@@ -1,0 +1,44 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 38 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  54.01  33.55  69.83 with max radius 5.63
+ATOM    299  CA  THR A  56      57.513  36.258  68.690  0.00  0.00           C
+ATOM    300  C   THR A  56      57.828  35.129  67.699  0.00  0.00           C
+ATOM    301  O   THR A  56      57.297  34.031  67.839  0.00  0.00           O
+ATOM    302  CB  THR A  56      56.485  37.280  68.128  0.00  0.00           C
+ATOM    303  OG1 THR A  56      55.178  36.693  68.093  0.00  0.00           O
+ATOM    321  CA  ARG A  59      58.238  31.505  70.416  0.00  0.00           C
+ATOM    322  C   ARG A  59      57.366  30.597  69.546  0.00  0.00           C
+ATOM    323  O   ARG A  59      57.066  29.456  69.924  0.00  0.00           O
+ATOM    324  CB  ARG A  59      57.346  32.556  71.092  0.00  0.00           C
+ATOM    325  CG  ARG A  59      58.027  33.425  72.139  0.00  0.00           C
+ATOM    326  CD  ARG A  59      57.077  34.529  72.619  0.00  0.00           C
+ATOM    327  NE  ARG A  59      55.727  33.986  72.779  0.00  0.00           N
+ATOM    328  CZ  ARG A  59      55.351  33.175  73.770  0.00  0.00           C
+ATOM    330  NH2 ARG A  59      54.106  32.716  73.811  0.00  0.00           N
+ATOM    331  N   GLU A  60      56.983  31.109  68.379  0.00  0.00           N
+ATOM    332  CA  GLU A  60      56.120  30.385  67.441  0.00  0.00           C
+ATOM    335  CB  GLU A  60      55.670  31.297  66.276  0.00  0.00           C
+ATOM    336  CG  GLU A  60      55.049  30.541  65.103  0.00  0.00           C
+ATOM    338  OE1 GLU A  60      54.366  32.626  64.141  0.00  0.00           O
+ATOM    364  CE  MET A  63      53.572  30.016  70.155  0.00  0.00           C
+ATOM   1094  CA  PHE A 154      50.723  31.040  66.406  0.00  0.00           C
+ATOM   1095  C   PHE A 154      51.419  32.212  67.118  0.00  0.00           C
+ATOM   1096  O   PHE A 154      51.914  32.053  68.233  0.00  0.00           O
+ATOM   1097  CB  PHE A 154      51.387  29.710  66.779  0.00  0.00           C
+ATOM   1104  N   GLY A 155      51.448  33.382  66.482  0.00  0.00           N
+ATOM   1105  CA  GLY A 155      52.156  34.550  67.022  0.00  0.00           C
+ATOM   1106  C   GLY A 155      51.545  35.171  68.278  0.00  0.00           C
+ATOM   1107  O   GLY A 155      52.233  35.876  68.991  0.00  0.00           O
+ATOM   1108  N   PHE A 156      50.250  34.957  68.532  0.00  0.00           N
+ATOM   1109  CA  PHE A 156      49.602  35.489  69.735  0.00  0.00           C
+ATOM   1111  C   PHE A 156      49.389  34.349  70.743  0.00  0.00           C
+ATOM   1112  O   PHE A 156      48.835  34.566  71.808  0.00  0.00           O
+ATOM   1127  N   ALA A 157      49.845  33.141  70.424  0.00  0.00           N
+ATOM   1128  CA  ALA A 157      49.584  31.984  71.285  0.00  0.00           C
+ATOM   1129  C   ALA A 157      50.370  32.041  72.606  0.00  0.00           C
+ATOM   1130  O   ALA A 157      51.430  32.652  72.671  0.00  0.00           O
+ATOM   1131  CB  ALA A 157      49.903  30.703  70.551  0.00  0.00           C
+ATOM   1141  NH1 ARG A 158      51.641  35.663  73.182  0.00  0.00           N

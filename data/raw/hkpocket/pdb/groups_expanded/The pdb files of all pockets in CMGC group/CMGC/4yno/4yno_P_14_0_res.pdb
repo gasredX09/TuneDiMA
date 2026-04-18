@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  12.01  11.82 -11.24 with max radius 5.78
+ATOM   1706  NZ  LYS A 220      13.156  14.762 -16.085  0.00  0.00           N
+ATOM   1716  C   LEU A 222       8.797  12.003 -14.276  0.00  0.00           C
+ATOM   1717  O   LEU A 222       9.813  11.777 -13.619  0.00  0.00           O
+ATOM   1719  CG  LEU A 222       8.365  14.987 -13.696  0.00  0.00           C
+ATOM   1720  CD1 LEU A 222       9.832  15.388 -13.747  0.00  0.00           C
+ATOM   1722  N   PHE A 223       7.662  11.320 -14.122  0.00  0.00           N
+ATOM   1723  CA  PHE A 223       7.507  10.265 -13.128  0.00  0.00           C
+ATOM   1724  C   PHE A 223       7.112   8.938 -13.757  0.00  0.00           C
+ATOM   1726  CB  PHE A 223       6.457  10.649 -12.087  0.00  0.00           C
+ATOM   1727  CG  PHE A 223       6.652  12.031 -11.514  0.00  0.00           C
+ATOM   1728  CD1 PHE A 223       7.797  12.325 -10.784  0.00  0.00           C
+ATOM   1730  CE1 PHE A 223       7.995  13.584 -10.241  0.00  0.00           C
+ATOM   1733  N   LYS A 224       7.777   7.878 -13.323  0.00  0.00           N
+ATOM   1816  CA  GLN A 234      10.037   9.519  -7.685  0.00  0.00           C
+ATOM   1817  C   GLN A 234       9.435  10.920  -7.594  0.00  0.00           C
+ATOM   1818  O   GLN A 234      10.090  11.911  -7.926  0.00  0.00           O
+ATOM   1819  CB  GLN A 234       9.638   8.843  -8.993  0.00  0.00           C
+ATOM   1820  CG  GLN A 234      10.370   7.526  -9.211  0.00  0.00           C
+ATOM   1821  CD  GLN A 234      10.176   6.991 -10.608  0.00  0.00           C
+ATOM   1822  OE1 GLN A 234       9.929   7.751 -11.544  0.00  0.00           O
+ATOM   1844  CB  LYS A 237      13.112  12.574  -6.489  0.00  0.00           C
+ATOM   1845  CG  LYS A 237      13.766  11.348  -5.886  0.00  0.00           C
+ATOM   1846  CD  LYS A 237      14.574  10.619  -6.957  0.00  0.00           C
+ATOM   1855  CG2 VAL A 238      10.867  15.534  -9.617  0.00  0.00           C

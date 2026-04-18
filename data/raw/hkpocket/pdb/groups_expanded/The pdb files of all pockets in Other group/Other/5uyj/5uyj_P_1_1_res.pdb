@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -14.33   4.39 -26.48 with max radius 5.80
+ATOM   2165  CA  HIS A 304     -14.855   0.216 -23.757  0.00  0.00           C
+ATOM   2166  C   HIS A 304     -15.483   1.123 -24.803  0.00  0.00           C
+ATOM   2167  O   HIS A 304     -15.476   2.358 -24.640  0.00  0.00           O
+ATOM   2168  CB  HIS A 304     -13.402  -0.090 -24.080  0.00  0.00           C
+ATOM   2182  N   TYR A 305     -16.048   0.534 -25.872  0.00  0.00           N
+ATOM   2183  CA  TYR A 305     -16.720   1.339 -26.898  0.00  0.00           C
+ATOM   2184  C   TYR A 305     -17.949   2.062 -26.317  0.00  0.00           C
+ATOM   2185  O   TYR A 305     -18.257   3.188 -26.712  0.00  0.00           O
+ATOM   2186  CB  TYR A 305     -17.141   0.451 -28.072  0.00  0.00           C
+ATOM   2187  CG  TYR A 305     -17.426   1.246 -29.318  0.00  0.00           C
+ATOM   2188  CD1 TYR A 305     -16.407   1.570 -30.203  0.00  0.00           C
+ATOM   2189  CD2 TYR A 305     -18.707   1.694 -29.606  0.00  0.00           C
+ATOM   2190  CE1 TYR A 305     -16.656   2.290 -31.361  0.00  0.00           C
+ATOM   2221  CA  LYS A 307     -17.514   4.024 -22.343  0.00  0.00           C
+ATOM   2224  CB  LYS A 307     -18.047   5.459 -22.472  0.00  0.00           C
+ATOM   2225  CG  LYS A 307     -17.684   6.080 -23.815  0.00  0.00           C
+ATOM   2226  CD  LYS A 307     -17.899   7.576 -23.813  0.00  0.00           C
+ATOM   2227  CE  LYS A 307     -17.700   8.210 -25.169  0.00  0.00           C
+ATOM   2228  NZ  LYS A 307     -16.336   8.005 -25.698  0.00  0.00           N
+ATOM   2698  CE1 PHE A 337     -14.319   6.213 -21.907  0.00  0.00           C
+ATOM   2700  CZ  PHE A 337     -14.155   4.862 -21.731  0.00  0.00           C
+ATOM   2740  CA  SER A 340     -12.014   9.099 -24.404  0.00  0.00           C
+ATOM   2741  C   SER A 340     -11.562   8.027 -23.426  0.00  0.00           C
+ATOM   2742  O   SER A 340     -11.255   6.919 -23.859  0.00  0.00           O
+ATOM   3140  CD  LYS A 369     -10.885   2.587 -22.913  0.00  0.00           C
+ATOM   3141  CE  LYS A 369     -10.364   3.907 -23.318  0.00  0.00           C
+ATOM   3142  NZ  LYS A 369     -10.801   4.254 -24.709  0.00  0.00           N

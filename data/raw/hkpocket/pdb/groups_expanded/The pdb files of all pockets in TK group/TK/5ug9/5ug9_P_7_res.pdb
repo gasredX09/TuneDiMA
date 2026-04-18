@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -10.95   2.89 -14.21 with max radius 5.50
+ATOM    758  CD1 TYR A 801     -11.665   7.729 -16.409  0.00  0.00           C
+ATOM    760  CE1 TYR A 801     -11.509   6.358 -16.320  0.00  0.00           C
+ATOM    762  CZ  TYR A 801     -12.138   5.541 -17.236  0.00  0.00           C
+ATOM    763  OH  TYR A 801     -12.007   4.173 -17.139  0.00  0.00           O
+ATOM    804  CB  HIS A 805     -14.665   5.785 -13.406  0.00  0.00           C
+ATOM    805  CG  HIS A 805     -15.333   5.451 -14.702  0.00  0.00           C
+ATOM    806  ND1 HIS A 805     -15.190   6.222 -15.835  0.00  0.00           N
+ATOM    807  CD2 HIS A 805     -16.160   4.434 -15.040  0.00  0.00           C
+ATOM    829  C   ASN A 808     -12.235   2.659  -9.885  0.00  0.00           C
+ATOM    830  O   ASN A 808     -11.664   1.847 -10.613  0.00  0.00           O
+ATOM    831  CB  ASN A 808     -14.492   1.785 -10.487  0.00  0.00           C
+ATOM    835  N   ILE A 809     -11.681   3.811  -9.522  0.00  0.00           N
+ATOM    836  CA  ILE A 809     -10.332   4.172  -9.945  0.00  0.00           C
+ATOM    837  C   ILE A 809      -9.318   3.962  -8.827  0.00  0.00           C
+ATOM    839  CB  ILE A 809     -10.267   5.643 -10.407  0.00  0.00           C
+ATOM    840  CG1 ILE A 809     -11.109   5.829 -11.669  0.00  0.00           C
+ATOM    841  CG2 ILE A 809      -8.826   6.044 -10.675  0.00  0.00           C
+ATOM    842  CD1 ILE A 809     -11.216   7.269 -12.121  0.00  0.00           C
+ATOM    843  N   GLY A 810      -8.277   3.188  -9.116  0.00  0.00           N
+ATOM    866  CB  TYR A 813      -5.777   4.199 -13.010  0.00  0.00           C
+ATOM    867  CG  TYR A 813      -6.114   2.942 -13.782  0.00  0.00           C
+ATOM    868  CD1 TYR A 813      -6.009   1.691 -13.193  0.00  0.00           C
+ATOM    869  CD2 TYR A 813      -6.530   3.009 -15.104  0.00  0.00           C
+ATOM    870  CE1 TYR A 813      -6.308   0.539 -13.899  0.00  0.00           C
+ATOM    871  CE2 TYR A 813      -6.832   1.863 -15.819  0.00  0.00           C
+ATOM    872  CZ  TYR A 813      -6.719   0.632 -15.211  0.00  0.00           C
+ATOM    873  OH  TYR A 813      -7.018  -0.513 -15.919  0.00  0.00           O
+ATOM    909  CZ2 TRP A 817      -7.550   6.828 -15.553  0.00  0.00           C
+ATOM    911  CH2 TRP A 817      -8.175   7.403 -14.479  0.00  0.00           C
+ATOM   1155  CA  PRO A 848      -8.603   3.783 -19.216  0.00  0.00           C
+ATOM   1156  C   PRO A 848      -7.129   3.839 -18.820  0.00  0.00           C
+ATOM   1157  O   PRO A 848      -6.760   4.511 -17.858  0.00  0.00           O
+ATOM   1158  CB  PRO A 848      -9.350   2.653 -18.510  0.00  0.00           C
+ATOM   1159  CG  PRO A 848     -10.397   2.237 -19.496  0.00  0.00           C

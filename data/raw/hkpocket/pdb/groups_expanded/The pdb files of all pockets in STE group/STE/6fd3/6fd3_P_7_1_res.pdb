@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  17.55 101.41 -18.72 with max radius 5.30
+ATOM    180  CA  LYS A 282      20.054  97.748 -19.779  0.00  0.00           C
+ATOM    181  C   LYS A 282      20.494  97.717 -18.324  0.00  0.00           C
+ATOM    182  O   LYS A 282      20.630  98.787 -17.713  0.00  0.00           O
+ATOM    183  CB  LYS A 282      18.587  98.202 -19.850  0.00  0.00           C
+ATOM    184  CG  LYS A 282      18.056  98.368 -21.279  0.00  0.00           C
+ATOM    185  CD  LYS A 282      16.537  98.518 -21.293  0.00  0.00           C
+ATOM    186  CE  LYS A 282      16.048  99.019 -22.647  0.00  0.00           C
+ATOM    187  NZ  LYS A 282      16.615 100.357 -22.972  0.00  0.00           N
+ATOM    194  CD1 TYR A 283      18.705  97.903 -14.670  0.00  0.00           C
+ATOM    195  CD2 TYR A 283      17.746  96.732 -16.510  0.00  0.00           C
+ATOM    196  CE1 TYR A 283      17.694  98.825 -14.723  0.00  0.00           C
+ATOM    197  CE2 TYR A 283      16.728  97.665 -16.575  0.00  0.00           C
+ATOM    198  CZ  TYR A 283      16.703  98.700 -15.675  0.00  0.00           C
+ATOM    199  OH  TYR A 283      15.679  99.621 -15.731  0.00  0.00           O
+ATOM    344  CG  ASP A 302      19.758 102.483 -15.302  0.00  0.00           C
+ATOM    345  OD1 ASP A 302      18.574 102.897 -15.278  0.00  0.00           O
+ATOM    346  OD2 ASP A 302      20.507 102.655 -16.275  0.00  0.00           O
+ATOM    359  CB  ALA A 304      21.810 104.551 -18.886  0.00  0.00           C
+ATOM    724  CZ  TYR A 347      13.237  98.184 -19.442  0.00  0.00           C
+ATOM    725  OH  TYR A 347      13.828  99.415 -19.287  0.00  0.00           O

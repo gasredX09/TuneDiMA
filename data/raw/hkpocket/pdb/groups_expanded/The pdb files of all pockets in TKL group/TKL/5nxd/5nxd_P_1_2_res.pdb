@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  14.62 -14.40  40.62 with max radius 6.08
+ATOM    779  CA  ARG A 430      18.854 -10.734  39.487  0.00  0.00           C
+ATOM    781  O   ARG A 430      19.264 -11.572  37.338  0.00  0.00           O
+ATOM    782  CB  ARG A 430      17.669  -9.795  39.355  0.00  0.00           C
+ATOM    783  CG  ARG A 430      16.622  -9.994  40.380  0.00  0.00           C
+ATOM    784  CD  ARG A 430      15.603  -8.873  40.328  0.00  0.00           C
+ATOM    809  CB  LYS A 433      19.190 -14.946  38.633  0.00  0.00           C
+ATOM    810  CG  LYS A 433      18.234 -16.101  38.723  0.00  0.00           C
+ATOM    811  CD  LYS A 433      17.331 -16.379  37.539  0.00  0.00           C
+ATOM    812  CE  LYS A 433      16.430 -17.526  37.911  0.00  0.00           C
+ATOM    813  NZ  LYS A 433      15.794 -17.987  36.674  0.00  0.00           N
+ATOM   1873  O   PHE A 601      19.114 -15.741  43.460  0.00  0.00           O
+ATOM   1882  CA  GLU A 602      17.265 -17.411  42.522  0.00  0.00           C
+ATOM   1883  C   GLU A 602      16.985 -17.505  44.041  0.00  0.00           C
+ATOM   1884  O   GLU A 602      16.162 -16.732  44.585  0.00  0.00           O
+ATOM   1885  CB  GLU A 602      16.514 -18.502  41.801  0.00  0.00           C
+ATOM   1886  CG  GLU A 602      14.987 -18.517  42.061  0.00  0.00           C
+ATOM   1887  CD  GLU A 602      14.270 -19.380  41.033  0.00  0.00           C
+ATOM   1888  OE1 GLU A 602      13.597 -18.803  40.163  0.00  0.00           O
+ATOM   1907  CB  SER A 605      16.223 -13.189  43.866  0.00  0.00           C
+ATOM   1908  OG  SER A 605      17.322 -12.845  43.054  0.00  0.00           O
+ATOM   1914  CG  LEU A 606      13.162 -17.061  45.911  0.00  0.00           C
+ATOM   1916  CD2 LEU A 606      11.825 -16.414  45.634  0.00  0.00           C

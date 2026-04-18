@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -17.75   7.41  27.34 with max radius 5.59
+ATOM    952  CA  ALA A 129     -20.727   3.995  30.707  0.00  0.00           C
+ATOM    953  C   ALA A 129     -21.725   5.108  30.495  0.00  0.00           C
+ATOM    954  O   ALA A 129     -21.403   6.074  29.800  0.00  0.00           O
+ATOM    955  CB  ALA A 129     -20.962   2.904  29.675  0.00  0.00           C
+ATOM   1026  CG  GLN A 138     -17.072   8.484  32.220  0.00  0.00           C
+ATOM   1027  CD  GLN A 138     -16.661   9.747  31.495  0.00  0.00           C
+ATOM   1028  OE1 GLN A 138     -16.753   9.827  30.265  0.00  0.00           O
+ATOM   1032  C   LEU A 139     -15.922   4.460  30.351  0.00  0.00           C
+ATOM   1033  O   LEU A 139     -16.932   4.770  29.708  0.00  0.00           O
+ATOM   1038  N   PHE A 140     -14.670   4.566  29.871  0.00  0.00           N
+ATOM   1039  CA  PHE A 140     -14.351   5.068  28.536  0.00  0.00           C
+ATOM   1040  C   PHE A 140     -14.406   3.977  27.478  0.00  0.00           C
+ATOM   1041  O   PHE A 140     -14.995   4.192  26.417  0.00  0.00           O
+ATOM   1042  CB  PHE A 140     -13.001   5.793  28.527  0.00  0.00           C
+ATOM   1043  CG  PHE A 140     -12.983   6.999  29.441  0.00  0.00           C
+ATOM   1044  CD1 PHE A 140     -13.546   8.205  29.040  0.00  0.00           C
+ATOM   1046  CE1 PHE A 140     -13.538   9.315  29.888  0.00  0.00           C
+ATOM   3105  CE2 TYR A 399     -18.738   3.372  26.510  0.00  0.00           C
+ATOM   3106  CZ  TYR A 399     -19.789   3.939  25.805  0.00  0.00           C
+ATOM   3107  OH  TYR A 399     -20.082   5.272  25.960  0.00  0.00           O
+ATOM   3112  CB  TYR A 400     -16.387   3.681  23.648  0.00  0.00           C
+ATOM   3113  CG  TYR A 400     -16.578   5.117  23.214  0.00  0.00           C
+ATOM   3114  CD1 TYR A 400     -15.613   5.771  22.451  0.00  0.00           C
+ATOM   3115  CD2 TYR A 400     -17.693   5.844  23.616  0.00  0.00           C
+ATOM   3116  CE1 TYR A 400     -15.781   7.096  22.051  0.00  0.00           C
+ATOM   3117  CE2 TYR A 400     -17.869   7.173  23.230  0.00  0.00           C
+ATOM   3118  CZ  TYR A 400     -16.911   7.794  22.444  0.00  0.00           C
+ATOM   3119  OH  TYR A 400     -17.079   9.102  22.053  0.00  0.00           O

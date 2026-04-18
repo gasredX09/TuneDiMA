@@ -1,0 +1,40 @@
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'pyg-lib'. Disabling its usage. Stacktrace: /lib64/libm.so.6: version `GLIBC_2.29' not found (required by /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/libpyg.so)
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-scatter'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_scatter/_scatter_cuda.so: undefined symbol: _ZN2at4_ops16div__Tensor_mode4callERNS_6TensorERKS2_St8optionalIN3c1017basic_string_viewIcEEE
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-spline-conv'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_spline_conv/_basis_cuda.so: undefined symbol: _ZN5torch8autograd12VariableInfoC1ERKN2at6TensorE
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-sparse'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_sparse/_spmm_cuda.so: undefined symbol: _ZN5torch8autograd12VariableInfoC1ERKN2at6TensorE
+  import torch_geometric.typing
+/ocean/projects/cis260039p/mjaju/projects/train_model.py:178: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  sample_loader = DataLoader(sample_dataset, batch_size=1, collate_fn=collate_fn)
+[17:37:01] SMILES Parse Error: syntax error while parsing: [ANP]
+[17:37:01] SMILES Parse Error: check for mistakes around position 2:
+[17:37:01] [ANP]
+[17:37:01] ~^
+[17:37:01] SMILES Parse Error: Failed parsing SMILES '[ANP]' for input: '[ANP]'
+Traceback (most recent call last):
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/ocean/projects/cis260039p/mjaju/projects/train_model.py", line 271, in <module>
+    main()
+  File "/ocean/projects/cis260039p/mjaju/projects/train_model.py", line 179, in main
+    for sample_batch in sample_loader:
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 708, in __next__
+    data = self._next_data()
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 764, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 52, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 52, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/ocean/projects/cis260039p/mjaju/projects/dataset.py", line 41, in __getitem__
+    lig_data = make_ligand_data(lig_smiles, use_3d=self.use_3d)
+  File "/ocean/projects/cis260039p/mjaju/projects/dataset.py", line 52, in make_ligand_data
+    _, atom_feats, coords, edge_index, edge_attr, mol_desc = featurize_ligand(smiles, use_3d=use_3d)
+  File "/ocean/projects/cis260039p/mjaju/projects/features/ligand.py", line 160, in featurize_ligand
+    raise ValueError(f"Invalid SMILES: {smiles}")
+ValueError: Invalid SMILES: [ANP]
+srun: error: v014: task 0: Exited with exit code 1

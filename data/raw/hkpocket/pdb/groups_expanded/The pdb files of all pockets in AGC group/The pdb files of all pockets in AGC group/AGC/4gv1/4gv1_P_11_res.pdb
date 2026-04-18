@@ -1,0 +1,57 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 51 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -22.55  10.44  38.40 with max radius 6.47
+ATOM   1653  CE1 TYR A 340     -25.436  12.610  33.245  0.00  0.00           C
+ATOM   1654  CE2 TYR A 340     -27.321  11.974  34.599  0.00  0.00           C
+ATOM   1655  CZ  TYR A 340     -26.076  12.582  34.465  0.00  0.00           C
+ATOM   1656  OH  TYR A 340     -25.435  13.160  35.555  0.00  0.00           O
+ATOM   1701  CD  ARG A 346     -21.338  15.213  34.213  0.00  0.00           C
+ATOM   1703  NE  ARG A 346     -22.340  15.142  35.281  0.00  0.00           N
+ATOM   1705  CZ  ARG A 346     -22.946  16.189  35.845  0.00  0.00           C
+ATOM   1709  NH2 ARG A 346     -23.841  15.984  36.793  0.00  0.00           N
+ATOM   1714  O   LEU A 347     -21.857  11.167  33.280  0.00  0.00           O
+ATOM   1720  CA  PRO A 348     -23.830   9.485  34.101  0.00  0.00           C
+ATOM   1721  C   PRO A 348     -22.776   8.912  35.037  0.00  0.00           C
+ATOM   1722  O   PRO A 348     -22.734   9.293  36.195  0.00  0.00           O
+ATOM   1723  CB  PRO A 348     -25.078   8.578  33.982  0.00  0.00           C
+ATOM   1726  N   PHE A 349     -21.936   8.020  34.513  0.00  0.00           N
+ATOM   1727  CA  PHE A 349     -20.886   7.332  35.276  0.00  0.00           C
+ATOM   1728  C   PHE A 349     -19.611   7.306  34.462  0.00  0.00           C
+ATOM   1730  CB  PHE A 349     -21.324   5.889  35.602  0.00  0.00           C
+ATOM   1731  CG  PHE A 349     -22.664   5.805  36.286  0.00  0.00           C
+ATOM   1732  CD1 PHE A 349     -22.818   6.234  37.598  0.00  0.00           C
+ATOM   1733  CD2 PHE A 349     -23.774   5.342  35.598  0.00  0.00           C
+ATOM   1734  CE1 PHE A 349     -24.049   6.184  38.219  0.00  0.00           C
+ATOM   1735  CE2 PHE A 349     -25.003   5.294  36.205  0.00  0.00           C
+ATOM   1736  CZ  PHE A 349     -25.145   5.716  37.530  0.00  0.00           C
+ATOM   1737  N   TYR A 350     -18.511   7.792  35.022  0.00  0.00           N
+ATOM   1840  CB  LEU A 360     -19.303   4.376  38.885  0.00  0.00           C
+ATOM   1841  CG  LEU A 360     -18.030   5.067  39.415  0.00  0.00           C
+ATOM   1842  CD1 LEU A 360     -17.510   6.102  38.415  0.00  0.00           C
+ATOM   1843  CD2 LEU A 360     -18.317   5.717  40.755  0.00  0.00           C
+ATOM   1870  C   GLU A 364     -24.776   5.205  42.249  0.00  0.00           C
+ATOM   1871  O   GLU A 364     -25.246   4.989  41.126  0.00  0.00           O
+ATOM   1872  CB  GLU A 364     -22.300   5.502  41.922  0.00  0.00           C
+ATOM   1873  CG  GLU A 364     -22.175   6.960  42.361  0.00  0.00           C
+ATOM   1878  CA  GLU A 365     -26.722   6.518  42.865  0.00  0.00           C
+ATOM   1879  C   GLU A 365     -26.567   7.630  41.818  0.00  0.00           C
+ATOM   1880  O   GLU A 365     -25.611   8.417  41.863  0.00  0.00           O
+ATOM   1886  N   ILE A 366     -27.505   7.681  40.880  0.00  0.00           N
+ATOM   1887  CA  ILE A 366     -27.490   8.695  39.823  0.00  0.00           C
+ATOM   1888  C   ILE A 366     -27.607  10.104  40.438  0.00  0.00           C
+ATOM   1890  CB  ILE A 366     -28.620   8.439  38.763  0.00  0.00           C
+ATOM   1891  CG1 ILE A 366     -28.464   9.314  37.510  0.00  0.00           C
+ATOM   1893  CD1 ILE A 366     -27.288   8.944  36.686  0.00  0.00           C
+ATOM   1894  N   ARG A 367     -26.888  11.059  39.856  0.00  0.00           N
+ATOM   1895  CA  ARG A 367     -27.042  12.489  40.162  0.00  0.00           C
+ATOM   1896  C   ARG A 367     -27.251  13.284  38.873  0.00  0.00           C
+ATOM   1897  O   ARG A 367     -26.868  12.834  37.771  0.00  0.00           O
+ATOM   1898  CB  ARG A 367     -25.813  13.014  40.897  0.00  0.00           C
+ATOM   1899  CG  ARG A 367     -25.645  12.491  42.319  0.00  0.00           C
+ATOM   1900  CD  ARG A 367     -24.300  12.901  42.896  0.00  0.00           C
+ATOM   1901  NE  ARG A 367     -23.211  12.232  42.221  0.00  0.00           N
+ATOM   1902  CZ  ARG A 367     -21.920  12.500  42.378  0.00  0.00           C
+ATOM   1904  NH2 ARG A 367     -21.020  11.804  41.692  0.00  0.00           N

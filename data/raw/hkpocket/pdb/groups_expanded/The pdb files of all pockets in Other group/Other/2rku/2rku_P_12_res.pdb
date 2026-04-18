@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -32.07   2.71   0.65 with max radius 6.11
+ATOM     76  OD1 ASP A  46     -31.849   0.166   4.587  0.00  0.00           O
+ATOM     83  CG  PRO A  47     -32.775  -1.982   0.858  0.00  0.00           C
+ATOM     84  CD  PRO A  47     -33.566  -1.622   2.101  0.00  0.00           C
+ATOM     85  N   ARG A  48     -30.255  -2.127   3.043  0.00  0.00           N
+ATOM     86  CA  ARG A  48     -28.867  -1.774   3.299  0.00  0.00           C
+ATOM     89  CB  ARG A  48     -28.683  -0.276   3.082  0.00  0.00           C
+ATOM     90  CG  ARG A  48     -27.317   0.120   2.601  0.00  0.00           C
+ATOM     91  CD  ARG A  48     -27.304   1.570   2.158  0.00  0.00           C
+ATOM     92  NE  ARG A  48     -27.992   1.785   0.883  0.00  0.00           N
+ATOM     93  CZ  ARG A  48     -27.379   2.029  -0.268  0.00  0.00           C
+ATOM     95  NH2 ARG A  48     -28.094   2.214  -1.368  0.00  0.00           N
+ATOM    665  C   PHE A 119     -33.746   5.679   5.036  0.00  0.00           C
+ATOM    666  O   PHE A 119     -32.613   5.221   4.871  0.00  0.00           O
+ATOM    671  CE1 PHE A 119     -32.319   8.287   2.151  0.00  0.00           C
+ATOM    675  CA  PHE A 120     -34.609   4.344   3.247  0.00  0.00           C
+ATOM    676  C   PHE A 120     -35.848   4.443   2.399  0.00  0.00           C
+ATOM    678  CB  PHE A 120     -34.303   2.917   3.799  0.00  0.00           C
+ATOM    685  N   GLU A 121     -35.854   3.758   1.267  0.00  0.00           N
+ATOM    686  CA  GLU A 121     -36.953   3.919   0.353  0.00  0.00           C
+ATOM    687  C   GLU A 121     -37.244   2.624  -0.394  0.00  0.00           C
+ATOM    688  O   GLU A 121     -36.418   1.710  -0.430  0.00  0.00           O
+ATOM    689  CB  GLU A 121     -36.671   5.084  -0.621  0.00  0.00           C
+ATOM    690  CG  GLU A 121     -35.339   4.992  -1.366  0.00  0.00           C
+ATOM    691  CD  GLU A 121     -34.948   6.310  -2.030  0.00  0.00           C
+ATOM    693  OE2 GLU A 121     -33.833   6.800  -1.764  0.00  0.00           O

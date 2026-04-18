@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.31  21.12  36.45 with max radius 8.03
+ATOM   1507  CB  THR A 386      -1.017  15.945  39.284  0.00  0.00           C
+ATOM   1509  CG2 THR A 386      -0.517  17.020  38.326  0.00  0.00           C
+ATOM   1777  CA  LEU A 421       0.269  24.167  40.877  0.00  0.00           C
+ATOM   1778  C   LEU A 421       1.113  25.224  40.184  0.00  0.00           C
+ATOM   1779  O   LEU A 421       1.297  25.159  38.954  0.00  0.00           O
+ATOM   1780  CB  LEU A 421      -1.236  24.410  40.703  0.00  0.00           C
+ATOM   1781  CG  LEU A 421      -2.054  23.108  40.776  0.00  0.00           C
+ATOM   1782  CD1 LEU A 421      -3.397  23.311  40.122  0.00  0.00           C
+ATOM   1783  CD2 LEU A 421      -1.338  21.938  40.099  0.00  0.00           C
+ATOM   1800  CB  LEU A 424       2.276  21.872  38.048  0.00  0.00           C
+ATOM   1801  CG  LEU A 424       1.821  21.014  36.840  0.00  0.00           C
+ATOM   1803  CD2 LEU A 424       0.355  20.620  36.962  0.00  0.00           C
+ATOM   1808  CB  ALA A 425       2.251  26.897  36.020  0.00  0.00           C
+ATOM   1832  SD  MET A 428       1.349  22.066  32.357  0.00  0.00           S
+ATOM   1833  CE  MET A 428       0.845  23.515  33.262  0.00  0.00           C
+ATOM   1956  CA  LYS A 445      -4.413  12.785  35.714  0.00  0.00           C
+ATOM   1957  C   LYS A 445      -4.674  13.509  34.416  0.00  0.00           C
+ATOM   1959  CB  LYS A 445      -3.262  13.485  36.471  0.00  0.00           C
+ATOM   1960  CG  LYS A 445      -2.983  12.906  37.840  0.00  0.00           C
+ATOM   1961  CD  LYS A 445      -4.132  13.155  38.804  0.00  0.00           C
+ATOM   1964  N   SER A 446      -5.795  14.216  34.377  0.00  0.00           N
+ATOM   1965  CA  SER A 446      -6.153  15.040  33.245  0.00  0.00           C
+ATOM   1966  C   SER A 446      -5.735  16.500  33.520  0.00  0.00           C
+ATOM   1967  O   SER A 446      -6.227  17.124  34.472  0.00  0.00           O
+ATOM   1968  CB  SER A 446      -7.669  14.898  32.994  0.00  0.00           C
+ATOM   1970  N   ILE A 447      -4.793  17.027  32.730  0.00  0.00           N
+ATOM   1971  CA  ILE A 447      -4.342  18.433  32.868  0.00  0.00           C
+ATOM   1972  C   ILE A 447      -4.822  19.257  31.678  0.00  0.00           C
+ATOM   1974  CB  ILE A 447      -2.794  18.593  32.986  0.00  0.00           C
+ATOM   1975  CG1 ILE A 447      -2.231  17.814  34.187  0.00  0.00           C
+ATOM   1976  CG2 ILE A 447      -2.382  20.070  33.060  0.00  0.00           C
+ATOM   1977  CD1 ILE A 447      -0.707  17.672  34.183  0.00  0.00           C
+ATOM   1978  N   LEU A 448      -5.558  20.330  31.971  0.00  0.00           N
+ATOM   1979  CA  LEU A 448      -5.944  21.320  30.971  0.00  0.00           C
+ATOM   1980  C   LEU A 448      -5.168  22.609  31.203  0.00  0.00           C
+ATOM   1981  O   LEU A 448      -5.076  23.090  32.336  0.00  0.00           O

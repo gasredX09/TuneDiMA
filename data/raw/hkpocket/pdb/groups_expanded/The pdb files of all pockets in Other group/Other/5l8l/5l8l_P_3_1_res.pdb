@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -4.04 -17.46 -16.98 with max radius 7.12
+ATOM    805  CD2 TYR A 219      -2.963 -11.876 -19.376  0.00  0.00           C
+ATOM    807  CE2 TYR A 219      -4.116 -12.084 -18.633  0.00  0.00           C
+ATOM   1152  CG  LYS A 258       2.846 -17.299 -16.711  0.00  0.00           C
+ATOM   1153  CD  LYS A 258       2.179 -16.906 -15.408  0.00  0.00           C
+ATOM   1154  CE  LYS A 258       2.018 -18.092 -14.476  0.00  0.00           C
+ATOM   1155  NZ  LYS A 258       0.898 -17.887 -13.515  0.00  0.00           N
+ATOM   1169  CD  GLU A 260       0.056 -13.716 -16.660  0.00  0.00           C
+ATOM   1170  OE1 GLU A 260      -0.152 -14.158 -17.819  0.00  0.00           O
+ATOM   1171  OE2 GLU A 260      -0.554 -14.148 -15.656  0.00  0.00           O
+ATOM   1412  N   GLY A 291      -0.699 -17.942 -10.328  0.00  0.00           N
+ATOM   1413  CA  GLY A 291      -2.134 -17.940 -10.395  0.00  0.00           C
+ATOM   1414  C   GLY A 291      -2.867 -19.218 -10.678  0.00  0.00           C
+ATOM   1416  N   THR A 292      -2.659 -19.793 -11.842  0.00  0.00           N
+ATOM   1417  CA  THR A 292      -3.120 -21.115 -12.126  0.00  0.00           C
+ATOM   1420  CB  THR A 292      -4.189 -21.075 -13.202  0.00  0.00           C
+ATOM   1421  OG1 THR A 292      -3.612 -20.594 -14.420  0.00  0.00           O
+ATOM   1422  CG2 THR A 292      -5.293 -20.179 -12.771  0.00  0.00           C
+ATOM   1435  CB  ASP A 294      -3.005 -22.023 -17.435  0.00  0.00           C
+ATOM   1436  CG  ASP A 294      -4.488 -22.337 -17.287  0.00  0.00           C
+ATOM   1438  OD2 ASP A 294      -5.153 -21.731 -16.426  0.00  0.00           O
+ATOM   1446  CD2 TYR A 295      -0.004 -19.498 -17.798  0.00  0.00           C
+ATOM   1448  CE2 TYR A 295      -0.992 -18.709 -18.345  0.00  0.00           C
+ATOM   1449  CZ  TYR A 295      -1.063 -18.552 -19.711  0.00  0.00           C
+ATOM   1450  OH  TYR A 295      -2.055 -17.757 -20.237  0.00  0.00           O
+ATOM   1668  CD  GLU A 321      -2.956 -17.395 -23.282  0.00  0.00           C
+ATOM   1669  OE1 GLU A 321      -1.937 -17.905 -22.771  0.00  0.00           O
+ATOM   1670  OE2 GLU A 321      -3.684 -16.567 -22.676  0.00  0.00           O
+ATOM   1711  CG  PRO A 327      -4.641 -20.776 -20.890  0.00  0.00           C
+ATOM   1712  CD  PRO A 327      -5.490 -19.885 -21.776  0.00  0.00           C
+ATOM   1735  CB  GLU A 330      -8.076 -22.627 -19.768  0.00  0.00           C
+ATOM   1736  CG  GLU A 330      -8.830 -21.653 -18.894  0.00  0.00           C
+ATOM   1737  CD  GLU A 330      -9.012 -20.304 -19.563  0.00  0.00           C
+ATOM   1739  OE2 GLU A 330      -8.199 -19.394 -19.301  0.00  0.00           O

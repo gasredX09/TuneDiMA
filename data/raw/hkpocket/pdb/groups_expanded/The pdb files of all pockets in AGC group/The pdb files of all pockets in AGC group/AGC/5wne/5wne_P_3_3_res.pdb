@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -10.91   1.15  59.27 with max radius 5.66
+ATOM   1231  O   VAL A 162      -8.550   2.704  55.259  0.00  0.00           O
+ATOM   1233  CG1 VAL A 162      -9.431  -0.284  53.998  0.00  0.00           C
+ATOM   1252  CA  MET A 165      -9.507   5.629  57.679  0.00  0.00           C
+ATOM   1253  C   MET A 165      -8.323   5.003  58.406  0.00  0.00           C
+ATOM   1254  O   MET A 165      -8.218   5.150  59.623  0.00  0.00           O
+ATOM   1255  CB  MET A 165     -10.744   4.731  57.802  0.00  0.00           C
+ATOM   1256  CG  MET A 165     -12.022   5.404  57.365  0.00  0.00           C
+ATOM   1257  SD  MET A 165     -13.497   4.375  57.554  0.00  0.00           S
+ATOM   1258  CE  MET A 165     -13.046   2.943  56.617  0.00  0.00           C
+ATOM   1259  N   SER A 166      -7.441   4.307  57.666  0.00  0.00           N
+ATOM   1260  CA  SER A 166      -6.251   3.674  58.229  0.00  0.00           C
+ATOM   1263  CB  SER A 166      -5.781   2.523  57.345  0.00  0.00           C
+ATOM   2085  C   GLU A 270     -15.713   3.431  61.354  0.00  0.00           C
+ATOM   2086  O   GLU A 270     -14.593   3.411  61.863  0.00  0.00           O
+ATOM   2088  CG  GLU A 270     -15.149   0.571  60.161  0.00  0.00           C
+ATOM   2089  CD  GLU A 270     -14.776   0.042  58.790  0.00  0.00           C
+ATOM   2090  OE1 GLU A 270     -13.757  -0.679  58.697  0.00  0.00           O
+ATOM   2091  OE2 GLU A 270     -15.483   0.360  57.809  0.00  0.00           O
+ATOM   2116  CA  GLY A 274     -12.491   2.502  64.142  0.00  0.00           C
+ATOM   2117  C   GLY A 274     -12.614   1.006  63.937  0.00  0.00           C
+ATOM   2118  O   GLY A 274     -11.647   0.346  63.546  0.00  0.00           O
+ATOM   2119  N   ASP A 275     -13.813   0.469  64.212  0.00  0.00           N

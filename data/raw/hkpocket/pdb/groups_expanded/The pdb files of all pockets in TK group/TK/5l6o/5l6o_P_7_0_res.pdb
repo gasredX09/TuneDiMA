@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   6.19   6.46  -6.74 with max radius 5.30
+ATOM     62  C   ALA A 641       7.180  11.271  -7.500  0.00  0.00           C
+ATOM     63  O   ALA A 641       7.245  11.260  -8.728  0.00  0.00           O
+ATOM     65  N   GLY A 645       3.813   8.003  -3.953  0.00  0.00           N
+ATOM     66  CA  GLY A 645       4.239   9.213  -3.264  0.00  0.00           C
+ATOM     67  C   GLY A 645       5.612   9.691  -3.691  0.00  0.00           C
+ATOM     68  O   GLY A 645       5.765  10.217  -4.796  0.00  0.00           O
+ATOM     69  N   GLU A 646       6.623   9.509  -2.818  0.00  0.00           N
+ATOM     70  CA  GLU A 646       8.004   9.934  -3.080  0.00  0.00           C
+ATOM     71  C   GLU A 646       9.037   8.813  -2.896  0.00  0.00           C
+ATOM     72  O   GLU A 646       8.806   7.874  -2.133  0.00  0.00           O
+ATOM     78  N   VAL A 647      10.183   8.934  -3.594  0.00  0.00           N
+ATOM     84  CG2 VAL A 647      10.505   6.527  -5.404  0.00  0.00           C
+ATOM    206  CG  LYS A 665       7.771   3.869  -2.918  0.00  0.00           C
+ATOM    207  CD  LYS A 665       6.908   2.694  -3.335  0.00  0.00           C
+ATOM    208  CE  LYS A 665       5.694   3.149  -4.111  0.00  0.00           C
+ATOM    209  NZ  LYS A 665       4.968   2.003  -4.723  0.00  0.00           N
+ATOM    213  O   THR A 666       5.394   7.111  -1.109  0.00  0.00           O
+ATOM   1057  C   PHE A 777       7.284   1.031  -7.539  0.00  0.00           C
+ATOM   1058  O   PHE A 777       7.170   1.514  -6.413  0.00  0.00           O
+ATOM   1066  N   GLY A 778       8.154   1.488  -8.437  0.00  0.00           N
+ATOM   1067  CA  GLY A 778       9.077   2.587  -8.160  0.00  0.00           C
+ATOM   1068  C   GLY A 778       8.819   3.814  -9.013  0.00  0.00           C
+ATOM   1069  O   GLY A 778       7.795   3.889  -9.703  0.00  0.00           O
+ATOM   1070  N   LEU A 779       9.758   4.784  -8.973  0.00  0.00           N
+ATOM   1071  CA  LEU A 779       9.709   6.046  -9.723  0.00  0.00           C
+ATOM   1074  CB  LEU A 779      10.893   6.945  -9.310  0.00  0.00           C
+ATOM   1076  CD1 LEU A 779      10.026   9.299  -9.030  0.00  0.00           C

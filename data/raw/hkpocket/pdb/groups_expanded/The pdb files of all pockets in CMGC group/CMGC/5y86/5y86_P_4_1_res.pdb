@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  21.72  24.06   9.55 with max radius 6.02
+ATOM   1075  O   MET A 269      22.599  28.835   5.861  0.00  0.00           O
+ATOM   1094  CG2 VAL A 271      23.906  28.636   9.126  0.00  0.00           C
+ATOM   1492  O   ILE A 319      19.291  23.703   4.903  0.00  0.00           O
+ATOM   1495  CG2 ILE A 319      16.875  22.488   6.482  0.00  0.00           C
+ATOM   1515  CA  SER A 322      21.997  25.755   5.837  0.00  0.00           C
+ATOM   1516  C   SER A 322      22.786  24.486   5.959  0.00  0.00           C
+ATOM   1517  O   SER A 322      23.967  24.509   6.368  0.00  0.00           O
+ATOM   1518  CB  SER A 322      20.903  25.729   6.901  0.00  0.00           C
+ATOM   1519  OG  SER A 322      20.068  26.864   6.814  0.00  0.00           O
+ATOM   1520  N   LEU A 323      22.201  23.371   5.556  0.00  0.00           N
+ATOM   1521  CA  LEU A 323      22.909  22.114   5.675  0.00  0.00           C
+ATOM   1525  CG  LEU A 323      20.848  20.822   6.243  0.00  0.00           C
+ATOM   1526  CD1 LEU A 323      19.963  19.702   5.787  0.00  0.00           C
+ATOM   1527  CD2 LEU A 323      21.392  20.519   7.603  0.00  0.00           C
+ATOM   1545  CB  LEU A 326      26.370  22.623   8.622  0.00  0.00           C
+ATOM   1546  CG  LEU A 326      25.437  23.623   9.221  0.00  0.00           C
+ATOM   1547  CD1 LEU A 326      24.525  22.970  10.200  0.00  0.00           C
+ATOM   1548  CD2 LEU A 326      26.065  24.790   9.871  0.00  0.00           C
+ATOM   1605  CB  HIS A 333      22.971  20.767  13.137  0.00  0.00           C
+ATOM   1606  CG  HIS A 333      22.035  21.645  13.892  0.00  0.00           C
+ATOM   1608  CD2 HIS A 333      21.890  22.991  13.904  0.00  0.00           C
+ATOM   1631  CD1 LEU A 336      18.293  21.602  11.484  0.00  0.00           C
+ATOM   1632  CD2 LEU A 336      18.370  19.620   9.937  0.00  0.00           C
+ATOM   1767  CA  VAL A 353      18.666  27.363  11.500  0.00  0.00           C
+ATOM   1768  C   VAL A 353      19.149  28.042  12.748  0.00  0.00           C
+ATOM   1770  CB  VAL A 353      19.568  26.188  11.021  0.00  0.00           C
+ATOM   1771  CG1 VAL A 353      19.826  25.260  12.150  0.00  0.00           C
+ATOM   1772  CG2 VAL A 353      18.802  25.453   9.929  0.00  0.00           C
+ATOM   1797  CE1 PHE A 356      23.287  27.081  14.048  0.00  0.00           C
+ATOM   1798  CE2 PHE A 356      24.787  25.340  13.434  0.00  0.00           C
+ATOM   1799  CZ  PHE A 356      23.854  26.296  13.076  0.00  0.00           C

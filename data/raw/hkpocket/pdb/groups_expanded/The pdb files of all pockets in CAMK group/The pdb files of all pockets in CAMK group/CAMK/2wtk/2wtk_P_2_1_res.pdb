@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -74.84  50.77  63.59 with max radius 7.88
+ATOM   5888  CB  VAL C 143     -78.585  49.737  59.687  0.00  0.00           C
+ATOM   5889  CG1 VAL C 143     -78.384  48.326  60.231  0.00  0.00           C
+ATOM   5890  CG2 VAL C 143     -77.363  50.223  58.906  0.00  0.00           C
+ATOM   5902  CB  GLU C 145     -78.254  54.858  61.984  0.00  0.00           C
+ATOM   5903  CG  GLU C 145     -78.794  53.894  63.064  0.00  0.00           C
+ATOM   5904  CD  GLU C 145     -78.299  52.447  62.893  0.00  0.00           C
+ATOM   5905  OE1 GLU C 145     -79.120  51.515  63.039  0.00  0.00           O
+ATOM   5906  OE2 GLU C 145     -77.091  52.240  62.615  0.00  0.00           O
+ATOM   5918  C   ARG C 147     -73.455  53.078  59.387  0.00  0.00           C
+ATOM   5919  O   ARG C 147     -74.218  52.187  59.755  0.00  0.00           O
+ATOM   5921  CG  ARG C 147     -74.066  55.316  61.062  0.00  0.00           C
+ATOM   5922  CD  ARG C 147     -73.903  56.602  61.839  0.00  0.00           C
+ATOM   5923  NE  ARG C 147     -75.161  57.046  62.424  0.00  0.00           N
+ATOM   5924  CZ  ARG C 147     -75.443  56.976  63.722  0.00  0.00           C
+ATOM   5925  NH1 ARG C 147     -74.544  56.490  64.576  0.00  0.00           N
+ATOM   5926  NH2 ARG C 147     -76.625  57.400  64.170  0.00  0.00           N
+ATOM   5927  N   PHE C 148     -72.133  53.021  59.551  0.00  0.00           N
+ATOM   5928  CA  PHE C 148     -71.489  51.929  60.281  0.00  0.00           C
+ATOM   5929  C   PHE C 148     -70.915  52.436  61.603  0.00  0.00           C
+ATOM   5930  O   PHE C 148     -70.611  53.624  61.730  0.00  0.00           O
+ATOM   5938  N   PRO C 149     -70.756  51.532  62.591  0.00  0.00           N
+ATOM   5939  CA  PRO C 149     -69.939  51.835  63.756  0.00  0.00           C
+ATOM   5942  CB  PRO C 149     -69.865  50.492  64.482  0.00  0.00           C
+ATOM   5943  CG  PRO C 149     -71.130  49.824  64.136  0.00  0.00           C
+ATOM   5944  CD  PRO C 149     -71.403  50.213  62.711  0.00  0.00           C
+ATOM   7238  CD  GLU C 317     -72.559  50.641  67.788  0.00  0.00           C
+ATOM   7239  OE1 GLU C 317     -72.031  51.769  67.670  0.00  0.00           O
+ATOM   7240  OE2 GLU C 317     -73.457  50.232  67.021  0.00  0.00           O
+ATOM   7244  O   ALA C 318     -72.230  46.790  65.140  0.00  0.00           O
+ATOM   7248  C   PRO C 319     -72.272  45.272  62.446  0.00  0.00           C
+ATOM   7249  O   PRO C 319     -73.205  44.721  63.012  0.00  0.00           O
+ATOM   7253  N   VAL C 320     -72.356  45.809  61.228  0.00  0.00           N
+ATOM   7254  CA  VAL C 320     -73.525  45.646  60.366  0.00  0.00           C
+ATOM   7257  CB  VAL C 320     -73.750  46.871  59.458  0.00  0.00           C
+ATOM   7258  CG1 VAL C 320     -75.017  46.706  58.627  0.00  0.00           C
+ATOM   7259  CG2 VAL C 320     -73.858  48.132  60.295  0.00  0.00           C
+ATOM   7266  CD  PRO C 321     -75.670  43.684  60.232  0.00  0.00           C

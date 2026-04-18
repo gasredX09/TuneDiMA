@@ -1,0 +1,64 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 58 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   9.17   8.96  34.40 with max radius 9.98
+ATOM    608  CA  GLU X  81      14.187  10.663  30.582  0.00  0.00           C
+ATOM    609  C   GLU X  81      13.628   9.428  29.887  0.00  0.00           C
+ATOM    610  O   GLU X  81      14.025   8.316  30.206  0.00  0.00           O
+ATOM    611  CB  GLU X  81      13.470  10.838  31.933  0.00  0.00           C
+ATOM    614  OE1 GLU X  81      11.992  11.828  34.102  0.00  0.00           O
+ATOM    616  N   ASN X  82      12.645   9.609  28.999  0.00  0.00           N
+ATOM    617  CA  ASN X  82      12.006   8.489  28.321  0.00  0.00           C
+ATOM    620  CB  ASN X  82      10.484   8.606  28.430  0.00  0.00           C
+ATOM    621  CG  ASN X  82      10.019   8.735  29.852  0.00  0.00           C
+ATOM    622  OD1 ASN X  82       9.381   9.721  30.219  0.00  0.00           O
+ATOM    623  ND2 ASN X  82      10.321   7.728  30.669  0.00  0.00           N
+ATOM    952  O   PHE X 129       4.389   4.230  32.354  0.00  0.00           O
+ATOM    955  CD1 PHE X 129       5.029   4.519  35.674  0.00  0.00           C
+ATOM    957  CE1 PHE X 129       6.269   5.053  36.065  0.00  0.00           C
+ATOM    959  CZ  PHE X 129       7.325   4.209  36.287  0.00  0.00           C
+ATOM    980  CB  TYR X 132       2.320   7.201  31.895  0.00  0.00           C
+ATOM    983  CD2 TYR X 132       4.002   8.786  32.895  0.00  0.00           C
+ATOM    985  CE2 TYR X 132       4.411  10.056  33.262  0.00  0.00           C
+ATOM    986  CZ  TYR X 132       3.566  11.126  33.044  0.00  0.00           C
+ATOM    987  OH  TYR X 132       3.961  12.400  33.360  0.00  0.00           O
+ATOM    988  N   GLN X 133       4.831   6.549  30.182  0.00  0.00           N
+ATOM    989  CA  GLN X 133       6.205   6.903  29.887  0.00  0.00           C
+ATOM    992  CB  GLN X 133       7.167   5.915  30.537  0.00  0.00           C
+ATOM    993  CG  GLN X 133       7.173   5.973  32.078  0.00  0.00           C
+ATOM    994  CD  GLN X 133       8.135   4.954  32.610  0.00  0.00           C
+ATOM    995  OE1 GLN X 133       9.344   5.210  32.657  0.00  0.00           O
+ATOM    996  NE2 GLN X 133       7.628   3.773  32.917  0.00  0.00           N
+ATOM   1019  CD  ARG X 136       7.151  11.971  31.451  0.00  0.00           C
+ATOM   1020  NE  ARG X 136       7.955  13.020  32.060  0.00  0.00           N
+ATOM   1021  CZ  ARG X 136       9.283  13.010  32.185  0.00  0.00           C
+ATOM   1022  NH1 ARG X 136      10.013  12.004  31.724  0.00  0.00           N
+ATOM   1023  NH2 ARG X 136       9.899  14.038  32.762  0.00  0.00           N
+ATOM   1229  CA  GLU X 163      11.634   3.027  33.797  0.00  0.00           C
+ATOM   1230  C   GLU X 163      11.955   2.753  32.334  0.00  0.00           C
+ATOM   1231  O   GLU X 163      12.804   1.943  31.999  0.00  0.00           O
+ATOM   1232  CB  GLU X 163      12.724   3.854  34.470  0.00  0.00           C
+ATOM   1233  CG  GLU X 163      12.344   4.224  35.900  0.00  0.00           C
+ATOM   1234  CD  GLU X 163      13.508   4.717  36.732  0.00  0.00           C
+ATOM   1235  OE1 GLU X 163      14.673   4.497  36.353  0.00  0.00           O
+ATOM   1236  OE2 GLU X 163      13.234   5.345  37.771  0.00  0.00           O
+ATOM   1237  N   LEU X 164      11.277   3.477  31.456  0.00  0.00           N
+ATOM   1238  CA  LEU X 164      11.206   3.161  30.036  0.00  0.00           C
+ATOM   1239  C   LEU X 164      11.894   4.233  29.187  0.00  0.00           C
+ATOM   1240  O   LEU X 164      11.786   5.441  29.460  0.00  0.00           O
+ATOM   1250  CG  LYS X 165      15.149   5.382  28.539  0.00  0.00           C
+ATOM   1251  CD  LYS X 165      16.650   5.602  28.587  0.00  0.00           C
+ATOM   1252  CE  LYS X 165      17.099   5.890  30.017  0.00  0.00           C
+ATOM   1253  NZ  LYS X 165      16.674   7.227  30.491  0.00  0.00           N
+ATOM   2284  C   TYR X 311       1.296  11.197  36.251  0.00  0.00           C
+ATOM   2285  O   TYR X 311       2.381  11.765  36.256  0.00  0.00           O
+ATOM   2288  CD1 TYR X 311       2.650   7.213  37.431  0.00  0.00           C
+ATOM   2304  N   ASP X 313       1.693  14.866  35.317  0.00  0.00           N
+ATOM   2308  CB  ASP X 313       3.347  15.621  36.931  0.00  0.00           C
+ATOM   2309  CG  ASP X 313       3.934  16.805  37.671  0.00  0.00           C
+ATOM   2311  OD2 ASP X 313       4.919  16.689  38.431  0.00  0.00           O
+ATOM   2330  O   ASP X 316       7.155  15.513  33.291  0.00  0.00           O
+ATOM   2331  CB  ASP X 316       7.812  16.874  35.554  0.00  0.00           C
+ATOM   2334  OD2 ASP X 316       9.450  15.175  35.993  0.00  0.00           O

@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  26.69  11.33  15.00 with max radius 7.01
+ATOM    759  CD2 LEU A 563      27.359  16.755  10.619  0.00  0.00           C
+ATOM    842  CD  GLU A 574      29.146  14.418  19.224  0.00  0.00           C
+ATOM    843  OE1 GLU A 574      28.329  13.470  19.190  0.00  0.00           O
+ATOM    861  CE2 PHE A 576      26.873  16.384  15.092  0.00  0.00           C
+ATOM    862  CZ  PHE A 576      28.254  16.596  15.303  0.00  0.00           C
+ATOM    968  CA  SER A 591      22.653  13.342  16.357  0.00  0.00           C
+ATOM    969  C   SER A 591      22.557  12.324  17.486  0.00  0.00           C
+ATOM    971  CB  SER A 591      24.122  13.487  15.940  0.00  0.00           C
+ATOM    972  OG  SER A 591      24.981  13.679  17.072  0.00  0.00           O
+ATOM    973  N   CYS A 592      22.714  11.044  17.133  0.00  0.00           N
+ATOM    974  CA  CYS A 592      22.652   9.953  18.121  0.00  0.00           C
+ATOM    975  C   CYS A 592      23.958   9.158  18.112  0.00  0.00           C
+ATOM    976  O   CYS A 592      24.286   8.590  17.098  0.00  0.00           O
+ATOM    979  N   ARG A 593      24.667   9.119  19.240  0.00  0.00           N
+ATOM    980  CA  ARG A 593      25.880   8.322  19.349  0.00  0.00           C
+ATOM    986  NE  ARG A 593      27.780  10.739  18.771  0.00  0.00           N
+ATOM    994  OE1 GLU A 594      26.468   5.882  14.353  0.00  0.00           O
+ATOM   1292  CA  PRO A 631      24.330   8.526  11.479  0.00  0.00           C
+ATOM   1295  CB  PRO A 631      25.274   9.417  12.288  0.00  0.00           C
+ATOM   1296  CG  PRO A 631      26.221  10.033  11.290  0.00  0.00           C
+ATOM   1312  CD1 TYR A 633      22.763  13.735  12.409  0.00  0.00           C
+ATOM   1314  CE1 TYR A 633      24.116  13.618  12.159  0.00  0.00           C
+ATOM   1316  CZ  TYR A 633      24.553  13.620  10.856  0.00  0.00           C
+ATOM   1317  OH  TYR A 633      25.905  13.516  10.605  0.00  0.00           O

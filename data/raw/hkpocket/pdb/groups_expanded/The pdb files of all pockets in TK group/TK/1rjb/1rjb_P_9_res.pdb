@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  97.23  53.12  33.10 with max radius 6.15
+ATOM    187  CB  PHE A 594      96.797  52.916  26.255  0.00  0.00           C
+ATOM    188  CG  PHE A 594      96.651  54.364  26.634  0.00  0.00           C
+ATOM    190  CD2 PHE A 594      97.359  54.880  27.713  0.00  0.00           C
+ATOM    192  CE2 PHE A 594      97.258  56.234  28.053  0.00  0.00           C
+ATOM    215  CA  TYR A 597     101.406  50.957  28.322  0.00  0.00           C
+ATOM    216  C   TYR A 597     100.973  49.875  29.323  0.00  0.00           C
+ATOM    218  CB  TYR A 597     100.575  52.224  28.512  0.00  0.00           C
+ATOM    219  CG  TYR A 597     101.169  53.439  27.831  0.00  0.00           C
+ATOM    221  CD2 TYR A 597     101.742  54.463  28.583  0.00  0.00           C
+ATOM    226  N   GLU A 598     101.285  50.045  30.605  0.00  0.00           N
+ATOM    227  CA  GLU A 598     100.882  49.021  31.581  0.00  0.00           C
+ATOM    228  C   GLU A 598      99.656  49.482  32.367  0.00  0.00           C
+ATOM    229  O   GLU A 598      99.477  50.665  32.618  0.00  0.00           O
+ATOM    235  N   TYR A 599      98.808  48.533  32.734  0.00  0.00           N
+ATOM    236  CA  TYR A 599      97.600  48.829  33.492  0.00  0.00           C
+ATOM    237  C   TYR A 599      97.915  48.885  34.988  0.00  0.00           C
+ATOM    239  CB  TYR A 599      96.541  47.752  33.189  0.00  0.00           C
+ATOM    240  CG  TYR A 599      95.393  47.665  34.179  0.00  0.00           C
+ATOM    242  CD2 TYR A 599      94.484  48.715  34.346  0.00  0.00           C
+ATOM    244  CE2 TYR A 599      93.378  48.575  35.235  0.00  0.00           C
+ATOM    247  N   ASP A 600      97.465  49.945  35.654  0.00  0.00           N
+ATOM    248  CA  ASP A 600      97.720  50.117  37.084  0.00  0.00           C
+ATOM    251  CB  ASP A 600      97.621  51.608  37.444  0.00  0.00           C
+ATOM    252  CG  ASP A 600      98.063  51.898  38.879  0.00  0.00           C
+ATOM    253  OD1 ASP A 600      98.445  53.050  39.132  0.00  0.00           O
+ATOM    278  CD1 TRP A 603      93.615  52.290  37.991  0.00  0.00           C
+ATOM    280  NE1 TRP A 603      93.602  53.668  37.990  0.00  0.00           N
+ATOM    680  C   LEU A 662      91.799  51.981  30.758  0.00  0.00           C
+ATOM    683  CG  LEU A 662      91.185  49.491  32.327  0.00  0.00           C
+ATOM    686  N   LYS A 663      92.949  51.639  30.161  0.00  0.00           N
+ATOM    687  CA  LYS A 663      94.186  52.353  30.478  0.00  0.00           C
+ATOM    688  C   LYS A 663      94.017  53.830  30.244  0.00  0.00           C
+ATOM    689  O   LYS A 663      94.456  54.650  31.043  0.00  0.00           O
+ATOM    690  CB  LYS A 663      95.352  51.843  29.625  0.00  0.00           C
+ATOM    691  CG  LYS A 663      95.772  50.403  29.912  0.00  0.00           C
+ATOM    692  CD  LYS A 663      96.731  49.926  28.829  0.00  0.00           C
+ATOM    712  CA  THR A 666      92.733  55.511  34.331  0.00  0.00           C
+ATOM    713  C   THR A 666      93.702  56.708  34.348  0.00  0.00           C
+ATOM    714  O   THR A 666      94.115  57.156  35.407  0.00  0.00           O
+ATOM    715  CB  THR A 666      93.589  54.256  34.619  0.00  0.00           C
+ATOM    716  OG1 THR A 666      94.579  54.099  33.593  0.00  0.00           O
+ATOM    717  CG2 THR A 666      92.725  53.015  34.729  0.00  0.00           C
+ATOM    718  N   GLN A 667      94.054  57.212  33.169  0.00  0.00           N
+ATOM    719  CA  GLN A 667      94.982  58.333  33.043  0.00  0.00           C
+ATOM    723  CG  GLN A 667      96.665  56.907  31.757  0.00  0.00           C
+ATOM    724  CD  GLN A 667      98.126  57.171  32.049  0.00  0.00           C
+ATOM    725  OE1 GLN A 667      98.487  57.604  33.144  0.00  0.00           O
+ATOM    726  NE2 GLN A 667      98.979  56.920  31.060  0.00  0.00           N

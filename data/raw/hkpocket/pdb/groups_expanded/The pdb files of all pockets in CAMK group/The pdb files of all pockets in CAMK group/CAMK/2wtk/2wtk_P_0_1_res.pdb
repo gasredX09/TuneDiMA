@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -69.26  51.04  33.52 with max radius 8.50
+ATOM   5227  CB  TYR C  60     -73.405  49.077  31.526  0.00  0.00           C
+ATOM   5228  CG  TYR C  60     -72.804  50.375  31.033  0.00  0.00           C
+ATOM   5229  CD1 TYR C  60     -72.707  51.491  31.872  0.00  0.00           C
+ATOM   5230  CD2 TYR C  60     -72.359  50.499  29.716  0.00  0.00           C
+ATOM   5231  CE1 TYR C  60     -72.168  52.696  31.411  0.00  0.00           C
+ATOM   5232  CE2 TYR C  60     -71.822  51.695  29.245  0.00  0.00           C
+ATOM   5233  CZ  TYR C  60     -71.729  52.788  30.095  0.00  0.00           C
+ATOM   5234  OH  TYR C  60     -71.197  53.966  29.621  0.00  0.00           O
+ATOM   5372  CD  LYS C  78     -70.338  44.785  33.974  0.00  0.00           C
+ATOM   5373  CE  LYS C  78     -70.799  46.236  34.013  0.00  0.00           C
+ATOM   5374  NZ  LYS C  78     -69.737  47.196  33.546  0.00  0.00           N
+ATOM   5388  CG  LEU C  80     -71.983  44.580  29.266  0.00  0.00           C
+ATOM   5389  CD1 LEU C  80     -70.548  44.089  29.273  0.00  0.00           C
+ATOM   5390  CD2 LEU C  80     -72.041  46.105  29.282  0.00  0.00           C
+ATOM   5434  CD2 LEU C  85     -72.453  49.000  26.263  0.00  0.00           C
+ATOM   5483  O   GLY C  91     -69.258  51.009  25.948  0.00  0.00           O
+ATOM   5499  CA  ASN C  94     -66.476  52.735  27.438  0.00  0.00           C
+ATOM   5500  C   ASN C  94     -66.273  51.378  28.101  0.00  0.00           C
+ATOM   5501  O   ASN C  94     -65.709  51.286  29.192  0.00  0.00           O
+ATOM   5502  CB  ASN C  94     -67.753  53.373  28.002  0.00  0.00           C
+ATOM   5505  ND2 ASN C  94     -69.177  55.274  27.497  0.00  0.00           N
+ATOM   5506  N   VAL C  95     -66.755  50.335  27.435  0.00  0.00           N
+ATOM   5507  CA  VAL C  95     -66.651  48.965  27.927  0.00  0.00           C
+ATOM   5508  C   VAL C  95     -65.322  48.340  27.492  0.00  0.00           C
+ATOM   5509  O   VAL C  95     -64.654  47.675  28.288  0.00  0.00           O
+ATOM   5510  CB  VAL C  95     -67.864  48.112  27.471  0.00  0.00           C
+ATOM   5511  CG1 VAL C  95     -67.694  46.655  27.862  0.00  0.00           C
+ATOM   5512  CG2 VAL C  95     -69.140  48.660  28.077  0.00  0.00           C
+ATOM   5535  CB  GLU C  98     -64.341  48.877  32.034  0.00  0.00           C
+ATOM   5536  CG  GLU C  98     -64.502  48.246  33.431  0.00  0.00           C
+ATOM   5537  CD  GLU C  98     -65.780  48.672  34.163  0.00  0.00           C
+ATOM   5538  OE1 GLU C  98     -65.742  48.804  35.409  0.00  0.00           O
+ATOM   5539  OE2 GLU C  98     -66.824  48.872  33.501  0.00  0.00           O
+ATOM   5767  SD  MET C 127     -67.405  44.048  31.276  0.00  0.00           S
+ATOM   5768  CE  MET C 127     -66.066  44.130  32.481  0.00  0.00           C
+ATOM   6156  CB  ASP C 176     -66.961  56.459  39.843  0.00  0.00           C
+ATOM   6157  CG  ASP C 176     -68.471  56.682  39.834  0.00  0.00           C
+ATOM   6158  OD1 ASP C 176     -69.164  55.896  39.153  0.00  0.00           O
+ATOM   6281  CA  ALA C 194     -66.848  50.005  38.573  0.00  0.00           C
+ATOM   6282  C   ALA C 194     -65.816  51.030  38.028  0.00  0.00           C
+ATOM   6283  O   ALA C 194     -65.912  52.230  38.308  0.00  0.00           O
+ATOM   6284  CB  ALA C 194     -68.054  50.708  39.194  0.00  0.00           C
+ATOM   6293  N   GLY C 196     -65.363  52.281  35.170  0.00  0.00           N
+ATOM   6294  CA  GLY C 196     -65.886  52.715  33.868  0.00  0.00           C
+ATOM   6295  C   GLY C 196     -65.830  54.190  33.509  0.00  0.00           C
+ATOM   6296  O   GLY C 196     -66.134  54.560  32.385  0.00  0.00           O
+ATOM   6297  N   VAL C 197     -65.460  55.041  34.458  0.00  0.00           N
+ATOM   6301  CB  VAL C 197     -66.190  57.466  34.685  0.00  0.00           C
+ATOM   6302  CG1 VAL C 197     -67.575  57.206  34.068  0.00  0.00           C
+ATOM   6303  CG2 VAL C 197     -66.248  57.465  36.209  0.00  0.00           C

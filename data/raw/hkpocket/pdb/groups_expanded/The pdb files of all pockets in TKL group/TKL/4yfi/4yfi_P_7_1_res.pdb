@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  19.45  -2.20  17.13 with max radius 6.03
+ATOM     22  CA  ASP A 444      21.185  -2.478  21.532  0.00  0.00           C
+ATOM     23  C   ASP A 444      21.910  -1.288  20.909  0.00  0.00           C
+ATOM     24  O   ASP A 444      22.017  -1.200  19.690  0.00  0.00           O
+ATOM     25  CB  ASP A 444      19.752  -2.073  21.907  0.00  0.00           C
+ATOM     26  CG  ASP A 444      18.914  -3.251  22.379  0.00  0.00           C
+ATOM     27  OD1 ASP A 444      19.065  -4.359  21.819  0.00  0.00           O
+ATOM     50  CB  LEU A 447      23.546  -4.186  18.110  0.00  0.00           C
+ATOM     52  CG  LEU A 447      23.131  -4.983  16.863  0.00  0.00           C
+ATOM     56  CD2 LEU A 447      21.926  -5.867  17.150  0.00  0.00           C
+ATOM     58  N   LEU A 448      23.751  -1.172  17.231  0.00  0.00           N
+ATOM     59  CA  LEU A 448      23.410  -0.068  16.324  0.00  0.00           C
+ATOM     62  CB  LEU A 448      22.478   0.927  17.014  0.00  0.00           C
+ATOM     63  CG  LEU A 448      22.131   2.183  16.197  0.00  0.00           C
+ATOM     64  CD1 LEU A 448      20.989   1.890  15.230  0.00  0.00           C
+ATOM    464  CA  CYS A 507      17.546   2.649  17.637  0.00  0.00           C
+ATOM    465  C   CYS A 507      16.763   2.418  16.347  0.00  0.00           C
+ATOM    466  O   CYS A 507      17.340   2.395  15.258  0.00  0.00           O
+ATOM    467  CB  CYS A 507      17.769   1.323  18.386  0.00  0.00           C
+ATOM    468  SG  CYS A 507      18.971   1.448  19.731  0.00  0.00           S
+ATOM    469  N   ARG A 508      15.452   2.262  16.480  0.00  0.00           N
+ATOM    501  OG  SER A 511      18.090   0.510  13.041  0.00  0.00           O

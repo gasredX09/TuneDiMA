@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -29.22  27.99  13.14 with max radius 5.70
+ATOM   1279  N   ALA A 831     -32.854  32.377  12.921  0.00  0.00           N
+ATOM   1281  C   ALA A 831     -31.056  33.145  11.398  0.00  0.00           C
+ATOM   1282  O   ALA A 831     -29.886  32.782  11.210  0.00  0.00           O
+ATOM   1283  CB  ALA A 831     -30.608  32.734  13.863  0.00  0.00           C
+ATOM   1472  CA  THR A 856     -27.589  30.499   8.736  0.00  0.00           C
+ATOM   1473  C   THR A 856     -26.100  30.321   8.960  0.00  0.00           C
+ATOM   1475  CB  THR A 856     -28.360  29.456   9.579  0.00  0.00           C
+ATOM   1476  OG1 THR A 856     -28.043  28.140   9.113  0.00  0.00           O
+ATOM   1477  CG2 THR A 856     -29.902  29.656   9.493  0.00  0.00           C
+ATOM   1478  N   SER A 857     -25.630  30.681  10.145  0.00  0.00           N
+ATOM   1479  CA  SER A 857     -24.271  30.331  10.563  0.00  0.00           C
+ATOM   1480  C   SER A 857     -23.997  28.833  10.368  0.00  0.00           C
+ATOM   1482  CB  SER A 857     -24.054  30.688  12.042  0.00  0.00           C
+ATOM   1483  OG  SER A 857     -23.907  32.079  12.215  0.00  0.00           O
+ATOM   1484  N   ALA A 858     -25.004  28.003  10.604  0.00  0.00           N
+ATOM   1485  CA  ALA A 858     -24.887  26.562  10.383  0.00  0.00           C
+ATOM   1488  CB  ALA A 858     -26.022  25.812  11.064  0.00  0.00           C
+ATOM   1984  C   ARG A 919     -27.826  22.215  12.260  0.00  0.00           C
+ATOM   1985  O   ARG A 919     -26.698  22.528  12.655  0.00  0.00           O
+ATOM   1986  CB  ARG A 919     -28.514  23.397  10.143  0.00  0.00           C
+ATOM   1987  CG  ARG A 919     -29.891  23.928  10.554  0.00  0.00           C
+ATOM   1988  CD  ARG A 919     -30.230  25.077   9.631  0.00  0.00           C
+ATOM   1989  NE  ARG A 919     -31.344  25.895  10.100  0.00  0.00           N
+ATOM   1990  CZ  ARG A 919     -32.619  25.648   9.827  0.00  0.00           C
+ATOM   1992  NH2 ARG A 919     -33.563  26.466  10.285  0.00  0.00           N
+ATOM   1993  N   ASN A 920     -28.854  21.978  13.084  0.00  0.00           N
+ATOM   1994  CA  ASN A 920     -28.708  22.036  14.543  0.00  0.00           C
+ATOM   1998  CG  ASN A 920     -31.000  22.978  15.105  0.00  0.00           C
+ATOM   1999  OD1 ASN A 920     -30.589  24.095  14.779  0.00  0.00           O
+ATOM   2031  CD  LYS A 924     -23.543  26.277  16.801  0.00  0.00           C
+ATOM   2032  CE  LYS A 924     -25.041  26.291  17.237  0.00  0.00           C
+ATOM   2033  NZ  LYS A 924     -26.007  26.015  16.096  0.00  0.00           N

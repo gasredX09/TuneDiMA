@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   8.85 -31.04 -34.26 with max radius 9.47
+ATOM   1984  O   ASP A 358       3.016 -30.241 -34.382  0.00  0.00           O
+ATOM   1988  OD2 ASP A 358       4.398 -30.549 -37.579  0.00  0.00           O
+ATOM   1990  CA  LEU A 359       3.770 -27.593 -34.356  0.00  0.00           C
+ATOM   1991  C   LEU A 359       3.353 -27.730 -32.907  0.00  0.00           C
+ATOM   1992  O   LEU A 359       4.130 -28.178 -32.059  0.00  0.00           O
+ATOM   1993  CB  LEU A 359       4.005 -26.112 -34.692  0.00  0.00           C
+ATOM   1995  CD1 LEU A 359       6.346 -26.046 -33.786  0.00  0.00           C
+ATOM   2012  CA  ARG A 362       4.964 -31.670 -31.435  0.00  0.00           C
+ATOM   2013  C   ARG A 362       5.555 -31.092 -30.150  0.00  0.00           C
+ATOM   2014  O   ARG A 362       6.407 -31.718 -29.515  0.00  0.00           O
+ATOM   2015  CB  ARG A 362       5.838 -31.269 -32.619  0.00  0.00           C
+ATOM   2016  CG  ARG A 362       5.609 -32.094 -33.870  0.00  0.00           C
+ATOM   2017  CD  ARG A 362       6.502 -31.607 -34.996  0.00  0.00           C
+ATOM   2018  NE  ARG A 362       6.232 -32.327 -36.237  0.00  0.00           N
+ATOM   2019  CZ  ARG A 362       6.789 -33.490 -36.554  0.00  0.00           C
+ATOM   2020  NH1 ARG A 362       7.647 -34.064 -35.717  0.00  0.00           N
+ATOM   2021  NH2 ARG A 362       6.486 -34.082 -37.701  0.00  0.00           N
+ATOM   2022  N   LEU A 363       5.099 -29.900 -29.771  0.00  0.00           N
+ATOM   2027  CG  LEU A 363       6.139 -27.003 -29.768  0.00  0.00           C
+ATOM   2029  CD2 LEU A 363       7.612 -26.982 -29.391  0.00  0.00           C
+ATOM   2043  CG  LYS A 365       5.795 -34.317 -27.535  0.00  0.00           C
+ATOM   2044  CD  LYS A 365       4.931 -35.450 -28.038  0.00  0.00           C
+ATOM   2045  CE  LYS A 365       4.935 -35.564 -29.544  0.00  0.00           C
+ATOM   2046  NZ  LYS A 365       4.078 -36.711 -29.949  0.00  0.00           N
+ATOM   2080  C   GLN A 370      10.003 -34.811 -27.587  0.00  0.00           C
+ATOM   2081  O   GLN A 370       9.610 -34.752 -28.748  0.00  0.00           O
+ATOM   2082  CB  GLN A 370       9.041 -37.000 -26.900  0.00  0.00           C
+ATOM   2099  CA  PRO A 372      11.830 -30.842 -30.282  0.00  0.00           C
+ATOM   2102  CB  PRO A 372      11.047 -30.125 -31.392  0.00  0.00           C
+ATOM   2103  CG  PRO A 372       9.808 -29.657 -30.770  0.00  0.00           C
+ATOM   2104  CD  PRO A 372       9.488 -30.581 -29.638  0.00  0.00           C
+ATOM   2135  CA  GLU A 376      13.406 -27.479 -35.043  0.00  0.00           C
+ATOM   2136  C   GLU A 376      12.147 -26.630 -35.046  0.00  0.00           C
+ATOM   2137  O   GLU A 376      11.357 -26.679 -35.997  0.00  0.00           O
+ATOM   2138  CB  GLU A 376      13.077 -28.843 -34.454  0.00  0.00           C
+ATOM   2139  CG  GLU A 376      14.163 -29.865 -34.616  0.00  0.00           C
+ATOM   2140  CD  GLU A 376      13.746 -31.185 -34.012  0.00  0.00           C
+ATOM   2141  OE1 GLU A 376      13.059 -31.976 -34.697  0.00  0.00           O
+ATOM   2143  N   VAL A 377      11.940 -25.874 -33.971  0.00  0.00           N
+ATOM   2144  CA  VAL A 377      10.848 -24.917 -33.938  0.00  0.00           C
+ATOM   2147  CB  VAL A 377      10.679 -24.303 -32.530  0.00  0.00           C
+ATOM   2149  CG2 VAL A 377      10.405 -25.398 -31.516  0.00  0.00           C
+ATOM   2168  CA  HIS A 380       9.250 -25.668 -38.712  0.00  0.00           C
+ATOM   2171  CB  HIS A 380       8.304 -25.656 -37.502  0.00  0.00           C
+ATOM   2172  CG  HIS A 380       7.079 -26.495 -37.684  0.00  0.00           C
+ATOM   2174  CD2 HIS A 380       6.793 -27.760 -37.285  0.00  0.00           C
+ATOM   2176  NE2 HIS A 380       5.524 -28.049 -37.719  0.00  0.00           N
+ATOM   2183  CD  PRO A 381       8.014 -27.186 -40.844  0.00  0.00           C

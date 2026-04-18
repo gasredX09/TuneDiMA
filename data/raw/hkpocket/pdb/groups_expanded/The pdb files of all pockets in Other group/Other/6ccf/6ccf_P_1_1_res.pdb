@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.28  74.29  53.61 with max radius 5.51
+ATOM    890  CA  HIS A 267      21.708  70.760  54.472  0.00  0.00           C
+ATOM    891  C   HIS A 267      21.002  71.767  55.386  0.00  0.00           C
+ATOM    892  O   HIS A 267      21.017  72.964  55.101  0.00  0.00           O
+ATOM    893  CB  HIS A 267      20.729  70.215  53.416  0.00  0.00           C
+ATOM    899  N   CYS A 268      20.406  71.295  56.481  0.00  0.00           N
+ATOM    900  CA  CYS A 268      19.856  72.193  57.503  0.00  0.00           C
+ATOM    901  C   CYS A 268      20.958  73.028  58.189  0.00  0.00           C
+ATOM    902  O   CYS A 268      20.740  74.178  58.517  0.00  0.00           O
+ATOM    903  CB  CYS A 268      19.056  71.406  58.536  0.00  0.00           C
+ATOM    920  CD  LYS A 270      21.668  77.013  55.424  0.00  0.00           C
+ATOM    921  CE  LYS A 270      20.319  77.354  56.040  0.00  0.00           C
+ATOM   1154  CE2 PHE A 300      22.386  76.200  52.141  0.00  0.00           C
+ATOM   1155  CZ  PHE A 300      22.664  74.847  52.304  0.00  0.00           C
+ATOM   1168  O   GLY A 302      20.189  78.982  53.061  0.00  0.00           O
+ATOM   1170  CA  ASN A 303      18.552  78.241  50.896  0.00  0.00           C
+ATOM   1171  C   ASN A 303      19.383  77.185  50.180  0.00  0.00           C
+ATOM   1172  O   ASN A 303      18.974  76.028  50.153  0.00  0.00           O
+ATOM   1173  CB  ASN A 303      17.239  78.433  50.129  0.00  0.00           C
+ATOM   1369  CD  LYS A 332      19.860  72.193  50.045  0.00  0.00           C
+ATOM   1370  CE  LYS A 332      18.734  72.830  49.253  0.00  0.00           C
+ATOM   1371  NZ  LYS A 332      17.812  73.578  50.154  0.00  0.00           N

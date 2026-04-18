@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.91  43.21  34.36 with max radius 6.03
+ATOM    469  O   GLY A  96       3.775  46.941  32.256  0.00  0.00           O
+ATOM    471  CA  ASP A  97       0.995  47.145  32.481  0.00  0.00           C
+ATOM    472  C   ASP A  97       1.103  46.249  31.260  0.00  0.00           C
+ATOM    474  CB  ASP A  97      -0.428  47.647  32.603  0.00  0.00           C
+ATOM    482  N   GLY A  98       1.303  44.950  31.486  0.00  0.00           N
+ATOM    483  CA  GLY A  98       1.319  44.005  30.395  0.00  0.00           C
+ATOM    484  C   GLY A  98       2.576  44.074  29.565  0.00  0.00           C
+ATOM    486  N   ILE A  99       3.623  44.701  30.094  0.00  0.00           N
+ATOM    487  CA  ILE A  99       4.935  44.674  29.470  0.00  0.00           C
+ATOM    488  C   ILE A  99       5.850  43.879  30.397  0.00  0.00           C
+ATOM    489  O   ILE A  99       5.944  44.206  31.585  0.00  0.00           O
+ATOM    498  N   PRO A 100       6.520  42.840  29.881  0.00  0.00           N
+ATOM    499  CA  PRO A 100       7.389  42.090  30.805  0.00  0.00           C
+ATOM    505  N   GLN A 101       8.840  42.728  32.630  0.00  0.00           N
+ATOM    643  CD  GLU A 117       6.828  39.693  34.567  0.00  0.00           C
+ATOM    644  OE1 GLU A 117       6.950  40.831  34.032  0.00  0.00           O
+ATOM    645  OE2 GLU A 117       5.848  39.320  35.241  0.00  0.00           O
+ATOM   1135  CB  THR A 177       0.433  39.452  36.039  0.00  0.00           C
+ATOM   1136  OG1 THR A 177       1.594  38.622  36.012  0.00  0.00           O
+ATOM   1137  CG2 THR A 177       0.673  40.671  36.903  0.00  0.00           C
+ATOM   1160  CB  VAL A 180      -2.190  40.859  32.928  0.00  0.00           C
+ATOM   1161  CG1 VAL A 180      -1.722  42.004  32.040  0.00  0.00           C
+ATOM   1162  CG2 VAL A 180      -2.842  41.385  34.241  0.00  0.00           C
+ATOM   1178  CD2 HIS A 182       2.849  40.785  31.209  0.00  0.00           C
+ATOM   1179  CE1 HIS A 182       1.294  39.578  32.182  0.00  0.00           C
+ATOM   1180  NE2 HIS A 182       2.265  40.448  32.414  0.00  0.00           N
+ATOM   2543 MG    MG A1336       5.297  44.186  35.817  0.00  0.00           G

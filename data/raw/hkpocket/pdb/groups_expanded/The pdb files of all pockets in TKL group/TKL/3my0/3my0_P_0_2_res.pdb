@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  53.15 -69.63 -43.19 with max radius 4.75
+ATOM    790  CA  HIS A 297      54.409 -65.985 -47.181  0.00  0.00           C
+ATOM    792  O   HIS A 297      54.478 -65.758 -44.782  0.00  0.00           O
+ATOM    794  CG  HIS A 297      55.913 -68.037 -47.152  0.00  0.00           C
+ATOM    795  ND1 HIS A 297      55.325 -69.180 -47.653  0.00  0.00           N
+ATOM    796  CD2 HIS A 297      56.692 -68.441 -46.117  0.00  0.00           C
+ATOM    797  CE1 HIS A 297      55.727 -70.227 -46.951  0.00  0.00           C
+ATOM    798  NE2 HIS A 297      56.554 -69.806 -46.009  0.00  0.00           N
+ATOM    813  CA  LEU A 300      51.045 -65.190 -43.086  0.00  0.00           C
+ATOM    814  C   LEU A 300      51.896 -65.510 -41.844  0.00  0.00           C
+ATOM    815  O   LEU A 300      51.367 -65.872 -40.796  0.00  0.00           O
+ATOM    816  CB  LEU A 300      50.909 -66.438 -43.951  0.00  0.00           C
+ATOM    817  N   ARG A 301      53.211 -65.382 -41.973  0.00  0.00           N
+ATOM    818  CA  ARG A 301      54.130 -65.658 -40.879  0.00  0.00           C
+ATOM    821  CB  ARG A 301      55.568 -65.531 -41.413  0.00  0.00           C
+ATOM    845  CB  VAL A 304      50.701 -67.907 -38.251  0.00  0.00           C
+ATOM    846  CG1 VAL A 304      52.212 -67.866 -38.293  0.00  0.00           C
+ATOM   2291  CA  SER A 493      49.872 -73.047 -43.587  0.00  0.00           C
+ATOM   2292  C   SER A 493      50.391 -71.939 -42.665  0.00  0.00           C
+ATOM   2293  O   SER A 493      51.120 -72.208 -41.698  0.00  0.00           O
+ATOM   2294  CB  SER A 493      50.608 -73.037 -44.939  0.00  0.00           C

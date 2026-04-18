@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  32.30  39.89   0.78 with max radius 6.89
+ATOM    926  CA  ARG A 497      30.537  36.699   5.391  0.00  0.00           C
+ATOM    927  C   ARG A 497      29.660  37.941   5.525  0.00  0.00           C
+ATOM    928  O   ARG A 497      28.453  37.977   5.166  0.00  0.00           O
+ATOM    929  CB  ARG A 497      31.103  36.553   3.962  0.00  0.00           C
+ATOM    930  CG  ARG A 497      31.839  35.239   3.651  0.00  0.00           C
+ATOM    931  CD  ARG A 497      33.091  34.988   4.510  0.00  0.00           C
+ATOM    936  N   LEU A 498      30.272  38.989   6.037  0.00  0.00           N
+ATOM    937  CA  LEU A 498      29.554  40.252   6.123  0.00  0.00           C
+ATOM    938  C   LEU A 498      29.542  40.914   4.757  0.00  0.00           C
+ATOM    939  O   LEU A 498      30.539  40.812   4.002  0.00  0.00           O
+ATOM    944  N   ASN A 499      28.493  41.675   4.470  0.00  0.00           N
+ATOM    945  CA  ASN A 499      28.549  42.548   3.295  0.00  0.00           C
+ATOM    946  C   ASN A 499      29.381  43.834   3.563  0.00  0.00           C
+ATOM    947  O   ASN A 499      29.751  44.073   4.750  0.00  0.00           O
+ATOM    948  CB  ASN A 499      27.133  42.811   2.713  0.00  0.00           C
+ATOM    952  N   GLU A 500      29.687  44.644   2.569  0.00  0.00           N
+ATOM    953  CA  GLU A 500      30.516  45.817   2.765  0.00  0.00           C
+ATOM    956  CB  GLU A 500      31.005  46.412   1.426  0.00  0.00           C
+ATOM    957  CG  GLU A 500      31.926  45.412   0.706  0.00  0.00           C
+ATOM    958  CD  GLU A 500      32.764  46.007  -0.364  0.00  0.00           C
+ATOM    960  OE2 GLU A 500      33.207  45.231  -1.245  0.00  0.00           O
+ATOM    986  CD1 ILE A 503      33.456  43.192   4.954  0.00  0.00           C
+ATOM   1716  C   MET A 594      34.782  39.278   6.611  0.00  0.00           C
+ATOM   1717  O   MET A 594      33.628  38.857   6.265  0.00  0.00           O
+ATOM   1722  N   VAL A 595      35.784  39.377   5.746  0.00  0.00           N
+ATOM   1723  CA  VAL A 595      35.647  39.033   4.305  0.00  0.00           C
+ATOM   1724  C   VAL A 595      35.836  37.553   4.072  0.00  0.00           C
+ATOM   1725  O   VAL A 595      35.071  36.956   3.282  0.00  0.00           O
+ATOM   1726  CB  VAL A 595      36.671  39.837   3.480  0.00  0.00           C
+ATOM   1727  CG1 VAL A 595      36.559  39.494   1.967  0.00  0.00           C
+ATOM   1728  CG2 VAL A 595      36.405  41.322   3.614  0.00  0.00           C
+ATOM   1966  CB  ASN A 623      37.204  36.613  -0.735  0.00  0.00           C
+ATOM   1967  CG  ASN A 623      36.791  35.183  -0.367  0.00  0.00           C
+ATOM   1987  CA  LYS A 626      35.112  39.854  -4.197  0.00  0.00           C
+ATOM   1988  C   LYS A 626      34.862  41.292  -3.716  0.00  0.00           C
+ATOM   1989  O   LYS A 626      33.719  41.701  -3.642  0.00  0.00           O
+ATOM   1990  CB  LYS A 626      34.580  38.821  -3.189  0.00  0.00           C
+ATOM   1991  CG  LYS A 626      34.636  37.382  -3.717  0.00  0.00           C
+ATOM   1992  CD  LYS A 626      33.959  36.387  -2.804  0.00  0.00           C
+ATOM   1993  CE  LYS A 626      34.184  34.967  -3.332  0.00  0.00           C
+ATOM   1994  NZ  LYS A 626      33.478  33.954  -2.511  0.00  0.00           N
+ATOM   1995  N   VAL A 627      35.896  42.041  -3.340  0.00  0.00           N
+ATOM   1996  CA  VAL A 627      35.676  43.342  -2.665  0.00  0.00           C
+ATOM   1999  CB  VAL A 627      36.576  43.534  -1.420  0.00  0.00           C
+ATOM   2000  CG1 VAL A 627      36.512  42.348  -0.441  0.00  0.00           C
+ATOM   2029  CD2 LEU A 631      35.676  45.323   1.820  0.00  0.00           C

@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -32.84   3.13  13.97 with max radius 6.04
+ATOM    141  C   TYR A  36     -35.857   2.111  11.017  0.00  0.00           C
+ATOM    142  O   TYR A  36     -34.682   2.443  11.152  0.00  0.00           O
+ATOM    151  N   GLY A  37     -36.772   2.263  11.952  0.00  0.00           N
+ATOM    152  CA  GLY A  37     -36.521   2.867  13.254  0.00  0.00           C
+ATOM    155  N   GLN A  38     -37.863   3.572  15.143  0.00  0.00           N
+ATOM    161  CD  GLN A  38     -36.197   2.057  17.183  0.00  0.00           C
+ATOM    162  OE1 GLN A  38     -35.773   1.063  16.582  0.00  0.00           O
+ATOM    163  NE2 GLN A  38     -35.469   3.148  17.312  0.00  0.00           N
+ATOM    290  C   VAL A  55     -35.795   7.109  14.296  0.00  0.00           C
+ATOM    291  O   VAL A  55     -36.032   5.898  14.392  0.00  0.00           O
+ATOM    293  CG1 VAL A  55     -34.746   8.062  16.893  0.00  0.00           C
+ATOM    295  N   MET A  56     -34.946   7.622  13.365  0.00  0.00           N
+ATOM    297  CA  MET A  56     -34.233   6.819  12.356  0.00  0.00           C
+ATOM    299  C   MET A  56     -32.753   7.162  12.269  0.00  0.00           C
+ATOM    303  CB  MET A  56     -34.852   7.068  10.956  0.00  0.00           C
+ATOM    305  CG  MET A  56     -36.332   6.677  10.821  0.00  0.00           C
+ATOM    311  N   ASP A  57     -31.843   6.143  12.331  0.00  0.00           N
+ATOM    312  CA  ASP A  57     -30.408   6.375  12.161  0.00  0.00           C
+ATOM    314  O   ASP A  57     -30.823   6.174   9.789  0.00  0.00           O
+ATOM    315  CB  ASP A  57     -29.600   5.111  12.482  0.00  0.00           C
+ATOM    316  CG  ASP A  57     -29.485   4.803  13.968  0.00  0.00           C
+ATOM    317  OD1 ASP A  57     -29.761   5.709  14.795  0.00  0.00           O
+ATOM    318  OD2 ASP A  57     -29.099   3.670  14.307  0.00  0.00           O
+ATOM   1346  CD  ARG A 184     -30.403   3.182   8.767  0.00  0.00           C
+ATOM   1348  CZ  ARG A 184     -31.920   1.245   8.448  0.00  0.00           C
+ATOM   1349  NH1 ARG A 184     -31.665   0.800   9.672  0.00  0.00           N
+ATOM   1365  O   ASN A 186     -29.218   0.562  10.995  0.00  0.00           O
+ATOM   1391  CD2 PHE A 188     -32.002  -1.557  12.322  0.00  0.00           C
+ATOM   1393  CE2 PHE A 188     -32.914  -0.497  12.404  0.00  0.00           C
+ATOM   1394  CZ  PHE A 188     -34.250  -0.712  12.135  0.00  0.00           C

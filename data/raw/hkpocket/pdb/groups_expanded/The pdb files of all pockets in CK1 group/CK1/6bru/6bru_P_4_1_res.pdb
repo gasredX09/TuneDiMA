@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  15.20   4.55   6.87 with max radius 5.70
+ATOM    567  CB  ILE A  96      12.890  -0.681   7.472  0.00  0.00           C
+ATOM    568  CG1 ILE A  96      13.540  -1.455   8.656  0.00  0.00           C
+ATOM    569  CG2 ILE A  96      12.894   0.804   7.772  0.00  0.00           C
+ATOM    570  CD1 ILE A  96      15.035  -1.296   8.728  0.00  0.00           C
+ATOM    577  CD  GLN A  97      11.914   2.801   3.241  0.00  0.00           C
+ATOM    578  OE1 GLN A  97      12.937   3.183   3.858  0.00  0.00           O
+ATOM    579  NE2 GLN A  97      10.820   3.566   3.117  0.00  0.00           N
+ATOM    610  CD1 ILE A 100      10.992   4.001   6.977  0.00  0.00           C
+ATOM    674  CA  TYR A 107      11.409   7.678   8.697  0.00  0.00           C
+ATOM    675  C   TYR A 107      11.303   6.718   9.912  0.00  0.00           C
+ATOM    677  CB  TYR A 107      12.734   8.472   8.709  0.00  0.00           C
+ATOM    678  CG  TYR A 107      13.247   8.792  10.095  0.00  0.00           C
+ATOM    680  CD2 TYR A 107      14.264   8.040  10.679  0.00  0.00           C
+ATOM    685  N   LEU A 108      12.173   5.711   9.969  0.00  0.00           N
+ATOM    686  CA  LEU A 108      12.263   4.841  11.147  0.00  0.00           C
+ATOM    687  C   LEU A 108      13.722   4.687  11.502  0.00  0.00           C
+ATOM    688  O   LEU A 108      14.515   4.216  10.670  0.00  0.00           O
+ATOM    689  CB  LEU A 108      11.664   3.469  10.862  0.00  0.00           C
+ATOM    699  C   VAL A 110      17.366   1.254  11.622  0.00  0.00           C
+ATOM    700  O   VAL A 110      16.933   1.439  10.482  0.00  0.00           O
+ATOM    716  CG  LYS A 112      17.686   0.232   6.104  0.00  0.00           C
+ATOM    717  CD  LYS A 112      17.288   0.991   4.852  0.00  0.00           C
+ATOM    718  CE  LYS A 112      15.801   1.316   4.960  0.00  0.00           C
+ATOM    719  NZ  LYS A 112      15.345   2.254   3.898  0.00  0.00           N
+ATOM    883  OD2 ASP A 132      20.556   2.650   7.378  0.00  0.00           O
+ATOM   1395  CE2 TYR A 194      18.006   4.727  10.380  0.00  0.00           C
+ATOM   1396  CZ  TYR A 194      17.808   5.983   9.818  0.00  0.00           C
+ATOM   1397  OH  TYR A 194      17.217   6.033   8.580  0.00  0.00           O

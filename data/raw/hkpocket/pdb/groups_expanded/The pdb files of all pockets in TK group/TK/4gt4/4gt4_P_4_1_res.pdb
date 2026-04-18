@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -19.04  -8.48 -27.76 with max radius 4.65
+ATOM    468  OD1 ASN A 535     -20.677  -3.763 -28.585  0.00  0.00           O
+ATOM    868  O   HIS A 594     -19.486  -8.247 -22.946  0.00  0.00           O
+ATOM    871  ND1 HIS A 594     -21.375 -10.731 -24.526  0.00  0.00           N
+ATOM    873  CE1 HIS A 594     -22.368 -10.363 -25.315  0.00  0.00           C
+ATOM    891  CA  ALA A 597     -16.020  -7.355 -24.072  0.00  0.00           C
+ATOM    892  C   ALA A 597     -16.832  -6.351 -24.879  0.00  0.00           C
+ATOM    893  O   ALA A 597     -16.307  -5.707 -25.788  0.00  0.00           O
+ATOM    894  CB  ALA A 597     -16.305  -8.773 -24.546  0.00  0.00           C
+ATOM    895  N   GLN A 598     -18.113  -6.223 -24.545  0.00  0.00           N
+ATOM    896  CA  GLN A 598     -18.967  -5.240 -25.205  0.00  0.00           C
+ATOM    899  CB  GLN A 598     -20.406  -5.340 -24.705  0.00  0.00           C
+ATOM    900  CG  GLN A 598     -21.154  -6.570 -25.178  0.00  0.00           C
+ATOM    901  CD  GLN A 598     -22.613  -6.541 -24.773  0.00  0.00           C
+ATOM    902  OE1 GLN A 598     -23.451  -5.967 -25.470  0.00  0.00           O
+ATOM    921  CB  ALA A 601     -17.133  -4.006 -28.853  0.00  0.00           C
+ATOM   2083  CD2 HIS A 743     -14.532  -7.026 -28.743  0.00  0.00           C
+ATOM   2084  CE1 HIS A 743     -15.229  -6.477 -30.749  0.00  0.00           C
+ATOM   2085  NE2 HIS A 743     -15.520  -7.199 -29.683  0.00  0.00           N
+ATOM   2116  CG  ARG A 747     -14.865 -10.633 -29.472  0.00  0.00           C
+ATOM   2117  CD  ARG A 747     -16.114 -11.268 -30.063  0.00  0.00           C

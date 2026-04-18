@@ -1,0 +1,55 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 49 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -25.51 -21.70  -8.18 with max radius 7.45
+ATOM    958  CA  ASP A 129     -22.456 -21.896 -13.107  0.00  0.00           C
+ATOM    959  C   ASP A 129     -21.473 -23.052 -12.925  0.00  0.00           C
+ATOM    960  O   ASP A 129     -21.690 -23.877 -12.037  0.00  0.00           O
+ATOM    961  CB  ASP A 129     -23.413 -22.133 -14.282  0.00  0.00           C
+ATOM    962  CG  ASP A 129     -24.060 -23.505 -14.320  0.00  0.00           C
+ATOM    963  OD1 ASP A 129     -24.796 -23.846 -13.361  0.00  0.00           O
+ATOM    986  CA  HIS A 132     -20.554 -22.776  -8.247  0.00  0.00           C
+ATOM    987  C   HIS A 132     -20.926 -24.262  -8.077  0.00  0.00           C
+ATOM    988  O   HIS A 132     -21.010 -24.728  -6.942  0.00  0.00           O
+ATOM    989  CB  HIS A 132     -21.770 -21.847  -8.372  0.00  0.00           C
+ATOM    990  CG  HIS A 132     -21.421 -20.376  -8.281  0.00  0.00           C
+ATOM    991  ND1 HIS A 132     -22.371 -19.392  -8.548  0.00  0.00           N
+ATOM    993  CE1 HIS A 132     -21.757 -18.233  -8.368  0.00  0.00           C
+ATOM    995  N   SER A 133     -21.053 -25.012  -9.187  0.00  0.00           N
+ATOM    996  CA  SER A 133     -21.308 -26.465  -9.193  0.00  0.00           C
+ATOM    999  CB  SER A 133     -21.624 -26.951 -10.602  0.00  0.00           C
+ATOM   1478  CA  PHE A 194     -21.800 -18.288  -4.117  0.00  0.00           C
+ATOM   1480  C   PHE A 194     -22.560 -17.001  -4.413  0.00  0.00           C
+ATOM   1482  O   PHE A 194     -22.268 -16.346  -5.408  0.00  0.00           O
+ATOM   1484  CB  PHE A 194     -22.446 -19.434  -4.924  0.00  0.00           C
+ATOM   1486  CG  PHE A 194     -21.978 -20.821  -4.564  0.00  0.00           C
+ATOM   1490  CD2 PHE A 194     -22.848 -21.736  -3.987  0.00  0.00           C
+ATOM   1494  CE2 PHE A 194     -22.415 -23.018  -3.650  0.00  0.00           C
+ATOM   1498  N   LYS A 195     -23.540 -16.654  -3.554  0.00  0.00           N
+ATOM   1499  CA  LYS A 195     -24.372 -15.445  -3.704  0.00  0.00           C
+ATOM   1502  CB  LYS A 195     -25.530 -15.406  -2.690  0.00  0.00           C
+ATOM   1503  CG  LYS A 195     -26.527 -16.561  -2.798  0.00  0.00           C
+ATOM   1504  CD  LYS A 195     -27.255 -16.654  -4.181  0.00  0.00           C
+ATOM   1505  CE  LYS A 195     -28.378 -17.682  -4.227  0.00  0.00           C
+ATOM   1525  CG1 ILE A 198     -25.236 -15.131  -7.670  0.00  0.00           C
+ATOM   1527  CD1 ILE A 198     -25.129 -15.702  -9.182  0.00  0.00           C
+ATOM   2010  C   PRO A 259     -29.480 -16.604  -8.311  0.00  0.00           C
+ATOM   2011  O   PRO A 259     -28.454 -15.935  -8.251  0.00  0.00           O
+ATOM   2015  N   THR A 260     -29.495 -17.895  -8.630  0.00  0.00           N
+ATOM   2016  CA  THR A 260     -28.309 -18.674  -8.988  0.00  0.00           C
+ATOM   2017  C   THR A 260     -27.931 -18.316 -10.433  0.00  0.00           C
+ATOM   2019  CB  THR A 260     -28.605 -20.177  -8.892  0.00  0.00           C
+ATOM   2020  OG1 THR A 260     -29.656 -20.501  -9.820  0.00  0.00           O
+ATOM   2021  CG2 THR A 260     -29.003 -20.594  -7.490  0.00  0.00           C
+ATOM   2022  N   ALA A 261     -26.699 -18.673 -10.829  0.00  0.00           N
+ATOM   2023  CA  ALA A 261     -26.197 -18.434 -12.182  0.00  0.00           C
+ATOM   2024  C   ALA A 261     -27.114 -19.138 -13.181  0.00  0.00           C
+ATOM   2026  CB  ALA A 261     -24.765 -18.936 -12.307  0.00  0.00           C
+ATOM   2027  N   LYS A 262     -27.490 -20.398 -12.876  0.00  0.00           N
+ATOM   2028  CA  LYS A 262     -28.403 -21.226 -13.669  0.00  0.00           C
+ATOM   2031  CB  LYS A 262     -28.643 -22.572 -12.952  0.00  0.00           C
+ATOM   2032  CG  LYS A 262     -28.285 -23.784 -13.782  0.00  0.00           C
+ATOM   2033  CD  LYS A 262     -28.512 -25.065 -12.989  0.00  0.00           C
+ATOM   2034  CE  LYS A 262     -27.818 -26.253 -13.606  0.00  0.00           C

@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  10.69 -18.74 -28.41 with max radius 7.44
+ATOM     25  CZ2 TRP A 697      16.043 -21.633 -32.686  0.00  0.00           C
+ATOM     26  CZ3 TRP A 697      17.270 -21.276 -30.632  0.00  0.00           C
+ATOM     27  CH2 TRP A 697      16.077 -21.258 -31.370  0.00  0.00           C
+ATOM    473  CA  LEU A 756      13.697 -19.161 -23.718  0.00  0.00           C
+ATOM    474  C   LEU A 756      13.256 -20.164 -24.786  0.00  0.00           C
+ATOM    475  O   LEU A 756      12.243 -19.953 -25.454  0.00  0.00           O
+ATOM    476  CB  LEU A 756      14.607 -18.090 -24.317  0.00  0.00           C
+ATOM    477  CG  LEU A 756      14.512 -16.759 -23.561  0.00  0.00           C
+ATOM    479  CD2 LEU A 756      13.053 -16.289 -23.496  0.00  0.00           C
+ATOM    480  N   ARG A 757      13.984 -21.270 -24.918  0.00  0.00           N
+ATOM    481  CA  ARG A 757      13.636 -22.277 -25.918  0.00  0.00           C
+ATOM    482  C   ARG A 757      12.376 -23.048 -25.528  0.00  0.00           C
+ATOM    483  O   ARG A 757      11.681 -23.583 -26.395  0.00  0.00           O
+ATOM    484  CB  ARG A 757      14.801 -23.249 -26.136  0.00  0.00           C
+ATOM    485  CG  ARG A 757      15.585 -22.992 -27.412  0.00  0.00           C
+ATOM    502  C   LEU A 759       8.414 -20.030 -25.189  0.00  0.00           C
+ATOM    503  O   LEU A 759       9.242 -19.408 -25.853  0.00  0.00           O
+ATOM    504  CB  LEU A 759       9.125 -19.444 -22.873  0.00  0.00           C
+ATOM    508  N   THR A 760       7.173 -20.239 -25.606  0.00  0.00           N
+ATOM    509  CA  THR A 760       6.694 -19.665 -26.849  0.00  0.00           C
+ATOM    510  C   THR A 760       5.355 -18.968 -26.652  0.00  0.00           C
+ATOM    512  CB  THR A 760       6.558 -20.730 -27.942  0.00  0.00           C
+ATOM    513  OG1 THR A 760       7.853 -21.264 -28.239  0.00  0.00           O
+ATOM    514  CG2 THR A 760       5.957 -20.118 -29.204  0.00  0.00           C
+ATOM    515  N   HIS A 761       5.383 -17.640 -26.667  0.00  0.00           N
+ATOM    516  CA  HIS A 761       4.203 -16.819 -26.429  0.00  0.00           C
+ATOM    517  C   HIS A 761       4.389 -15.440 -27.043  0.00  0.00           C
+ATOM    518  O   HIS A 761       5.508 -14.917 -27.095  0.00  0.00           O
+ATOM    537  CA  ILE A 764       7.566 -13.200 -24.371  0.00  0.00           C
+ATOM    538  C   ILE A 764       8.572 -13.169 -25.516  0.00  0.00           C
+ATOM    539  O   ILE A 764       8.307 -13.724 -26.583  0.00  0.00           O
+ATOM    540  CB  ILE A 764       7.584 -14.591 -23.724  0.00  0.00           C
+ATOM    542  CG2 ILE A 764       9.009 -14.974 -23.268  0.00  0.00           C
+ATOM    546  C   ILE A 765      11.179 -13.698 -26.917  0.00  0.00           C
+ATOM    547  O   ILE A 765      11.424 -14.658 -26.159  0.00  0.00           O
+ATOM    552  N   ASN A 766      11.285 -13.750 -28.239  0.00  0.00           N
+ATOM    553  CA  ASN A 766      11.647 -14.930 -29.010  0.00  0.00           C
+ATOM    554  C   ASN A 766      13.129 -14.942 -29.359  0.00  0.00           C
+ATOM    556  CB  ASN A 766      10.816 -14.969 -30.304  0.00  0.00           C
+ATOM    557  CG  ASN A 766      11.153 -16.157 -31.187  0.00  0.00           C
+ATOM    558  OD1 ASN A 766      11.345 -17.269 -30.702  0.00  0.00           O
+ATOM    560  N   MET A 767      13.827 -16.006 -28.993  0.00  0.00           N
+ATOM    561  CA  MET A 767      15.200 -16.204 -29.439  0.00  0.00           C
+ATOM    562  C   MET A 767      15.190 -16.955 -30.759  0.00  0.00           C
+ATOM    563  O   MET A 767      14.848 -18.132 -30.797  0.00  0.00           O
+ATOM    564  CB  MET A 767      16.026 -16.969 -28.400  0.00  0.00           C
+ATOM    565  CG  MET A 767      17.502 -17.005 -28.760  0.00  0.00           C

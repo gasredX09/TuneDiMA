@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -17.29   8.64 -13.78 with max radius 6.43
+ATOM   1971  CB  GLU A 239     -15.169  10.271  -8.912  0.00  0.00           C
+ATOM   1972  CG  GLU A 239     -15.870  11.409  -9.636  0.00  0.00           C
+ATOM   1973  CD  GLU A 239     -15.717  11.373 -11.145  0.00  0.00           C
+ATOM   1974  OE1 GLU A 239     -14.671  10.924 -11.670  0.00  0.00           O
+ATOM   1975  OE2 GLU A 239     -16.668  11.821 -11.815  0.00  0.00           O
+ATOM   1987  O   ILE A 241     -14.611   6.705 -10.404  0.00  0.00           O
+ATOM   1993  CA  LYS A 242     -11.869   6.833 -11.005  0.00  0.00           C
+ATOM   1994  C   LYS A 242     -12.099   6.003 -12.256  0.00  0.00           C
+ATOM   2001  N   THR A 243     -12.493   6.659 -13.346  0.00  0.00           N
+ATOM   2002  CA  THR A 243     -12.388   6.073 -14.684  0.00  0.00           C
+ATOM   2003  C   THR A 243     -11.772   7.127 -15.602  0.00  0.00           C
+ATOM   2004  O   THR A 243     -11.816   8.322 -15.304  0.00  0.00           O
+ATOM   2005  CB  THR A 243     -13.744   5.597 -15.262  0.00  0.00           C
+ATOM   2006  OG1 THR A 243     -14.552   6.730 -15.601  0.00  0.00           O
+ATOM   2007  CG2 THR A 243     -14.493   4.697 -14.269  0.00  0.00           C
+ATOM   2017  O   ASN A 245     -13.882  10.364 -18.221  0.00  0.00           O
+ATOM   2021  ND2 ASN A 245     -16.344   7.685 -17.863  0.00  0.00           N
+ATOM   2031  C   TYR A 247     -17.917  12.204 -16.958  0.00  0.00           C
+ATOM   2032  O   TYR A 247     -17.587  11.169 -16.393  0.00  0.00           O
+ATOM   2036  CD2 TYR A 247     -21.142  11.025 -17.218  0.00  0.00           C
+ATOM   2038  CE2 TYR A 247     -22.374  11.390 -16.663  0.00  0.00           C
+ATOM   2042  CA  HIS A 248     -18.029  13.376 -14.840  0.00  0.00           C
+ATOM   2046  CG  HIS A 248     -15.484  13.420 -14.889  0.00  0.00           C
+ATOM   2047  ND1 HIS A 248     -15.052  12.243 -14.371  0.00  0.00           N
+ATOM   2049  CE1 HIS A 248     -13.918  11.857 -15.006  0.00  0.00           C
+ATOM   2055  CB  HIS A 249     -22.371  12.477 -12.874  0.00  0.00           C

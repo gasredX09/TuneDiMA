@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  19.82  53.46  22.57 with max radius 4.79
+ATOM      1  N   LEU A 136      18.174  58.167  23.250  0.00  0.00           N
+ATOM      2  CA  LEU A 136      17.479  57.116  24.049  0.00  0.00           C
+ATOM      3  C   LEU A 136      16.149  56.725  23.421  0.00  0.00           C
+ATOM      5  CB  LEU A 136      17.245  57.611  25.479  0.00  0.00           C
+ATOM      7  CD1 LEU A 136      17.118  55.329  26.463  0.00  0.00           C
+ATOM      9  N   LEU A 137      16.129  55.573  22.760  0.00  0.00           N
+ATOM     10  CA  LEU A 137      14.921  55.077  22.106  0.00  0.00           C
+ATOM     13  CB  LEU A 137      15.261  53.832  21.279  0.00  0.00           C
+ATOM    397  CA  ALA A 196      22.553  55.172  25.455  0.00  0.00           C
+ATOM    398  C   ALA A 196      23.702  55.863  24.713  0.00  0.00           C
+ATOM    399  O   ALA A 196      24.009  55.534  23.576  0.00  0.00           O
+ATOM    400  CB  ALA A 196      21.249  55.907  25.195  0.00  0.00           C
+ATOM    473  CA  LEU A 206      21.410  49.651  25.539  0.00  0.00           C
+ATOM    474  C   LEU A 206      20.667  49.803  24.221  0.00  0.00           C
+ATOM    475  O   LEU A 206      21.244  50.251  23.234  0.00  0.00           O
+ATOM    476  CB  LEU A 206      21.283  50.949  26.326  0.00  0.00           C
+ATOM    477  CG  LEU A 206      19.866  51.240  26.829  0.00  0.00           C
+ATOM    479  CD2 LEU A 206      19.792  52.662  27.347  0.00  0.00           C
+ATOM    480  N   ARG A 207      19.406  49.404  24.186  0.00  0.00           N
+ATOM    481  CA  ARG A 207      18.636  49.539  22.963  0.00  0.00           C
+ATOM    482  C   ARG A 207      17.562  50.587  23.195  0.00  0.00           C
+ATOM    483  O   ARG A 207      17.364  51.482  22.370  0.00  0.00           O
+ATOM    491  N   GLY A 208      16.893  50.488  24.338  0.00  0.00           N
+ATOM    492  CA  GLY A 208      15.856  51.441  24.658  0.00  0.00           C

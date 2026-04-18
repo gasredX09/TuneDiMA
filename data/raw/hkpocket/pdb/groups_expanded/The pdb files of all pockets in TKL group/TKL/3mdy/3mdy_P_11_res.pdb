@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  45.28 -11.37  53.95 with max radius 6.47
+ATOM    545  CD  ARG A 243      41.426  -9.524  52.641  0.00  0.00           C
+ATOM    546  NE  ARG A 243      42.467  -8.521  52.393  0.00  0.00           N
+ATOM    547  CZ  ARG A 243      43.154  -8.343  51.255  0.00  0.00           C
+ATOM    548  NH1 ARG A 243      42.929  -9.102  50.178  0.00  0.00           N
+ATOM    549  NH2 ARG A 243      44.086  -7.379  51.194  0.00  0.00           N
+ATOM   1241  CD  ARG A 331      47.553 -10.383  59.668  0.00  0.00           C
+ATOM   1243  CZ  ARG A 331      48.523 -11.455  57.686  0.00  0.00           C
+ATOM   1244  NH1 ARG A 331      47.558 -11.032  56.859  0.00  0.00           N
+ATOM   1245  NH2 ARG A 331      49.494 -12.191  57.204  0.00  0.00           N
+ATOM   1396  O   GLY A 352      43.971  -6.451  53.886  0.00  0.00           O
+ATOM   1398  CA  LEU A 353      45.762  -6.966  55.936  0.00  0.00           C
+ATOM   1399  C   LEU A 353      45.204  -7.656  57.162  0.00  0.00           C
+ATOM   1400  O   LEU A 353      45.755  -8.683  57.544  0.00  0.00           O
+ATOM   1401  CB  LEU A 353      47.272  -6.761  56.114  0.00  0.00           C
+ATOM   1404  CD2 LEU A 353      47.875  -7.463  53.798  0.00  0.00           C
+ATOM   1405  N   ALA A 354      44.156  -7.098  57.794  0.00  0.00           N
+ATOM   1407  C   ALA A 354      43.091  -9.099  58.801  0.00  0.00           C
+ATOM   1408  O   ALA A 354      42.582  -9.419  57.737  0.00  0.00           O
+ATOM   1410  N   VAL A 355      43.274  -9.969  59.792  0.00  0.00           N
+ATOM   1411  CA  VAL A 355      42.755 -11.335  59.745  0.00  0.00           C
+ATOM   1414  CB  VAL A 355      43.895 -12.391  59.848  0.00  0.00           C
+ATOM   1416  CG2 VAL A 355      43.311 -13.788  59.899  0.00  0.00           C
+ATOM   1443  CA  PRO A 368      46.635 -15.717  54.494  0.00  0.00           C
+ATOM   1444  C   PRO A 368      48.162 -15.908  54.443  0.00  0.00           C
+ATOM   1446  CB  PRO A 368      46.227 -15.017  55.796  0.00  0.00           C
+ATOM   1447  CG  PRO A 368      45.907 -16.140  56.752  0.00  0.00           C
+ATOM   1449  N   ASN A 369      48.835 -15.140  53.574  0.00  0.00           N
+ATOM   1452  O   ASN A 369      50.245 -13.755  55.457  0.00  0.00           O
+ATOM   1453  CB  ASN A 369      50.846 -14.139  52.435  0.00  0.00           C
+ATOM   1456  ND2 ASN A 369      49.743 -14.281  50.295  0.00  0.00           N
+ATOM   1479  CB  VAL A 372      51.388  -9.348  54.394  0.00  0.00           C
+ATOM   1480  CG1 VAL A 372      51.202 -10.457  53.321  0.00  0.00           C
+ATOM   1481  CG2 VAL A 372      50.671  -9.697  55.688  0.00  0.00           C

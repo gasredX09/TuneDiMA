@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  41.10   8.73  10.28 with max radius 4.70
+ATOM   1354  CA  TYR A 191      44.679   5.821  11.221  0.00  0.00           C
+ATOM   1355  C   TYR A 191      44.304   5.162  12.545  0.00  0.00           C
+ATOM   1357  CB  TYR A 191      43.521   5.717  10.222  0.00  0.00           C
+ATOM   1358  CG  TYR A 191      43.097   4.310   9.860  0.00  0.00           C
+ATOM   1359  CD1 TYR A 191      42.127   3.643  10.600  0.00  0.00           C
+ATOM   1365  N   ASN A 192      43.501   5.859  13.344  0.00  0.00           N
+ATOM   1366  CA  ASN A 192      43.062   5.328  14.629  0.00  0.00           C
+ATOM   1367  C   ASN A 192      41.542   5.331  14.786  0.00  0.00           C
+ATOM   1368  O   ASN A 192      40.805   5.571  13.828  0.00  0.00           O
+ATOM   1371  OD1 ASN A 192      42.553   8.052  14.978  0.00  0.00           O
+ATOM   1382  N   LEU A 194      39.478   7.288  15.841  0.00  0.00           N
+ATOM   1383  CA  LEU A 194      38.772   8.539  15.586  0.00  0.00           C
+ATOM   1384  C   LEU A 194      38.002   8.509  14.268  0.00  0.00           C
+ATOM   1385  O   LEU A 194      37.138   9.350  14.026  0.00  0.00           O
+ATOM   1386  CB  LEU A 194      39.753   9.710  15.590  0.00  0.00           C
+ATOM   1388  CD1 LEU A 194      41.386  11.124  16.862  0.00  0.00           C
+ATOM   1390  N   CYS A 195      38.318   7.537  13.419  0.00  0.00           N
+ATOM   1391  CA  CYS A 195      37.623   7.379  12.148  0.00  0.00           C
+ATOM   1394  CB  CYS A 195      38.345   6.364  11.266  0.00  0.00           C
+ATOM   1395  SG  CYS A 195      38.309   4.682  11.916  0.00  0.00           S
+ATOM   1894  CA  PRO A 258      41.890  13.417  12.480  0.00  0.00           C
+ATOM   1897  CB  PRO A 258      42.605  12.145  12.008  0.00  0.00           C
+ATOM   1898  CG  PRO A 258      43.627  12.618  11.037  0.00  0.00           C
+ATOM   1926  CZ  ARG A 261      38.274  12.003  11.316  0.00  0.00           C
+ATOM   1927  NH1 ARG A 261      38.506  10.777  11.763  0.00  0.00           N
+ATOM   1928  NH2 ARG A 261      38.691  12.354  10.107  0.00  0.00           N

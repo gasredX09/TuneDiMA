@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  33.43 -13.61  -2.59 with max radius 7.49
+ATOM    115  CB  VAL A 560      30.956 -15.863   0.873  0.00  0.00           C
+ATOM    116  CG1 VAL A 560      30.518 -14.602   0.158  0.00  0.00           C
+ATOM    117  CG2 VAL A 560      31.801 -15.528   2.121  0.00  0.00           C
+ATOM    170  N   TYR A 568      35.924 -18.071  -2.504  0.00  0.00           N
+ATOM    171  CA  TYR A 568      34.609 -18.114  -1.870  0.00  0.00           C
+ATOM    172  C   TYR A 568      33.547 -18.005  -2.950  0.00  0.00           C
+ATOM    173  O   TYR A 568      33.751 -17.345  -3.992  0.00  0.00           O
+ATOM    174  CB  TYR A 568      34.388 -16.935  -0.923  0.00  0.00           C
+ATOM    175  CG  TYR A 568      35.152 -16.961   0.360  0.00  0.00           C
+ATOM    176  CD1 TYR A 568      36.299 -16.187   0.521  0.00  0.00           C
+ATOM    177  CD2 TYR A 568      34.715 -17.724   1.430  0.00  0.00           C
+ATOM    178  CE1 TYR A 568      37.000 -16.188   1.727  0.00  0.00           C
+ATOM    179  CE2 TYR A 568      35.409 -17.746   2.631  0.00  0.00           C
+ATOM    180  CZ  TYR A 568      36.556 -16.982   2.768  0.00  0.00           C
+ATOM    182  N   SER A 569      32.400 -18.621  -2.701  0.00  0.00           N
+ATOM    183  CA  SER A 569      31.287 -18.535  -3.616  0.00  0.00           C
+ATOM    184  C   SER A 569      30.069 -18.066  -2.813  0.00  0.00           C
+ATOM    185  O   SER A 569      29.989 -18.279  -1.596  0.00  0.00           O
+ATOM    188  N   TYR A 570      29.125 -17.416  -3.484  0.00  0.00           N
+ATOM    189  CA  TYR A 570      27.907 -16.987  -2.803  0.00  0.00           C
+ATOM    192  CB  TYR A 570      27.073 -16.074  -3.710  0.00  0.00           C
+ATOM    193  CG  TYR A 570      27.723 -14.745  -3.987  0.00  0.00           C
+ATOM    194  CD1 TYR A 570      27.535 -14.117  -5.201  0.00  0.00           C
+ATOM    195  CD2 TYR A 570      28.492 -14.097  -3.011  0.00  0.00           C
+ATOM    196  CE1 TYR A 570      28.126 -12.871  -5.469  0.00  0.00           C
+ATOM    197  CE2 TYR A 570      29.089 -12.833  -3.269  0.00  0.00           C
+ATOM    198  CZ  TYR A 570      28.890 -12.240  -4.498  0.00  0.00           C
+ATOM    199  OH  TYR A 570      29.450 -11.001  -4.795  0.00  0.00           O
+ATOM   1435  CG1 ILE A 789      30.656 -10.596   1.985  0.00  0.00           C
+ATOM   1437  CD1 ILE A 789      31.389 -10.952   0.716  0.00  0.00           C
+ATOM   1874  O   SER A 844      31.643  -9.094  -8.291  0.00  0.00           O
+ATOM   1878  CA  VAL A 845      34.000  -8.569  -6.966  0.00  0.00           C
+ATOM   1884  N   TYR A 846      33.042  -8.810  -4.756  0.00  0.00           N
+ATOM   1886  C   TYR A 846      33.140  -9.230  -2.389  0.00  0.00           C
+ATOM   1887  O   TYR A 846      33.016 -10.453  -2.515  0.00  0.00           O
+ATOM   1897  CA  THR A 847      34.391  -9.416  -0.300  0.00  0.00           C
+ATOM   1900  CB  THR A 847      35.913  -9.511  -0.539  0.00  0.00           C
+ATOM   1902  CG2 THR A 847      36.242 -10.169  -1.888  0.00  0.00           C
+ATOM   1903  N   PHE A 848      34.785  -9.277   2.073  0.00  0.00           N
+ATOM   1907  CB  PHE A 848      35.416  -9.489   4.422  0.00  0.00           C
+ATOM   1908  CG  PHE A 848      34.814 -10.893   4.542  0.00  0.00           C
+ATOM   1909  CD1 PHE A 848      33.430 -11.059   4.699  0.00  0.00           C
+ATOM   1910  CD2 PHE A 848      35.629 -12.014   4.507  0.00  0.00           C
+ATOM   1911  CE1 PHE A 848      32.857 -12.335   4.837  0.00  0.00           C
+ATOM   1912  CE2 PHE A 848      35.068 -13.329   4.628  0.00  0.00           C
+ATOM   1913  CZ  PHE A 848      33.693 -13.477   4.788  0.00  0.00           C
+ATOM   1922  OE2 GLU A 849      38.281  -9.628   2.095  0.00  0.00           O

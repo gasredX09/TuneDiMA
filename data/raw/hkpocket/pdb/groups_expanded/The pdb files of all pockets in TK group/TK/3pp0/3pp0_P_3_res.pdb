@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   3.08  18.85  26.63 with max radius 6.23
+ATOM    186  CA  ALA A 730       8.029  18.126  24.720  0.00  0.00           C
+ATOM    187  C   ALA A 730       8.204  18.400  23.217  0.00  0.00           C
+ATOM    189  CB  ALA A 730       7.904  19.421  25.505  0.00  0.00           C
+ATOM    190  N   PHE A 731       7.245  17.931  22.407  0.00  0.00           N
+ATOM    197  CD2 PHE A 731       5.558  20.697  22.234  0.00  0.00           C
+ATOM    199  CE2 PHE A 731       4.334  21.276  22.562  0.00  0.00           C
+ATOM    200  CZ  PHE A 731       3.349  21.428  21.582  0.00  0.00           C
+ATOM   1088  CG  ASP A 845       6.767  21.390  29.806  0.00  0.00           C
+ATOM   1089  OD1 ASP A 845       7.171  20.579  28.938  0.00  0.00           O
+ATOM   1090  OD2 ASP A 845       5.891  21.101  30.670  0.00  0.00           O
+ATOM   1116  NE  ARG A 849       5.833  16.763  31.496  0.00  0.00           N
+ATOM   1117  CZ  ARG A 849       5.047  17.342  32.401  0.00  0.00           C
+ATOM   1118  NH1 ARG A 849       4.473  18.501  32.137  0.00  0.00           N
+ATOM   1250  CD1 LEU A 866       5.056  23.383  26.630  0.00  0.00           C
+ATOM   1365  CA  LYS A 883      -0.633  22.290  23.819  0.00  0.00           C
+ATOM   1366  C   LYS A 883       0.296  22.556  25.016  0.00  0.00           C
+ATOM   1367  O   LYS A 883       1.520  22.676  24.867  0.00  0.00           O
+ATOM   1368  CB  LYS A 883      -0.574  20.817  23.430  0.00  0.00           C
+ATOM   1369  CG  LYS A 883      -1.915  20.216  23.049  0.00  0.00           C
+ATOM   1370  CD  LYS A 883      -1.752  18.746  22.683  0.00  0.00           C
+ATOM   1373  N   VAL A 884      -0.313  22.626  26.201  0.00  0.00           N
+ATOM   1374  CA  VAL A 884       0.349  23.117  27.426  0.00  0.00           C
+ATOM   1375  C   VAL A 884       0.137  22.204  28.664  0.00  0.00           C
+ATOM   1376  O   VAL A 884      -0.916  21.567  28.803  0.00  0.00           O
+ATOM   1380  N   PRO A 885       1.123  22.158  29.582  0.00  0.00           N
+ATOM   1381  CA  PRO A 885       0.992  21.248  30.731  0.00  0.00           C
+ATOM   1384  CB  PRO A 885       2.443  21.088  31.194  0.00  0.00           C
+ATOM   1385  CG  PRO A 885       3.089  22.440  30.862  0.00  0.00           C
+ATOM   1386  CD  PRO A 885       2.304  23.043  29.708  0.00  0.00           C

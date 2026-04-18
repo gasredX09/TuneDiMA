@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   5.71   7.35  11.41 with max radius 5.59
+ATOM    949  C   ASP A 144       2.124   9.327   6.425  0.00  0.00           C
+ATOM    950  O   ASP A 144       3.035   9.237   7.232  0.00  0.00           O
+ATOM    951  CB  ASP A 144       0.580   8.456   8.280  0.00  0.00           C
+ATOM    952  CG  ASP A 144       0.763   9.467   9.386  0.00  0.00           C
+ATOM    954  OD2 ASP A 144       1.359   9.065  10.418  0.00  0.00           O
+ATOM    967  CB  LYS A 146       6.016  11.769   8.218  0.00  0.00           C
+ATOM    968  CG  LYS A 146       4.624  11.647   8.827  0.00  0.00           C
+ATOM    969  CD  LYS A 146       4.552  11.902  10.355  0.00  0.00           C
+ATOM    970  CE  LYS A 146       3.081  11.832  10.859  0.00  0.00           C
+ATOM    993  CG  ASN A 149       7.287   7.848   7.273  0.00  0.00           C
+ATOM    994  OD1 ASN A 149       6.149   8.187   6.951  0.00  0.00           O
+ATOM    995  ND2 ASN A 149       7.584   7.392   8.501  0.00  0.00           N
+ATOM   1119  CB  ASP A 165       7.270   3.076   8.622  0.00  0.00           C
+ATOM   1120  CG  ASP A 165       6.135   2.539   9.520  0.00  0.00           C
+ATOM   1122  OD2 ASP A 165       5.715   3.296  10.412  0.00  0.00           O
+ATOM   1157  CG  LYS A 170       2.332   4.309   8.712  0.00  0.00           C
+ATOM   1158  CD  LYS A 170       3.529   4.316   7.787  0.00  0.00           C
+ATOM   1159  CE  LYS A 170       4.360   5.610   7.956  0.00  0.00           C
+ATOM   1160  NZ  LYS A 170       3.534   6.775   7.709  0.00  0.00           N
+ATOM   1162  CA  MET A 171       3.303   3.120  13.045  0.00  0.00           C
+ATOM   1163  C   MET A 171       2.778   4.545  13.156  0.00  0.00           C
+ATOM   1164  O   MET A 171       3.427   5.513  12.783  0.00  0.00           O
+ATOM   1165  CB  MET A 171       4.713   3.040  13.611  0.00  0.00           C
+ATOM   1166  CG  MET A 171       5.301   1.649  13.560  0.00  0.00           C
+ATOM   1168  CE  MET A 171       7.869   2.436  12.962  0.00  0.00           C
+ATOM   1170  CA  GLU A 172       0.924   5.908  13.936  0.00  0.00           C
+ATOM   1173  CB  GLU A 172       0.118   6.404  12.727  0.00  0.00           C
+ATOM   1174  CG  GLU A 172      -0.653   5.337  11.959  0.00  0.00           C

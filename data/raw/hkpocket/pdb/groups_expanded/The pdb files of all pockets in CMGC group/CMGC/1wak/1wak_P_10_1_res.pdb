@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  29.67  24.43   3.34 with max radius 5.44
+ATOM    964  C   GLN A 182      31.374  23.116   7.788  0.00  0.00           C
+ATOM    965  O   GLN A 182      30.898  22.951   6.668  0.00  0.00           O
+ATOM    969  OE1 GLN A 182      34.294  26.144   5.635  0.00  0.00           O
+ATOM   1958  C   ALA A 545      26.586  21.848   6.122  0.00  0.00           C
+ATOM   1959  O   ALA A 545      27.442  21.746   5.242  0.00  0.00           O
+ATOM   1961  N   THR A 546      26.361  22.975   6.788  0.00  0.00           N
+ATOM   1962  CA  THR A 546      27.070  24.207   6.438  0.00  0.00           C
+ATOM   1963  C   THR A 546      27.935  24.801   7.536  0.00  0.00           C
+ATOM   1964  O   THR A 546      28.790  25.664   7.258  0.00  0.00           O
+ATOM   1965  CB  THR A 546      26.078  25.332   6.047  0.00  0.00           C
+ATOM   1967  CG2 THR A 546      25.103  24.880   4.946  0.00  0.00           C
+ATOM   2537  CA  TYR A 616      28.176  27.805   0.151  0.00  0.00           C
+ATOM   2538  C   TYR A 616      28.831  27.041  -0.982  0.00  0.00           C
+ATOM   2539  O   TYR A 616      29.563  26.078  -0.753  0.00  0.00           O
+ATOM   2540  CB  TYR A 616      27.299  26.894   1.009  0.00  0.00           C
+ATOM   2541  CG  TYR A 616      26.797  27.607   2.246  0.00  0.00           C
+ATOM   2543  CD2 TYR A 616      27.614  27.733   3.381  0.00  0.00           C
+ATOM   2545  CE2 TYR A 616      27.167  28.428   4.515  0.00  0.00           C
+ATOM   2563  CD1 TRP A 618      27.187  23.684  -0.436  0.00  0.00           C
+ATOM   2565  NE1 TRP A 618      26.986  23.287   0.877  0.00  0.00           N
+ATOM   2566  CE2 TRP A 618      25.868  22.494   0.928  0.00  0.00           C
+ATOM   2568  CZ2 TRP A 618      25.261  21.864   2.013  0.00  0.00           C

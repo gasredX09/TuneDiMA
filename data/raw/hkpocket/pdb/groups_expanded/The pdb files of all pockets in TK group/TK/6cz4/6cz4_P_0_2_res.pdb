@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.61  20.11 -30.42 with max radius 4.19
+ATOM    138  CA  GLY A 198      -5.738  23.854 -30.492  0.00  0.00           C
+ATOM    139  C   GLY A 198      -4.432  23.894 -31.266  0.00  0.00           C
+ATOM    140  O   GLY A 198      -4.417  23.874 -32.498  0.00  0.00           O
+ATOM    141  N   SER A 199      -3.325  23.947 -30.533  0.00  0.00           N
+ATOM    142  CA  SER A 199      -2.004  24.051 -31.136  0.00  0.00           C
+ATOM    143  C   SER A 199      -1.065  22.990 -30.571  0.00  0.00           C
+ATOM    144  O   SER A 199      -1.331  22.421 -29.514  0.00  0.00           O
+ATOM    147  N   GLY A 200       0.033  22.739 -31.275  0.00  0.00           N
+ATOM    149  C   GLY A 200       0.936  20.427 -31.061  0.00  0.00           C
+ATOM    150  O   GLY A 200       0.089  20.044 -31.866  0.00  0.00           O
+ATOM    155  CB  TYR A 201       0.382  17.630 -30.030  0.00  0.00           C
+ATOM    156  CG  TYR A 201       0.272  17.849 -28.541  0.00  0.00           C
+ATOM    158  CD2 TYR A 201      -0.548  18.843 -28.023  0.00  0.00           C
+ATOM    160  CE2 TYR A 201      -0.640  19.053 -26.660  0.00  0.00           C
+ATOM    179  CA  GLU A 204      -2.766  22.091 -35.329  0.00  0.00           C
+ATOM    180  C   GLU A 204      -4.084  21.322 -35.345  0.00  0.00           C
+ATOM    187  N   VAL A 205      -5.048  21.751 -34.539  0.00  0.00           N
+ATOM    188  CA  VAL A 205      -6.353  21.099 -34.530  0.00  0.00           C
+ATOM    191  CB  VAL A 205      -6.611  20.376 -33.195  0.00  0.00           C
+ATOM    193  CG2 VAL A 205      -5.522  19.354 -32.938  0.00  0.00           C
+ATOM    310  CD  LYS A 219      -3.514  17.024 -34.467  0.00  0.00           C
+ATOM    311  CE  LYS A 219      -2.030  16.884 -34.153  0.00  0.00           C
+ATOM    312  NZ  LYS A 219      -1.666  17.728 -32.983  0.00  0.00           N
+ATOM   1215  CD1 PHE A 331      -3.753  17.244 -27.257  0.00  0.00           C
+ATOM   1217  CE1 PHE A 331      -4.913  17.972 -27.060  0.00  0.00           C

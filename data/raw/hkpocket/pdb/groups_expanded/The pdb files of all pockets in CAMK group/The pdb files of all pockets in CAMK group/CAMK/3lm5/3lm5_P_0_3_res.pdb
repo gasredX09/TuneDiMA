@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  27.21   7.24  -4.05 with max radius 6.02
+ATOM    241  CB  ALA A  45      26.057   1.945  -6.378  0.00  0.00           C
+ATOM    369  CE  LYS A  62      26.951   3.118  -2.362  0.00  0.00           C
+ATOM    370  NZ  LYS A  62      26.518   2.899  -3.739  0.00  0.00           N
+ATOM    388  CD1 LEU A  64      31.505   1.767  -3.305  0.00  0.00           C
+ATOM    389  CD2 LEU A  64      29.582   2.627  -4.411  0.00  0.00           C
+ATOM    427  CZ  ARG A  68      30.361   4.683  -8.773  0.00  0.00           C
+ATOM    428  NH1 ARG A  68      29.702   5.823  -8.524  0.00  0.00           N
+ATOM    429  NH2 ARG A  68      30.539   3.783  -7.802  0.00  0.00           N
+ATOM    522  CD  GLU A  80      31.602   6.072  -1.161  0.00  0.00           C
+ATOM    523  OE1 GLU A  80      31.716   6.247  -2.392  0.00  0.00           O
+ATOM    524  OE2 GLU A  80      30.572   5.585  -0.674  0.00  0.00           O
+ATOM   1129  OD2 ASP A 158      24.658  12.476  -2.542  0.00  0.00           O
+ATOM   1287  CA  ASP A 179      26.649   7.938   0.928  0.00  0.00           C
+ATOM   1288  C   ASP A 179      27.676   9.071   0.848  0.00  0.00           C
+ATOM   1289  O   ASP A 179      27.360  10.206   0.469  0.00  0.00           O
+ATOM   1290  CB  ASP A 179      25.288   8.330   0.289  0.00  0.00           C
+ATOM   1291  CG  ASP A 179      24.420   7.107  -0.099  0.00  0.00           C
+ATOM   1292  OD1 ASP A 179      23.281   7.282  -0.598  0.00  0.00           O
+ATOM   1293  OD2 ASP A 179      24.859   5.965   0.084  0.00  0.00           O
+ATOM   1294  N   PHE A 180      28.921   8.734   1.174  0.00  0.00           N
+ATOM   1305  N   GLY A 181      29.919   9.508  -1.260  0.00  0.00           N
+ATOM   1306  CA  GLY A 181      30.458   9.598  -2.622  0.00  0.00           C

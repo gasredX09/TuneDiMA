@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.14   5.30  -2.07 with max radius 5.42
+ATOM   1030  CD  ARG A 148       2.554   0.782  -1.258  0.00  0.00           C
+ATOM   1031  NE  ARG A 148       2.336   2.139  -0.760  0.00  0.00           N
+ATOM   1032  CZ  ARG A 148       1.386   2.490   0.104  0.00  0.00           C
+ATOM   1033  NH1 ARG A 148       1.308   3.753   0.510  0.00  0.00           N
+ATOM   1034  NH2 ARG A 148       0.517   1.580   0.563  0.00  0.00           N
+ATOM   1058  CG  GLU A 151      -1.186   7.083   2.867  0.00  0.00           C
+ATOM   1059  CD  GLU A 151      -1.891   8.201   2.131  0.00  0.00           C
+ATOM   1061  OE2 GLU A 151      -1.879   8.205   0.846  0.00  0.00           O
+ATOM   1816  CA  LEU A 249       4.788   5.603   0.728  0.00  0.00           C
+ATOM   1817  C   LEU A 249       4.804   4.922  -0.649  0.00  0.00           C
+ATOM   1818  O   LEU A 249       3.812   4.302  -1.028  0.00  0.00           O
+ATOM   1819  CB  LEU A 249       4.020   6.935   0.630  0.00  0.00           C
+ATOM   1820  CG  LEU A 249       3.505   7.542   1.938  0.00  0.00           C
+ATOM   1821  CD1 LEU A 249       3.013   8.990   1.752  0.00  0.00           C
+ATOM   1822  CD2 LEU A 249       2.403   6.632   2.606  0.00  0.00           C
+ATOM   1823  N   THR A 250       5.910   5.034  -1.377  0.00  0.00           N
+ATOM   1824  CA  THR A 250       5.995   4.527  -2.765  0.00  0.00           C
+ATOM   1827  CB  THR A 250       6.379   5.643  -3.764  0.00  0.00           C
+ATOM   1829  CG2 THR A 250       5.503   6.874  -3.610  0.00  0.00           C
+ATOM   2043  CA  PRO A 279       1.060   8.446  -7.573  0.00  0.00           C
+ATOM   2044  C   PRO A 279      -0.375   8.914  -7.457  0.00  0.00           C
+ATOM   2045  O   PRO A 279      -0.671   9.685  -6.541  0.00  0.00           O
+ATOM   2046  CB  PRO A 279       1.313   7.338  -6.569  0.00  0.00           C
+ATOM   2047  CG  PRO A 279       2.653   7.584  -6.028  0.00  0.00           C
+ATOM   2048  CD  PRO A 279       2.952   9.060  -6.151  0.00  0.00           C
+ATOM   2058  N   GLU A 281      -2.902   7.287  -6.633  0.00  0.00           N
+ATOM   2059  CA  GLU A 281      -3.400   6.568  -5.466  0.00  0.00           C
+ATOM   2060  C   GLU A 281      -3.134   7.313  -4.141  0.00  0.00           C
+ATOM   2061  O   GLU A 281      -3.859   7.120  -3.175  0.00  0.00           O
+ATOM   2062  CB  GLU A 281      -2.753   5.167  -5.400  0.00  0.00           C
+ATOM   2063  CG  GLU A 281      -1.473   4.973  -6.256  0.00  0.00           C
+ATOM   2064  CD  GLU A 281      -0.526   3.888  -5.740  0.00  0.00           C
+ATOM   2065  OE1 GLU A 281      -0.997   2.758  -5.488  0.00  0.00           O
+ATOM   2066  OE2 GLU A 281       0.702   4.149  -5.579  0.00  0.00           O
+ATOM   2067  N   MET A 282      -2.082   8.132  -4.099  0.00  0.00           N
+ATOM   2068  CA  MET A 282      -1.688   8.813  -2.868  0.00  0.00           C
+ATOM   2071  CB  MET A 282      -0.343   9.545  -3.062  0.00  0.00           C
+ATOM   2072  CG  MET A 282       0.129  10.326  -1.843  0.00  0.00           C
+ATOM   2074  CE  MET A 282       2.818   9.638  -2.147  0.00  0.00           C

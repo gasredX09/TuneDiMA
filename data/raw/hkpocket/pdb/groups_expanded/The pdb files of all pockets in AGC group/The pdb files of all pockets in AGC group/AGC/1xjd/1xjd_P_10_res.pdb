@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  50.50  -0.93  16.93 with max radius 6.60
+ATOM    745  SD  MET A 467      52.639   0.815  13.534  0.00  0.00           S
+ATOM    746  CE  MET A 467      51.045   0.659  12.785  0.00  0.00           C
+ATOM    773  CB  ILE A 470      54.715   3.204  17.850  0.00  0.00           C
+ATOM    775  CG2 ILE A 470      54.034   2.050  18.569  0.00  0.00           C
+ATOM    782  CG  GLN A 471      56.436  -0.843  14.818  0.00  0.00           C
+ATOM    785  NE2 GLN A 471      55.731  -2.549  13.254  0.00  0.00           N
+ATOM   1077  CD1 LEU A 507      50.845   3.730  15.870  0.00  0.00           C
+ATOM   1585  CA  GLU A 571      48.339   3.145  20.151  0.00  0.00           C
+ATOM   1586  C   GLU A 571      49.629   3.860  20.561  0.00  0.00           C
+ATOM   1587  O   GLU A 571      50.577   3.216  20.980  0.00  0.00           O
+ATOM   1588  CB  GLU A 571      48.355   2.918  18.640  0.00  0.00           C
+ATOM   1589  CG  GLU A 571      47.252   2.011  18.118  0.00  0.00           C
+ATOM   1590  CD  GLU A 571      47.329   1.830  16.610  0.00  0.00           C
+ATOM   1591  OE1 GLU A 571      47.545   2.837  15.902  0.00  0.00           O
+ATOM   1592  OE2 GLU A 571      47.165   0.689  16.126  0.00  0.00           O
+ATOM   1618  CA  GLY A 575      51.836   0.468  22.100  0.00  0.00           C
+ATOM   1619  C   GLY A 575      51.135  -0.756  21.542  0.00  0.00           C
+ATOM   1620  O   GLY A 575      51.775  -1.630  20.959  0.00  0.00           O
+ATOM   1621  N   GLN A 576      49.821  -0.809  21.729  0.00  0.00           N
+ATOM   1622  CA  GLN A 576      48.982  -1.899  21.240  0.00  0.00           C
+ATOM   1623  C   GLN A 576      47.719  -1.259  20.678  0.00  0.00           C
+ATOM   1624  O   GLN A 576      47.381  -0.130  21.040  0.00  0.00           O
+ATOM   1630  N   SER A 577      47.012  -1.983  19.818  0.00  0.00           N
+ATOM   1631  CA  SER A 577      45.759  -1.487  19.254  0.00  0.00           C
+ATOM   1634  CB  SER A 577      45.414  -2.221  17.957  0.00  0.00           C
+ATOM   1635  OG  SER A 577      46.319  -1.864  16.924  0.00  0.00           O

@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  33.50  40.81  30.15 with max radius 5.55
+ATOM   1697  CD1 PHE A 412      29.915  44.166  32.240  0.00  0.00           C
+ATOM   1699  CE1 PHE A 412      29.457  42.907  31.887  0.00  0.00           C
+ATOM   1701  CZ  PHE A 412      28.362  42.364  32.533  0.00  0.00           C
+ATOM   1785  CB  LEU A 423      29.806  43.230  27.032  0.00  0.00           C
+ATOM   1786  CG  LEU A 423      31.090  44.046  27.127  0.00  0.00           C
+ATOM   1787  CD1 LEU A 423      31.374  44.375  28.574  0.00  0.00           C
+ATOM   1788  CD2 LEU A 423      32.251  43.279  26.525  0.00  0.00           C
+ATOM   1818  CA  ARG A 428      30.873  38.332  26.645  0.00  0.00           C
+ATOM   1819  C   ARG A 428      30.478  38.941  27.993  0.00  0.00           C
+ATOM   1820  O   ARG A 428      31.235  39.703  28.598  0.00  0.00           O
+ATOM   1821  CB  ARG A 428      31.946  39.157  25.924  0.00  0.00           C
+ATOM   1822  CG  ARG A 428      32.688  38.360  24.865  0.00  0.00           C
+ATOM   1827  NH2 ARG A 428      35.166  42.329  25.075  0.00  0.00           N
+ATOM   1829  CA  GLN A 429      28.770  39.101  29.734  0.00  0.00           C
+ATOM   1830  C   GLN A 429      29.346  38.460  31.001  0.00  0.00           C
+ATOM   1831  O   GLN A 429      29.191  39.004  32.097  0.00  0.00           O
+ATOM   1837  N   GLN A 430      30.006  37.311  30.869  0.00  0.00           N
+ATOM   1838  CA  GLN A 430      30.514  36.612  32.048  0.00  0.00           C
+ATOM   1839  C   GLN A 430      31.894  37.133  32.454  0.00  0.00           C
+ATOM   1840  O   GLN A 430      32.915  36.614  31.997  0.00  0.00           O
+ATOM   1846  N   GLU A 431      31.918  38.158  33.307  0.00  0.00           N
+ATOM   1847  CA  GLU A 431      33.179  38.687  33.830  0.00  0.00           C
+ATOM   1850  CB  GLU A 431      32.944  39.929  34.704  0.00  0.00           C
+ATOM   1851  CG  GLU A 431      32.326  41.120  33.971  0.00  0.00           C
+ATOM   1852  CD  GLU A 431      32.435  42.422  34.755  0.00  0.00           C
+ATOM   1854  OE2 GLU A 431      33.459  43.117  34.604  0.00  0.00           O
+ATOM   1861  CD  PRO A 432      36.122  38.517  33.797  0.00  0.00           C

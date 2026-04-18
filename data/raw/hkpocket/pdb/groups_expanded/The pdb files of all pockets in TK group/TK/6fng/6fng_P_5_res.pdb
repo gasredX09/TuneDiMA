@@ -1,0 +1,64 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 58 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -114.85   1.68  57.67 with max radius 9.60
+ATOM    992  CA  LYS A 728    -113.871  -0.961  51.625  0.00  0.00           C
+ATOM    993  C   LYS A 728    -114.865  -2.084  51.379  0.00  0.00           C
+ATOM    994  O   LYS A 728    -115.824  -2.260  52.140  0.00  0.00           O
+ATOM    995  CB  LYS A 728    -114.166   0.213  50.692  0.00  0.00           C
+ATOM    996  CG  LYS A 728    -115.566   0.783  50.899  0.00  0.00           C
+ATOM    997  CD  LYS A 728    -115.982   1.791  49.845  0.00  0.00           C
+ATOM    998  CE  LYS A 728    -117.368   2.325  50.146  0.00  0.00           C
+ATOM   1021  CA  ALA A 731    -115.309  -4.003  55.484  0.00  0.00           C
+ATOM   1022  C   ALA A 731    -116.822  -4.029  55.347  0.00  0.00           C
+ATOM   1023  O   ALA A 731    -117.541  -4.398  56.286  0.00  0.00           O
+ATOM   1024  CB  ALA A 731    -114.816  -2.572  55.692  0.00  0.00           C
+ATOM   1025  N   ASN A 732    -117.332  -3.647  54.179  0.00  0.00           N
+ATOM   1026  CA  ASN A 732    -118.773  -3.619  53.993  0.00  0.00           C
+ATOM   1029  CB  ASN A 732    -119.106  -2.700  52.829  0.00  0.00           C
+ATOM   1030  CG  ASN A 732    -118.926  -1.248  53.212  0.00  0.00           C
+ATOM   1031  OD1 ASN A 732    -118.926  -0.922  54.395  0.00  0.00           O
+ATOM   1032  ND2 ASN A 732    -118.843  -0.378  52.237  0.00  0.00           N
+ATOM   1433  CA  SER A 796    -112.501  -2.247  60.118  0.00  0.00           C
+ATOM   1434  C   SER A 796    -111.739  -0.964  60.421  0.00  0.00           C
+ATOM   1435  O   SER A 796    -110.906  -0.553  59.609  0.00  0.00           O
+ATOM   1436  CB  SER A 796    -113.694  -2.031  59.191  0.00  0.00           C
+ATOM   1437  OG  SER A 796    -114.177  -3.297  58.749  0.00  0.00           O
+ATOM   1438  N   ALA A 797    -111.962  -0.360  61.588  0.00  0.00           N
+ATOM   1439  CA  ALA A 797    -111.200   0.828  61.964  0.00  0.00           C
+ATOM   1441  O   ALA A 797    -108.876   1.333  62.124  0.00  0.00           O
+ATOM   1442  CB  ALA A 797    -111.911   1.575  63.086  0.00  0.00           C
+ATOM   1461  CB  VAL A 800    -108.873   2.593  58.846  0.00  0.00           C
+ATOM   1462  CG1 VAL A 800    -108.331   4.006  58.669  0.00  0.00           C
+ATOM   1463  CG2 VAL A 800    -110.064   2.374  57.932  0.00  0.00           C
+ATOM   1954  C   ARG A 858    -111.744   5.674  65.832  0.00  0.00           C
+ATOM   1955  O   ARG A 858    -111.761   5.663  64.595  0.00  0.00           O
+ATOM   1979  N   ARG A 861    -110.733   8.205  62.892  0.00  0.00           N
+ATOM   1980  CA  ARG A 861    -110.094   7.769  61.663  0.00  0.00           C
+ATOM   1981  C   ARG A 861    -111.087   7.830  60.509  0.00  0.00           C
+ATOM   1982  O   ARG A 861    -112.294   7.646  60.702  0.00  0.00           O
+ATOM   1983  CB  ARG A 861    -109.620   6.329  61.812  0.00  0.00           C
+ATOM   1984  CG  ARG A 861    -108.551   6.177  62.867  0.00  0.00           C
+ATOM   1985  CD  ARG A 861    -108.147   4.732  63.079  0.00  0.00           C
+ATOM   1992  C   PRO A 862    -112.011   6.496  58.028  0.00  0.00           C
+ATOM   1993  O   PRO A 862    -111.348   5.550  58.458  0.00  0.00           O
+ATOM   1997  N   LYS A 863    -113.191   6.343  57.433  0.00  0.00           N
+ATOM   1998  CA  LYS A 863    -113.615   5.029  56.984  0.00  0.00           C
+ATOM   1999  C   LYS A 863    -112.982   4.748  55.627  0.00  0.00           C
+ATOM   2001  CB  LYS A 863    -115.141   4.962  56.875  0.00  0.00           C
+ATOM   2002  CG  LYS A 863    -115.914   5.432  58.111  0.00  0.00           C
+ATOM   2003  CD  LYS A 863    -115.532   4.699  59.389  0.00  0.00           C
+ATOM   2004  CE  LYS A 863    -116.378   5.215  60.556  0.00  0.00           C
+ATOM   2005  NZ  LYS A 863    -115.969   4.681  61.888  0.00  0.00           N
+ATOM   2006  N   PHE A 864    -112.972   3.477  55.223  0.00  0.00           N
+ATOM   2007  CA  PHE A 864    -112.474   3.185  53.883  0.00  0.00           C
+ATOM   2008  C   PHE A 864    -113.280   3.925  52.822  0.00  0.00           C
+ATOM   2010  CB  PHE A 864    -112.422   1.681  53.608  0.00  0.00           C
+ATOM   2011  CG  PHE A 864    -111.273   0.994  54.278  0.00  0.00           C
+ATOM   2013  CD2 PHE A 864    -111.480   0.082  55.302  0.00  0.00           C
+ATOM   2015  CE2 PHE A 864    -110.399  -0.542  55.922  0.00  0.00           C
+ATOM   2017  N   ALA A 865    -114.572   4.171  53.070  0.00  0.00           N
+ATOM   2018  CA  ALA A 865    -115.356   4.958  52.122  0.00  0.00           C
+ATOM   2021  CB  ALA A 865    -116.788   5.109  52.635  0.00  0.00           C

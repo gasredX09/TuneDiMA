@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  53.50   4.67 -48.53 with max radius 7.39
+ATOM   1527  CE2 PHE A 213      58.509   7.488 -55.861  0.00  0.00           C
+ATOM   1567  CB  PHE A 219      52.914   7.840 -53.997  0.00  0.00           C
+ATOM   1568  CG  PHE A 219      53.695   6.629 -54.461  0.00  0.00           C
+ATOM   1569  CD1 PHE A 219      54.927   6.313 -53.899  0.00  0.00           C
+ATOM   1570  CD2 PHE A 219      53.209   5.815 -55.470  0.00  0.00           C
+ATOM   1571  CE1 PHE A 219      55.654   5.210 -54.346  0.00  0.00           C
+ATOM   1572  CE2 PHE A 219      53.942   4.704 -55.905  0.00  0.00           C
+ATOM   1573  CZ  PHE A 219      55.148   4.405 -55.335  0.00  0.00           C
+ATOM   1577  O   ARG A 220      56.918   8.281 -52.288  0.00  0.00           O
+ATOM   1586  CA  PRO A 221      59.625   8.614 -52.717  0.00  0.00           C
+ATOM   1587  C   PRO A 221      59.811   8.014 -51.338  0.00  0.00           C
+ATOM   1588  O   PRO A 221      59.846   6.799 -51.245  0.00  0.00           O
+ATOM   1604  CA  LEU A 223      57.554   7.083 -46.561  0.00  0.00           C
+ATOM   1605  C   LEU A 223      56.591   8.278 -46.374  0.00  0.00           C
+ATOM   1607  CB  LEU A 223      58.182   6.672 -45.214  0.00  0.00           C
+ATOM   1608  CG  LEU A 223      58.941   5.353 -45.199  0.00  0.00           C
+ATOM   1610  CD2 LEU A 223      57.984   4.194 -45.163  0.00  0.00           C
+ATOM   1611  N   PRO A 224      55.701   8.539 -47.373  0.00  0.00           N
+ATOM   1612  CA  PRO A 224      54.782   9.678 -47.251  0.00  0.00           C
+ATOM   1613  C   PRO A 224      53.892   9.581 -46.029  0.00  0.00           C
+ATOM   1614  O   PRO A 224      53.474   8.479 -45.618  0.00  0.00           O
+ATOM   1615  CB  PRO A 224      53.945   9.590 -48.535  0.00  0.00           C
+ATOM   1616  CG  PRO A 224      54.743   8.790 -49.474  0.00  0.00           C
+ATOM   1617  CD  PRO A 224      55.481   7.817 -48.643  0.00  0.00           C
+ATOM   1632  CD1 TRP A 226      55.044   6.194 -42.819  0.00  0.00           C
+ATOM   1634  NE1 TRP A 226      55.215   4.831 -42.667  0.00  0.00           N
+ATOM   1791  CG2 VAL A 244      59.770   3.990 -53.241  0.00  0.00           C
+ATOM   1795  O   VAL A 245      59.184   4.823 -48.778  0.00  0.00           O
+ATOM   1800  CA  SER A 246      57.746   2.426 -48.808  0.00  0.00           C
+ATOM   1801  C   SER A 246      57.355   1.371 -47.786  0.00  0.00           C
+ATOM   1803  CB  SER A 246      57.124   2.090 -50.160  0.00  0.00           C
+ATOM   1804  OG  SER A 246      57.674   0.901 -50.707  0.00  0.00           O
+ATOM   1805  N   GLU A 247      56.089   1.408 -47.368  0.00  0.00           N
+ATOM   1806  CA  GLU A 247      55.489   0.466 -46.426  0.00  0.00           C
+ATOM   1807  C   GLU A 247      54.476  -0.396 -47.164  0.00  0.00           C
+ATOM   1808  O   GLU A 247      53.546   0.164 -47.768  0.00  0.00           O
+ATOM   1809  CB  GLU A 247      54.796   1.264 -45.307  0.00  0.00           C
+ATOM   1810  CG  GLU A 247      54.601   0.552 -43.975  0.00  0.00           C
+ATOM   1811  CD  GLU A 247      53.772   1.372 -43.003  0.00  0.00           C
+ATOM   1812  OE1 GLU A 247      53.403   2.512 -43.359  0.00  0.00           O
+ATOM   3180  CD1 PHE A 424      47.282   4.749 -46.369  0.00  0.00           C
+ATOM   3182  CE1 PHE A 424      48.039   3.859 -45.599  0.00  0.00           C
+ATOM   3184  CZ  PHE A 424      47.470   3.245 -44.501  0.00  0.00           C
+ATOM   3219  CD  LYS A 428      49.918   3.066 -52.500  0.00  0.00           C
+ATOM   3220  CE  LYS A 428      51.222   3.549 -53.104  0.00  0.00           C
+ATOM   3221  NZ  LYS A 428      51.602   4.906 -52.607  0.00  0.00           N
