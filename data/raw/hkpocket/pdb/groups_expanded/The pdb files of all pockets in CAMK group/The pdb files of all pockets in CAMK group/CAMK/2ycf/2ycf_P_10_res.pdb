@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  23.86   5.96   4.90 with max radius 7.05
+ATOM   1502  CG1 VAL A 408      30.410   3.386   5.421  0.00  0.00           C
+ATOM   1522  CB  TRP A 411      27.006   5.425   0.544  0.00  0.00           C
+ATOM   1523  CG  TRP A 411      26.224   6.725   0.756  0.00  0.00           C
+ATOM   1524  CD1 TRP A 411      26.743   8.001   0.869  0.00  0.00           C
+ATOM   1525  CD2 TRP A 411      24.805   6.856   0.888  0.00  0.00           C
+ATOM   1526  NE1 TRP A 411      25.724   8.905   1.041  0.00  0.00           N
+ATOM   1527  CE2 TRP A 411      24.527   8.235   1.070  0.00  0.00           C
+ATOM   1528  CE3 TRP A 411      23.737   5.939   0.874  0.00  0.00           C
+ATOM   1529  CZ2 TRP A 411      23.218   8.728   1.253  0.00  0.00           C
+ATOM   1530  CZ3 TRP A 411      22.426   6.427   1.047  0.00  0.00           C
+ATOM   1531  CH2 TRP A 411      22.184   7.818   1.232  0.00  0.00           C
+ATOM   1762  C   ILE A 440      20.398  10.491   4.871  0.00  0.00           C
+ATOM   1763  O   ILE A 440      20.246   9.431   4.236  0.00  0.00           O
+ATOM   1766  CG2 ILE A 440      23.251  10.687   4.763  0.00  0.00           C
+ATOM   1769  CA  THR A 441      19.573   9.430   6.896  0.00  0.00           C
+ATOM   1770  C   THR A 441      18.213   8.940   6.376  0.00  0.00           C
+ATOM   1771  O   THR A 441      17.886   7.752   6.516  0.00  0.00           O
+ATOM   1772  CB  THR A 441      19.485   9.626   8.416  0.00  0.00           C
+ATOM   1774  CG2 THR A 441      20.851   9.853   9.036  0.00  0.00           C
+ATOM   1987  C   VAL A 468      20.508   3.107   1.087  0.00  0.00           C
+ATOM   1988  O   VAL A 468      21.709   2.931   1.336  0.00  0.00           O
+ATOM   1992  N   VAL A 469      19.615   3.487   1.996  0.00  0.00           N
+ATOM   1993  CA  VAL A 469      19.996   3.810   3.380  0.00  0.00           C
+ATOM   1994  C   VAL A 469      20.489   2.591   4.182  0.00  0.00           C
+ATOM   1995  O   VAL A 469      21.453   2.707   4.944  0.00  0.00           O
+ATOM   1996  CB  VAL A 469      18.843   4.559   4.092  0.00  0.00           C
+ATOM   1997  CG1 VAL A 469      19.026   4.571   5.582  0.00  0.00           C
+ATOM   1998  CG2 VAL A 469      18.802   5.985   3.579  0.00  0.00           C
+ATOM   2036  CZ  ARG A 474      24.920   2.499   2.246  0.00  0.00           C
+ATOM   2037  NH1 ARG A 474      26.216   2.333   2.582  0.00  0.00           N
+ATOM   2038  NH2 ARG A 474      24.052   2.907   3.158  0.00  0.00           N

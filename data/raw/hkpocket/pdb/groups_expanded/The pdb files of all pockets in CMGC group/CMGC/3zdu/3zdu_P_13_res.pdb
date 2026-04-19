@@ -1,0 +1,51 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 45 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  42.91  15.74  56.50 with max radius 6.42
+ATOM    638  CA  GLU A  89      37.996  16.189  56.059  0.00  0.00           C
+ATOM    639  C   GLU A  89      38.481  14.889  55.467  0.00  0.00           C
+ATOM    640  O   GLU A  89      39.328  14.907  54.603  0.00  0.00           O
+ATOM    641  CB  GLU A  89      38.636  16.477  57.431  0.00  0.00           C
+ATOM    642  CG  GLU A  89      38.432  17.943  57.823  0.00  0.00           C
+ATOM    643  CD  GLU A  89      39.397  18.494  58.864  0.00  0.00           C
+ATOM    644  OE1 GLU A  89      40.506  17.940  59.042  0.00  0.00           O
+ATOM    646  N   LEU A  90      37.893  13.781  55.885  0.00  0.00           N
+ATOM    647  CA  LEU A  90      38.298  12.464  55.400  0.00  0.00           C
+ATOM    648  C   LEU A  90      37.817  12.230  53.985  0.00  0.00           C
+ATOM    649  O   LEU A  90      38.416  11.468  53.248  0.00  0.00           O
+ATOM    650  CB  LEU A  90      37.727  11.379  56.280  0.00  0.00           C
+ATOM    651  CG  LEU A  90      38.189  11.382  57.734  0.00  0.00           C
+ATOM    653  CD2 LEU A  90      39.648  10.923  57.813  0.00  0.00           C
+ATOM    673  N   TYR A  93      40.493  14.990  51.811  0.00  0.00           N
+ATOM    674  CA  TYR A  93      41.936  14.962  51.871  0.00  0.00           C
+ATOM    675  C   TYR A  93      42.443  13.545  52.027  0.00  0.00           C
+ATOM    676  O   TYR A  93      41.864  12.742  52.743  0.00  0.00           O
+ATOM    677  CB  TYR A  93      42.417  15.834  53.050  0.00  0.00           C
+ATOM    678  CG  TYR A  93      41.794  17.216  53.076  0.00  0.00           C
+ATOM    679  CD1 TYR A  93      41.946  18.094  52.005  0.00  0.00           C
+ATOM    680  CD2 TYR A  93      41.031  17.614  54.136  0.00  0.00           C
+ATOM    681  CE1 TYR A  93      41.359  19.348  52.021  0.00  0.00           C
+ATOM    682  CE2 TYR A  93      40.445  18.857  54.165  0.00  0.00           C
+ATOM    683  CZ  TYR A  93      40.606  19.707  53.112  0.00  0.00           C
+ATOM    687  C   CYS A  94      44.828  11.559  52.633  0.00  0.00           C
+ATOM    688  O   CYS A  94      45.381  12.392  53.318  0.00  0.00           O
+ATOM    701  N   GLY A  96      44.323  10.834  55.755  0.00  0.00           N
+ATOM    702  CA  GLY A  96      44.061  11.197  57.160  0.00  0.00           C
+ATOM    703  C   GLY A  96      44.586  12.576  57.567  0.00  0.00           C
+ATOM    704  O   GLY A  96      45.146  13.319  56.754  0.00  0.00           O
+ATOM    705  N   LEU A  97      44.403  12.908  58.833  0.00  0.00           N
+ATOM    706  CA  LEU A  97      44.738  14.227  59.384  0.00  0.00           C
+ATOM    707  C   LEU A  97      46.206  14.323  59.746  0.00  0.00           C
+ATOM    709  CB  LEU A  97      43.957  14.481  60.655  0.00  0.00           C
+ATOM    710  CG  LEU A  97      42.530  14.958  60.514  0.00  0.00           C
+ATOM    711  CD1 LEU A  97      41.741  14.072  59.604  0.00  0.00           C
+ATOM    712  CD2 LEU A  97      41.862  15.025  61.872  0.00  0.00           C
+ATOM    713  N   GLU A  98      46.794  15.467  59.440  0.00  0.00           N
+ATOM    714  CA  GLU A  98      48.138  15.822  59.875  0.00  0.00           C
+ATOM    717  CB  GLU A  98      48.462  17.261  59.343  0.00  0.00           C
+ATOM    741  CD  ARG A 101      43.573  18.769  60.978  0.00  0.00           C
+ATOM    742  NE  ARG A 101      44.307  19.356  59.884  0.00  0.00           N
+ATOM    743  CZ  ARG A 101      44.235  20.634  59.543  0.00  0.00           C
+ATOM    745  NH2 ARG A 101      44.942  21.071  58.510  0.00  0.00           N

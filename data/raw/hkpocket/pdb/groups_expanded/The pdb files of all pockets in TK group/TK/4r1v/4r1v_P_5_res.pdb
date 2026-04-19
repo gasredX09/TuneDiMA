@@ -1,0 +1,49 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 43 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at 109.91  -0.82 158.09 with max radius 7.53
+ATOM   1767  CE2 TRP A1274     111.190   5.853 158.603  0.00  0.00           C
+ATOM   1769  CZ2 TRP A1274     111.855   4.898 157.857  0.00  0.00           C
+ATOM   1771  CH2 TRP A1274     111.895   5.061 156.496  0.00  0.00           C
+ATOM   1833  C   PRO A1283     108.645   2.645 153.612  0.00  0.00           C
+ATOM   1838  N   TYR A1284     108.762   1.792 154.616  0.00  0.00           N
+ATOM   1839  CA  TYR A1284     108.339   0.382 154.547  0.00  0.00           C
+ATOM   1840  C   TYR A1284     108.889  -0.341 153.293  0.00  0.00           C
+ATOM   1841  O   TYR A1284     108.119  -0.922 152.538  0.00  0.00           O
+ATOM   1842  CB  TYR A1284     106.821   0.224 154.590  0.00  0.00           C
+ATOM   1843  CG  TYR A1284     106.019   1.129 155.490  0.00  0.00           C
+ATOM   1844  CD1 TYR A1284     105.745   0.790 156.804  0.00  0.00           C
+ATOM   1846  CE1 TYR A1284     104.948   1.585 157.612  0.00  0.00           C
+ATOM   1850  N   PRO A1285     110.212  -0.315 153.083  0.00  0.00           N
+ATOM   1855  CG  PRO A1285     112.519  -0.478 153.420  0.00  0.00           C
+ATOM   1856  CD  PRO A1285     111.271   0.184 153.975  0.00  0.00           C
+ATOM   1857  N   ASP A1286     110.323  -3.090 152.794  0.00  0.00           N
+ATOM   1858  CA  ASP A1286     110.126  -4.531 152.732  0.00  0.00           C
+ATOM   1859  C   ASP A1286     108.662  -4.937 152.866  0.00  0.00           C
+ATOM   1860  O   ASP A1286     108.371  -6.124 152.971  0.00  0.00           O
+ATOM   1861  CB  ASP A1286     110.988  -5.235 153.794  0.00  0.00           C
+ATOM   1862  CG  ASP A1286     112.469  -4.937 153.638  0.00  0.00           C
+ATOM   1864  OD2 ASP A1286     113.195  -4.929 154.663  0.00  0.00           O
+ATOM   1865  N   VAL A1287     107.740  -3.976 152.842  0.00  0.00           N
+ATOM   1869  CB  VAL A1287     105.539  -3.442 153.929  0.00  0.00           C
+ATOM   1871  CG2 VAL A1287     106.192  -3.596 155.306  0.00  0.00           C
+ATOM   1936  CE1 TYR A1295     105.523  -4.284 159.059  0.00  0.00           C
+ATOM   1937  CE2 TYR A1295     105.036  -1.966 159.376  0.00  0.00           C
+ATOM   1938  CZ  TYR A1295     105.890  -3.044 159.510  0.00  0.00           C
+ATOM   1939  OH  TYR A1295     107.136  -2.853 160.067  0.00  0.00           O
+ATOM   1982  C   ARG A1301     106.106   1.669 162.151  0.00  0.00           C
+ATOM   1983  O   ARG A1301     106.976   0.863 162.534  0.00  0.00           O
+ATOM   1991  N   LEU A1302     106.370   2.711 161.377  0.00  0.00           N
+ATOM   1992  CA  LEU A1302     107.733   3.029 160.987  0.00  0.00           C
+ATOM   1993  C   LEU A1302     108.593   3.167 162.258  0.00  0.00           C
+ATOM   1995  CB  LEU A1302     107.733   4.332 160.204  0.00  0.00           C
+ATOM   1996  CG  LEU A1302     107.105   4.242 158.810  0.00  0.00           C
+ATOM   1998  CD2 LEU A1302     107.982   3.497 157.856  0.00  0.00           C
+ATOM   1999  N   LEU A1303     109.815   2.662 162.185  0.00  0.00           N
+ATOM   2000  CA  LEU A1303     110.745   2.685 163.307  0.00  0.00           C
+ATOM   2003  CB  LEU A1303     111.785   1.598 163.120  0.00  0.00           C
+ATOM   2004  CG  LEU A1303     111.210   0.178 163.140  0.00  0.00           C
+ATOM   2005  CD1 LEU A1303     112.313  -0.847 162.972  0.00  0.00           C
+ATOM   2006  CD2 LEU A1303     110.381  -0.115 164.412  0.00  0.00           C

@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  36.34  -9.96 -76.18 with max radius 5.27
+ATOM   4168  N   THR A 559      34.414  -5.241 -74.834  0.00  0.00           N
+ATOM   4172  CB  THR A 559      33.880  -7.018 -73.094  0.00  0.00           C
+ATOM   4173  OG1 THR A 559      35.098  -7.757 -73.005  0.00  0.00           O
+ATOM   4174  CG2 THR A 559      32.879  -7.674 -74.075  0.00  0.00           C
+ATOM   4518  CA  SER A 600      38.834 -10.378 -72.099  0.00  0.00           C
+ATOM   4519  C   SER A 600      40.018 -10.063 -73.003  0.00  0.00           C
+ATOM   4520  O   SER A 600      39.913 -10.236 -74.218  0.00  0.00           O
+ATOM   4521  CB  SER A 600      38.112  -9.093 -71.690  0.00  0.00           C
+ATOM   4522  OG  SER A 600      37.770  -8.255 -72.780  0.00  0.00           O
+ATOM   4545  C   LYS A 603      40.549 -12.614 -77.087  0.00  0.00           C
+ATOM   4547  CB  LYS A 603      39.055 -13.505 -75.190  0.00  0.00           C
+ATOM   4548  CG  LYS A 603      37.906 -13.972 -76.089  0.00  0.00           C
+ATOM   4549  CD  LYS A 603      36.499 -13.660 -75.507  0.00  0.00           C
+ATOM   4550  CE  LYS A 603      35.993 -14.644 -74.456  0.00  0.00           C
+ATOM   4551  NZ  LYS A 603      34.510 -14.605 -74.298  0.00  0.00           N
+ATOM   4552  N   LYS A 604      40.609 -11.273 -76.842  0.00  0.00           N
+ATOM   4553  CA  LYS A 604      40.728 -10.220 -77.849  0.00  0.00           C
+ATOM   4556  CB  LYS A 604      40.634  -8.831 -77.196  0.00  0.00           C
+ATOM   4557  CG  LYS A 604      40.036  -7.756 -78.115  0.00  0.00           C
+ATOM   4559  CE  LYS A 604      38.460  -6.326 -76.687  0.00  0.00           C

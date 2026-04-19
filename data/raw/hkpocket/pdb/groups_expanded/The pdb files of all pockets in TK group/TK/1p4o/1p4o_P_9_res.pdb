@@ -1,0 +1,59 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 53 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  10.94  53.27  33.44 with max radius 6.04
+ATOM    125  CZ2 TRP A 962       7.159  51.099  29.267  0.00  0.00           C
+ATOM    126  CZ3 TRP A 962       5.809  52.481  30.730  0.00  0.00           C
+ATOM    127  CH2 TRP A 962       6.915  51.644  30.502  0.00  0.00           C
+ATOM    599  CA  MET A1024      11.886  56.386  28.802  0.00  0.00           C
+ATOM    600  C   MET A1024      11.171  55.040  28.843  0.00  0.00           C
+ATOM    601  O   MET A1024      11.232  54.334  29.847  0.00  0.00           O
+ATOM    602  CB  MET A1024      11.266  57.335  29.832  0.00  0.00           C
+ATOM    603  CG  MET A1024      11.963  58.681  29.904  0.00  0.00           C
+ATOM    605  CE  MET A1024      12.192  59.103  32.622  0.00  0.00           C
+ATOM    606  N   LYS A1025      10.498  54.674  27.757  0.00  0.00           N
+ATOM    607  CA  LYS A1025       9.799  53.397  27.719  0.00  0.00           C
+ATOM    608  C   LYS A1025      10.772  52.243  27.928  0.00  0.00           C
+ATOM    609  O   LYS A1025      10.386  51.176  28.404  0.00  0.00           O
+ATOM    624  N   PHE A1027      13.437  52.385  29.936  0.00  0.00           N
+ATOM    625  CA  PHE A1027      14.156  52.517  31.201  0.00  0.00           C
+ATOM    626  C   PHE A1027      13.507  51.720  32.325  0.00  0.00           C
+ATOM    627  O   PHE A1027      12.284  51.688  32.455  0.00  0.00           O
+ATOM    628  CB  PHE A1027      14.245  53.983  31.643  0.00  0.00           C
+ATOM    629  CG  PHE A1027      15.027  54.866  30.710  0.00  0.00           C
+ATOM    631  CD2 PHE A1027      14.936  56.249  30.820  0.00  0.00           C
+ATOM    635  N   ASN A1028      14.342  51.083  33.136  0.00  0.00           N
+ATOM    636  CA  ASN A1028      13.880  50.300  34.274  0.00  0.00           C
+ATOM    637  C   ASN A1028      14.948  50.396  35.354  0.00  0.00           C
+ATOM    643  N   CYS A1029      15.006  51.552  36.006  0.00  0.00           N
+ATOM    644  CA  CYS A1029      15.985  51.798  37.055  0.00  0.00           C
+ATOM    645  C   CYS A1029      15.340  52.477  38.253  0.00  0.00           C
+ATOM    646  O   CYS A1029      14.612  53.462  38.113  0.00  0.00           O
+ATOM    647  CB  CYS A1029      17.117  52.677  36.517  0.00  0.00           C
+ATOM    670  CA  VAL A1032      15.488  57.243  37.456  0.00  0.00           C
+ATOM    671  C   VAL A1032      13.966  57.267  37.549  0.00  0.00           C
+ATOM    672  O   VAL A1032      13.331  56.210  37.610  0.00  0.00           O
+ATOM    673  CB  VAL A1032      15.901  56.682  36.079  0.00  0.00           C
+ATOM    674  CG1 VAL A1032      15.418  57.622  34.971  0.00  0.00           C
+ATOM    675  CG2 VAL A1032      17.416  56.526  36.015  0.00  0.00           C
+ATOM    678  C   VAL A1033      11.303  57.781  36.539  0.00  0.00           C
+ATOM    679  O   VAL A1033      11.668  57.955  35.371  0.00  0.00           O
+ATOM    683  N   ARG A1034      10.360  56.910  36.891  0.00  0.00           N
+ATOM    684  CA  ARG A1034       9.713  56.024  35.930  0.00  0.00           C
+ATOM    685  C   ARG A1034       8.508  56.528  35.145  0.00  0.00           C
+ATOM    687  CB  ARG A1034       9.289  54.722  36.624  0.00  0.00           C
+ATOM    688  CG  ARG A1034      10.415  53.762  36.978  0.00  0.00           C
+ATOM    689  CD  ARG A1034       9.840  52.379  37.277  0.00  0.00           C
+ATOM    690  NE  ARG A1034      10.869  51.377  37.547  0.00  0.00           N
+ATOM    691  CZ  ARG A1034      11.572  51.312  38.672  0.00  0.00           C
+ATOM    692  NH1 ARG A1034      12.489  50.366  38.830  0.00  0.00           N
+ATOM    694  N   LEU A1035       8.465  56.145  33.873  0.00  0.00           N
+ATOM    695  CA  LEU A1035       7.339  56.476  33.010  0.00  0.00           C
+ATOM    696  C   LEU A1035       6.305  55.408  33.349  0.00  0.00           C
+ATOM    697  O   LEU A1035       6.645  54.227  33.453  0.00  0.00           O
+ATOM    698  CB  LEU A1035       7.729  56.347  31.537  0.00  0.00           C
+ATOM    699  CG  LEU A1035       6.556  56.361  30.548  0.00  0.00           C
+ATOM    701  CD2 LEU A1035       7.038  55.943  29.164  0.00  0.00           C
+ATOM   1144  CE2 TYR A1095      17.920  52.664  32.850  0.00  0.00           C

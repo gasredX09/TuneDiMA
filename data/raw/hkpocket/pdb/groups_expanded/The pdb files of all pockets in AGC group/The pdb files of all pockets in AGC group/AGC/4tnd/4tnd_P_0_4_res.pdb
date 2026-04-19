@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  31.54 -26.37  33.78 with max radius 5.21
+ATOM     33  O   GLY A  19      28.582 -22.802  31.779  0.00  0.00           O
+ATOM     35  CA  GLY A  20      30.971 -23.686  30.555  0.00  0.00           C
+ATOM     36  C   GLY A  20      32.225 -23.538  31.386  0.00  0.00           C
+ATOM     37  O   GLY A  20      33.153 -24.338  31.277  0.00  0.00           O
+ATOM     38  N   GLY A  21      32.233 -22.527  32.253  0.00  0.00           N
+ATOM     39  CA  GLY A  21      33.479 -21.998  32.766  0.00  0.00           C
+ATOM   1462  CZ  ARG A 190      35.877 -28.572  34.362  0.00  0.00           C
+ATOM   1463  NH1 ARG A 190      36.531 -27.482  34.747  0.00  0.00           N
+ATOM   1464  NH2 ARG A 190      34.650 -28.798  34.815  0.00  0.00           N
+ATOM   1479  CD2 LEU A 192      33.573 -30.272  30.015  0.00  0.00           C
+ATOM   2047  CD1 ILE A 265      30.815 -26.656  28.385  0.00  0.00           C
+ATOM   2058  C   ASN A 267      27.516 -30.364  33.421  0.00  0.00           C
+ATOM   2059  O   ASN A 267      28.316 -30.445  34.348  0.00  0.00           O
+ATOM   2060  CB  ASN A 267      29.280 -29.249  32.018  0.00  0.00           C
+ATOM   2061  CG  ASN A 267      30.498 -30.030  32.507  0.00  0.00           C
+ATOM   2063  ND2 ASN A 267      31.349 -29.357  33.281  0.00  0.00           N
+ATOM   2500  CG  ASP A 321      27.164 -25.194  34.651  0.00  0.00           C
+ATOM   2501  OD1 ASP A 321      27.392 -26.398  34.914  0.00  0.00           O
+ATOM   2502  OD2 ASP A 321      28.004 -24.445  34.107  0.00  0.00           O
+ATOM   3693  CA  PRO A 469      29.337 -28.818  37.598  0.00  0.00           C
+ATOM   3696  CB  PRO A 469      30.148 -27.542  37.316  0.00  0.00           C
+ATOM   3697  CG  PRO A 469      30.387 -26.924  38.668  0.00  0.00           C

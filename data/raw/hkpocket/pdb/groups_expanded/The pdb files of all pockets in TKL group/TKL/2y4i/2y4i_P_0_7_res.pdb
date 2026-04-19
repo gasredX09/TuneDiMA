@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -17.01  62.98   0.96 with max radius 5.87
+ATOM   1090  CA  LYS B 788     -16.910  66.599  -1.479  0.00  0.00           C
+ATOM   1091  C   LYS B 788     -16.008  67.583  -0.751  0.00  0.00           C
+ATOM   1093  CB  LYS B 788     -16.190  65.258  -1.634  0.00  0.00           C
+ATOM   1094  CG  LYS B 788     -17.010  64.162  -2.299  0.00  0.00           C
+ATOM   1095  CD  LYS B 788     -16.396  62.789  -2.037  0.00  0.00           C
+ATOM   1096  CE  LYS B 788     -17.004  61.704  -2.918  0.00  0.00           C
+ATOM   1098  N   SER B 789     -15.683  67.262   0.493  0.00  0.00           N
+ATOM   1099  CA  SER B 789     -14.696  68.022   1.238  0.00  0.00           C
+ATOM   1102  CB  SER B 789     -14.818  67.718   2.726  0.00  0.00           C
+ATOM   1104  N   LYS B 790     -13.186  66.319   0.477  0.00  0.00           N
+ATOM   1108  CB  LYS B 790     -12.043  64.215   0.010  0.00  0.00           C
+ATOM   1109  CG  LYS B 790     -12.723  63.666   1.255  0.00  0.00           C
+ATOM   1110  CD  LYS B 790     -12.439  62.185   1.449  0.00  0.00           C
+ATOM   1111  CE  LYS B 790     -13.170  61.337   0.422  0.00  0.00           C
+ATOM   1112  NZ  LYS B 790     -12.852  59.889   0.573  0.00  0.00           N
+ATOM   1305  C   ASN B 826     -18.890  58.010   2.769  0.00  0.00           C
+ATOM   1308  CG  ASN B 826     -16.153  58.694   1.592  0.00  0.00           C
+ATOM   1309  OD1 ASN B 826     -16.093  58.333   0.415  0.00  0.00           O
+ATOM   1310  ND2 ASN B 826     -15.979  59.959   1.960  0.00  0.00           N
+ATOM   1311  N   GLY B 827     -18.506  59.171   3.288  0.00  0.00           N
+ATOM   1312  CA  GLY B 827     -19.449  60.232   3.584  0.00  0.00           C
+ATOM   1313  C   GLY B 827     -20.074  60.851   2.350  0.00  0.00           C
+ATOM   1314  O   GLY B 827     -20.779  61.854   2.442  0.00  0.00           O
+ATOM   1315  N   TRP B 828     -19.817  60.257   1.192  0.00  0.00           N
+ATOM   1316  CA  TRP B 828     -20.436  60.719  -0.039  0.00  0.00           C
+ATOM   1319  CB  TRP B 828     -20.046  59.819  -1.211  0.00  0.00           C
+ATOM   1321  CD1 TRP B 828     -20.734  61.237  -3.239  0.00  0.00           C
+ATOM   1347  CB  HIS B 831     -22.283  65.191  -0.190  0.00  0.00           C
+ATOM   1348  CG  HIS B 831     -21.108  65.304   0.728  0.00  0.00           C
+ATOM   1349  ND1 HIS B 831     -20.433  66.489   0.933  0.00  0.00           N
+ATOM   1350  CD2 HIS B 831     -20.474  64.376   1.485  0.00  0.00           C
+ATOM   1351  CE1 HIS B 831     -19.441  66.288   1.782  0.00  0.00           C
+ATOM   1352  NE2 HIS B 831     -19.443  65.016   2.131  0.00  0.00           N
+ATOM   1672  CE3 TRP B 872     -17.013  63.762   5.000  0.00  0.00           C
+ATOM   1673  CZ2 TRP B 872     -16.221  61.122   5.646  0.00  0.00           C
+ATOM   1674  CZ3 TRP B 872     -16.141  63.047   4.201  0.00  0.00           C
+ATOM   1675  CH2 TRP B 872     -15.754  61.741   4.530  0.00  0.00           C

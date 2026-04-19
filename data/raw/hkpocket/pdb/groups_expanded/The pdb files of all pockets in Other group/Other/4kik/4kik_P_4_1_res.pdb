@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  42.93  37.96 -47.88 with max radius 5.84
+ATOM    119  CA  GLY A  27      47.049  35.875 -47.507  0.00  0.00           C
+ATOM    120  C   GLY A  27      46.655  35.161 -48.796  0.00  0.00           C
+ATOM    122  N   ASN A  28      45.416  35.460 -49.301  0.00  0.00           N
+ATOM    123  CA  ASN A  28      44.774  34.879 -50.499  0.00  0.00           C
+ATOM    124  C   ASN A  28      45.245  35.390 -51.867  0.00  0.00           C
+ATOM    125  O   ASN A  28      45.588  36.563 -52.057  0.00  0.00           O
+ATOM    126  CB  ASN A  28      43.262  35.129 -50.489  0.00  0.00           C
+ATOM    127  CG  ASN A  28      42.467  34.441 -49.427  0.00  0.00           C
+ATOM    129  ND2 ASN A  28      41.823  35.228 -48.576  0.00  0.00           N
+ATOM    144  CD1 ILE A  30      40.618  37.042 -53.161  0.00  0.00           C
+ATOM    267  C   GLN A  45      46.704  39.851 -49.590  0.00  0.00           C
+ATOM    268  O   GLN A  45      46.421  38.685 -49.314  0.00  0.00           O
+ATOM    269  CB  GLN A  45      45.114  40.787 -51.273  0.00  0.00           C
+ATOM    270  CG  GLN A  45      44.630  41.873 -50.284  0.00  0.00           C
+ATOM    271  CD  GLN A  45      43.277  42.494 -50.545  0.00  0.00           C
+ATOM    273  NE2 GLN A  45      42.232  41.681 -50.610  0.00  0.00           N
+ATOM    274  N   CYS A  46      47.041  40.782 -48.671  0.00  0.00           N
+ATOM    275  CA  CYS A  46      47.016  40.473 -47.260  0.00  0.00           C
+ATOM    276  C   CYS A  46      46.210  41.510 -46.510  0.00  0.00           C
+ATOM    280  N   ARG A  47      45.058  41.086 -45.935  0.00  0.00           N
+ATOM    281  CA  ARG A  47      44.214  41.972 -45.132  0.00  0.00           C
+ATOM    282  C   ARG A  47      44.671  41.869 -43.684  0.00  0.00           C
+ATOM    284  CB  ARG A  47      42.723  41.614 -45.269  0.00  0.00           C
+ATOM    285  CG  ARG A  47      42.189  41.618 -46.689  0.00  0.00           C
+ATOM    286  CD  ARG A  47      40.677  41.717 -46.697  0.00  0.00           C
+ATOM    289  NH1 ARG A  47      39.831  42.623 -49.249  0.00  0.00           N
+ATOM    291  N   GLN A  48      45.491  40.865 -43.406  0.00  0.00           N
+ATOM    292  CA  GLN A  48      46.028  40.571 -42.089  0.00  0.00           C
+ATOM    295  CB  GLN A  48      46.730  39.210 -42.144  0.00  0.00           C

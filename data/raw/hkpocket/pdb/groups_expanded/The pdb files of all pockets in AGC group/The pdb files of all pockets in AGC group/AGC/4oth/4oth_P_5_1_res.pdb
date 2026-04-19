@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -25.26  -3.44  -2.43 with max radius 4.72
+ATOM    490  CG1 ILE A 672     -21.218  -2.195  -0.324  0.00  0.00           C
+ATOM    491  CG2 ILE A 672     -20.048  -2.404  -2.563  0.00  0.00           C
+ATOM    492  CD1 ILE A 672     -22.366  -1.224  -0.686  0.00  0.00           C
+ATOM   1023  C   LYS A 741     -24.922  -8.184  -3.447  0.00  0.00           C
+ATOM   1024  O   LYS A 741     -25.610  -7.461  -2.741  0.00  0.00           O
+ATOM   1030  N   ILE A 742     -24.214  -7.704  -4.452  0.00  0.00           N
+ATOM   1031  CA  ILE A 742     -24.309  -6.283  -4.778  0.00  0.00           C
+ATOM   1032  C   ILE A 742     -25.302  -6.075  -5.900  0.00  0.00           C
+ATOM   1034  CB  ILE A 742     -22.906  -5.671  -5.134  0.00  0.00           C
+ATOM   1035  CG1 ILE A 742     -22.044  -5.626  -3.877  0.00  0.00           C
+ATOM   1036  CG2 ILE A 742     -23.039  -4.283  -5.719  0.00  0.00           C
+ATOM   1038  N   VAL A 743     -26.209  -5.121  -5.732  0.00  0.00           N
+ATOM   1039  CA  VAL A 743     -27.028  -4.689  -6.868  0.00  0.00           C
+ATOM   1040  C   VAL A 743     -26.547  -3.339  -7.406  0.00  0.00           C
+ATOM   1041  O   VAL A 743     -26.349  -2.381  -6.652  0.00  0.00           O
+ATOM   1042  CB  VAL A 743     -28.550  -4.756  -6.611  0.00  0.00           C
+ATOM   1043  CG1 VAL A 743     -28.913  -4.083  -5.299  0.00  0.00           C
+ATOM   1221  O   PHE A 765     -21.927  -0.340  -6.421  0.00  0.00           O
+ATOM   1236  O   LEU A 767     -24.303   1.576  -3.417  0.00  0.00           O
+ATOM   1247  N   LYS A 769     -26.796   0.884  -1.309  0.00  0.00           N
+ATOM   1248  CA  LYS A 769     -28.080   0.482  -1.932  0.00  0.00           C
+ATOM   1251  CB  LYS A 769     -27.893  -0.769  -2.808  0.00  0.00           C
+ATOM   1252  CG  LYS A 769     -26.866  -0.595  -3.937  0.00  0.00           C
+ATOM   1253  CD  LYS A 769     -27.447   0.171  -5.128  0.00  0.00           C
+ATOM   1254  CE  LYS A 769     -26.456   1.128  -5.770  0.00  0.00           C
+ATOM   1255  NZ  LYS A 769     -25.148   0.488  -6.078  0.00  0.00           N

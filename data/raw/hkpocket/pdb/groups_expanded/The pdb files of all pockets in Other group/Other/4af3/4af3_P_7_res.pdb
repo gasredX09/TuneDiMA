@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   5.54 -23.99 -18.58 with max radius 6.61
+ATOM     17  CD1 PHE A  72       3.189 -29.305 -18.030  0.00  0.00           C
+ATOM     18  CD2 PHE A  72       1.942 -28.131 -16.384  0.00  0.00           C
+ATOM     19  CE1 PHE A  72       3.169 -28.186 -18.842  0.00  0.00           C
+ATOM     20  CE2 PHE A  72       1.923 -27.002 -17.191  0.00  0.00           C
+ATOM     21  CZ  PHE A  72       2.536 -27.031 -18.423  0.00  0.00           C
+ATOM     60  CD2 PHE A  77       9.413 -28.756 -18.572  0.00  0.00           C
+ATOM     61  CE1 PHE A  77       7.198 -29.862 -17.381  0.00  0.00           C
+ATOM     62  CE2 PHE A  77       8.462 -27.935 -17.993  0.00  0.00           C
+ATOM     63  CZ  PHE A  77       7.351 -28.490 -17.396  0.00  0.00           C
+ATOM    197  N   GLU A  96       9.973 -26.616 -21.984  0.00  0.00           N
+ATOM    198  CA  GLU A  96       8.706 -27.279 -22.267  0.00  0.00           C
+ATOM    201  CB  GLU A  96       7.551 -26.361 -21.856  0.00  0.00           C
+ATOM    202  CG  GLU A  96       6.202 -27.049 -21.697  0.00  0.00           C
+ATOM    203  CD  GLU A  96       5.428 -27.164 -22.995  0.00  0.00           C
+ATOM    204  OE1 GLU A  96       5.656 -26.326 -23.895  0.00  0.00           O
+ATOM    205  OE2 GLU A  96       4.590 -28.094 -23.101  0.00  0.00           O
+ATOM    228  OG  SER A  99       6.876 -23.686 -23.901  0.00  0.00           O
+ATOM    242  O   PHE A 101      10.862 -23.694 -21.473  0.00  0.00           O
+ATOM    243  CB  PHE A 101       8.765 -21.660 -22.282  0.00  0.00           C
+ATOM    244  CG  PHE A 101       8.808 -20.549 -21.284  0.00  0.00           C
+ATOM    246  CD2 PHE A 101       8.715 -20.810 -19.925  0.00  0.00           C
+ATOM    248  CE2 PHE A 101       8.755 -19.777 -18.999  0.00  0.00           C
+ATOM    262  CB  VAL A 103      11.207 -23.847 -16.569  0.00  0.00           C
+ATOM    263  CG1 VAL A 103       9.990 -23.130 -17.136  0.00  0.00           C
+ATOM    264  CG2 VAL A 103      11.245 -25.312 -17.003  0.00  0.00           C
+ATOM    578  CB  TYR A 141       5.840 -21.742 -13.971  0.00  0.00           C
+ATOM    579  CG  TYR A 141       6.918 -20.798 -14.451  0.00  0.00           C
+ATOM    580  CD1 TYR A 141       6.689 -19.428 -14.526  0.00  0.00           C
+ATOM    581  CD2 TYR A 141       8.174 -21.274 -14.819  0.00  0.00           C
+ATOM    583  CE2 TYR A 141       9.169 -20.414 -15.253  0.00  0.00           C
+ATOM    590  CB  ASN A 142       2.606 -24.961 -12.730  0.00  0.00           C
+ATOM    696  CB  ILE A 153       7.394 -25.675 -13.535  0.00  0.00           C
+ATOM    698  CG2 ILE A 153       7.864 -25.208 -14.903  0.00  0.00           C
+ATOM    699  CD1 ILE A 153       5.434 -27.008 -14.397  0.00  0.00           C

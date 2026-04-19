@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/ocean/projects/cis260039p/mjaju/projects/train_model.py", line 23, in <module>
+    from torch_geometric.data import DataLoader
+ModuleNotFoundError: No module named 'torch_geometric'
+srun: error: w007: task 0: Exited with exit code 1

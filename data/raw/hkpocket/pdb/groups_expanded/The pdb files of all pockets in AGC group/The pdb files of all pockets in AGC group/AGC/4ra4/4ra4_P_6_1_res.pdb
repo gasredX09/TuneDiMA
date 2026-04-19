@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.58 -10.55  12.41 with max radius 5.16
+ATOM    749  CB  MET A 426      23.138 -13.118  15.227  0.00  0.00           C
+ATOM    750  CG  MET A 426      22.423 -13.874  14.141  0.00  0.00           C
+ATOM    751  SD  MET A 426      20.744 -14.346  14.591  0.00  0.00           S
+ATOM    752  CE  MET A 426      20.137 -14.803  13.021  0.00  0.00           C
+ATOM   1071  C   LYS A 465      20.767  -6.658  16.215  0.00  0.00           C
+ATOM   1073  CB  LYS A 465      19.615  -5.797  14.091  0.00  0.00           C
+ATOM   1074  CG  LYS A 465      20.587  -4.957  13.282  0.00  0.00           C
+ATOM   1075  CD  LYS A 465      20.942  -5.640  11.990  0.00  0.00           C
+ATOM   1078  N   LEU A 466      20.407  -7.948  16.396  0.00  0.00           N
+ATOM   1079  CA  LEU A 466      21.284  -8.983  16.952  0.00  0.00           C
+ATOM   1082  CB  LEU A 466      20.653 -10.365  16.851  0.00  0.00           C
+ATOM   1083  CG  LEU A 466      19.445 -10.661  17.738  0.00  0.00           C
+ATOM   1084  CD1 LEU A 466      18.899 -11.996  17.418  0.00  0.00           C
+ATOM   1086  N   ASP A 467      22.814  -8.861  15.031  0.00  0.00           N
+ATOM   1087  CA  ASP A 467      24.087  -8.836  14.271  0.00  0.00           C
+ATOM   1090  CB  ASP A 467      23.823  -8.771  12.750  0.00  0.00           C
+ATOM   1091  CG  ASP A 467      23.834 -10.121  12.050  0.00  0.00           C
+ATOM   1093  OD2 ASP A 467      22.755 -10.541  11.544  0.00  0.00           O
+ATOM   1355  CG2 THR A 501      17.044  -6.484   9.644  0.00  0.00           C
+ATOM   1377  CD1 TYR A 504      15.831  -6.177  13.253  0.00  0.00           C
+ATOM   1379  CE1 TYR A 504      16.431  -7.398  13.547  0.00  0.00           C
+ATOM   1381  CZ  TYR A 504      16.666  -7.743  14.867  0.00  0.00           C
+ATOM   1382  OH  TYR A 504      17.333  -8.888  15.173  0.00  0.00           O
+ATOM   1597  CD  GLU A 530      15.157 -10.896  16.726  0.00  0.00           C
+ATOM   1598  OE1 GLU A 530      16.063 -10.156  17.182  0.00  0.00           O
+ATOM   1599  OE2 GLU A 530      14.926 -11.029  15.503  0.00  0.00           O

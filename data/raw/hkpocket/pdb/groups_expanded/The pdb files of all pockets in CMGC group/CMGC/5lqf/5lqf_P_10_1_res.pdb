@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   8.08 -57.97 179.46 with max radius 5.86
+ATOM   1458  CA  THR A 183      11.190 -58.224 184.265  0.00  0.00           C
+ATOM   1459  C   THR A 183      11.647 -57.613 182.953  0.00  0.00           C
+ATOM   1460  O   THR A 183      12.629 -58.040 182.412  0.00  0.00           O
+ATOM   1461  CB  THR A 183      10.110 -59.331 183.971  0.00  0.00           C
+ATOM   1462  OG1 THR A 183       9.004 -58.787 183.305  0.00  0.00           O
+ATOM   1464  N   PRO A 184      11.030 -56.507 182.499  0.00  0.00           N
+ATOM   1465  CA  PRO A 184      11.567 -55.945 181.239  0.00  0.00           C
+ATOM   1468  CB  PRO A 184      10.597 -54.790 180.959  0.00  0.00           C
+ATOM   1469  CG  PRO A 184       9.331 -55.288 181.578  0.00  0.00           C
+ATOM   1470  CD  PRO A 184       9.825 -55.750 182.881  0.00  0.00           C
+ATOM   1490  CB  ILE A 187      13.235 -58.615 178.000  0.00  0.00           C
+ATOM   1491  CG1 ILE A 187      12.451 -59.633 178.894  0.00  0.00           C
+ATOM   1493  CD1 ILE A 187      13.054 -61.041 178.967  0.00  0.00           C
+ATOM   2179  O   PRO A 272       7.302 -53.547 179.241  0.00  0.00           O
+ATOM   2186  O   ALA A 273       3.957 -54.138 177.841  0.00  0.00           O
+ATOM   2198  CA  ARG A 275       8.606 -54.814 175.314  0.00  0.00           C
+ATOM   2199  C   ARG A 275       8.172 -56.281 175.479  0.00  0.00           C
+ATOM   2200  O   ARG A 275       7.312 -56.618 176.316  0.00  0.00           O
+ATOM   2201  CB  ARG A 275       9.763 -54.426 176.235  0.00  0.00           C
+ATOM   2202  CG  ARG A 275      11.097 -55.058 175.937  0.00  0.00           C
+ATOM   2203  CD  ARG A 275      12.141 -54.655 176.949  0.00  0.00           C
+ATOM   2208  N   ILE A 276       8.725 -57.146 174.641  0.00  0.00           N
+ATOM   2209  CA  ILE A 276       8.252 -58.522 174.662  0.00  0.00           C
+ATOM   2210  C   ILE A 276       8.706 -59.189 175.975  0.00  0.00           C
+ATOM   2211  O   ILE A 276       9.783 -58.868 176.529  0.00  0.00           O
+ATOM   2216  N   SER A 277       7.908 -60.128 176.458  0.00  0.00           N
+ATOM   2217  CA  SER A 277       8.264 -60.892 177.644  0.00  0.00           C
+ATOM   2218  C   SER A 277       9.141 -62.033 177.240  0.00  0.00           C
+ATOM   2220  CB  SER A 277       7.036 -61.527 178.324  0.00  0.00           C
+ATOM   2222  N   GLY A 278       9.897 -62.545 178.182  0.00  0.00           N

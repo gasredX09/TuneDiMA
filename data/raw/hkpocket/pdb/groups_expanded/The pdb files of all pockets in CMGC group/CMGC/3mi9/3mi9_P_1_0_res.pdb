@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  39.81  18.05  58.54 with max radius 6.60
+ATOM   1482  CB  GLU A 198      45.453  16.736  54.375  0.00  0.00           C
+ATOM   1521  CD  GLU A 203      40.301  17.837  53.415  0.00  0.00           C
+ATOM   1523  OE2 GLU A 203      40.390  17.690  54.655  0.00  0.00           O
+ATOM   1906  CD1 TRP A 253      44.345  17.354  61.533  0.00  0.00           C
+ATOM   1908  NE1 TRP A 253      43.984  17.322  60.209  0.00  0.00           N
+ATOM   1909  CE2 TRP A 253      44.772  16.414  59.553  0.00  0.00           C
+ATOM   1911  CZ2 TRP A 253      44.780  16.031  58.207  0.00  0.00           C
+ATOM   1917  O   PRO A 254      41.203  18.367  63.496  0.00  0.00           O
+ATOM   1922  CA  ASN A 255      39.276  16.384  63.915  0.00  0.00           C
+ATOM   1923  C   ASN A 255      39.748  15.515  62.767  0.00  0.00           C
+ATOM   1924  O   ASN A 255      38.998  15.290  61.817  0.00  0.00           O
+ATOM   1925  CB  ASN A 255      38.548  17.609  63.360  0.00  0.00           C
+ATOM   1926  CG  ASN A 255      37.053  17.548  63.593  0.00  0.00           C
+ATOM   1927  OD1 ASN A 255      36.309  18.429  63.164  0.00  0.00           O
+ATOM   1929  N   VAL A 256      40.983  15.027  62.842  0.00  0.00           N
+ATOM   1930  CA  VAL A 256      41.488  14.160  61.786  0.00  0.00           C
+ATOM   1931  C   VAL A 256      40.603  12.916  61.794  0.00  0.00           C
+ATOM   1932  O   VAL A 256      40.587  12.129  60.843  0.00  0.00           O
+ATOM   1944  N   ASN A 258      37.256  12.645  61.677  0.00  0.00           N
+ATOM   1945  CA  ASN A 258      36.221  12.669  60.657  0.00  0.00           C
+ATOM   1946  C   ASN A 258      36.574  12.071  59.302  0.00  0.00           C
+ATOM   1947  O   ASN A 258      35.686  11.619  58.576  0.00  0.00           O
+ATOM   1948  CB  ASN A 258      35.718  14.103  60.467  0.00  0.00           C
+ATOM   1949  CG  ASN A 258      34.982  14.628  61.688  0.00  0.00           C
+ATOM   1952  N   TYR A 259      37.850  12.066  58.937  0.00  0.00           N
+ATOM   1953  CA  TYR A 259      38.206  11.494  57.645  0.00  0.00           C
+ATOM   1956  CB  TYR A 259      39.722  11.485  57.449  0.00  0.00           C
+ATOM   1957  CG  TYR A 259      40.301  12.834  57.094  0.00  0.00           C
+ATOM   1958  CD1 TYR A 259      39.939  13.483  55.913  0.00  0.00           C
+ATOM   1959  CD2 TYR A 259      41.220  13.459  57.934  0.00  0.00           C
+ATOM   1960  CE1 TYR A 259      40.482  14.725  55.578  0.00  0.00           C
+ATOM   1961  CE2 TYR A 259      41.768  14.700  57.611  0.00  0.00           C
+ATOM   1962  CZ  TYR A 259      41.398  15.329  56.434  0.00  0.00           C
+ATOM   1963  OH  TYR A 259      41.948  16.558  56.125  0.00  0.00           O
+ATOM   2299  OD1 ASP A 299      45.250  20.280  60.760  0.00  0.00           O
+ATOM   2306  CG  PRO A 300      45.759  20.242  56.728  0.00  0.00           C
+ATOM   2307  CD  PRO A 300      46.587  19.359  57.623  0.00  0.00           C

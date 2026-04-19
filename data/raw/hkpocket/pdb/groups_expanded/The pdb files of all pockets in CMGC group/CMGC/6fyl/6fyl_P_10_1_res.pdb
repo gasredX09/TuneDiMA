@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -13.25  93.33  34.92 with max radius 5.19
+ATOM    581  CG  LYS A 214      -9.093  92.967  37.969  0.00  0.00           C
+ATOM    582  CD  LYS A 214     -10.235  93.510  38.818  0.00  0.00           C
+ATOM    583  CE  LYS A 214     -11.546  92.909  38.416  0.00  0.00           C
+ATOM    584  NZ  LYS A 214     -12.615  93.415  39.317  0.00  0.00           N
+ATOM    615  CG  LYS A 218     -10.988  88.747  37.116  0.00  0.00           C
+ATOM    617  CE  LYS A 218     -13.374  89.315  37.607  0.00  0.00           C
+ATOM    618  NZ  LYS A 218     -14.797  88.874  37.525  0.00  0.00           N
+ATOM   1168  O   ASP A 283     -13.206  90.742  30.325  0.00  0.00           O
+ATOM   1174  CA  ASN A 284     -11.259  91.882  31.927  0.00  0.00           C
+ATOM   1175  C   ASN A 284     -11.071  93.389  31.921  0.00  0.00           C
+ATOM   1176  O   ASN A 284     -10.648  93.975  32.919  0.00  0.00           O
+ATOM   1177  CB  ASN A 284     -10.387  91.191  32.975  0.00  0.00           C
+ATOM   1178  CG  ASN A 284     -10.908  89.818  33.314  0.00  0.00           C
+ATOM   1179  OD1 ASN A 284     -11.931  89.688  33.987  0.00  0.00           O
+ATOM   1181  N   LYS A 285     -11.400  94.004  30.784  0.00  0.00           N
+ATOM   1185  CB  LYS A 285     -12.468  96.130  31.487  0.00  0.00           C
+ATOM   1186  CG  LYS A 285     -13.862  95.548  31.286  0.00  0.00           C
+ATOM   1187  CD  LYS A 285     -14.867  96.210  32.209  0.00  0.00           C
+ATOM   1188  CE  LYS A 285     -16.291  96.026  31.697  0.00  0.00           C
+ATOM   1189  NZ  LYS A 285     -17.057  95.060  32.532  0.00  0.00           N

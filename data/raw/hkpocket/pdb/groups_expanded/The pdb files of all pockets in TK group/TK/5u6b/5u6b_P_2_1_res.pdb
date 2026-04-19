@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  13.74   5.06  26.71 with max radius 4.25
+ATOM    853  CG  ARG A 636      18.994   3.434  27.380  0.00  0.00           C
+ATOM    854  CD  ARG A 636      18.378   2.088  27.649  0.00  0.00           C
+ATOM    855  NE  ARG A 636      17.328   2.145  28.665  0.00  0.00           N
+ATOM    856  CZ  ARG A 636      16.618   1.095  29.066  0.00  0.00           C
+ATOM    857  NH1 ARG A 636      15.684   1.235  29.991  0.00  0.00           N
+ATOM   1576  C   ALA A 743      11.105   2.770  23.138  0.00  0.00           C
+ATOM   1577  O   ALA A 743      11.543   3.880  23.451  0.00  0.00           O
+ATOM   1579  N   THR A 744      11.074   1.723  23.988  0.00  0.00           N
+ATOM   1580  CA  THR A 744      11.536   1.786  25.374  0.00  0.00           C
+ATOM   1581  C   THR A 744      13.068   1.643  25.494  0.00  0.00           C
+ATOM   1582  O   THR A 744      13.608   1.843  26.586  0.00  0.00           O
+ATOM   1583  CB  THR A 744      10.835   0.731  26.223  0.00  0.00           C
+ATOM   1585  CG2 THR A 744       9.350   0.979  26.396  0.00  0.00           C
+ATOM   1586  N   ARG A 745      13.754   1.314  24.375  0.00  0.00           N
+ATOM   1587  CA  ARG A 745      15.205   1.093  24.269  0.00  0.00           C
+ATOM   1590  CB  ARG A 745      16.036   2.361  24.565  0.00  0.00           C
+ATOM   1591  CG  ARG A 745      16.104   3.359  23.421  0.00  0.00           C
+ATOM   1592  CD  ARG A 745      16.468   4.750  23.912  0.00  0.00           C
+ATOM   1594  CZ  ARG A 745      18.590   5.667  24.788  0.00  0.00           C
+ATOM   1595  NH1 ARG A 745      17.955   6.252  25.800  0.00  0.00           N
+ATOM   1609  NE2 GLN A 747      12.332   2.104  29.588  0.00  0.00           N
+ATOM   1820  CG  ASP A 773      10.593   7.633  25.459  0.00  0.00           C
+ATOM   1821  OD1 ASP A 773       9.943   6.814  26.160  0.00  0.00           O
+ATOM   1822  OD2 ASP A 773      11.520   7.290  24.682  0.00  0.00           O

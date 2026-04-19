@@ -1,0 +1,59 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 53 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  11.48 -37.63 171.66 with max radius 8.39
+ATOM   1766  CA  GLY A 221      15.096 -42.558 168.553  0.00  0.00           C
+ATOM   1767  C   GLY A 221      15.151 -41.978 169.954  0.00  0.00           C
+ATOM   1768  O   GLY A 221      15.188 -42.711 170.924  0.00  0.00           O
+ATOM   1769  N   THR A 222      15.219 -40.663 170.071  0.00  0.00           N
+ATOM   1770  CA  THR A 222      15.117 -40.063 171.391  0.00  0.00           C
+ATOM   1771  C   THR A 222      13.636 -40.196 171.851  0.00  0.00           C
+ATOM   1772  O   THR A 222      12.774 -39.702 171.141  0.00  0.00           O
+ATOM   1773  CB  THR A 222      15.543 -38.592 171.380  0.00  0.00           C
+ATOM   1775  CG2 THR A 222      15.671 -38.043 172.835  0.00  0.00           C
+ATOM   1776  N   PRO A 223      13.363 -40.887 173.007  0.00  0.00           N
+ATOM   1777  CA  PRO A 223      12.029 -41.098 173.544  0.00  0.00           C
+ATOM   1778  C   PRO A 223      11.305 -39.879 174.108  0.00  0.00           C
+ATOM   1779  O   PRO A 223      11.902 -39.033 174.748  0.00  0.00           O
+ATOM   1780  CB  PRO A 223      12.292 -42.038 174.721  0.00  0.00           C
+ATOM   1783  N   ASN A 224       9.998 -39.870 173.903  0.00  0.00           N
+ATOM   1784  CA  ASN A 224       9.085 -38.964 174.615  0.00  0.00           C
+ATOM   1787  CB  ASN A 224       8.766 -37.798 173.725  0.00  0.00           C
+ATOM   1788  CG  ASN A 224       8.036 -38.208 172.478  0.00  0.00           C
+ATOM   1789  OD1 ASN A 224       7.545 -39.311 172.355  0.00  0.00           O
+ATOM   1790  ND2 ASN A 224       7.984 -37.313 171.536  0.00  0.00           N
+ATOM   1812  CB  VAL A 227       7.693 -44.010 171.227  0.00  0.00           C
+ATOM   1813  CG1 VAL A 227       7.291 -43.580 169.824  0.00  0.00           C
+ATOM   1814  CG2 VAL A 227       8.954 -43.279 171.691  0.00  0.00           C
+ATOM   1857  CG  GLU A 232       8.361 -36.759 178.324  0.00  0.00           C
+ATOM   1858  CD  GLU A 232       7.542 -35.852 177.413  0.00  0.00           C
+ATOM   1859  OE1 GLU A 232       7.423 -34.638 177.651  0.00  0.00           O
+ATOM   1860  OE2 GLU A 232       7.007 -36.376 176.426  0.00  0.00           O
+ATOM   1900  CE1 TYR A 237      11.900 -35.799 178.553  0.00  0.00           C
+ATOM   1901  CE2 TYR A 237      12.399 -38.116 178.011  0.00  0.00           C
+ATOM   1902  CZ  TYR A 237      11.960 -36.879 177.651  0.00  0.00           C
+ATOM   1903  OH  TYR A 237      11.566 -36.809 176.374  0.00  0.00           O
+ATOM   1906  C   LYS A 238      14.725 -33.539 178.945  0.00  0.00           C
+ATOM   1907  O   LYS A 238      14.872 -34.343 177.988  0.00  0.00           O
+ATOM   1914  CA  ASN A 239      13.487 -31.987 177.536  0.00  0.00           C
+ATOM   1915  C   ASN A 239      14.582 -31.574 176.541  0.00  0.00           C
+ATOM   1916  O   ASN A 239      14.269 -31.404 175.382  0.00  0.00           O
+ATOM   1917  CB  ASN A 239      12.597 -30.717 177.588  0.00  0.00           C
+ATOM   1928  N   PHE A 241      17.410 -33.163 175.759  0.00  0.00           N
+ATOM   1929  CA  PHE A 241      18.245 -34.253 175.200  0.00  0.00           C
+ATOM   1930  C   PHE A 241      18.398 -34.039 173.688  0.00  0.00           C
+ATOM   1931  O   PHE A 241      17.614 -33.337 173.107  0.00  0.00           O
+ATOM   1932  CB  PHE A 241      17.634 -35.662 175.361  0.00  0.00           C
+ATOM   1933  CG  PHE A 241      17.703 -36.295 176.744  0.00  0.00           C
+ATOM   1935  CD2 PHE A 241      16.726 -37.218 177.084  0.00  0.00           C
+ATOM   1937  CE2 PHE A 241      16.747 -37.881 178.300  0.00  0.00           C
+ATOM   1942  O   PRO A 242      17.677 -36.262 171.547  0.00  0.00           O
+ATOM   1952  CD  LYS A 243      14.719 -33.462 170.919  0.00  0.00           C
+ATOM   1953  CE  LYS A 243      14.639 -32.242 171.826  0.00  0.00           C
+ATOM   1954  NZ  LYS A 243      15.013 -32.607 173.214  0.00  0.00           N
+ATOM   1970  CA  LYS A 245      14.258 -40.166 165.195  0.00  0.00           C
+ATOM   1983  CG  PRO A 246      12.144 -43.863 166.079  0.00  0.00           C
+ATOM   1984  CD  PRO A 246      12.428 -42.507 165.523  0.00  0.00           C
+ATOM   2165  CE2 TYR A 270      13.744 -45.229 172.098  0.00  0.00           C

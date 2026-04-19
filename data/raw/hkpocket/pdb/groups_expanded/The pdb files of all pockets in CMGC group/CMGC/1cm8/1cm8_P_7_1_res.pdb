@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  47.87  82.28  30.23 with max radius 5.82
+ATOM   1474  C   VAL A 196      44.997  77.345  28.104  0.00  0.00           C
+ATOM   1475  O   VAL A 196      46.200  77.606  27.997  0.00  0.00           O
+ATOM   1480  CA  ILE A 197      44.633  79.150  29.680  0.00  0.00           C
+ATOM   1481  C   ILE A 197      44.757  78.862  31.169  0.00  0.00           C
+ATOM   1482  O   ILE A 197      45.778  79.186  31.778  0.00  0.00           O
+ATOM   1483  CB  ILE A 197      43.753  80.354  29.402  0.00  0.00           C
+ATOM   1484  CG1 ILE A 197      43.949  80.746  27.941  0.00  0.00           C
+ATOM   1485  CG2 ILE A 197      44.118  81.523  30.327  0.00  0.00           C
+ATOM   1486  CD1 ILE A 197      43.114  81.880  27.533  0.00  0.00           C
+ATOM   1504  CA  TRP A 200      48.861  76.824  30.496  0.00  0.00           C
+ATOM   1507  CB  TRP A 200      49.623  78.037  31.019  0.00  0.00           C
+ATOM   1508  CG  TRP A 200      50.569  78.629  30.051  0.00  0.00           C
+ATOM   1509  CD1 TRP A 200      51.938  78.625  30.125  0.00  0.00           C
+ATOM   1510  CD2 TRP A 200      50.228  79.384  28.885  0.00  0.00           C
+ATOM   1511  NE1 TRP A 200      52.472  79.347  29.070  0.00  0.00           N
+ATOM   1512  CE2 TRP A 200      51.444  79.822  28.298  0.00  0.00           C
+ATOM   1513  CE3 TRP A 200      49.018  79.740  28.280  0.00  0.00           C
+ATOM   1514  CZ2 TRP A 200      51.474  80.597  27.138  0.00  0.00           C
+ATOM   1515  CZ3 TRP A 200      49.051  80.512  27.127  0.00  0.00           C
+ATOM   1516  CH2 TRP A 200      50.274  80.934  26.567  0.00  0.00           C
+ATOM   1749  CD2 HIS A 231      44.715  85.340  27.539  0.00  0.00           C
+ATOM   1751  NE2 HIS A 231      45.655  86.318  27.754  0.00  0.00           N
+ATOM   1759  CD2 LEU A 232      43.330  85.839  31.029  0.00  0.00           C
+ATOM   1936  CB  SER A 255      48.452  80.600  34.715  0.00  0.00           C
+ATOM   1937  OG  SER A 255      48.798  81.571  33.732  0.00  0.00           O
+ATOM   1950  CB  GLU A 257      47.975  85.815  33.237  0.00  0.00           C
+ATOM   1951  CG  GLU A 257      47.138  86.692  32.312  0.00  0.00           C
+ATOM   1952  CD  GLU A 257      47.393  86.421  30.838  0.00  0.00           C
+ATOM   1953  OE1 GLU A 257      46.896  85.392  30.329  0.00  0.00           O
+ATOM   1955  N   ALA A 258      46.047  83.912  34.746  0.00  0.00           N
+ATOM   1956  CA  ALA A 258      44.773  83.220  34.848  0.00  0.00           C
+ATOM   1959  CB  ALA A 258      44.947  81.778  34.472  0.00  0.00           C

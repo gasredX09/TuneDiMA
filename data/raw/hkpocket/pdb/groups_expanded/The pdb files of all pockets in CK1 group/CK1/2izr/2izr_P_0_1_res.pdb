@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   3.13  28.84  33.91 with max radius 7.65
+ATOM    651  CG  LEU A 118       8.943  31.995  33.106  0.00  0.00           C
+ATOM    652  CD1 LEU A 118       9.608  31.659  31.801  0.00  0.00           C
+ATOM    653  CD2 LEU A 118       9.233  30.919  34.134  0.00  0.00           C
+ATOM    656  C   LEU A 119       4.822  33.333  31.292  0.00  0.00           C
+ATOM    657  O   LEU A 119       5.530  32.324  31.305  0.00  0.00           O
+ATOM    663  CA  GLY A 120       2.783  32.061  30.828  0.00  0.00           C
+ATOM    664  C   GLY A 120       2.696  31.824  29.334  0.00  0.00           C
+ATOM    666  N   PRO A 121       1.798  30.905  28.930  0.00  0.00           N
+ATOM    671  CG  PRO A 121       0.364  29.087  28.884  0.00  0.00           C
+ATOM    672  CD  PRO A 121       0.950  30.078  29.800  0.00  0.00           C
+ATOM   1089  CG1 ILE A 170      -1.216  33.058  30.236  0.00  0.00           C
+ATOM   1091  CD1 ILE A 170      -2.223  32.100  30.896  0.00  0.00           C
+ATOM   1094  C   GLY A 171       1.326  34.548  33.746  0.00  0.00           C
+ATOM   1095  O   GLY A 171       0.702  33.590  33.261  0.00  0.00           O
+ATOM   1097  CA  ARG A 172       2.218  33.295  35.660  0.00  0.00           C
+ATOM   1100  CB  ARG A 172       3.650  33.000  36.093  0.00  0.00           C
+ATOM   1101  CG  ARG A 172       4.644  32.740  35.023  0.00  0.00           C
+ATOM   1102  CD  ARG A 172       6.044  32.758  35.612  0.00  0.00           C
+ATOM   1103  NE  ARG A 172       6.287  31.656  36.538  0.00  0.00           N
+ATOM   1104  CZ  ARG A 172       7.129  31.708  37.573  0.00  0.00           C
+ATOM   1106  NH2 ARG A 172       7.289  30.633  38.332  0.00  0.00           N
+ATOM   1112  CG  PRO A 173      -0.215  30.546  37.975  0.00  0.00           C
+ATOM   1113  CD  PRO A 173       0.676  31.235  36.988  0.00  0.00           C
+ATOM   1142  CB  GLN A 178      -2.248  33.950  35.738  0.00  0.00           C
+ATOM   2486  CA  LEU A 330      -1.441  24.895  30.602  0.00  0.00           C
+ATOM   2487  C   LEU A 330       0.008  24.395  30.544  0.00  0.00           C
+ATOM   2488  O   LEU A 330       0.527  23.875  31.537  0.00  0.00           O
+ATOM   2489  CB  LEU A 330      -1.457  26.310  31.195  0.00  0.00           C
+ATOM   2490  CG  LEU A 330      -2.805  26.959  31.524  0.00  0.00           C
+ATOM   2491  CD1 LEU A 330      -2.583  28.405  31.935  0.00  0.00           C
+ATOM   2493  N   PRO A 331       0.676  24.568  29.388  0.00  0.00           N
+ATOM   2494  CA  PRO A 331       2.080  24.163  29.269  0.00  0.00           C
+ATOM   2495  C   PRO A 331       2.983  25.073  30.100  0.00  0.00           C
+ATOM   2496  O   PRO A 331       2.808  26.295  30.075  0.00  0.00           O
+ATOM   2500  N   THR A 332       3.931  24.482  30.827  0.00  0.00           N
+ATOM   2501  CA  THR A 332       4.785  25.237  31.744  0.00  0.00           C
+ATOM   2502  C   THR A 332       6.219  24.708  31.746  0.00  0.00           C
+ATOM   2504  CB  THR A 332       4.249  25.171  33.191  0.00  0.00           C
+ATOM   2505  N   PRO A 333       7.212  25.615  31.644  0.00  0.00           N
+ATOM   2506  CA  PRO A 333       8.610  25.202  31.790  0.00  0.00           C
+ATOM   2507  C   PRO A 333       8.986  24.817  33.233  0.00  0.00           C
+ATOM   2510  CG  PRO A 333       8.477  27.585  31.558  0.00  0.00           C
+ATOM   2511  CD  PRO A 333       7.085  27.065  31.386  0.00  0.00           C
+ATOM   2512  N   VAL A 334       8.243  25.348  34.207  0.00  0.00           N
+ATOM   2513  CA  VAL A 334       8.489  25.121  35.637  0.00  0.00           C
+ATOM   2514  C   VAL A 334       9.572  26.063  36.151  0.00  0.00           C
+ATOM   2515  O   VAL A 334       9.425  27.287  36.073  0.00  0.00           O

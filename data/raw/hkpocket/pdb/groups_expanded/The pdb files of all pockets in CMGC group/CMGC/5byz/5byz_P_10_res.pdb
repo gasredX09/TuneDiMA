@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   5.27 -44.74 -23.22 with max radius 6.89
+ATOM    290  N   GLN A  80      -0.260 -45.902 -26.245  0.00  0.00           N
+ATOM    291  CA  GLN A  80      -0.372 -46.107 -24.799  0.00  0.00           C
+ATOM    292  C   GLN A  80      -0.352 -44.789 -24.033  0.00  0.00           C
+ATOM    293  O   GLN A  80       0.430 -43.884 -24.348  0.00  0.00           O
+ATOM    294  CB  GLN A  80       0.784 -46.965 -24.286  0.00  0.00           C
+ATOM    295  CG  GLN A  80       0.888 -48.325 -24.908  0.00  0.00           C
+ATOM    296  CD  GLN A  80       1.766 -49.255 -24.093  0.00  0.00           C
+ATOM    298  NE2 GLN A  80       3.074 -49.028 -24.139  0.00  0.00           N
+ATOM    794  CA  ASP A 138       2.281 -40.024 -20.447  0.00  0.00           C
+ATOM    795  C   ASP A 138       2.161 -41.306 -19.639  0.00  0.00           C
+ATOM    797  CB  ASP A 138       3.704 -39.495 -20.191  0.00  0.00           C
+ATOM    799  OD1 ASP A 138       3.922 -38.078 -22.087  0.00  0.00           O
+ATOM    801  N   LEU A 139       2.263 -42.471 -20.279  0.00  0.00           N
+ATOM    802  CA  LEU A 139       2.292 -43.730 -19.536  0.00  0.00           C
+ATOM    803  C   LEU A 139       3.681 -43.928 -18.942  0.00  0.00           C
+ATOM    804  O   LEU A 139       4.676 -43.960 -19.690  0.00  0.00           O
+ATOM    805  CB  LEU A 139       1.967 -44.936 -20.425  0.00  0.00           C
+ATOM    806  CG  LEU A 139       1.971 -46.305 -19.717  0.00  0.00           C
+ATOM    808  CD2 LEU A 139       1.619 -47.424 -20.707  0.00  0.00           C
+ATOM    815  SD  MET A 140       6.657 -41.718 -18.000  0.00  0.00           S
+ATOM    823  CD  GLU A 141       5.813 -48.354 -19.309  0.00  0.00           C
+ATOM    824  OE1 GLU A 141       6.593 -47.435 -18.996  0.00  0.00           O
+ATOM    825  OE2 GLU A 141       5.415 -48.524 -20.479  0.00  0.00           O
+ATOM   1272  CB  ASN A 191       8.379 -44.764 -19.331  0.00  0.00           C
+ATOM   1273  CG  ASN A 191       9.344 -43.968 -20.194  0.00  0.00           C
+ATOM   1275  ND2 ASN A 191       8.816 -42.943 -20.869  0.00  0.00           N
+ATOM   1276  N   GLU A 192       9.456 -47.430 -19.780  0.00  0.00           N
+ATOM   1277  CA  GLU A 192      10.204 -48.490 -20.477  0.00  0.00           C
+ATOM   1280  CB  GLU A 192       9.240 -49.395 -21.252  0.00  0.00           C
+ATOM   1281  CG  GLU A 192       8.549 -50.409 -20.360  0.00  0.00           C
+ATOM   1291  OD1 ASN A 193      10.147 -44.751 -24.843  0.00  0.00           O

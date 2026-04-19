@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -11.70 -15.67  11.08 with max radius 5.53
+ATOM    157  N   GLY A  20      -8.358 -18.445   6.995  0.00  0.00           N
+ATOM    158  CA  GLY A  20      -8.207 -18.417   8.446  0.00  0.00           C
+ATOM    159  C   GLY A  20      -8.987 -19.516   9.136  0.00  0.00           C
+ATOM    160  O   GLY A  20      -9.995 -19.254   9.793  0.00  0.00           O
+ATOM    161  N   ALA A  23     -12.116 -17.281   7.915  0.00  0.00           N
+ATOM    162  CA  ALA A  23     -12.433 -16.440   6.760  0.00  0.00           C
+ATOM    163  C   ALA A  23     -11.514 -16.694   5.564  0.00  0.00           C
+ATOM    164  O   ALA A  23     -10.309 -16.880   5.728  0.00  0.00           O
+ATOM    165  CB  ALA A  23     -12.373 -14.971   7.147  0.00  0.00           C
+ATOM    291  CE  LYS A  40     -11.393 -11.376   8.038  0.00  0.00           C
+ATOM    292  NZ  LYS A  40     -11.106 -10.474   9.195  0.00  0.00           N
+ATOM    308  CE  MET A  42     -14.794 -12.896   9.781  0.00  0.00           C
+ATOM    348  CD2 LEU A  47     -17.182 -16.071  11.636  0.00  0.00           C
+ATOM   1217  C   PHE A 151      -8.091 -11.875  11.699  0.00  0.00           C
+ATOM   1218  O   PHE A 151      -9.131 -12.329  11.216  0.00  0.00           O
+ATOM   1222  CD2 PHE A 151      -6.585 -14.049   8.996  0.00  0.00           C
+ATOM   1223  CE1 PHE A 151      -8.001 -12.894   6.927  0.00  0.00           C
+ATOM   1224  CE2 PHE A 151      -7.107 -14.838   7.967  0.00  0.00           C
+ATOM   1225  CZ  PHE A 151      -7.827 -14.256   6.954  0.00  0.00           C
+ATOM   1227  CA  GLY A 152      -8.416 -12.920  13.920  0.00  0.00           C
+ATOM   1228  C   GLY A 152      -9.408 -12.303  14.894  0.00  0.00           C
+ATOM   1235  CG  LEU A 153     -12.664 -11.917  13.923  0.00  0.00           C
+ATOM   1236  CD1 LEU A 153     -12.895 -13.391  14.249  0.00  0.00           C
+ATOM   1237  CD2 LEU A 153     -13.765 -11.322  13.118  0.00  0.00           C

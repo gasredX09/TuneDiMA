@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.65 -10.34  -5.17 with max radius 5.67
+ATOM     17  CD  GLN A   2      -2.797  -7.064  -8.138  0.00  0.00           C
+ATOM     18  OE1 GLN A   2      -3.183  -7.941  -7.389  0.00  0.00           O
+ATOM     19  NE2 GLN A   2      -1.690  -7.192  -8.889  0.00  0.00           N
+ATOM     94  CD2 LEU A  11      -0.796  -4.863  -5.400  0.00  0.00           C
+ATOM    159  N   ASN A  22       1.170 -12.549  -0.504  0.00  0.00           N
+ATOM    160  CA  ASN A  22       1.154 -11.415   0.414  0.00  0.00           C
+ATOM    163  CB  ASN A  22       1.695 -10.170  -0.272  0.00  0.00           C
+ATOM    164  CG  ASN A  22       3.139 -10.355  -0.714  0.00  0.00           C
+ATOM    166  ND2 ASN A  22       3.448  -9.922  -1.925  0.00  0.00           N
+ATOM    182  CE1 PHE A  24      -1.061  -8.176  -1.880  0.00  0.00           C
+ATOM    184  CZ  PHE A  24      -0.036  -7.246  -2.130  0.00  0.00           C
+ATOM    300  CA  VAL A  39      -3.081 -12.673  -2.863  0.00  0.00           C
+ATOM    301  C   VAL A  39      -1.835 -13.462  -3.214  0.00  0.00           C
+ATOM    302  O   VAL A  39      -0.708 -13.096  -2.800  0.00  0.00           O
+ATOM    303  CB  VAL A  39      -2.976 -11.219  -3.407  0.00  0.00           C
+ATOM    304  CG1 VAL A  39      -2.871 -11.218  -4.974  0.00  0.00           C
+ATOM    306  N   PHE A  40      -2.037 -14.516  -4.007  0.00  0.00           N
+ATOM    307  CA  PHE A  40      -0.968 -15.481  -4.329  0.00  0.00           C
+ATOM    308  C   PHE A  40      -0.041 -14.965  -5.405  0.00  0.00           C
+ATOM    309  O   PHE A  40      -0.493 -14.306  -6.345  0.00  0.00           O
+ATOM    317  N   ASN A  41       1.267 -15.245  -5.250  0.00  0.00           N
+ATOM    318  CA  ASN A  41       2.290 -14.740  -6.179  0.00  0.00           C
+ATOM    321  CB  ASN A  41       3.632 -14.485  -5.439  0.00  0.00           C

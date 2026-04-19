@@ -1,0 +1,23 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 17 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -16.47  -2.16 -34.80 with max radius 4.58
+ATOM    133  CB  THR A  17     -15.639  -3.712 -38.575  0.00  0.00           C
+ATOM    134  OG1 THR A  17     -15.405  -2.299 -38.599  0.00  0.00           O
+ATOM    135  CG2 THR A  17     -14.485  -4.408 -37.854  0.00  0.00           C
+ATOM    147  CD1 TRP A  19     -17.204   0.542 -39.828  0.00  0.00           C
+ATOM    149  NE1 TRP A  19     -16.247   0.897 -38.905  0.00  0.00           N
+ATOM    150  CE2 TRP A  19     -16.363   2.236 -38.639  0.00  0.00           C
+ATOM    152  CZ2 TRP A  19     -15.628   3.047 -37.777  0.00  0.00           C
+ATOM    290  CB  SER A  38     -13.256   1.424 -34.561  0.00  0.00           C
+ATOM    291  OG  SER A  38     -14.535   1.025 -35.013  0.00  0.00           O
+ATOM    413  CB  LYS A  55     -18.452   3.000 -35.362  0.00  0.00           C
+ATOM    414  CG  LYS A  55     -19.410   1.803 -35.245  0.00  0.00           C
+ATOM    415  CD  LYS A  55     -19.190   0.858 -36.440  0.00  0.00           C
+ATOM    416  CE  LYS A  55     -20.168  -0.303 -36.459  0.00  0.00           C
+ATOM    417  NZ  LYS A  55     -19.698  -1.444 -35.626  0.00  0.00           N
+ATOM    427  CA  SER A  57     -18.965  -0.854 -30.379  0.00  0.00           C
+ATOM    430  CB  SER A  57     -17.553  -1.428 -30.395  0.00  0.00           C
+ATOM    431  OG  SER A  57     -17.569  -2.853 -30.404  0.00  0.00           O

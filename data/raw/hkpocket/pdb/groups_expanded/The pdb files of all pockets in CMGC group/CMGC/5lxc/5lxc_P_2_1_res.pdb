@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  68.00  27.50  22.93 with max radius 5.98
+ATOM   2217  C   LEU A 348      62.728  27.954  21.226  0.00  0.00           C
+ATOM   2218  O   LEU A 348      63.803  28.505  21.462  0.00  0.00           O
+ATOM   2224  CA  LEU A 349      62.554  27.143  23.514  0.00  0.00           C
+ATOM   2225  C   LEU A 349      62.559  25.613  23.870  0.00  0.00           C
+ATOM   2227  CB  LEU A 349      61.658  27.892  24.493  0.00  0.00           C
+ATOM   2230  CD2 LEU A 349      62.719  30.137  24.849  0.00  0.00           C
+ATOM   2236  CG  PRO A 350      65.496  24.169  22.391  0.00  0.00           C
+ATOM   2237  CD  PRO A 350      64.811  25.411  22.812  0.00  0.00           C
+ATOM   2303  CA  CYS A 360      65.588  29.122  27.981  0.00  0.00           C
+ATOM   2304  C   CYS A 360      64.814  30.464  27.825  0.00  0.00           C
+ATOM   2305  O   CYS A 360      65.191  31.334  27.022  0.00  0.00           O
+ATOM   2306  CB  CYS A 360      64.985  28.019  27.099  0.00  0.00           C
+ATOM   2307  SG  CYS A 360      66.030  26.554  26.953  0.00  0.00           S
+ATOM   2328  CB  GLU A 363      68.765  32.344  27.636  0.00  0.00           C
+ATOM   2329  CG  GLU A 363      69.765  32.447  26.489  0.00  0.00           C
+ATOM   2330  CD  GLU A 363      70.169  31.080  25.909  0.00  0.00           C
+ATOM   2331  OE1 GLU A 363      69.270  30.246  25.641  0.00  0.00           O
+ATOM   2711  CG  LYS A 413      71.908  23.606  25.090  0.00  0.00           C
+ATOM   2712  CD  LYS A 413      72.757  23.991  23.873  0.00  0.00           C
+ATOM   2713  CE  LYS A 413      72.586  25.470  23.488  0.00  0.00           C
+ATOM   2714  NZ  LYS A 413      72.367  25.583  22.021  0.00  0.00           N
+ATOM   2729  CD  ARG A 415      69.845  26.677  27.926  0.00  0.00           C
+ATOM   2730  NE  ARG A 415      69.147  25.403  27.889  0.00  0.00           N
+ATOM   2731  CZ  ARG A 415      68.896  24.705  26.795  0.00  0.00           C
+ATOM   2732  NH1 ARG A 415      69.235  25.172  25.591  0.00  0.00           N
+ATOM   2733  NH2 ARG A 415      68.270  23.539  26.919  0.00  0.00           N
+ATOM   2773  CD  ARG A 421      68.335  32.075  22.171  0.00  0.00           C
+ATOM   2774  NE  ARG A 421      67.787  31.378  21.019  0.00  0.00           N
+ATOM   2775  CZ  ARG A 421      66.713  30.619  21.054  0.00  0.00           C
+ATOM   2776  NH1 ARG A 421      66.061  30.423  22.206  0.00  0.00           N
+ATOM   2777  NH2 ARG A 421      66.304  30.027  19.942  0.00  0.00           N

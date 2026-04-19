@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -17.70  16.60   2.46 with max radius 5.42
+ATOM   1746  C   GLN A 278     -22.265  18.031   0.255  0.00  0.00           C
+ATOM   1747  O   GLN A 278     -21.868  17.194   1.073  0.00  0.00           O
+ATOM   1753  N   LEU A 279     -21.477  18.961  -0.279  0.00  0.00           N
+ATOM   1754  CA  LEU A 279     -20.043  19.019   0.004  0.00  0.00           C
+ATOM   1755  C   LEU A 279     -19.677  20.067   1.056  0.00  0.00           C
+ATOM   1756  O   LEU A 279     -18.565  20.056   1.591  0.00  0.00           O
+ATOM   1757  CB  LEU A 279     -19.251  19.269  -1.285  0.00  0.00           C
+ATOM   1758  CG  LEU A 279     -19.425  18.318  -2.476  0.00  0.00           C
+ATOM   1760  CD2 LEU A 279     -19.065  16.877  -2.121  0.00  0.00           C
+ATOM   1976  CA  GLY A 306     -21.403  19.111   4.121  0.00  0.00           C
+ATOM   1977  C   GLY A 306     -21.463  17.699   4.659  0.00  0.00           C
+ATOM   1978  O   GLY A 306     -20.923  17.411   5.732  0.00  0.00           O
+ATOM   1979  N   LEU A 307     -22.130  16.822   3.913  0.00  0.00           N
+ATOM   1980  CA  LEU A 307     -22.255  15.420   4.290  0.00  0.00           C
+ATOM   1981  C   LEU A 307     -20.962  14.671   4.000  0.00  0.00           C
+ATOM   1982  O   LEU A 307     -20.274  14.964   3.019  0.00  0.00           O
+ATOM   1987  N   THR A 308     -20.641  13.707   4.860  0.00  0.00           N
+ATOM   1988  CA  THR A 308     -19.495  12.820   4.655  0.00  0.00           C
+ATOM   1989  C   THR A 308     -19.725  11.950   3.419  0.00  0.00           C
+ATOM   1994  N   PHE A 309     -18.638  11.477   2.816  0.00  0.00           N
+ATOM   1999  CG  PHE A 309     -17.127  11.798   0.012  0.00  0.00           C
+ATOM   2000  CD1 PHE A 309     -16.591  12.964   0.552  0.00  0.00           C
+ATOM   2002  CE1 PHE A 309     -16.372  14.085  -0.245  0.00  0.00           C
+ATOM   2004  CZ  PHE A 309     -16.700  14.048  -1.597  0.00  0.00           C
+ATOM   2027  CD1 LEU A 312     -20.513  13.798  -0.314  0.00  0.00           C

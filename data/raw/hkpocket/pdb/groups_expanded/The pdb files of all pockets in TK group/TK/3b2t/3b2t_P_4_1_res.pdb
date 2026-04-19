@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  32.63 -14.34 -55.07 with max radius 5.69
+ATOM   1753  CB  TYR A 704      32.439 -17.950 -51.002  0.00  0.00           C
+ATOM   1754  CG  TYR A 704      31.464 -16.794 -51.108  0.00  0.00           C
+ATOM   1755  CD1 TYR A 704      31.276 -16.118 -52.310  0.00  0.00           C
+ATOM   1757  CE1 TYR A 704      30.340 -15.080 -52.412  0.00  0.00           C
+ATOM   1759  CZ  TYR A 704      29.592 -14.722 -51.294  0.00  0.00           C
+ATOM   1760  OH  TYR A 704      28.680 -13.704 -51.384  0.00  0.00           O
+ATOM   1776  CB  ILE A 707      36.195 -17.773 -52.272  0.00  0.00           C
+ATOM   1778  CG2 ILE A 707      36.552 -16.287 -52.086  0.00  0.00           C
+ATOM   1779  CD1 ILE A 707      35.077 -17.382 -54.541  0.00  0.00           C
+ATOM   1818  CD1 LEU A 712      33.564 -13.217 -51.079  0.00  0.00           C
+ATOM   1842  C   LEU A 715      34.618  -9.415 -54.629  0.00  0.00           C
+ATOM   1844  CB  LEU A 715      36.085 -11.449 -54.378  0.00  0.00           C
+ATOM   1845  CG  LEU A 715      37.442 -12.092 -54.708  0.00  0.00           C
+ATOM   1846  CD1 LEU A 715      37.451 -13.573 -54.310  0.00  0.00           C
+ATOM   1848  N   LEU A 716      34.054  -9.158 -53.449  0.00  0.00           N
+ATOM   1849  CA  LEU A 716      32.682  -8.664 -53.390  0.00  0.00           C
+ATOM   1852  CB  LEU A 716      32.212  -8.542 -51.947  0.00  0.00           C
+ATOM   1853  CG  LEU A 716      31.611  -9.772 -51.280  0.00  0.00           C
+ATOM   1855  CD2 LEU A 716      30.446 -10.355 -52.111  0.00  0.00           C
+ATOM   1879  CA  HIS A 720      31.654 -11.615 -57.728  0.00  0.00           C
+ATOM   1880  C   HIS A 720      30.567 -12.165 -56.826  0.00  0.00           C
+ATOM   1881  O   HIS A 720      30.312 -11.646 -55.739  0.00  0.00           O
+ATOM   1882  CB  HIS A 720      32.996 -12.215 -57.341  0.00  0.00           C
+ATOM   1883  CG  HIS A 720      34.053 -11.961 -58.362  0.00  0.00           C
+ATOM   1885  CD2 HIS A 720      34.324 -12.590 -59.530  0.00  0.00           C
+ATOM   1888  N   ARG A 721      29.929 -13.231 -57.294  0.00  0.00           N
+ATOM   1889  CA  ARG A 721      28.839 -13.856 -56.572  0.00  0.00           C
+ATOM   1890  C   ARG A 721      28.937 -15.359 -56.711  0.00  0.00           C
+ATOM   1891  O   ARG A 721      29.602 -15.880 -57.623  0.00  0.00           O
+ATOM   1899  N   MET A 722      28.273 -16.069 -55.815  0.00  0.00           N
+ATOM   1900  CA  MET A 722      28.281 -17.527 -55.887  0.00  0.00           C

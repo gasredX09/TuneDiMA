@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  40.54  30.99   6.78 with max radius 5.81
+ATOM    172  CD1 PHE A 701      43.792  26.937   9.210  0.00  0.00           C
+ATOM    174  CE1 PHE A 701      43.658  27.702   8.060  0.00  0.00           C
+ATOM    176  CZ  PHE A 701      44.316  27.322   6.886  0.00  0.00           C
+ATOM   1049  NE  ARG A 814      39.946  27.614   2.120  0.00  0.00           N
+ATOM   1050  CZ  ARG A 814      39.466  28.673   2.776  0.00  0.00           C
+ATOM   1051  NH1 ARG A 814      38.164  28.788   3.000  0.00  0.00           N
+ATOM   1052  NH2 ARG A 814      40.288  29.621   3.210  0.00  0.00           N
+ATOM   1217  CA  ALA A 837      40.379  25.728   6.593  0.00  0.00           C
+ATOM   1218  C   ALA A 837      38.973  26.309   6.618  0.00  0.00           C
+ATOM   1219  O   ALA A 837      38.765  27.395   7.137  0.00  0.00           O
+ATOM   1220  CB  ALA A 837      41.129  26.196   5.361  0.00  0.00           C
+ATOM   1221  N   ASP A 838      38.003  25.592   6.064  0.00  0.00           N
+ATOM   1222  CA  ASP A 838      36.617  26.088   6.043  0.00  0.00           C
+ATOM   1223  C   ASP A 838      35.915  26.047   7.414  0.00  0.00           C
+ATOM   1225  CB  ASP A 838      35.783  25.338   4.993  0.00  0.00           C
+ATOM   1226  CG  ASP A 838      36.172  25.704   3.568  0.00  0.00           C
+ATOM   1227  OD1 ASP A 838      36.232  26.924   3.271  0.00  0.00           O
+ATOM   1237  N   LEU A 840      36.801  27.663   9.829  0.00  0.00           N
+ATOM   1238  CA  LEU A 840      37.066  28.980  10.418  0.00  0.00           C
+ATOM   1239  C   LEU A 840      36.585  30.100   9.496  0.00  0.00           C
+ATOM   1240  O   LEU A 840      36.554  29.923   8.283  0.00  0.00           O
+ATOM   1241  CB  LEU A 840      38.571  29.156  10.677  0.00  0.00           C
+ATOM   1242  CG  LEU A 840      39.320  28.164  11.582  0.00  0.00           C
+ATOM   1243  CD1 LEU A 840      39.611  26.818  10.896  0.00  0.00           C
+ATOM   1244  CD2 LEU A 840      40.616  28.774  12.071  0.00  0.00           C
+ATOM   1245  N   PRO A 841      36.204  31.257  10.074  0.00  0.00           N
+ATOM   1246  CA  PRO A 841      35.909  32.481   9.308  0.00  0.00           C
+ATOM   1247  C   PRO A 841      37.192  33.280   9.025  0.00  0.00           C
+ATOM   1248  O   PRO A 841      38.124  33.188   9.836  0.00  0.00           O
+ATOM   1252  N   PRO A 842      37.239  34.043   7.904  0.00  0.00           N
+ATOM   1253  CA  PRO A 842      38.447  34.759   7.432  0.00  0.00           C
+ATOM   1254  C   PRO A 842      38.849  36.004   8.245  0.00  0.00           C
+ATOM   1256  CB  PRO A 842      38.070  35.186   5.999  0.00  0.00           C
+ATOM   1257  CG  PRO A 842      36.880  34.339   5.622  0.00  0.00           C
+ATOM   1258  CD  PRO A 842      36.144  34.114   6.918  0.00  0.00           C
+ATOM   1259  N   ASP A 843      40.110  36.432   8.105  0.00  0.00           N
+ATOM   1282  CG2 THR A 854      45.616  32.210   4.227  0.00  0.00           C

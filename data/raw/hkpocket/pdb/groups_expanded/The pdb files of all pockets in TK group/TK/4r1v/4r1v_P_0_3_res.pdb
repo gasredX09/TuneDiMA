@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  94.76  18.22 137.23 with max radius 6.95
+ATOM    267  CB  PHE A1089      98.537  14.582 134.136  0.00  0.00           C
+ATOM    268  CG  PHE A1089      97.658  13.390 134.377  0.00  0.00           C
+ATOM    270  CD2 PHE A1089      97.659  12.743 135.608  0.00  0.00           C
+ATOM    448  CG  LEU A1112      97.196  20.469 132.738  0.00  0.00           C
+ATOM    449  CD1 LEU A1112      95.853  21.076 133.124  0.00  0.00           C
+ATOM    450  CD2 LEU A1112      97.750  19.615 133.881  0.00  0.00           C
+ATOM    537  CA  PHE A1124      89.994  22.955 135.475  0.00  0.00           C
+ATOM    540  CB  PHE A1124      90.760  22.602 134.164  0.00  0.00           C
+ATOM    541  CG  PHE A1124      92.007  23.378 133.886  0.00  0.00           C
+ATOM    542  CD1 PHE A1124      93.222  22.949 134.404  0.00  0.00           C
+ATOM    568  CD  GLU A1127      91.349  21.691 141.085  0.00  0.00           C
+ATOM    569  OE1 GLU A1127      91.210  20.994 140.067  0.00  0.00           O
+ATOM   1354  O   GLY A1224      95.425  20.481 140.878  0.00  0.00           O
+ATOM   1356  CA  LEU A1225      96.042  22.451 139.055  0.00  0.00           C
+ATOM   1357  C   LEU A1225      97.432  21.823 138.930  0.00  0.00           C
+ATOM   1358  O   LEU A1225      97.809  21.395 137.844  0.00  0.00           O
+ATOM   1359  CB  LEU A1225      95.966  23.762 138.282  0.00  0.00           C
+ATOM   1362  CD2 LEU A1225      93.601  23.240 137.602  0.00  0.00           C
+ATOM   1368  N   ARG A1227      98.238  19.105 140.847  0.00  0.00           N
+ATOM   1369  CA  ARG A1227      98.129  17.732 141.288  0.00  0.00           C
+ATOM   1370  C   ARG A1227      98.546  16.766 140.176  0.00  0.00           C
+ATOM   1371  O   ARG A1227      98.095  16.904 139.039  0.00  0.00           O
+ATOM   1372  CB  ARG A1227      96.695  17.438 141.720  0.00  0.00           C
+ATOM   1373  CG  ARG A1227      96.462  16.004 142.165  0.00  0.00           C
+ATOM   1379  N   ASP A1228      99.386  15.797 140.511  0.00  0.00           N
+ATOM   1380  CA  ASP A1228      99.851  14.799 139.548  0.00  0.00           C

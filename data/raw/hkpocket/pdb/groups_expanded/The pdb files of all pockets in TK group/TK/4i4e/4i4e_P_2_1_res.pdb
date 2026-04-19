@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  13.96 -19.76  16.93 with max radius 5.43
+ATOM    830  CG  LYS A 515      10.643 -19.242  21.470  0.00  0.00           C
+ATOM    831  CD  LYS A 515      12.061 -19.398  21.998  0.00  0.00           C
+ATOM    832  CE  LYS A 515      12.896 -20.349  21.159  0.00  0.00           C
+ATOM    833  NZ  LYS A 515      14.294 -20.394  21.680  0.00  0.00           N
+ATOM   1517  O   LEU A 616      11.285 -16.809  14.182  0.00  0.00           O
+ATOM   1523  CA  MET A 617      13.443 -15.457  15.496  0.00  0.00           C
+ATOM   1524  C   MET A 617      13.000 -15.240  16.937  0.00  0.00           C
+ATOM   1525  O   MET A 617      13.748 -15.539  17.853  0.00  0.00           O
+ATOM   1526  CB  MET A 617      14.814 -14.816  15.298  0.00  0.00           C
+ATOM   1527  CG  MET A 617      15.516 -15.267  14.041  0.00  0.00           C
+ATOM   1528  SD  MET A 617      16.047 -16.991  14.035  0.00  0.00           S
+ATOM   1529  CE  MET A 617      17.367 -16.922  15.239  0.00  0.00           C
+ATOM   1537  CD2 HIS A 618      11.194 -18.058  17.803  0.00  0.00           C
+ATOM   1539  NE2 HIS A 618      10.221 -18.746  17.117  0.00  0.00           N
+ATOM   1550  CG2 VAL A 620      16.881 -15.152  19.464  0.00  0.00           C
+ATOM   1734  CA  PRO A 644      14.729 -18.819  10.993  0.00  0.00           C
+ATOM   1735  C   PRO A 644      14.033 -20.172  11.078  0.00  0.00           C
+ATOM   1737  CB  PRO A 644      13.767 -17.699  11.409  0.00  0.00           C
+ATOM   1740  N   PRO A 645      14.287 -20.898  12.182  0.00  0.00           N
+ATOM   1741  CA  PRO A 645      13.568 -22.149  12.367  0.00  0.00           C
+ATOM   1742  C   PRO A 645      12.074 -21.929  12.241  0.00  0.00           C
+ATOM   1743  O   PRO A 645      11.534 -20.972  12.801  0.00  0.00           O
+ATOM   1744  CB  PRO A 645      13.947 -22.566  13.789  0.00  0.00           C
+ATOM   1745  CG  PRO A 645      15.275 -21.949  14.035  0.00  0.00           C
+ATOM   1746  CD  PRO A 645      15.282 -20.664  13.240  0.00  0.00           C
+ATOM   1754  ND2 ASN A 646      10.441 -23.699  14.748  0.00  0.00           N

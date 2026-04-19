@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  17.62  12.52 -12.73 with max radius 5.40
+ATOM   1090  CA  GLU A1197      20.941  15.943 -11.243  0.00  0.00           C
+ATOM   1091  C   GLU A1197      22.078  14.968 -11.526  0.00  0.00           C
+ATOM   1092  O   GLU A1197      21.858  13.788 -11.784  0.00  0.00           O
+ATOM   1093  CB  GLU A1197      20.734  16.840 -12.464  0.00  0.00           C
+ATOM   1094  CG  GLU A1197      20.443  16.125 -13.807  0.00  0.00           C
+ATOM   1097  OE2 GLU A1197      19.941  16.747 -16.079  0.00  0.00           O
+ATOM   1120  C   ALA A1200      21.430  10.366 -10.083  0.00  0.00           C
+ATOM   1122  CB  ALA A1200      19.858  12.057  -9.163  0.00  0.00           C
+ATOM   1123  N   GLU A1201      22.006  10.908 -11.145  0.00  0.00           N
+ATOM   1124  CA  GLU A1201      22.431  10.106 -12.303  0.00  0.00           C
+ATOM   1127  CB  GLU A1201      22.986  11.045 -13.390  0.00  0.00           C
+ATOM   1677  CG2 THR A1266      16.410  11.737  -7.371  0.00  0.00           C
+ATOM   2233  CA  THR A1333      13.235  14.638 -11.665  0.00  0.00           C
+ATOM   2234  C   THR A1333      14.071  15.910 -11.680  0.00  0.00           C
+ATOM   2236  CB  THR A1333      13.594  13.796 -12.907  0.00  0.00           C
+ATOM   2237  OG1 THR A1333      13.252  14.518 -14.102  0.00  0.00           O
+ATOM   2238  CG2 THR A1333      12.840  12.462 -12.892  0.00  0.00           C
+ATOM   2239  N   PHE A1334      15.311  15.824 -11.214  0.00  0.00           N
+ATOM   2240  CA  PHE A1334      16.215  16.973 -11.292  0.00  0.00           C
+ATOM   2241  C   PHE A1334      16.539  17.353 -12.751  0.00  0.00           C
+ATOM   2243  CB  PHE A1334      17.516  16.732 -10.506  0.00  0.00           C
+ATOM   2244  CG  PHE A1334      17.347  16.772  -8.980  0.00  0.00           C
+ATOM   2246  CD2 PHE A1334      17.415  15.610  -8.231  0.00  0.00           C
+ATOM   2250  N   ARG A1335      16.465  16.409 -13.683  0.00  0.00           N
+ATOM   2251  CA  ARG A1335      16.679  16.744 -15.097  0.00  0.00           C
+ATOM   2254  CB  ARG A1335      16.699  15.488 -15.976  0.00  0.00           C
+ATOM   2255  CG  ARG A1335      16.750  15.803 -17.476  0.00  0.00           C
+ATOM   2256  CD  ARG A1335      17.227  14.629 -18.322  0.00  0.00           C

@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  45.77  74.29  25.87 with max radius 7.66
+ATOM    776  CB  ASN A  97      45.316  67.118  27.800  0.00  0.00           C
+ATOM    777  CG  ASN A  97      46.434  67.818  28.561  0.00  0.00           C
+ATOM    778  OD1 ASN A  97      46.503  67.751  29.786  0.00  0.00           O
+ATOM    779  ND2 ASN A  97      47.329  68.472  27.830  0.00  0.00           N
+ATOM   1092  O   ASP A 135      39.097  76.854  26.490  0.00  0.00           O
+ATOM   1096  C   LEU A 136      39.949  74.570  24.830  0.00  0.00           C
+ATOM   1097  O   LEU A 136      40.823  75.358  24.475  0.00  0.00           O
+ATOM   1103  CA  THR A 137      41.572  72.954  25.655  0.00  0.00           C
+ATOM   1104  C   THR A 137      41.655  71.494  25.236  0.00  0.00           C
+ATOM   1106  CB  THR A 137      42.115  73.127  27.102  0.00  0.00           C
+ATOM   1107  OG1 THR A 137      41.234  72.486  28.042  0.00  0.00           O
+ATOM   1108  CG2 THR A 137      42.082  74.594  27.516  0.00  0.00           C
+ATOM   1109  N   LEU A 138      42.891  71.004  25.126  0.00  0.00           N
+ATOM   1110  CA  LEU A 138      43.175  69.609  24.810  0.00  0.00           C
+ATOM   1111  C   LEU A 138      42.536  68.640  25.797  0.00  0.00           C
+ATOM   1113  CB  LEU A 138      44.682  69.355  24.742  0.00  0.00           C
+ATOM   1114  CG  LEU A 138      45.518  70.082  23.693  0.00  0.00           C
+ATOM   1115  CD1 LEU A 138      46.930  69.542  23.771  0.00  0.00           C
+ATOM   1116  CD2 LEU A 138      44.958  69.914  22.284  0.00  0.00           C
+ATOM   1117  N   SER A 139      42.252  69.130  27.001  0.00  0.00           N
+ATOM   1317  C   TRP A 194      44.017  80.792  20.928  0.00  0.00           C
+ATOM   1318  O   TRP A 194      45.110  80.235  20.881  0.00  0.00           O
+ATOM   1321  CD1 TRP A 194      44.887  82.445  23.656  0.00  0.00           C
+ATOM   1329  N   SER A 195      42.934  80.233  21.467  0.00  0.00           N
+ATOM   1330  CA  SER A 195      42.890  78.852  21.942  0.00  0.00           C
+ATOM   1331  C   SER A 195      43.404  77.914  20.868  0.00  0.00           C
+ATOM   1332  O   SER A 195      44.242  77.055  21.138  0.00  0.00           O
+ATOM   1333  CB  SER A 195      41.458  78.444  22.345  0.00  0.00           C
+ATOM   1334  OG  SER A 195      40.985  79.232  23.435  0.00  0.00           O
+ATOM   1348  CA  CYS A 198      47.924  77.316  21.671  0.00  0.00           C
+ATOM   1349  C   CYS A 198      47.827  75.814  21.510  0.00  0.00           C
+ATOM   1350  O   CYS A 198      48.815  75.114  21.735  0.00  0.00           O
+ATOM   1351  CB  CYS A 198      47.442  77.757  23.052  0.00  0.00           C
+ATOM   1352  SG  CYS A 198      47.635  79.538  23.237  0.00  0.00           S
+ATOM   1353  N   MET A 199      46.650  75.336  21.098  0.00  0.00           N
+ATOM   1354  CA  MET A 199      46.432  73.911  20.857  0.00  0.00           C
+ATOM   1355  C   MET A 199      47.323  73.452  19.732  0.00  0.00           C
+ATOM   1356  O   MET A 199      48.019  72.471  19.877  0.00  0.00           O
+ATOM   1357  CB  MET A 199      44.970  73.577  20.529  0.00  0.00           C
+ATOM   1358  CG  MET A 199      44.021  73.757  21.714  0.00  0.00           C
+ATOM   1359  SD  MET A 199      42.365  72.985  21.469  0.00  0.00           S
+ATOM   1360  CE  MET A 199      41.547  74.287  20.515  0.00  0.00           C
+ATOM   1385  CA  THR A 202      51.134  72.272  21.680  0.00  0.00           C
+ATOM   1388  CB  THR A 202      50.042  72.280  22.783  0.00  0.00           C
+ATOM   1389  OG1 THR A 202      50.045  73.542  23.455  0.00  0.00           O
+ATOM   1390  CG2 THR A 202      50.379  71.261  23.898  0.00  0.00           C
+ATOM   1434  CB  PRO A 208      51.369  75.693  26.465  0.00  0.00           C

@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.51  13.74  -2.89 with max radius 6.04
+ATOM   1819  CA  LYS A 892      15.184  10.988   0.765  0.00  0.00           C
+ATOM   1820  C   LYS A 892      14.142  12.092   0.558  0.00  0.00           C
+ATOM   1822  CB  LYS A 892      16.594  11.604   0.854  0.00  0.00           C
+ATOM   1823  CG  LYS A 892      17.691  10.624   1.273  0.00  0.00           C
+ATOM   1827  N   THR A 893      13.893  12.470  -0.710  0.00  0.00           N
+ATOM   1828  CA  THR A 893      12.946  13.519  -1.113  0.00  0.00           C
+ATOM   1831  CB  THR A 893      13.697  14.835  -1.430  0.00  0.00           C
+ATOM   1832  OG1 THR A 893      14.720  14.575  -2.391  0.00  0.00           O
+ATOM   1833  CG2 THR A 893      14.282  15.511  -0.192  0.00  0.00           C
+ATOM   1842  N   ASN A 895      12.183  14.434  -5.332  0.00  0.00           N
+ATOM   1843  CA  ASN A 895      13.072  14.483  -6.494  0.00  0.00           C
+ATOM   1844  C   ASN A 895      13.917  13.210  -6.583  0.00  0.00           C
+ATOM   1845  O   ASN A 895      14.099  12.683  -7.681  0.00  0.00           O
+ATOM   1846  CB  ASN A 895      13.965  15.726  -6.453  0.00  0.00           C
+ATOM   1847  CG  ASN A 895      14.734  15.949  -7.730  0.00  0.00           C
+ATOM   1849  ND2 ASN A 895      15.986  15.521  -7.752  0.00  0.00           N
+ATOM   1850  N   HIS A 896      14.422  12.715  -5.430  0.00  0.00           N
+ATOM   1851  CA  HIS A 896      15.216  11.485  -5.358  0.00  0.00           C
+ATOM   1854  CB  HIS A 896      15.898  11.333  -3.984  0.00  0.00           C
+ATOM   1855  CG  HIS A 896      16.918  10.233  -3.919  0.00  0.00           C
+ATOM   1856  ND1 HIS A 896      17.163   9.550  -2.743  0.00  0.00           N
+ATOM   1857  CD2 HIS A 896      17.734   9.743  -4.883  0.00  0.00           C
+ATOM   1858  CE1 HIS A 896      18.102   8.664  -3.029  0.00  0.00           C
+ATOM   1859  NE2 HIS A 896      18.476   8.742  -4.305  0.00  0.00           N
+ATOM   1880  CB  LYS A 899      16.661  10.218  -9.231  0.00  0.00           C
+ATOM   2147  CD1 TYR A 931      18.826  13.240  -8.338  0.00  0.00           C
+ATOM   2149  CE1 TYR A 931      19.094  12.357  -7.293  0.00  0.00           C
+ATOM   2150  CE2 TYR A 931      21.367  12.184  -8.037  0.00  0.00           C
+ATOM   2151  CZ  TYR A 931      20.364  11.824  -7.152  0.00  0.00           C
+ATOM   2152  OH  TYR A 931      20.632  10.942  -6.133  0.00  0.00           O
+ATOM   2153  N   ILE A 932      18.961  16.688  -7.671  0.00  0.00           N
+ATOM   2154  CA  ILE A 932      19.510  17.419  -6.525  0.00  0.00           C
+ATOM   2155  C   ILE A 932      20.412  16.510  -5.673  0.00  0.00           C
+ATOM   2156  O   ILE A 932      20.012  15.395  -5.330  0.00  0.00           O
+ATOM   2157  CB  ILE A 932      18.376  18.131  -5.715  0.00  0.00           C
+ATOM   2159  CG2 ILE A 932      18.835  18.604  -4.330  0.00  0.00           C
+ATOM   2161  N   GLU A 933      21.632  16.993  -5.350  0.00  0.00           N
+ATOM   2162  CA  GLU A 933      22.624  16.277  -4.543  0.00  0.00           C
+ATOM   2166  CG  GLU A 933      23.454  14.570  -6.257  0.00  0.00           C

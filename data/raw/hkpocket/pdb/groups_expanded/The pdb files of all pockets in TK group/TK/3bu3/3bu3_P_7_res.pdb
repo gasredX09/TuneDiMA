@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -10.85  -3.78  23.70 with max radius 6.44
+ATOM    720  CA  HIS A1081      -8.629  -1.906  19.565  0.00  0.00           C
+ATOM    721  C   HIS A1081      -7.741  -1.313  20.644  0.00  0.00           C
+ATOM    722  O   HIS A1081      -7.563  -1.899  21.708  0.00  0.00           O
+ATOM    723  CB  HIS A1081      -8.405  -3.409  19.380  0.00  0.00           C
+ATOM    724  CG  HIS A1081      -9.574  -4.104  18.754  0.00  0.00           C
+ATOM    725  ND1 HIS A1081     -10.772  -4.282  19.415  0.00  0.00           N
+ATOM    727  CE1 HIS A1081     -11.618  -4.914  18.620  0.00  0.00           C
+ATOM    760  C   SER A1086      -6.561  -3.273  27.266  0.00  0.00           C
+ATOM    761  O   SER A1086      -7.487  -3.838  27.869  0.00  0.00           O
+ATOM    762  CB  SER A1086      -6.419  -0.752  27.259  0.00  0.00           C
+ATOM    764  N   TYR A1087      -6.135  -3.647  26.060  0.00  0.00           N
+ATOM    765  CA  TYR A1087      -6.671  -4.790  25.335  0.00  0.00           C
+ATOM    767  O   TYR A1087      -7.446  -6.812  26.358  0.00  0.00           O
+ATOM    768  CB  TYR A1087      -6.005  -4.909  23.959  0.00  0.00           C
+ATOM    769  CG  TYR A1087      -6.503  -6.069  23.136  0.00  0.00           C
+ATOM    770  CD1 TYR A1087      -7.738  -6.003  22.492  0.00  0.00           C
+ATOM    772  CE1 TYR A1087      -8.219  -7.077  21.737  0.00  0.00           C
+ATOM    799  CB  SER A1090     -10.504  -5.725  27.603  0.00  0.00           C
+ATOM    800  OG  SER A1090     -10.141  -6.354  26.394  0.00  0.00           O
+ATOM    808  CD2 LEU A1091      -9.995 -10.311  24.934  0.00  0.00           C
+ATOM    845  O   ASN A1097     -14.460  -5.943  27.552  0.00  0.00           O
+ATOM    849  ND2 ASN A1097     -12.217  -3.012  28.933  0.00  0.00           N
+ATOM    862  CB  PRO A1099     -14.300  -7.713  23.800  0.00  0.00           C
+ATOM    863  CG  PRO A1099     -13.096  -8.427  24.314  0.00  0.00           C
+ATOM    864  CD  PRO A1099     -13.264  -8.489  25.809  0.00  0.00           C
+ATOM    877  CZ  ARG A1101     -12.796  -8.224  20.585  0.00  0.00           C
+ATOM    878  NH1 ARG A1101     -13.846  -7.956  19.807  0.00  0.00           N
+ATOM    879  NH2 ARG A1101     -12.167  -7.224  21.203  0.00  0.00           N

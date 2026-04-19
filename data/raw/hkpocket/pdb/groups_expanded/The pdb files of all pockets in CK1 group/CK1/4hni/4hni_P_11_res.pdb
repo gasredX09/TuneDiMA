@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -38.02 -17.44 -20.46 with max radius 6.07
+ATOM    584  CB  PRO A  87     -35.049 -19.673 -25.267  0.00  0.00           C
+ATOM    585  CG  PRO A  87     -34.769 -19.902 -23.818  0.00  0.00           C
+ATOM    586  CD  PRO A  87     -34.344 -18.561 -23.339  0.00  0.00           C
+ATOM    623  CG  LEU A  92     -39.099 -19.159 -26.005  0.00  0.00           C
+ATOM    624  CD1 LEU A  92     -39.387 -17.711 -25.599  0.00  0.00           C
+ATOM    625  CD2 LEU A  92     -38.923 -20.051 -24.775  0.00  0.00           C
+ATOM    995  CB  MET A 136     -36.612 -14.801 -23.352  0.00  0.00           C
+ATOM    996  CG  MET A 136     -37.861 -15.052 -24.153  0.00  0.00           C
+ATOM    997  SD  MET A 136     -38.673 -13.514 -24.540  0.00  0.00           S
+ATOM    998  CE  MET A 136     -39.789 -13.319 -23.174  0.00  0.00           C
+ATOM   1002  O   GLY A 137     -34.282 -14.381 -20.052  0.00  0.00           O
+ATOM   1034  CA  GLY A 142     -36.896 -13.326 -18.073  0.00  0.00           C
+ATOM   1035  C   GLY A 142     -38.073 -13.079 -19.000  0.00  0.00           C
+ATOM   1036  O   GLY A 142     -38.266 -13.834 -19.945  0.00  0.00           O
+ATOM   1044  ND2 ASN A 143     -41.212 -13.663 -18.126  0.00  0.00           N
+ATOM   2258  CD2 PHE A 288     -43.492 -14.065 -21.783  0.00  0.00           C
+ATOM   2275  CG  TRP A 290     -42.410 -19.625 -22.750  0.00  0.00           C
+ATOM   2276  CD1 TRP A 290     -41.712 -19.059 -21.736  0.00  0.00           C
+ATOM   2278  NE1 TRP A 290     -41.451 -17.748 -22.017  0.00  0.00           N
+ATOM   2279  CE2 TRP A 290     -41.990 -17.442 -23.234  0.00  0.00           C
+ATOM   2281  CZ2 TRP A 290     -41.991 -16.239 -23.950  0.00  0.00           C
+ATOM   2289  CG  ASN A 291     -42.465 -18.662 -18.223  0.00  0.00           C
+ATOM   2290  OD1 ASN A 291     -42.142 -17.475 -18.244  0.00  0.00           O
+ATOM   2291  ND2 ASN A 291     -41.624 -19.633 -18.541  0.00  0.00           N

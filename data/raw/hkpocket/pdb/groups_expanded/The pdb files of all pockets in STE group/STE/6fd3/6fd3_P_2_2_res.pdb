@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   6.85  91.45  21.36 with max radius 6.03
+ATOM    928  C   MET A 374      10.082  94.301  19.336  0.00  0.00           C
+ATOM    929  O   MET A 374       9.467  93.413  19.928  0.00  0.00           O
+ATOM    935  CA  ASP A 375       9.303  95.930  20.930  0.00  0.00           C
+ATOM    936  C   ASP A 375       7.953  96.471  20.452  0.00  0.00           C
+ATOM    937  O   ASP A 375       7.694  96.587  19.254  0.00  0.00           O
+ATOM    942  N   GLU A 376       7.069  96.801  21.400  0.00  0.00           N
+ATOM    943  CA  GLU A 376       5.707  97.165  21.008  0.00  0.00           C
+ATOM    946  CB  GLU A 376       4.798  97.218  22.238  0.00  0.00           C
+ATOM    947  CG  GLU A 376       4.415  95.841  22.729  0.00  0.00           C
+ATOM    948  CD  GLU A 376       3.194  95.827  23.631  0.00  0.00           C
+ATOM    950  OE2 GLU A 376       2.971  94.785  24.277  0.00  0.00           O
+ATOM    971  CD1 ILE A 379       5.696  93.577  18.075  0.00  0.00           C
+ATOM   1698  C   MET A 470       6.575  89.977  16.329  0.00  0.00           C
+ATOM   1699  O   MET A 470       7.567  90.396  16.938  0.00  0.00           O
+ATOM   1704  N   VAL A 471       5.645  89.222  16.909  0.00  0.00           N
+ATOM   1705  CA  VAL A 471       5.741  88.796  18.302  0.00  0.00           C
+ATOM   1706  C   VAL A 471       6.463  87.459  18.431  0.00  0.00           C
+ATOM   1707  O   VAL A 471       7.324  87.294  19.293  0.00  0.00           O
+ATOM   1708  CB  VAL A 471       4.327  88.715  18.911  0.00  0.00           C
+ATOM   1709  CG1 VAL A 471       4.391  88.105  20.299  0.00  0.00           C
+ATOM   1710  CG2 VAL A 471       3.672  90.087  18.936  0.00  0.00           C
+ATOM   1950  O   ARG A 502       4.305  91.529  26.828  0.00  0.00           O
+ATOM   1965  CD2 LEU A 503       3.230  90.906  23.142  0.00  0.00           C
+ATOM   1991  CD2 PHE A 507       1.495  93.801  21.098  0.00  0.00           C
+ATOM   1993  CE2 PHE A 507       2.102  93.127  20.050  0.00  0.00           C

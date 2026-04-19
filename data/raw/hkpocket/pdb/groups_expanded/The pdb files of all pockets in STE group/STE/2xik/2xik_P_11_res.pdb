@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -8.26 -17.41  -0.11 with max radius 5.72
+ATOM    431  CA  ASP A  62      -3.365 -17.176  -1.488  0.00  0.00           C
+ATOM    433  O   ASP A  62      -3.546 -17.893  -3.765  0.00  0.00           O
+ATOM    434  CB  ASP A  62      -3.637 -15.658  -1.437  0.00  0.00           C
+ATOM    435  CG  ASP A  62      -3.814 -15.064  -0.047  0.00  0.00           C
+ATOM    436  OD1 ASP A  62      -4.575 -15.647   0.759  0.00  0.00           O
+ATOM    459  CB  GLN A  65      -5.701 -20.252  -2.521  0.00  0.00           C
+ATOM    460  CG  GLN A  65      -7.223 -20.349  -2.760  0.00  0.00           C
+ATOM    461  CD  GLN A  65      -7.909 -21.511  -2.060  0.00  0.00           C
+ATOM    463  NE2 GLN A  65      -9.197 -21.357  -1.781  0.00  0.00           N
+ATOM   1056  CZ  ARG A 139     -13.040 -16.183  -0.007  0.00  0.00           C
+ATOM   1057  NH1 ARG A 139     -11.774 -16.418  -0.343  0.00  0.00           N
+ATOM   1201  O   PHE A 159      -7.619 -17.491  -6.591  0.00  0.00           O
+ATOM   1211  C   GLY A 160      -6.664 -14.988  -5.106  0.00  0.00           C
+ATOM   1212  O   GLY A 160      -6.003 -15.125  -4.076  0.00  0.00           O
+ATOM   1213  N   VAL A 161      -7.981 -14.727  -5.085  0.00  0.00           N
+ATOM   1214  CA  VAL A 161      -8.745 -14.613  -3.825  0.00  0.00           C
+ATOM   1215  C   VAL A 161      -9.934 -15.604  -3.790  0.00  0.00           C
+ATOM   1216  O   VAL A 161     -10.782 -15.481  -2.916  0.00  0.00           O
+ATOM   1217  CB  VAL A 161      -9.180 -13.157  -3.460  0.00  0.00           C
+ATOM   1218  CG1 VAL A 161      -7.976 -12.243  -3.182  0.00  0.00           C
+ATOM   1220  N   ALA A 162      -9.982 -16.581  -4.734  0.00  0.00           N
+ATOM   1221  CA  ALA A 162     -11.047 -17.593  -4.841  0.00  0.00           C
+ATOM   1222  C   ALA A 162     -11.194 -18.434  -3.573  0.00  0.00           C
+ATOM   1223  O   ALA A 162     -10.207 -18.688  -2.877  0.00  0.00           O
+ATOM   1225  N   GLY A 163     -12.436 -18.796  -3.262  0.00  0.00           N
+ATOM   1226  CA  GLY A 163     -12.782 -19.571  -2.072  0.00  0.00           C
+ATOM   1340  CG1 VAL A 176      -9.797 -11.932   0.500  0.00  0.00           C

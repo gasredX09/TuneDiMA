@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.02   7.48  -7.48 with max radius 6.65
+ATOM   2793  C   LEU A 344      -7.499   8.463 -11.194  0.00  0.00           C
+ATOM   2794  O   LEU A 344      -6.355   8.374 -11.618  0.00  0.00           O
+ATOM   2811  CA  SER A 345      -6.821   9.117  -8.905  0.00  0.00           C
+ATOM   2812  C   SER A 345      -6.572   7.848  -8.088  0.00  0.00           C
+ATOM   2813  O   SER A 345      -5.455   7.615  -7.627  0.00  0.00           O
+ATOM   2814  CB  SER A 345      -7.270  10.231  -7.962  0.00  0.00           C
+ATOM   2815  OG  SER A 345      -7.085  11.483  -8.591  0.00  0.00           O
+ATOM   2822  CA  ASN A 346      -7.550   5.779  -7.174  0.00  0.00           C
+ATOM   2826  CG  ASN A 346      -6.540   6.424  -4.974  0.00  0.00           C
+ATOM   2827  OD1 ASN A 346      -5.508   5.746  -4.971  0.00  0.00           O
+ATOM   2828  ND2 ASN A 346      -6.608   7.611  -4.395  0.00  0.00           N
+ATOM   2973  C   GLU A 357      -0.935   2.842 -10.474  0.00  0.00           C
+ATOM   2974  O   GLU A 357      -0.985   3.989 -10.027  0.00  0.00           O
+ATOM   2987  CA  SER A 358      -2.876   2.124  -9.168  0.00  0.00           C
+ATOM   2988  C   SER A 358      -2.438   1.870  -7.727  0.00  0.00           C
+ATOM   2989  O   SER A 358      -3.241   2.088  -6.831  0.00  0.00           O
+ATOM   2990  CB  SER A 358      -4.089   1.262  -9.502  0.00  0.00           C
+ATOM   2997  N   LEU A 359      -1.196   1.388  -7.487  0.00  0.00           N
+ATOM   3016  N   SER A 360       0.477   3.052  -5.980  0.00  0.00           N
+ATOM   3018  C   SER A 360       0.796   5.217  -4.918  0.00  0.00           C
+ATOM   3019  O   SER A 360      -0.223   5.598  -5.481  0.00  0.00           O
+ATOM   3021  OG  SER A 360       2.123   4.744  -7.538  0.00  0.00           O
+ATOM   3034  N   THR A 362       0.892   8.705  -5.361  0.00  0.00           N
+ATOM   3036  C   THR A 362       0.655  10.782  -6.697  0.00  0.00           C
+ATOM   3037  O   THR A 362      -0.536  10.823  -6.390  0.00  0.00           O
+ATOM   3040  CG2 THR A 362       0.556   8.175  -8.282  0.00  0.00           C
+ATOM   3057  C   LYS A 364      -1.593  10.408 -11.251  0.00  0.00           C
+ATOM   3058  O   LYS A 364      -1.619   9.320 -10.712  0.00  0.00           O
+ATOM   3077  N   ILE A 365      -2.594  10.850 -12.012  0.00  0.00           N
+ATOM   3078  CA  ILE A 365      -3.778  10.079 -12.304  0.00  0.00           C
+ATOM   3079  C   ILE A 365      -3.448   9.029 -13.379  0.00  0.00           C
+ATOM   3083  CG2 ILE A 365      -5.394  11.952 -11.787  0.00  0.00           C
+ATOM   3103  CD2 PHE A 366      -3.855   5.779 -11.324  0.00  0.00           C
+ATOM   3105  CE2 PHE A 366      -4.518   5.405 -10.183  0.00  0.00           C
+ATOM   3106  CZ  PHE A 366      -5.601   4.574 -10.268  0.00  0.00           C

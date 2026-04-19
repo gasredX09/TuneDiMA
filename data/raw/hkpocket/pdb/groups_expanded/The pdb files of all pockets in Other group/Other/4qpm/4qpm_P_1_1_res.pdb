@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -18.47  -4.00  32.45 with max radius 6.27
+ATOM   3469  CA  GLY A 970     -17.837  -0.472  34.402  0.00  0.00           C
+ATOM   3470  C   GLY A 970     -16.434  -1.045  34.484  0.00  0.00           C
+ATOM   3471  O   GLY A 970     -16.082  -1.945  33.720  0.00  0.00           O
+ATOM   3495  N   GLN A 972     -15.175  -2.790  36.812  0.00  0.00           N
+ATOM   3497  C   GLN A 972     -14.897  -5.241  36.710  0.00  0.00           C
+ATOM   3498  O   GLN A 972     -15.525  -5.393  35.662  0.00  0.00           O
+ATOM   3499  CB  GLN A 972     -16.436  -4.200  38.378  0.00  0.00           C
+ATOM   3576  CG  LEU A 977     -18.923  -6.781  36.658  0.00  0.00           C
+ATOM   3577  CD1 LEU A 977     -18.768  -6.953  35.155  0.00  0.00           C
+ATOM   3578  CD2 LEU A 977     -19.672  -5.495  36.969  0.00  0.00           C
+ATOM   3787  CE1 PHE A 989     -14.017  -7.065  32.396  0.00  0.00           C
+ATOM   3788  CE2 PHE A 989     -12.869  -5.108  33.142  0.00  0.00           C
+ATOM   3789  CZ  PHE A 989     -13.985  -5.699  32.586  0.00  0.00           C
+ATOM   4004  C   MET A1004     -16.312  -2.597  28.338  0.00  0.00           C
+ATOM   4005  O   MET A1004     -16.106  -2.371  29.531  0.00  0.00           O
+ATOM   4006  CB  MET A1004     -14.180  -3.532  27.423  0.00  0.00           C
+ATOM   4007  CG  MET A1004     -14.711  -4.912  27.058  0.00  0.00           C
+ATOM   4009  CE  MET A1004     -13.258  -6.334  28.952  0.00  0.00           C
+ATOM   4019  N   LYS A1005     -17.482  -3.014  27.864  0.00  0.00           N
+ATOM   4020  CA  LYS A1005     -18.596  -3.382  28.734  0.00  0.00           C
+ATOM   4021  C   LYS A1005     -19.025  -4.811  28.427  0.00  0.00           C
+ATOM   4023  CB  LYS A1005     -19.766  -2.412  28.558  0.00  0.00           C
+ATOM   4024  CG  LYS A1005     -19.747  -1.248  29.540  0.00  0.00           C
+ATOM   4026  CE  LYS A1005     -20.033   1.220  29.859  0.00  0.00           C
+ATOM   4041  N   VAL A1006     -19.064  -5.644  29.462  0.00  0.00           N
+ATOM   4042  CA  VAL A1006     -19.293  -7.075  29.291  0.00  0.00           C
+ATOM   4043  C   VAL A1006     -20.736  -7.477  29.581  0.00  0.00           C
+ATOM   4044  O   VAL A1006     -21.406  -6.872  30.420  0.00  0.00           O
+ATOM   4045  CB  VAL A1006     -18.356  -7.900  30.199  0.00  0.00           C
+ATOM   4046  CG1 VAL A1006     -16.902  -7.641  29.832  0.00  0.00           C
+ATOM   4047  CG2 VAL A1006     -18.604  -7.589  31.674  0.00  0.00           C

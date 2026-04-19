@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  51.25 -42.54  16.83 with max radius 6.35
+ATOM   1150  CD1 LEU A 157      53.315 -39.218  20.238  0.00  0.00           C
+ATOM   1151  CD2 LEU A 157      54.462 -41.414  20.731  0.00  0.00           C
+ATOM   1465  CB  LYS A 197      55.647 -41.527  13.538  0.00  0.00           C
+ATOM   1466  CG  LYS A 197      56.665 -42.460  14.124  0.00  0.00           C
+ATOM   1467  CD  LYS A 197      56.091 -43.827  14.311  0.00  0.00           C
+ATOM   1476  CD  PRO A 198      54.764 -39.100  15.506  0.00  0.00           C
+ATOM   1482  CG  ASP A 199      56.464 -42.763  17.881  0.00  0.00           C
+ATOM   1483  OD1 ASP A 199      55.842 -41.840  17.270  0.00  0.00           O
+ATOM   1484  OD2 ASP A 199      55.915 -43.854  18.165  0.00  0.00           O
+ATOM   1735  CB  THR A 234      53.238 -46.158  12.624  0.00  0.00           C
+ATOM   1737  CG2 THR A 234      52.134 -46.229  13.645  0.00  0.00           C
+ATOM   1749  CB  ASP A 236      48.154 -43.335  12.703  0.00  0.00           C
+ATOM   1750  CG  ASP A 236      47.205 -43.934  13.703  0.00  0.00           C
+ATOM   1751  OD1 ASP A 236      46.448 -44.875  13.390  0.00  0.00           O
+ATOM   1752  OD2 ASP A 236      47.232 -43.442  14.837  0.00  0.00           O
+ATOM   1759  CD1 TYR A 237      51.987 -42.456  12.168  0.00  0.00           C
+ATOM   1761  CE1 TYR A 237      51.906 -41.888  13.422  0.00  0.00           C
+ATOM   1763  CZ  TYR A 237      51.959 -40.506  13.542  0.00  0.00           C
+ATOM   1764  OH  TYR A 237      51.868 -39.882  14.754  0.00  0.00           O
+ATOM   2004  CD  GLU A 270      49.497 -38.097  15.449  0.00  0.00           C
+ATOM   2005  OE1 GLU A 270      50.672 -37.878  15.804  0.00  0.00           O
+ATOM   2006  OE2 GLU A 270      49.088 -39.210  15.055  0.00  0.00           O
+ATOM   2052  CB  THR A 276      45.988 -39.904  14.994  0.00  0.00           C
+ATOM   2053  OG1 THR A 276      46.881 -40.138  13.903  0.00  0.00           O

@@ -1,0 +1,60 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 54 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  61.84 -13.13   5.89 with max radius 7.98
+ATOM   1808  CE1 TYR A 229      55.223 -11.969   7.128  0.00  0.00           C
+ATOM   1809  CE2 TYR A 229      55.269 -14.024   5.894  0.00  0.00           C
+ATOM   1810  CZ  TYR A 229      55.768 -13.222   6.901  0.00  0.00           C
+ATOM   1811  OH  TYR A 229      56.783 -13.691   7.693  0.00  0.00           O
+ATOM   1849  CD1 TYR A 235      56.895 -10.202  10.300  0.00  0.00           C
+ATOM   1851  CE1 TYR A 235      57.015 -11.556  10.539  0.00  0.00           C
+ATOM   1853  CZ  TYR A 235      56.656 -12.050  11.774  0.00  0.00           C
+ATOM   1854  OH  TYR A 235      56.771 -13.403  12.044  0.00  0.00           O
+ATOM   1857  C   PRO A 236      56.883  -8.897   6.275  0.00  0.00           C
+ATOM   1858  O   PRO A 236      57.693  -9.224   7.120  0.00  0.00           O
+ATOM   1863  CA  PRO A 237      57.524 -10.770   4.853  0.00  0.00           C
+ATOM   1864  C   PRO A 237      58.993 -10.448   4.576  0.00  0.00           C
+ATOM   1865  O   PRO A 237      59.857 -11.309   4.770  0.00  0.00           O
+ATOM   1866  CB  PRO A 237      56.818 -11.350   3.612  0.00  0.00           C
+ATOM   1870  CA  PHE A 238      60.634  -8.729   3.928  0.00  0.00           C
+ATOM   1873  CB  PHE A 238      60.939  -8.594   2.411  0.00  0.00           C
+ATOM   1874  CG  PHE A 238      60.441  -9.761   1.568  0.00  0.00           C
+ATOM   1875  CD1 PHE A 238      61.158 -10.937   1.485  0.00  0.00           C
+ATOM   1877  CE1 PHE A 238      60.688 -12.007   0.709  0.00  0.00           C
+ATOM   1887  CD2 PHE A 239      60.358  -7.913   8.983  0.00  0.00           C
+ATOM   1889  CE2 PHE A 239      60.592  -8.753  10.065  0.00  0.00           C
+ATOM   1890  CZ  PHE A 239      61.614  -8.469  10.952  0.00  0.00           C
+ATOM   1976  CA  LYS A 249      65.517  -9.829   0.700  0.00  0.00           C
+ATOM   1977  C   LYS A 249      64.416 -10.241  -0.271  0.00  0.00           C
+ATOM   1978  O   LYS A 249      64.137 -11.434  -0.432  0.00  0.00           O
+ATOM   1979  CB  LYS A 249      64.920  -9.427   2.059  0.00  0.00           C
+ATOM   1980  CG  LYS A 249      65.995  -9.405   3.153  0.00  0.00           C
+ATOM   1981  CD  LYS A 249      65.456  -9.014   4.531  0.00  0.00           C
+ATOM   2003  CB  SER A 252      66.805 -13.357  -1.131  0.00  0.00           C
+ATOM   2004  OG  SER A 252      67.103 -14.619  -0.569  0.00  0.00           O
+ATOM   2005  N   GLY A 253      63.909 -13.785  -2.121  0.00  0.00           N
+ATOM   2006  CA  GLY A 253      62.595 -14.366  -2.322  0.00  0.00           C
+ATOM   2007  C   GLY A 253      62.169 -15.378  -1.275  0.00  0.00           C
+ATOM   2009  N   LYS A 254      63.090 -15.758  -0.396  0.00  0.00           N
+ATOM   2010  CA  LYS A 254      62.753 -16.732   0.630  0.00  0.00           C
+ATOM   2011  C   LYS A 254      61.844 -16.094   1.667  0.00  0.00           C
+ATOM   2012  O   LYS A 254      62.158 -15.030   2.210  0.00  0.00           O
+ATOM   2013  CB  LYS A 254      64.019 -17.290   1.273  0.00  0.00           C
+ATOM   2014  CG  LYS A 254      64.752 -18.243   0.353  0.00  0.00           C
+ATOM   2016  CE  LYS A 254      67.008 -17.615   1.256  0.00  0.00           C
+ATOM   2018  N   VAL A 255      60.697 -16.724   1.902  0.00  0.00           N
+ATOM   2019  CA  VAL A 255      59.743 -16.221   2.872  0.00  0.00           C
+ATOM   2020  C   VAL A 255      59.679 -17.218   4.015  0.00  0.00           C
+ATOM   2022  CB  VAL A 255      58.350 -16.022   2.255  0.00  0.00           C
+ATOM   2023  CG1 VAL A 255      57.325 -15.527   3.298  0.00  0.00           C
+ATOM   2024  CG2 VAL A 255      58.444 -15.047   1.107  0.00  0.00           C
+ATOM   2025  N   ARG A 256      59.679 -16.710   5.244  0.00  0.00           N
+ATOM   2026  CA  ARG A 256      59.387 -17.536   6.403  0.00  0.00           C
+ATOM   2027  C   ARG A 256      58.012 -17.156   6.956  0.00  0.00           C
+ATOM   2028  O   ARG A 256      57.665 -15.984   6.974  0.00  0.00           O
+ATOM   2029  CB  ARG A 256      60.459 -17.361   7.474  0.00  0.00           C
+ATOM   2030  CG  ARG A 256      61.795 -17.949   7.099  0.00  0.00           C
+ATOM   2031  CD  ARG A 256      62.794 -17.825   8.252  0.00  0.00           C
+ATOM   2034  NH1 ARG A 256      61.334 -17.137  10.602  0.00  0.00           N

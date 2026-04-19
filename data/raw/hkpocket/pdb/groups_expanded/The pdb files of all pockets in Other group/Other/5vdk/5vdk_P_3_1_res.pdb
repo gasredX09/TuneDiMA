@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -7.91   5.23  -1.83 with max radius 4.88
+ATOM   1398  CB  ASN A 402      -6.437   1.497  -0.518  0.00  0.00           C
+ATOM   1399  CG  ASN A 402      -5.238   2.409  -0.345  0.00  0.00           C
+ATOM   1400  OD1 ASN A 402      -5.051   3.013   0.711  0.00  0.00           O
+ATOM   1401  ND2 ASN A 402      -4.418   2.512  -1.384  0.00  0.00           N
+ATOM   1675  O   TRP A 440      -9.099   3.469  -6.905  0.00  0.00           O
+ATOM   1682  CE3 TRP A 440      -5.652   2.622  -5.852  0.00  0.00           C
+ATOM   1684  CZ3 TRP A 440      -5.290   2.327  -4.551  0.00  0.00           C
+ATOM   1685  CH2 TRP A 440      -5.187   1.002  -4.110  0.00  0.00           C
+ATOM   1687  CA  HIS A 441      -7.736   5.753  -6.174  0.00  0.00           C
+ATOM   1688  C   HIS A 441      -9.161   6.269  -6.015  0.00  0.00           C
+ATOM   1689  O   HIS A 441      -9.654   6.388  -4.888  0.00  0.00           O
+ATOM   1690  CB  HIS A 441      -6.739   6.911  -6.087  0.00  0.00           C
+ATOM   1691  CG  HIS A 441      -5.315   6.475  -5.917  0.00  0.00           C
+ATOM   1693  CD2 HIS A 441      -4.658   5.981  -4.841  0.00  0.00           C
+ATOM   1714  N   ARG A 444     -11.410   3.294  -4.483  0.00  0.00           N
+ATOM   1715  CA  ARG A 444     -11.198   2.980  -3.074  0.00  0.00           C
+ATOM   1716  C   ARG A 444     -11.645   4.090  -2.131  0.00  0.00           C
+ATOM   1717  O   ARG A 444     -11.426   3.975  -0.920  0.00  0.00           O
+ATOM   1718  CB  ARG A 444      -9.724   2.654  -2.822  0.00  0.00           C
+ATOM   1719  CG  ARG A 444      -9.380   1.184  -3.014  0.00  0.00           C
+ATOM   1720  CD  ARG A 444      -8.818   0.966  -4.402  0.00  0.00           C
+ATOM   1725  N   LYS A 445     -12.255   5.158  -2.646  0.00  0.00           N
+ATOM   1726  CA  LYS A 445     -12.960   6.128  -1.819  0.00  0.00           C
+ATOM   1729  CB  LYS A 445     -12.750   7.548  -2.347  0.00  0.00           C
+ATOM   1730  CG  LYS A 445     -11.320   8.054  -2.233  0.00  0.00           C
+ATOM   1731  CD  LYS A 445     -11.159   9.028  -1.072  0.00  0.00           C
+ATOM   1732  CE  LYS A 445     -11.071   8.302   0.265  0.00  0.00           C

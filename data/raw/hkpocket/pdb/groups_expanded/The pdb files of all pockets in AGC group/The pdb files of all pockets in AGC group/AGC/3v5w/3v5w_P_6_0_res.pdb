@@ -1,0 +1,44 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 38 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -0.58  27.27  24.27 with max radius 6.21
+ATOM     70  CB  SER A  38       0.179  22.896  28.330  0.00  0.00           C
+ATOM   4156  CD2 HIS A 549       2.929  31.833  21.931  0.00  0.00           C
+ATOM   4157  CE1 HIS A 549       0.924  31.905  21.048  0.00  0.00           C
+ATOM   4158  NE2 HIS A 549       1.799  31.127  21.711  0.00  0.00           N
+ATOM   4170  C   GLU A 551      -2.321  33.154  23.669  0.00  0.00           C
+ATOM   4171  O   GLU A 551      -1.338  32.586  23.178  0.00  0.00           O
+ATOM   4178  CA  ASP A 552      -3.410  31.061  24.268  0.00  0.00           C
+ATOM   4179  C   ASP A 552      -4.382  30.776  23.134  0.00  0.00           C
+ATOM   4181  CB  ASP A 552      -3.899  30.479  25.608  0.00  0.00           C
+ATOM   4182  CG  ASP A 552      -3.789  28.929  25.690  0.00  0.00           C
+ATOM   4183  OD1 ASP A 552      -3.478  28.251  24.677  0.00  0.00           O
+ATOM   4184  OD2 ASP A 552      -4.028  28.377  26.795  0.00  0.00           O
+ATOM   4185  N   TYR A 553      -3.885  30.047  22.150  0.00  0.00           N
+ATOM   4186  CA  TYR A 553      -4.658  29.637  21.001  0.00  0.00           C
+ATOM   4187  C   TYR A 553      -5.825  28.705  21.401  0.00  0.00           C
+ATOM   4189  CB  TYR A 553      -3.693  28.965  20.009  0.00  0.00           C
+ATOM   4197  N   ALA A 554      -5.731  28.094  22.577  0.00  0.00           N
+ATOM   4201  CB  ALA A 554      -6.094  26.240  24.114  0.00  0.00           C
+ATOM   4257  CB  HIS A 562      -4.377  21.643  23.506  0.00  0.00           C
+ATOM   4258  CG  HIS A 562      -4.497  22.497  24.751  0.00  0.00           C
+ATOM   4259  ND1 HIS A 562      -3.435  22.817  25.515  0.00  0.00           N
+ATOM   4260  CD2 HIS A 562      -5.600  23.122  25.335  0.00  0.00           C
+ATOM   4261  CE1 HIS A 562      -3.838  23.588  26.546  0.00  0.00           C
+ATOM   4262  NE2 HIS A 562      -5.163  23.769  26.439  0.00  0.00           N
+ATOM   4360  CG  TYR A 580       1.193  22.379  21.815  0.00  0.00           C
+ATOM   4361  CD1 TYR A 580      -0.064  22.983  21.857  0.00  0.00           C
+ATOM   4362  CD2 TYR A 580       1.702  21.834  22.988  0.00  0.00           C
+ATOM   4363  CE1 TYR A 580      -0.777  23.077  23.043  0.00  0.00           C
+ATOM   4364  CE2 TYR A 580       0.999  21.922  24.183  0.00  0.00           C
+ATOM   4365  CZ  TYR A 580      -0.236  22.541  24.207  0.00  0.00           C
+ATOM   4366  OH  TYR A 580      -0.936  22.609  25.384  0.00  0.00           O
+ATOM   4385  CD2 TYR A 582      -4.465  24.181  20.838  0.00  0.00           C
+ATOM   4387  CE2 TYR A 582      -3.484  25.040  21.299  0.00  0.00           C
+ATOM   4388  CZ  TYR A 582      -2.354  25.263  20.535  0.00  0.00           C
+ATOM   4389  OH  TYR A 582      -1.383  26.124  20.988  0.00  0.00           O
+ATOM   4473  NE  ARG A 591       1.362  26.061  19.616  0.00  0.00           N
+ATOM   4474  CZ  ARG A 591       2.429  25.815  20.374  0.00  0.00           C
+ATOM   4476  NH2 ARG A 591       2.291  25.775  21.692  0.00  0.00           N

@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  14.14  17.68  -4.51 with max radius 5.89
+ATOM   1834  C   LEU A 236      10.560  13.796  -4.064  0.00  0.00           C
+ATOM   1835  O   LEU A 236      11.035  14.772  -3.490  0.00  0.00           O
+ATOM   1841  CA  LYS A 237      12.534  13.561  -5.467  0.00  0.00           C
+ATOM   1842  C   LYS A 237      12.409  14.951  -6.094  0.00  0.00           C
+ATOM   1843  O   LYS A 237      13.349  15.751  -6.067  0.00  0.00           O
+ATOM   1849  N   VAL A 238      11.234  15.232  -6.648  0.00  0.00           N
+ATOM   1850  CA  VAL A 238      10.957  16.507  -7.313  0.00  0.00           C
+ATOM   1851  C   VAL A 238      10.288  17.515  -6.366  0.00  0.00           C
+ATOM   1852  O   VAL A 238      10.708  18.678  -6.283  0.00  0.00           O
+ATOM   1856  N   THR A 239       9.274  17.078  -5.620  0.00  0.00           N
+ATOM   1858  C   THR A 239       9.145  18.326  -3.468  0.00  0.00           C
+ATOM   1863  N   GLY A 240      10.099  17.490  -3.090  0.00  0.00           N
+ATOM   1864  CA  GLY A 240      10.587  17.468  -1.728  0.00  0.00           C
+ATOM   2058  CB  THR A 265      14.839  15.166   0.773  0.00  0.00           C
+ATOM   2060  CG2 THR A 265      15.776  15.851  -0.208  0.00  0.00           C
+ATOM   2063  C   PRO A 266      13.458  19.681  -0.522  0.00  0.00           C
+ATOM   2064  O   PRO A 266      14.044  18.889  -1.261  0.00  0.00           O
+ATOM   2069  CA  ARG A 267      12.134  20.707  -2.345  0.00  0.00           C
+ATOM   2070  C   ARG A 267      13.152  21.425  -3.247  0.00  0.00           C
+ATOM   2071  O   ARG A 267      14.052  22.093  -2.732  0.00  0.00           O
+ATOM   2079  N   LYS A 268      13.002  21.267  -4.574  0.00  0.00           N
+ATOM   2080  CA  LYS A 268      13.547  22.174  -5.625  0.00  0.00           C
+ATOM   2081  C   LYS A 268      15.076  22.337  -5.443  0.00  0.00           C
+ATOM   2082  O   LYS A 268      15.644  21.479  -4.762  0.00  0.00           O
+ATOM   2128  CG  LEU A 273      14.375  19.719  -9.444  0.00  0.00           C
+ATOM   2129  CD1 LEU A 273      12.933  19.656  -8.960  0.00  0.00           C
+ATOM   2130  CD2 LEU A 273      15.059  18.371  -9.267  0.00  0.00           C

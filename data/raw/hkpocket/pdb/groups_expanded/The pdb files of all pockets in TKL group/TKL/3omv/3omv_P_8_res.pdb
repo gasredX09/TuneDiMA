@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.84  33.57  32.54 with max radius 8.66
+ATOM    380  CD2 PHE A 387     -10.902  29.350  29.837  0.00  0.00           C
+ATOM    405  CD2 PHE A 390      -4.766  28.895  31.367  0.00  0.00           C
+ATOM    407  CE2 PHE A 390      -3.803  29.395  30.500  0.00  0.00           C
+ATOM    408  CZ  PHE A 390      -2.930  28.527  29.860  0.00  0.00           C
+ATOM    409  N   ARG A 391      -5.876  29.151  34.685  0.00  0.00           N
+ATOM    410  CA  ARG A 391      -5.544  30.531  35.037  0.00  0.00           C
+ATOM    411  C   ARG A 391      -4.968  30.642  36.445  0.00  0.00           C
+ATOM    412  O   ARG A 391      -4.136  31.508  36.711  0.00  0.00           O
+ATOM    413  CB  ARG A 391      -6.788  31.410  34.911  0.00  0.00           C
+ATOM    414  CG  ARG A 391      -6.655  32.556  33.923  0.00  0.00           C
+ATOM    415  CD  ARG A 391      -8.027  33.124  33.597  0.00  0.00           C
+ATOM    416  NE  ARG A 391      -8.093  33.675  32.245  0.00  0.00           N
+ATOM    417  CZ  ARG A 391      -9.205  34.124  31.664  0.00  0.00           C
+ATOM    438  CA  VAL A 394      -0.443  30.461  35.730  0.00  0.00           C
+ATOM    439  C   VAL A 394      -0.219  31.619  36.707  0.00  0.00           C
+ATOM    441  CB  VAL A 394      -0.996  30.993  34.375  0.00  0.00           C
+ATOM    442  CG1 VAL A 394      -0.116  32.105  33.817  0.00  0.00           C
+ATOM    443  CG2 VAL A 394      -1.113  29.863  33.361  0.00  0.00           C
+ATOM    444  N   ALA A 395      -1.246  31.934  37.494  0.00  0.00           N
+ATOM    445  CA  ALA A 395      -1.148  32.961  38.529  0.00  0.00           C
+ATOM    448  CB  ALA A 395      -2.508  33.213  39.159  0.00  0.00           C
+ATOM    579  CG  TYR A 411      -0.190  32.033  29.340  0.00  0.00           C
+ATOM    580  CD1 TYR A 411      -1.416  32.148  28.683  0.00  0.00           C
+ATOM    581  CD2 TYR A 411       0.347  33.174  29.936  0.00  0.00           C
+ATOM    582  CE1 TYR A 411      -2.080  33.367  28.608  0.00  0.00           C
+ATOM    583  CE2 TYR A 411      -0.311  34.397  29.870  0.00  0.00           C
+ATOM    584  CZ  TYR A 411      -1.523  34.484  29.205  0.00  0.00           C
+ATOM    585  OH  TYR A 411      -2.174  35.691  29.135  0.00  0.00           O
+ATOM    600  CG2 THR A 413      -5.158  31.698  27.214  0.00  0.00           C
+ATOM    633  CD2 LEU A 417      -6.286  28.110  27.850  0.00  0.00           C

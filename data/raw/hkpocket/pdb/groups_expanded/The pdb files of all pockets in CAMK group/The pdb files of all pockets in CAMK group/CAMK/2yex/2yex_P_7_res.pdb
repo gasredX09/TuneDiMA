@@ -1,0 +1,64 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 58 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  16.25  37.70  38.37 with max radius 5.26
+ATOM   1645  CA  PRO A 207      14.132  38.618  33.194  0.00  0.00           C
+ATOM   1646  C   PRO A 207      14.841  39.927  33.460  0.00  0.00           C
+ATOM   1647  O   PRO A 207      14.999  40.278  34.620  0.00  0.00           O
+ATOM   1648  CB  PRO A 207      15.136  37.459  33.186  0.00  0.00           C
+ATOM   1661  CE3 TRP A 208      18.466  38.620  33.540  0.00  0.00           C
+ATOM   1663  CZ3 TRP A 208      18.920  37.311  33.541  0.00  0.00           C
+ATOM   1722  CA  GLU A 217      18.038  41.966  37.621  0.00  0.00           C
+ATOM   1723  C   GLU A 217      19.022  41.011  36.950  0.00  0.00           C
+ATOM   1724  O   GLU A 217      18.978  39.810  37.168  0.00  0.00           O
+ATOM   1725  CB  GLU A 217      16.794  42.156  36.766  0.00  0.00           C
+ATOM   1726  CG  GLU A 217      15.647  42.852  37.489  0.00  0.00           C
+ATOM   1749  CA  ASP A 220      20.653  38.941  40.514  0.00  0.00           C
+ATOM   1750  C   ASP A 220      20.795  37.525  39.934  0.00  0.00           C
+ATOM   1751  O   ASP A 220      21.006  36.565  40.648  0.00  0.00           O
+ATOM   1752  CB  ASP A 220      19.172  39.313  40.642  0.00  0.00           C
+ATOM   1753  CG  ASP A 220      18.914  40.554  41.500  0.00  0.00           C
+ATOM   1755  OD2 ASP A 220      17.780  41.085  41.391  0.00  0.00           O
+ATOM   1756  N   TRP A 221      20.665  37.406  38.621  0.00  0.00           N
+ATOM   1757  CA  TRP A 221      20.846  36.124  37.947  0.00  0.00           C
+ATOM   1758  C   TRP A 221      22.294  35.637  38.041  0.00  0.00           C
+ATOM   1759  O   TRP A 221      22.552  34.454  38.293  0.00  0.00           O
+ATOM   1760  CB  TRP A 221      20.424  36.265  36.480  0.00  0.00           C
+ATOM   1761  CG  TRP A 221      20.803  35.099  35.621  0.00  0.00           C
+ATOM   1763  CD2 TRP A 221      20.194  33.787  35.590  0.00  0.00           C
+ATOM   1766  CE3 TRP A 221      19.122  33.188  36.266  0.00  0.00           C
+ATOM   1768  CZ3 TRP A 221      18.812  31.886  35.976  0.00  0.00           C
+ATOM   1789  CA  LYS A 224      22.102  32.694  41.400  0.00  0.00           C
+ATOM   1790  C   LYS A 224      20.840  32.883  42.238  0.00  0.00           C
+ATOM   1797  N   LYS A 225      20.249  34.077  42.160  0.00  0.00           N
+ATOM   1798  CA  LYS A 225      19.036  34.368  42.925  0.00  0.00           C
+ATOM   1799  C   LYS A 225      17.793  33.883  42.186  0.00  0.00           C
+ATOM   1800  O   LYS A 225      16.922  34.657  41.784  0.00  0.00           O
+ATOM   1801  CB  LYS A 225      18.968  35.845  43.277  0.00  0.00           C
+ATOM   1806  N   THR A 226      17.694  32.571  42.053  0.00  0.00           N
+ATOM   1807  CA  THR A 226      16.579  31.965  41.327  0.00  0.00           C
+ATOM   1810  CB  THR A 226      17.006  30.648  40.660  0.00  0.00           C
+ATOM   1812  CG2 THR A 226      18.037  30.917  39.543  0.00  0.00           C
+ATOM   1826  CA  LEU A 228      13.232  35.803  42.559  0.00  0.00           C
+ATOM   1827  C   LEU A 228      12.520  35.496  41.243  0.00  0.00           C
+ATOM   1828  O   LEU A 228      12.869  34.549  40.535  0.00  0.00           O
+ATOM   1829  CB  LEU A 228      14.226  36.952  42.331  0.00  0.00           C
+ATOM   1830  CG  LEU A 228      15.077  37.320  43.557  0.00  0.00           C
+ATOM   1831  CD1 LEU A 228      16.097  38.377  43.185  0.00  0.00           C
+ATOM   1833  N   ASN A 229      11.529  36.309  40.912  0.00  0.00           N
+ATOM   1834  CA  ASN A 229      10.919  36.241  39.582  0.00  0.00           C
+ATOM   1835  C   ASN A 229      11.901  36.650  38.502  0.00  0.00           C
+ATOM   1836  O   ASN A 229      12.741  37.526  38.733  0.00  0.00           O
+ATOM   1841  N   PRO A 230      11.803  36.041  37.304  0.00  0.00           N
+ATOM   1846  CG  PRO A 230      12.196  35.569  35.052  0.00  0.00           C
+ATOM   1847  CD  PRO A 230      12.637  36.460  36.157  0.00  0.00           C
+ATOM   1848  N   TRP A 231      12.434  33.482  37.774  0.00  0.00           N
+ATOM   1852  CB  TRP A 231      14.492  32.312  38.386  0.00  0.00           C
+ATOM   1853  CG  TRP A 231      15.218  33.334  37.558  0.00  0.00           C
+ATOM   1854  CD1 TRP A 231      15.699  34.541  37.976  0.00  0.00           C
+ATOM   1855  CD2 TRP A 231      15.497  33.256  36.151  0.00  0.00           C
+ATOM   1856  NE1 TRP A 231      16.246  35.217  36.916  0.00  0.00           N
+ATOM   1857  CE2 TRP A 231      16.139  34.451  35.787  0.00  0.00           C
+ATOM   1859  CZ2 TRP A 231      16.566  34.687  34.488  0.00  0.00           C

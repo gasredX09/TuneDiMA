@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  50.99   9.22  19.08 with max radius 7.27
+ATOM   1369  CA  PRO A 993      45.920   7.857  20.894  0.00  0.00           C
+ATOM   1372  CB  PRO A 993      47.117   8.556  21.558  0.00  0.00           C
+ATOM   1373  CG  PRO A 993      47.510   9.649  20.655  0.00  0.00           C
+ATOM   1374  CD  PRO A 993      46.360   9.987  19.764  0.00  0.00           C
+ATOM   1400  CD1 ILE A 996      45.596   4.582  17.594  0.00  0.00           C
+ATOM   1495  CD1 PHE A1008      47.266  12.801  17.464  0.00  0.00           C
+ATOM   1497  CE1 PHE A1008      48.346  11.923  17.506  0.00  0.00           C
+ATOM   1498  CE2 PHE A1008      47.302  10.566  15.805  0.00  0.00           C
+ATOM   1499  CZ  PHE A1008      48.360  10.799  16.676  0.00  0.00           C
+ATOM   1719  CA  ARG A1035      52.345   9.491  14.516  0.00  0.00           C
+ATOM   1720  C   ARG A1035      53.195   9.708  15.767  0.00  0.00           C
+ATOM   1721  O   ARG A1035      52.742  10.313  16.746  0.00  0.00           O
+ATOM   1722  CB  ARG A1035      51.678   8.116  14.636  0.00  0.00           C
+ATOM   1723  CG  ARG A1035      50.501   7.863  13.722  0.00  0.00           C
+ATOM   1724  CD  ARG A1035      49.814   6.554  14.110  0.00  0.00           C
+ATOM   1725  NE  ARG A1035      49.288   6.624  15.474  0.00  0.00           N
+ATOM   1726  CZ  ARG A1035      48.025   6.906  15.779  0.00  0.00           C
+ATOM   1728  NH2 ARG A1035      47.652   6.963  17.048  0.00  0.00           N
+ATOM   1729  N   ASN A1036      54.423   9.195  15.729  0.00  0.00           N
+ATOM   1730  CA  ASN A1036      55.359   9.316  16.844  0.00  0.00           C
+ATOM   1733  CB  ASN A1036      56.121   8.001  17.037  0.00  0.00           C
+ATOM   1734  CG  ASN A1036      55.194   6.826  17.297  0.00  0.00           C
+ATOM   1736  ND2 ASN A1036      54.423   6.903  18.378  0.00  0.00           N
+ATOM   1742  CG  LEU A1037      55.370  13.958  17.446  0.00  0.00           C
+ATOM   1743  CD1 LEU A1037      55.527  14.594  18.827  0.00  0.00           C
+ATOM   1744  CD2 LEU A1037      54.597  14.882  16.509  0.00  0.00           C
+ATOM   1918  C   LEU A1058      50.392  15.326  18.069  0.00  0.00           C
+ATOM   1919  O   LEU A1058      50.894  14.272  18.473  0.00  0.00           O
+ATOM   1920  CB  LEU A1058      50.871  14.731  15.662  0.00  0.00           C
+ATOM   1926  C   SER A1059      49.863  15.193  20.945  0.00  0.00           C
+ATOM   1930  N   PRO A1060      50.591  14.359  21.715  0.00  0.00           N
+ATOM   1931  CA  PRO A1060      49.949  13.290  22.487  0.00  0.00           C
+ATOM   1934  CB  PRO A1060      51.109  12.686  23.288  0.00  0.00           C
+ATOM   1935  CG  PRO A1060      52.317  12.990  22.497  0.00  0.00           C
+ATOM   1936  CD  PRO A1060      52.063  14.298  21.803  0.00  0.00           C

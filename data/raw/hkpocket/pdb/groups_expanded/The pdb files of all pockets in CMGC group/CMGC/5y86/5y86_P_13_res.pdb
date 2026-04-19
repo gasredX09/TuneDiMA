@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  14.58   2.58   2.27 with max radius 5.83
+ATOM   2349  CA  LEU A 425      11.938   1.008   6.154  0.00  0.00           C
+ATOM   2350  C   LEU A 425      12.449  -0.445   5.972  0.00  0.00           C
+ATOM   2351  O   LEU A 425      13.419  -0.677   5.206  0.00  0.00           O
+ATOM   2352  CB  LEU A 425      13.107   1.817   6.723  0.00  0.00           C
+ATOM   2353  CG  LEU A 425      12.901   3.329   6.914  0.00  0.00           C
+ATOM   2354  CD1 LEU A 425      14.131   3.896   7.581  0.00  0.00           C
+ATOM   2355  CD2 LEU A 425      12.633   3.926   5.592  0.00  0.00           C
+ATOM   2804  NE1 TRP A 483       9.265   3.756   1.778  0.00  0.00           N
+ATOM   2805  CE2 TRP A 483       9.549   4.966   2.301  0.00  0.00           C
+ATOM   2807  CZ2 TRP A 483      10.703   5.405   2.948  0.00  0.00           C
+ATOM   2809  CH2 TRP A 483      10.688   6.656   3.451  0.00  0.00           C
+ATOM   2937  CA  LYS A 500      13.791   7.688   0.695  0.00  0.00           C
+ATOM   2938  C   LYS A 500      15.324   7.874   0.682  0.00  0.00           C
+ATOM   2939  O   LYS A 500      16.028   7.182   1.393  0.00  0.00           O
+ATOM   2940  CB  LYS A 500      13.411   6.692  -0.393  0.00  0.00           C
+ATOM   2941  CG  LYS A 500      11.951   6.227  -0.274  0.00  0.00           C
+ATOM   2942  CD  LYS A 500      11.682   5.240  -1.417  0.00  0.00           C
+ATOM   2943  CE  LYS A 500      10.372   4.488  -1.286  0.00  0.00           C
+ATOM   2964  C   LEU A 503      16.801   6.683   4.795  0.00  0.00           C
+ATOM   2965  O   LEU A 503      16.275   5.718   5.312  0.00  0.00           O
+ATOM   2970  N   HIS A 504      17.933   6.579   4.101  0.00  0.00           N
+ATOM   2971  CA  HIS A 504      18.572   5.255   3.978  0.00  0.00           C
+ATOM   2972  C   HIS A 504      19.104   4.841   5.325  0.00  0.00           C
+ATOM   2974  CB  HIS A 504      19.754   5.321   2.993  0.00  0.00           C
+ATOM   2975  CG  HIS A 504      19.349   5.236   1.573  0.00  0.00           C
+ATOM   2976  ND1 HIS A 504      18.467   4.274   1.106  0.00  0.00           N
+ATOM   2978  CE1 HIS A 504      18.216   4.488  -0.175  0.00  0.00           C
+ATOM   2980  N   TRP A 505      19.059   3.516   5.609  0.00  0.00           N
+ATOM   2986  CD1 TRP A 505      17.236   0.426   6.626  0.00  0.00           C

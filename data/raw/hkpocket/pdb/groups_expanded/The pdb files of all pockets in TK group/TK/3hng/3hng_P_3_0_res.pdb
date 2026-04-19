@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -10.90   9.40  27.16 with max radius 5.82
+ATOM    852  CB  TYR A 914      -5.696   8.293  29.418  0.00  0.00           C
+ATOM    853  CG  TYR A 914      -6.958   8.282  30.222  0.00  0.00           C
+ATOM    854  CD1 TYR A 914      -7.576   7.080  30.553  0.00  0.00           C
+ATOM    855  CD2 TYR A 914      -7.507   9.457  30.706  0.00  0.00           C
+ATOM    856  CE1 TYR A 914      -8.727   7.045  31.309  0.00  0.00           C
+ATOM    857  CE2 TYR A 914      -8.657   9.444  31.475  0.00  0.00           C
+ATOM    858  CZ  TYR A 914      -9.263   8.226  31.773  0.00  0.00           C
+ATOM    859  OH  TYR A 914     -10.403   8.184  32.540  0.00  0.00           O
+ATOM    902  CE1 TYR A 920      -7.478   6.629  24.351  0.00  0.00           C
+ATOM    904  CZ  TYR A 920      -8.066   7.363  23.337  0.00  0.00           C
+ATOM    905  OH  TYR A 920      -9.443   7.421  23.243  0.00  0.00           O
+ATOM   1043  OH  TYR A1002      -9.312  11.285  21.889  0.00  0.00           O
+ATOM   1266  CG  LEU A1030      -6.358  11.220  26.700  0.00  0.00           C
+ATOM   1267  CD1 LEU A1030      -6.859  12.314  25.807  0.00  0.00           C
+ATOM   1268  CD2 LEU A1030      -6.464   9.907  25.991  0.00  0.00           C
+ATOM   1271  C   SER A1031      -8.082  13.220  30.512  0.00  0.00           C
+ATOM   1272  O   SER A1031      -8.417  12.515  29.580  0.00  0.00           O
+ATOM   1276  CA  GLU A1032     -10.320  13.292  31.361  0.00  0.00           C
+ATOM   1277  C   GLU A1032     -11.072  14.154  30.360  0.00  0.00           C
+ATOM   1284  N   ASN A1033     -12.268  13.714  29.989  0.00  0.00           N
+ATOM   1292  N   ASN A1034     -11.542  13.773  27.334  0.00  0.00           N
+ATOM   1293  CA  ASN A1034     -10.947  13.876  26.016  0.00  0.00           C
+ATOM   1296  CB  ASN A1034     -12.042  13.952  24.966  0.00  0.00           C
+ATOM   1297  CG  ASN A1034     -11.658  13.246  23.687  0.00  0.00           C
+ATOM   1298  OD1 ASN A1034     -10.878  12.287  23.715  0.00  0.00           O

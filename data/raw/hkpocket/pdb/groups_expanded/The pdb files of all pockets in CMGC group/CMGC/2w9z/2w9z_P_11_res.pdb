@@ -1,0 +1,44 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 38 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  17.47  10.92  25.15 with max radius 6.64
+ATOM   2242  CG2 VAL B  37      15.243  14.305  19.953  0.00  0.00           C
+ATOM   2245  C   ARG B  38      12.493  11.538  20.856  0.00  0.00           C
+ATOM   2246  O   ARG B  38      13.659  11.140  20.798  0.00  0.00           O
+ATOM   2254  N   VAL B  39      11.872  11.798  22.001  0.00  0.00           N
+ATOM   2255  CA  VAL B  39      12.489  11.509  23.291  0.00  0.00           C
+ATOM   2258  CB  VAL B  39      12.696  12.777  24.144  0.00  0.00           C
+ATOM   2259  CG1 VAL B  39      13.505  13.804  23.382  0.00  0.00           C
+ATOM   2266  CG  PRO B  40      14.066   8.507  25.947  0.00  0.00           C
+ATOM   2267  CD  PRO B  40      13.840   9.514  24.857  0.00  0.00           C
+ATOM   2314  CB  PRO B  50      14.765  11.715  29.087  0.00  0.00           C
+ATOM   2315  CG  PRO B  50      13.846  12.277  28.031  0.00  0.00           C
+ATOM   2329  CB  SER B  52      20.574  13.258  30.535  0.00  0.00           C
+ATOM   2330  OG  SER B  52      19.871  12.138  30.026  0.00  0.00           O
+ATOM   2335  CB  THR B  53      16.492  14.804  27.192  0.00  0.00           C
+ATOM   2336  OG1 THR B  53      17.102  13.893  26.264  0.00  0.00           O
+ATOM   2337  CG2 THR B  53      15.533  15.726  26.463  0.00  0.00           C
+ATOM   3207  C   ARG B 163      21.293  13.164  23.787  0.00  0.00           C
+ATOM   3208  O   ARG B 163      20.560  12.187  23.953  0.00  0.00           O
+ATOM   3216  N   ILE B 164      20.826  14.376  23.494  0.00  0.00           N
+ATOM   3217  CA  ILE B 164      19.396  14.606  23.287  0.00  0.00           C
+ATOM   3218  C   ILE B 164      18.849  13.683  22.196  0.00  0.00           C
+ATOM   3219  O   ILE B 164      17.706  13.245  22.261  0.00  0.00           O
+ATOM   3222  CG2 ILE B 164      17.631  16.225  22.552  0.00  0.00           C
+ATOM   3224  N   TYR B 165      19.685  13.387  21.203  0.00  0.00           N
+ATOM   3225  CA  TYR B 165      19.293  12.553  20.069  0.00  0.00           C
+ATOM   3226  C   TYR B 165      19.587  11.057  20.183  0.00  0.00           C
+ATOM   3227  O   TYR B 165      19.091  10.271  19.370  0.00  0.00           O
+ATOM   3236  N   SER B 166      20.409  10.681  21.162  0.00  0.00           N
+ATOM   3237  CA  SER B 166      20.755   9.279  21.427  0.00  0.00           C
+ATOM   3238  C   SER B 166      19.636   8.289  21.165  0.00  0.00           C
+ATOM   3240  CB  SER B 166      21.244   9.099  22.867  0.00  0.00           C
+ATOM   3242  N   TYR B 167      18.502   8.499  21.825  0.00  0.00           N
+ATOM   3243  CA  TYR B 167      17.339   7.634  21.657  0.00  0.00           C
+ATOM   3244  C   TYR B 167      16.989   7.479  20.187  0.00  0.00           C
+ATOM   3246  CB  TYR B 167      16.135   8.197  22.417  0.00  0.00           C
+ATOM   3247  CG  TYR B 167      14.856   7.404  22.230  0.00  0.00           C
+ATOM   3249  CD2 TYR B 167      13.826   7.882  21.426  0.00  0.00           C
+ATOM   3254  N   GLN B 168      16.732   8.602  19.522  0.00  0.00           N

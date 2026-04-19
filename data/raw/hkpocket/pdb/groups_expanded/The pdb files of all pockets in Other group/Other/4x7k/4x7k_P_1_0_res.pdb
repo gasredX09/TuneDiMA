@@ -1,0 +1,55 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 49 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  39.91  21.20  -6.77 with max radius 8.26
+ATOM    818  CG  TRP A 899      43.151  13.273  -5.664  0.00  0.00           C
+ATOM    819  CD1 TRP A 899      42.698  13.806  -6.838  0.00  0.00           C
+ATOM    820  CD2 TRP A 899      44.144  14.180  -5.168  0.00  0.00           C
+ATOM    821  NE1 TRP A 899      43.358  14.987  -7.113  0.00  0.00           N
+ATOM    822  CE2 TRP A 899      44.249  15.240  -6.101  0.00  0.00           C
+ATOM    824  CZ2 TRP A 899      45.136  16.309  -5.924  0.00  0.00           C
+ATOM    857  NH2 ARG A 903      45.849  16.824  -9.864  0.00  0.00           N
+ATOM    939  CG1 VAL A 913      46.303  20.397  -5.791  0.00  0.00           C
+ATOM    962  CD2 HIS A 916      41.745  23.953  -3.897  0.00  0.00           C
+ATOM    963  CE1 HIS A 916      40.476  25.609  -3.218  0.00  0.00           C
+ATOM    964  NE2 HIS A 916      40.535  24.586  -4.052  0.00  0.00           N
+ATOM    965  N   ILE A 917      43.309  21.736  -0.787  0.00  0.00           N
+ATOM    966  CA  ILE A 917      42.518  20.572  -0.399  0.00  0.00           C
+ATOM    969  CB  ILE A 917      43.055  19.274  -1.039  0.00  0.00           C
+ATOM    970  CG1 ILE A 917      42.750  19.284  -2.543  0.00  0.00           C
+ATOM    972  CD1 ILE A 917      43.615  18.331  -3.366  0.00  0.00           C
+ATOM    998  CD  GLN A 920      38.211  22.553  -1.076  0.00  0.00           C
+ATOM    999  OE1 GLN A 920      37.110  22.137  -1.461  0.00  0.00           O
+ATOM   1000  NE2 GLN A 920      39.315  22.462  -1.816  0.00  0.00           N
+ATOM   1199  CG  PHE A 945      37.418  15.184  -4.556  0.00  0.00           C
+ATOM   1201  CD2 PHE A 945      38.066  16.369  -4.223  0.00  0.00           C
+ATOM   1202  CE1 PHE A 945      39.398  13.949  -3.873  0.00  0.00           C
+ATOM   1203  CE2 PHE A 945      39.369  16.358  -3.708  0.00  0.00           C
+ATOM   1204  CZ  PHE A 945      40.036  15.144  -3.536  0.00  0.00           C
+ATOM   1223  C   ASP A 948      34.603  19.942  -8.638  0.00  0.00           C
+ATOM   1224  O   ASP A 948      35.086  21.061  -8.396  0.00  0.00           O
+ATOM   1234  CA  ASP A 949      36.222  18.771  -7.180  0.00  0.00           C
+ATOM   1235  C   ASP A 949      36.133  19.526  -5.846  0.00  0.00           C
+ATOM   1236  O   ASP A 949      37.161  19.769  -5.208  0.00  0.00           O
+ATOM   1237  CB  ASP A 949      37.492  19.205  -7.943  0.00  0.00           C
+ATOM   1238  CG  ASP A 949      37.972  18.163  -8.936  0.00  0.00           C
+ATOM   1239  OD1 ASP A 949      38.758  18.532  -9.835  0.00  0.00           O
+ATOM   1240  OD2 ASP A 949      37.584  16.977  -8.824  0.00  0.00           O
+ATOM   1241  N   VAL A 950      34.928  19.897  -5.418  0.00  0.00           N
+ATOM   1242  CA  VAL A 950      34.751  20.444  -4.066  0.00  0.00           C
+ATOM   1245  CB  VAL A 950      33.396  21.173  -3.891  0.00  0.00           C
+ATOM   1247  CG2 VAL A 950      33.300  22.379  -4.840  0.00  0.00           C
+ATOM   1254  CG2 VAL A 951      38.532  18.830  -0.940  0.00  0.00           C
+ATOM   2112  CE1 PHE A1082      44.216  24.129  -8.613  0.00  0.00           C
+ATOM   2114  CZ  PHE A1082      43.719  24.265  -7.317  0.00  0.00           C
+ATOM   2125  O   GLY A1084      41.599  25.382 -12.273  0.00  0.00           O
+ATOM   2127  CA  LYS A1085      42.282  26.767  -9.942  0.00  0.00           C
+ATOM   2128  C   LYS A1085      41.048  27.558 -10.361  0.00  0.00           C
+ATOM   2131  CG  LYS A1085      42.303  27.636  -7.516  0.00  0.00           C
+ATOM   2135  N   THR A1086      39.889  27.182  -9.819  0.00  0.00           N
+ATOM   2136  CA  THR A1086      38.628  27.866 -10.119  0.00  0.00           C
+ATOM   2139  CB  THR A1086      37.425  27.164  -9.443  0.00  0.00           C
+ATOM   2140  OG1 THR A1086      37.277  25.852  -9.995  0.00  0.00           O
+ATOM   2141  CG2 THR A1086      36.121  27.938  -9.677  0.00  0.00           C

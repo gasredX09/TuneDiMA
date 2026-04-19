@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -10.91  52.05 -13.09 with max radius 4.72
+ATOM    202  CG  GLU A 688      -8.732  47.306 -13.662  0.00  0.00           C
+ATOM    203  CD  GLU A 688      -8.296  48.633 -14.238  0.00  0.00           C
+ATOM    204  OE1 GLU A 688      -7.247  49.158 -13.790  0.00  0.00           O
+ATOM    205  OE2 GLU A 688      -9.002  49.146 -15.138  0.00  0.00           O
+ATOM    350  CA  THR A 708     -11.277  50.415  -8.249  0.00  0.00           C
+ATOM    351  C   THR A 708     -12.601  50.204  -8.962  0.00  0.00           C
+ATOM    352  O   THR A 708     -12.846  49.146  -9.533  0.00  0.00           O
+ATOM    353  CB  THR A 708     -10.230  50.895  -9.282  0.00  0.00           C
+ATOM    354  OG1 THR A 708     -10.262  50.040 -10.434  0.00  0.00           O
+ATOM    355  CG2 THR A 708      -8.810  50.928  -8.675  0.00  0.00           C
+ATOM    356  N   LEU A 709     -13.460  51.216  -8.902  0.00  0.00           N
+ATOM    357  CA  LEU A 709     -14.700  51.221  -9.668  0.00  0.00           C
+ATOM    358  C   LEU A 709     -14.412  51.765 -11.064  0.00  0.00           C
+ATOM    359  O   LEU A 709     -14.043  52.932 -11.212  0.00  0.00           O
+ATOM    364  N   LYS A 710     -14.561  50.901 -12.074  0.00  0.00           N
+ATOM    365  CA  LYS A 710     -14.283  51.241 -13.471  0.00  0.00           C
+ATOM    366  C   LYS A 710     -15.105  52.432 -13.926  0.00  0.00           C
+ATOM    368  CB  LYS A 710     -14.578  50.044 -14.388  0.00  0.00           C
+ATOM    369  N   VAL A 711     -14.508  53.254 -14.791  0.00  0.00           N
+ATOM    370  CA  VAL A 711     -15.186  54.402 -15.399  0.00  0.00           C
+ATOM    375  CG2 VAL A 711     -12.851  55.065 -16.161  0.00  0.00           C
+ATOM    650  CB  PRO A 748     -11.118  55.395 -10.082  0.00  0.00           C
+ATOM    651  CG  PRO A 748      -9.686  55.611  -9.894  0.00  0.00           C

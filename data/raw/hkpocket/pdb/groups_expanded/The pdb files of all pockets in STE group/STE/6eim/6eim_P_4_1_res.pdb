@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -23.39  19.84   4.86 with max radius 5.82
+ATOM    103  CG  ASN A  33     -22.197  24.533   1.484  0.00  0.00           C
+ATOM    104  OD1 ASN A  33     -21.524  24.777   2.487  0.00  0.00           O
+ATOM    105  ND2 ASN A  33     -23.093  23.554   1.445  0.00  0.00           N
+ATOM    178  CB  ILE A  38     -26.371  18.733   0.400  0.00  0.00           C
+ATOM    179  CG1 ILE A  38     -24.957  19.095   0.869  0.00  0.00           C
+ATOM    180  CG2 ILE A  38     -26.907  17.536   1.182  0.00  0.00           C
+ATOM    181  CD1 ILE A  38     -23.909  18.027   0.603  0.00  0.00           C
+ATOM    276  CB  TYR A  51     -24.384  14.698   2.165  0.00  0.00           C
+ATOM    277  CG  TYR A  51     -24.604  15.245   3.551  0.00  0.00           C
+ATOM    278  CD1 TYR A  51     -23.530  15.592   4.357  0.00  0.00           C
+ATOM    279  CD2 TYR A  51     -25.884  15.408   4.058  0.00  0.00           C
+ATOM    280  CE1 TYR A  51     -23.723  16.091   5.628  0.00  0.00           C
+ATOM    281  CE2 TYR A  51     -26.089  15.905   5.330  0.00  0.00           C
+ATOM    282  CZ  TYR A  51     -25.004  16.245   6.110  0.00  0.00           C
+ATOM    283  OH  TYR A  51     -25.198  16.741   7.377  0.00  0.00           O
+ATOM    496  CB  VAL A  66     -19.846  16.834   6.216  0.00  0.00           C
+ATOM    497  CG1 VAL A  66     -19.624  18.180   6.900  0.00  0.00           C
+ATOM    498  CG2 VAL A  66     -20.026  17.019   4.713  0.00  0.00           C
+ATOM   1095  CD  LYS A 105     -20.072  21.545   8.780  0.00  0.00           C
+ATOM   1096  CE  LYS A 105     -21.133  21.985   9.780  0.00  0.00           C
+ATOM   1132  NE1 TRP A 107     -18.184  21.101   4.472  0.00  0.00           N
+ATOM   1133  CE2 TRP A 107     -19.023  20.783   3.437  0.00  0.00           C
+ATOM   1135  CZ2 TRP A 107     -20.302  21.247   3.142  0.00  0.00           C
+ATOM   1136  CZ3 TRP A 107     -20.277  19.804   1.206  0.00  0.00           C
+ATOM   1137  CH2 TRP A 107     -20.911  20.747   2.024  0.00  0.00           C

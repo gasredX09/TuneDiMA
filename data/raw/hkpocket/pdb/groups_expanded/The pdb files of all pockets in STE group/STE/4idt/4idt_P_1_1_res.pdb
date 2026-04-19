@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  94.85  70.67 113.16 with max radius 7.62
+ATOM   1661  NH2 ARG A 437      94.201  66.071 117.501  0.00  0.00           N
+ATOM   1690  CG  GLU A 439      92.932  64.947 113.883  0.00  0.00           C
+ATOM   1691  CD  GLU A 439      92.057  65.768 114.804  0.00  0.00           C
+ATOM   1692  OE1 GLU A 439      92.167  67.014 114.770  0.00  0.00           O
+ATOM   1741  CE  MET A 442      90.391  65.654 109.551  0.00  0.00           C
+ATOM   3205  CA  VAL A 539      96.999  65.996 113.806  0.00  0.00           C
+ATOM   3206  C   VAL A 539      97.171  66.122 112.300  0.00  0.00           C
+ATOM   3208  CB  VAL A 539      97.608  67.200 114.552  0.00  0.00           C
+ATOM   3210  CG2 VAL A 539      97.932  68.323 113.580  0.00  0.00           C
+ATOM   3220  N   CYS A 540      96.151  66.690 111.672  0.00  0.00           N
+ATOM   3221  CA  CYS A 540      96.095  66.804 110.229  0.00  0.00           C
+ATOM   3222  C   CYS A 540      96.526  68.211 109.870  0.00  0.00           C
+ATOM   3223  O   CYS A 540      95.800  69.177 110.077  0.00  0.00           O
+ATOM   3224  CB  CYS A 540      94.694  66.462 109.691  0.00  0.00           C
+ATOM   3256  CD  GLN A 542      94.793  73.378 108.533  0.00  0.00           C
+ATOM   3257  OE1 GLN A 542      94.813  74.223 109.427  0.00  0.00           O
+ATOM   3258  NE2 GLN A 542      94.130  72.232 108.644  0.00  0.00           N
+ATOM   3267  N   THR A 552      98.968  74.283 112.544  0.00  0.00           N
+ATOM   3268  CA  THR A 552      99.354  73.613 113.780  0.00  0.00           C
+ATOM   3269  C   THR A 552      98.929  74.449 114.982  0.00  0.00           C
+ATOM   3270  O   THR A 552      98.091  75.344 114.854  0.00  0.00           O
+ATOM   3280  N   GLY A 553      99.517  74.168 116.143  0.00  0.00           N
+ATOM   3287  N   ASP A 554      97.921  72.857 117.754  0.00  0.00           N
+ATOM   3288  CA  ASP A 554      96.897  72.028 118.381  0.00  0.00           C
+ATOM   3291  CB  ASP A 554      95.644  71.982 117.504  0.00  0.00           C
+ATOM   3292  CG  ASP A 554      94.983  73.335 117.356  0.00  0.00           C
+ATOM   3294  OD2 ASP A 554      95.171  73.977 116.302  0.00  0.00           O

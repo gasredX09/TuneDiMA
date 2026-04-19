@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  11.46  34.48  51.77 with max radius 7.37
+ATOM   1763  CD2 LEU A 567      14.670  37.496  47.636  0.00  0.00           C
+ATOM   1799  CB  CYS A 571      12.107  35.369  45.497  0.00  0.00           C
+ATOM   1800  SG  CYS A 571      11.868  34.444  47.046  0.00  0.00           S
+ATOM   1803  C   PRO A 572       7.314  34.628  46.497  0.00  0.00           C
+ATOM   1804  O   PRO A 572       8.067  34.334  47.438  0.00  0.00           O
+ATOM   1808  N   PRO A 573       6.201  35.325  46.681  0.00  0.00           N
+ATOM   1809  CA  PRO A 573       5.936  35.869  48.008  0.00  0.00           C
+ATOM   1810  C   PRO A 573       5.656  34.810  49.070  0.00  0.00           C
+ATOM   1811  O   PRO A 573       5.855  35.074  50.238  0.00  0.00           O
+ATOM   1815  N   ASN A 574       5.247  33.620  48.657  0.00  0.00           N
+ATOM   1817  C   ASN A 574       5.986  31.570  49.842  0.00  0.00           C
+ATOM   1823  N   CYS A 575       7.185  31.833  49.311  0.00  0.00           N
+ATOM   1824  CA  CYS A 575       8.285  31.034  49.673  0.00  0.00           C
+ATOM   1825  C   CYS A 575       8.490  31.063  51.200  0.00  0.00           C
+ATOM   1826  O   CYS A 575       8.479  32.138  51.813  0.00  0.00           O
+ATOM   1827  CB  CYS A 575       9.541  31.470  48.921  0.00  0.00           C
+ATOM   1828  SG  CYS A 575      11.104  30.658  49.312  0.00  0.00           S
+ATOM   1830  CA  PRO A 576       8.570  29.821  53.273  0.00  0.00           C
+ATOM   1831  C   PRO A 576       9.811  30.358  53.981  0.00  0.00           C
+ATOM   1832  O   PRO A 576      10.887  30.445  53.374  0.00  0.00           O
+ATOM   1836  N   PRO A 577       9.653  30.741  55.276  0.00  0.00           N
+ATOM   1837  CA  PRO A 577      10.838  31.224  56.008  0.00  0.00           C
+ATOM   1838  C   PRO A 577      11.989  30.248  55.923  0.00  0.00           C
+ATOM   1840  CB  PRO A 577      10.341  31.363  57.446  0.00  0.00           C
+ATOM   1841  CG  PRO A 577       8.835  31.432  57.321  0.00  0.00           C
+ATOM   1842  CD  PRO A 577       8.501  30.530  56.168  0.00  0.00           C
+ATOM   1843  N   SER A 578      13.160  30.820  55.767  0.00  0.00           N
+ATOM   1844  CA  SER A 578      14.459  30.139  55.722  0.00  0.00           C
+ATOM   1845  C   SER A 578      14.802  29.469  54.385  0.00  0.00           C
+ATOM   1849  N   PHE A 579      13.825  29.175  53.525  0.00  0.00           N
+ATOM   1850  CA  PHE A 579      14.090  28.379  52.317  0.00  0.00           C
+ATOM   1851  C   PHE A 579      15.002  29.118  51.324  0.00  0.00           C
+ATOM   1853  CB  PHE A 579      12.787  27.946  51.698  0.00  0.00           C
+ATOM   1860  N   PHE A 580      14.771  30.407  51.103  0.00  0.00           N
+ATOM   1861  CA  PHE A 580      15.677  31.145  50.227  0.00  0.00           C
+ATOM   1864  CB  PHE A 580      15.034  32.444  49.725  0.00  0.00           C
+ATOM   1865  CG  PHE A 580      15.897  33.168  48.732  0.00  0.00           C
+ATOM   1867  CD2 PHE A 580      16.366  34.446  48.988  0.00  0.00           C
+ATOM   1876  CG  PRO A 581      16.886  33.046  54.050  0.00  0.00           C
+ATOM   1877  CD  PRO A 581      16.087  32.423  52.972  0.00  0.00           C
+ATOM   2244  CG  ASP A 625      14.515  33.896  57.417  0.00  0.00           C
+ATOM   2245  OD1 ASP A 625      14.415  33.349  56.311  0.00  0.00           O
+ATOM   2246  OD2 ASP A 625      13.827  34.902  57.750  0.00  0.00           O
+ATOM   2279  CD1 TRP A 629      15.406  37.294  55.466  0.00  0.00           C
+ATOM   2281  NE1 TRP A 629      14.815  36.826  54.334  0.00  0.00           N
+ATOM   2282  CE2 TRP A 629      14.947  37.757  53.344  0.00  0.00           C
+ATOM   2284  CZ2 TRP A 629      14.494  37.746  52.047  0.00  0.00           C
+ATOM   2286  CH2 TRP A 629      14.783  38.842  51.259  0.00  0.00           C

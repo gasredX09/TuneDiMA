@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -18.10 -30.30 -30.91 with max radius 7.40
+ATOM    976  CG  ARG A 135     -18.671 -34.754 -31.410  0.00  0.00           C
+ATOM    977  CD  ARG A 135     -19.777 -34.115 -30.604  0.00  0.00           C
+ATOM    979  CZ  ARG A 135     -21.428 -34.860 -28.940  0.00  0.00           C
+ATOM    980  NH1 ARG A 135     -22.172 -33.788 -29.175  0.00  0.00           N
+ATOM   1014  NE  ARG A 139     -15.436 -34.014 -27.542  0.00  0.00           N
+ATOM   1015  CZ  ARG A 139     -16.712 -34.289 -27.795  0.00  0.00           C
+ATOM   1017  NH2 ARG A 139     -17.579 -33.299 -27.989  0.00  0.00           N
+ATOM   2050  CA  MET A 284     -15.233 -30.633 -35.614  0.00  0.00           C
+ATOM   2051  C   MET A 284     -16.355 -29.603 -35.535  0.00  0.00           C
+ATOM   2052  O   MET A 284     -17.265 -29.740 -34.723  0.00  0.00           O
+ATOM   2053  CB  MET A 284     -14.256 -30.393 -34.460  0.00  0.00           C
+ATOM   2054  CG  MET A 284     -13.099 -31.352 -34.431  0.00  0.00           C
+ATOM   2055  SD  MET A 284     -12.535 -31.658 -32.763  0.00  0.00           S
+ATOM   2056  CE  MET A 284     -13.900 -32.668 -32.173  0.00  0.00           C
+ATOM   2062  CG  LYS A 285     -15.474 -25.971 -35.431  0.00  0.00           C
+ATOM   2064  CE  LYS A 285     -14.436 -24.514 -33.721  0.00  0.00           C
+ATOM   2065  NZ  LYS A 285     -15.107 -24.953 -32.463  0.00  0.00           N
+ATOM   2096  C   ILE A 289     -21.492 -32.093 -34.461  0.00  0.00           C
+ATOM   2097  O   ILE A 289     -21.762 -32.644 -33.391  0.00  0.00           O
+ATOM   2100  CG2 ILE A 289     -18.748 -32.879 -34.491  0.00  0.00           C
+ATOM   2102  N   ARG A 290     -21.645 -30.783 -34.653  0.00  0.00           N
+ATOM   2103  CA  ARG A 290     -22.021 -29.891 -33.554  0.00  0.00           C
+ATOM   2104  C   ARG A 290     -23.521 -29.854 -33.249  0.00  0.00           C
+ATOM   2105  O   ARG A 290     -23.910 -29.696 -32.091  0.00  0.00           O
+ATOM   2106  CB  ARG A 290     -21.525 -28.461 -33.827  0.00  0.00           C
+ATOM   2107  CG  ARG A 290     -20.092 -28.212 -33.367  0.00  0.00           C
+ATOM   2108  CD  ARG A 290     -19.743 -26.727 -33.307  0.00  0.00           C
+ATOM   2109  NE  ARG A 290     -18.965 -26.400 -32.108  0.00  0.00           N
+ATOM   2110  CZ  ARG A 290     -19.498 -26.124 -30.919  0.00  0.00           C
+ATOM   2112  NH2 ARG A 290     -18.713 -25.839 -29.889  0.00  0.00           N

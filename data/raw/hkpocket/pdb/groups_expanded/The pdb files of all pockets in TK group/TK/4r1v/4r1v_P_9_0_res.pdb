@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at 105.67  16.11 171.50 with max radius 7.25
+ATOM   2066  CA  PRO A1311     110.101  14.184 171.101  0.00  0.00           C
+ATOM   2067  C   PRO A1311     109.482  14.262 169.701  0.00  0.00           C
+ATOM   2068  O   PRO A1311     108.264  14.349 169.566  0.00  0.00           O
+ATOM   2069  CB  PRO A1311     110.475  15.583 171.639  0.00  0.00           C
+ATOM   2093  CA  GLU A1314     106.494  10.936 169.734  0.00  0.00           C
+ATOM   2094  C   GLU A1314     105.425  11.636 168.885  0.00  0.00           C
+ATOM   2095  O   GLU A1314     104.283  11.192 168.825  0.00  0.00           O
+ATOM   2096  CB  GLU A1314     106.642  11.648 171.083  0.00  0.00           C
+ATOM   2098  CD  GLU A1314     107.972  11.735 173.272  0.00  0.00           C
+ATOM   2099  OE1 GLU A1314     107.663  12.940 173.374  0.00  0.00           O
+ATOM   2101  N   VAL A1315     105.794  12.752 168.267  0.00  0.00           N
+ATOM   2102  CA  VAL A1315     104.896  13.476 167.362  0.00  0.00           C
+ATOM   2105  CB  VAL A1315     105.531  14.780 166.841  0.00  0.00           C
+ATOM   2107  CG2 VAL A1315     105.654  15.777 167.963  0.00  0.00           C
+ATOM   2136  CB  LYS A1318     100.722  11.926 168.252  0.00  0.00           C
+ATOM   2137  CG  LYS A1318     101.117  11.774 169.738  0.00  0.00           C
+ATOM   2138  CD  LYS A1318     101.271  13.132 170.387  0.00  0.00           C
+ATOM   2139  CE  LYS A1318     101.460  13.062 171.880  0.00  0.00           C
+ATOM   2281  CA  ARG A1336     104.975  21.515 169.233  0.00  0.00           C
+ATOM   2282  C   ARG A1336     106.291  21.417 168.445  0.00  0.00           C
+ATOM   2283  O   ARG A1336     107.368  21.299 169.045  0.00  0.00           O
+ATOM   2284  CB  ARG A1336     104.328  20.138 169.315  0.00  0.00           C
+ATOM   2285  CG  ARG A1336     103.180  20.049 170.305  0.00  0.00           C
+ATOM   2286  CD  ARG A1336     102.681  18.618 170.442  0.00  0.00           C
+ATOM   2287  NE  ARG A1336     101.688  18.482 171.519  0.00  0.00           N
+ATOM   2288  CZ  ARG A1336     101.965  18.160 172.782  0.00  0.00           C
+ATOM   2289  NH1 ARG A1336     103.218  17.965 173.191  0.00  0.00           N
+ATOM   2321  CG1 ILE A1340     109.919  19.037 169.472  0.00  0.00           C
+ATOM   2323  CD1 ILE A1340     109.105  17.931 168.759  0.00  0.00           C

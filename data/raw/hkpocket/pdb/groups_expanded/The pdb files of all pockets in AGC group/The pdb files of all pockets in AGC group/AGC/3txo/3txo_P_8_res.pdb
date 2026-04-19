@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   3.44   1.40   3.32 with max radius 6.12
+ATOM    486  NE2 HIS A 413       6.309   2.041   9.422  0.00  0.00           N
+ATOM    912  C   ILE A 464       7.448   6.004   2.929  0.00  0.00           C
+ATOM    913  O   ILE A 464       6.332   6.476   3.309  0.00  0.00           O
+ATOM    916  CG2 ILE A 464       6.877   6.134   0.160  0.00  0.00           C
+ATOM    918  N   SER A 465       7.907   4.768   3.229  0.00  0.00           N
+ATOM    919  CA  SER A 465       7.112   3.887   4.051  0.00  0.00           C
+ATOM    920  C   SER A 465       6.968   4.467   5.471  0.00  0.00           C
+ATOM    921  O   SER A 465       5.862   4.486   6.045  0.00  0.00           O
+ATOM    922  CB  SER A 465       7.803   2.493   4.102  0.00  0.00           C
+ATOM    923  OG  SER A 465       7.125   1.718   5.072  0.00  0.00           O
+ATOM    941  CB  MET A 468       2.946   5.908   3.736  0.00  0.00           C
+ATOM    942  CG  MET A 468       3.111   6.466   2.356  0.00  0.00           C
+ATOM    943  SD  MET A 468       2.858   5.322   0.992  0.00  0.00           S
+ATOM    944  CE  MET A 468       1.090   4.911   1.171  0.00  0.00           C
+ATOM    945  N   PHE A 469       3.212   5.828   6.912  0.00  0.00           N
+ATOM    946  CA  PHE A 469       2.789   5.372   8.267  0.00  0.00           C
+ATOM    949  CB  PHE A 469       3.893   4.558   9.014  0.00  0.00           C
+ATOM   1965  CE1 HIS A 606      -1.613   1.933  -0.088  0.00  0.00           C
+ATOM   1985  CG  LEU A 609       3.250   2.847  -2.172  0.00  0.00           C
+ATOM   1986  CD1 LEU A 609       2.527   1.797  -1.287  0.00  0.00           C
+ATOM   1987  CD2 LEU A 609       4.573   3.411  -1.501  0.00  0.00           C
+ATOM   2073  CA  TRP A 619       6.590  -2.970  -0.514  0.00  0.00           C
+ATOM   2074  C   TRP A 619       6.273  -3.785   0.714  0.00  0.00           C
+ATOM   2075  O   TRP A 619       6.645  -3.399   1.858  0.00  0.00           O
+ATOM   2076  CB  TRP A 619       5.498  -1.882  -0.754  0.00  0.00           C
+ATOM   2077  CG  TRP A 619       5.908  -0.960  -1.830  0.00  0.00           C
+ATOM   2079  CD2 TRP A 619       6.701   0.234  -1.658  0.00  0.00           C
+ATOM   2082  CE3 TRP A 619       7.240   0.888  -0.526  0.00  0.00           C
+ATOM   2084  CZ3 TRP A 619       7.928   2.097  -0.720  0.00  0.00           C
+ATOM   2085  CH2 TRP A 619       8.111   2.633  -2.015  0.00  0.00           C
+ATOM   2113  CG  ASN A 623       6.361  -1.697   4.710  0.00  0.00           C
+ATOM   2114  OD1 ASN A 623       5.275  -1.468   4.196  0.00  0.00           O
+ATOM   2115  ND2 ASN A 623       7.350  -0.786   4.732  0.00  0.00           N

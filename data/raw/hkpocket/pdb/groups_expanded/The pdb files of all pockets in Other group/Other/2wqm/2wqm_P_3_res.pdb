@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  10.90  31.94  23.49 with max radius 7.46
+ATOM    169  CD1 ILE A  40      14.739  35.997  24.261  0.00  0.00           C
+ATOM    202  CB  VAL A  48      11.984  37.060  20.539  0.00  0.00           C
+ATOM    203  CG1 VAL A  48      11.579  36.729  21.972  0.00  0.00           C
+ATOM    204  CG2 VAL A  48      11.055  36.394  19.549  0.00  0.00           C
+ATOM    297  CB  ALA A  61      10.261  35.854  25.844  0.00  0.00           C
+ATOM    311  CG  LYS A  63       7.245  37.036  19.461  0.00  0.00           C
+ATOM    312  CD  LYS A  63       6.721  35.596  19.480  0.00  0.00           C
+ATOM    313  CE  LYS A  63       7.128  34.821  18.234  0.00  0.00           C
+ATOM    314  NZ  LYS A  63       8.613  34.767  18.084  0.00  0.00           N
+ATOM    554  CB  ILE A  95       5.773  28.948  27.377  0.00  0.00           C
+ATOM    555  CG1 ILE A  95       7.225  28.440  27.406  0.00  0.00           C
+ATOM    556  CG2 ILE A  95       5.774  30.468  27.220  0.00  0.00           C
+ATOM    557  CD1 ILE A  95       8.117  29.211  28.372  0.00  0.00           C
+ATOM    690  CB  LEU A 111       6.238  34.495  26.297  0.00  0.00           C
+ATOM    691  CG  LEU A 111       5.484  34.548  24.976  0.00  0.00           C
+ATOM    692  CD1 LEU A 111       6.355  33.972  23.889  0.00  0.00           C
+ATOM    693  CD2 LEU A 111       4.195  33.759  25.092  0.00  0.00           C
+ATOM    696  C   GLU A 112       8.684  33.204  29.614  0.00  0.00           C
+ATOM    697  O   GLU A 112       8.697  32.697  28.496  0.00  0.00           O
+ATOM    703  N   LEU A 113       9.789  33.619  30.227  0.00  0.00           N
+ATOM    704  CA  LEU A 113      11.095  33.500  29.593  0.00  0.00           C
+ATOM    705  C   LEU A 113      11.682  32.111  29.849  0.00  0.00           C
+ATOM    707  CB  LEU A 113      12.043  34.615  30.094  0.00  0.00           C
+ATOM    708  CG  LEU A 113      13.489  34.637  29.554  0.00  0.00           C
+ATOM    709  CD1 LEU A 113      13.528  34.821  28.044  0.00  0.00           C
+ATOM    711  N   ALA A 114      12.029  31.399  28.784  0.00  0.00           N
+ATOM    712  CA  ALA A 114      12.680  30.091  28.907  0.00  0.00           C
+ATOM    713  C   ALA A 114      13.979  30.224  28.144  0.00  0.00           C
+ATOM    714  O   ALA A 114      14.005  30.175  26.909  0.00  0.00           O
+ATOM    715  CB  ALA A 114      11.817  28.988  28.333  0.00  0.00           C
+ATOM    717  CA  ASP A 115      16.298  30.897  28.375  0.00  0.00           C
+ATOM    722  OD1 ASP A 115      17.165  33.108  27.162  0.00  0.00           O
+ATOM   1177  CG  PHE A 168      11.710  26.555  25.480  0.00  0.00           C
+ATOM   1178  CD1 PHE A 168      12.750  26.915  24.656  0.00  0.00           C
+ATOM   1179  CD2 PHE A 168      10.421  26.856  25.092  0.00  0.00           C
+ATOM   1180  CE1 PHE A 168      12.514  27.597  23.484  0.00  0.00           C
+ATOM   1181  CE2 PHE A 168      10.182  27.538  23.925  0.00  0.00           C
+ATOM   1182  CZ  PHE A 168      11.229  27.897  23.115  0.00  0.00           C
+ATOM   1246  CA  GLY A 178       6.823  26.509  24.084  0.00  0.00           C
+ATOM   1247  C   GLY A 178       5.669  27.118  23.340  0.00  0.00           C
+ATOM   1249  N   ASP A 179       5.849  28.370  22.932  0.00  0.00           N
+ATOM   1250  CA  ASP A 179       4.764  29.147  22.343  0.00  0.00           C
+ATOM   1253  CB  ASP A 179       5.074  30.648  22.387  0.00  0.00           C
+ATOM   1254  CG  ASP A 179       6.469  30.972  21.878  0.00  0.00           C
+ATOM   1255  OD1 ASP A 179       7.447  30.401  22.406  0.00  0.00           O
+ATOM   1256  OD2 ASP A 179       6.585  31.812  20.957  0.00  0.00           O

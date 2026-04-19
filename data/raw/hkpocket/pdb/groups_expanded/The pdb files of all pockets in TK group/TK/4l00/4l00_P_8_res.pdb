@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -9.44   8.73  49.53 with max radius 6.13
+ATOM   1990  C   LYS A 818     -12.233   9.930  44.500  0.00  0.00           C
+ATOM   1991  O   LYS A 818     -12.558  10.416  45.595  0.00  0.00           O
+ATOM   1993  CG  LYS A 818     -14.283   7.856  44.757  0.00  0.00           C
+ATOM   1995  CE  LYS A 818     -14.866   5.783  46.039  0.00  0.00           C
+ATOM   1997  N   GLU A 819     -10.975   9.576  44.225  0.00  0.00           N
+ATOM   1998  CA  GLU A 819      -9.896   9.826  45.195  0.00  0.00           C
+ATOM   1999  C   GLU A 819      -9.778  11.305  45.583  0.00  0.00           C
+ATOM   2000  O   GLU A 819      -9.664  11.638  46.779  0.00  0.00           O
+ATOM   2001  CB  GLU A 819      -8.552   9.312  44.669  0.00  0.00           C
+ATOM   2002  CG  GLU A 819      -8.412   7.791  44.566  0.00  0.00           C
+ATOM   2003  CD  GLU A 819      -9.371   7.117  43.582  0.00  0.00           C
+ATOM   2020  CA  ASP A 822     -13.339  12.197  48.773  0.00  0.00           C
+ATOM   2021  C   ASP A 822     -12.450  13.067  49.666  0.00  0.00           C
+ATOM   2023  CB  ASP A 822     -12.939  10.721  48.941  0.00  0.00           C
+ATOM   2024  CG  ASP A 822     -14.000   9.741  48.433  0.00  0.00           C
+ATOM   2026  OD2 ASP A 822     -13.661   8.539  48.350  0.00  0.00           O
+ATOM   2027  N   LEU A 823     -11.243  13.413  49.201  0.00  0.00           N
+ATOM   2028  CA  LEU A 823     -10.386  14.316  50.011  0.00  0.00           C
+ATOM   2031  CB  LEU A 823      -8.951  14.480  49.454  0.00  0.00           C
+ATOM   2032  CG  LEU A 823      -7.933  13.339  49.445  0.00  0.00           C
+ATOM   2033  CD1 LEU A 823      -6.683  13.794  48.693  0.00  0.00           C
+ATOM   2034  CD2 LEU A 823      -7.580  12.949  50.867  0.00  0.00           C
+ATOM   2056  CD  ARG A 826     -11.675  12.220  53.907  0.00  0.00           C
+ATOM   2059  NH1 ARG A 826      -8.963  11.349  53.806  0.00  0.00           N
+ATOM   2214  CB  ASP A 844      -5.121   9.685  53.087  0.00  0.00           C
+ATOM   2215  CG  ASP A 844      -5.801   9.366  54.417  0.00  0.00           C
+ATOM   2217  OD2 ASP A 844      -6.774  10.070  54.776  0.00  0.00           O
+ATOM   2248  CG  LEU A 848      -5.429   7.219  47.699  0.00  0.00           C
+ATOM   2249  CD1 LEU A 848      -5.929   8.641  47.466  0.00  0.00           C
+ATOM   2250  CD2 LEU A 848      -6.370   6.177  47.102  0.00  0.00           C

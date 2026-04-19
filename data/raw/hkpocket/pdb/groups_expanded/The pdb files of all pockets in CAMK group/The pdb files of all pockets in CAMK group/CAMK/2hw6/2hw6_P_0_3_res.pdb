@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  24.70  42.35  72.04 with max radius 5.06
+ATOM    497  CA  GLN A 102      20.767  39.676  69.394  0.00  0.00           C
+ATOM    498  C   GLN A 102      22.086  39.067  68.991  0.00  0.00           C
+ATOM    505  N   GLY A 103      23.153  39.559  69.605  0.00  0.00           N
+ATOM    506  CA  GLY A 103      24.489  39.171  69.188  0.00  0.00           C
+ATOM    507  C   GLY A 103      25.266  40.312  68.557  0.00  0.00           C
+ATOM    508  O   GLY A 103      26.478  40.422  68.775  0.00  0.00           O
+ATOM    509  N   ASN A 104      24.587  41.149  67.767  0.00  0.00           N
+ATOM    510  CA  ASN A 104      25.202  42.372  67.266  0.00  0.00           C
+ATOM    511  C   ASN A 104      25.418  43.319  68.424  0.00  0.00           C
+ATOM    512  O   ASN A 104      24.479  43.649  69.142  0.00  0.00           O
+ATOM    517  N   LYS A 105      26.659  43.755  68.597  0.00  0.00           N
+ATOM    518  CA  LYS A 105      27.059  44.509  69.791  0.00  0.00           C
+ATOM    519  C   LYS A 105      26.695  45.992  69.739  0.00  0.00           C
+ATOM    521  CB  LYS A 105      28.562  44.346  70.055  0.00  0.00           C
+ATOM    537  O   ILE A 107      21.935  45.236  70.864  0.00  0.00           O
+ATOM    554  CB  GLU A 109      21.109  42.174  73.538  0.00  0.00           C
+ATOM    555  CG  GLU A 109      20.685  40.761  73.877  0.00  0.00           C
+ATOM    556  CD  GLU A 109      21.778  39.749  73.684  0.00  0.00           C
+ATOM    557  OE1 GLU A 109      22.677  40.005  72.858  0.00  0.00           O
+ATOM    704  CD  GLU A 125      22.796  44.588  75.961  0.00  0.00           C
+ATOM    705  OE1 GLU A 125      23.839  44.325  76.618  0.00  0.00           O
+ATOM    706  OE2 GLU A 125      22.803  44.771  74.721  0.00  0.00           O
+ATOM   1201  CE  LYS A 188      25.528  46.688  73.672  0.00  0.00           C
+ATOM   1202  NZ  LYS A 188      24.825  45.517  73.057  0.00  0.00           N

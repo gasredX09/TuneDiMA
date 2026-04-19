@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -0.19  35.69  82.62 with max radius 5.73
+ATOM     19  CB  PRO A  41      -0.275  30.927  82.425  0.00  0.00           C
+ATOM     20  CG  PRO A  41      -1.525  30.116  82.485  0.00  0.00           C
+ATOM     24  C   GLY A  42       3.208  33.120  84.741  0.00  0.00           C
+ATOM     25  O   GLY A  42       2.895  33.660  83.689  0.00  0.00           O
+ATOM     27  CA  LYS A  43       3.198  35.245  85.978  0.00  0.00           C
+ATOM     28  C   LYS A  43       4.515  36.015  86.030  0.00  0.00           C
+ATOM     30  CB  LYS A  43       2.390  35.573  87.234  0.00  0.00           C
+ATOM     31  CG  LYS A  43       1.225  34.645  87.521  0.00  0.00           C
+ATOM     32  CD  LYS A  43       0.288  35.257  88.533  0.00  0.00           C
+ATOM     33  CE  LYS A  43      -0.981  34.459  88.637  0.00  0.00           C
+ATOM     35  N   PHE A  44       4.475  37.297  85.685  0.00  0.00           N
+ATOM    603  CE1 PHE A 114       4.963  35.177  81.326  0.00  0.00           C
+ATOM    604  CE2 PHE A 114       4.387  37.444  81.870  0.00  0.00           C
+ATOM    605  CZ  PHE A 114       4.145  36.083  81.983  0.00  0.00           C
+ATOM    609  O   GLU A 115       2.062  36.849  78.842  0.00  0.00           O
+ATOM    616  CA  ASP A 116       0.494  38.986  79.946  0.00  0.00           C
+ATOM    617  C   ASP A 116      -0.735  38.870  79.102  0.00  0.00           C
+ATOM    619  CB  ASP A 116       0.274  40.324  80.636  0.00  0.00           C
+ATOM    620  CG  ASP A 116       0.912  40.421  81.967  0.00  0.00           C
+ATOM    622  OD2 ASP A 116       1.438  39.404  82.465  0.00  0.00           O
+ATOM    623  N   ASP A 117      -1.866  38.747  79.772  0.00  0.00           N
+ATOM    624  CA  ASP A 117      -3.144  38.976  79.145  0.00  0.00           C
+ATOM    627  CB  ASP A 117      -4.253  38.447  80.043  0.00  0.00           C

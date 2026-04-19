@@ -1,0 +1,46 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 16 with 40 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -27.11  26.76  53.99 with max radius 6.89
+ATOM      3  C   LYS A  14     -31.320  23.810  55.021  0.00  0.00           C
+ATOM      4  O   LYS A  14     -30.142  23.971  55.384  0.00  0.00           O
+ATOM     10  N   ALA A  15     -32.059  24.764  54.429  0.00  0.00           N
+ATOM     11  CA  ALA A  15     -31.483  25.991  53.817  0.00  0.00           C
+ATOM     12  C   ALA A  15     -31.436  27.280  54.699  0.00  0.00           C
+ATOM     14  CB  ALA A  15     -32.212  26.286  52.487  0.00  0.00           C
+ATOM     15  N   ARG A  16     -30.620  28.256  54.255  0.00  0.00           N
+ATOM     16  CA  ARG A  16     -30.503  29.615  54.863  0.00  0.00           C
+ATOM     17  C   ARG A  16     -30.044  30.647  53.801  0.00  0.00           C
+ATOM     19  CB  ARG A  16     -29.528  29.623  56.051  0.00  0.00           C
+ATOM     20  CG  ARG A  16     -30.050  29.018  57.345  0.00  0.00           C
+ATOM     21  CD  ARG A  16     -28.964  28.275  58.099  0.00  0.00           C
+ATOM     22  NE  ARG A  16     -29.360  27.889  59.454  0.00  0.00           N
+ATOM     49  CA  SER A  27     -22.961  26.251  52.629  0.00  0.00           C
+ATOM     50  C   SER A  27     -22.094  26.070  53.881  0.00  0.00           C
+ATOM     52  CB  SER A  27     -23.874  25.063  52.462  0.00  0.00           C
+ATOM     53  OG  SER A  27     -23.967  24.410  53.684  0.00  0.00           O
+ATOM     54  N   LYS A  28     -22.533  26.566  55.033  0.00  0.00           N
+ATOM     55  CA  LYS A  28     -21.830  26.271  56.290  0.00  0.00           C
+ATOM     56  C   LYS A  28     -21.823  24.783  56.583  0.00  0.00           C
+ATOM     58  CB  LYS A  28     -22.453  27.007  57.458  0.00  0.00           C
+ATOM     59  CG  LYS A  28     -22.138  28.500  57.494  0.00  0.00           C
+ATOM     60  CD  LYS A  28     -23.173  29.276  58.325  0.00  0.00           C
+ATOM     61  CE  LYS A  28     -23.613  30.556  57.590  0.00  0.00           C
+ATOM     63  N   LYS A  29     -22.801  24.044  56.074  0.00  0.00           N
+ATOM     67  CB  LYS A  29     -24.341  22.142  56.168  0.00  0.00           C
+ATOM     68  CG  LYS A  29     -25.157  22.408  57.452  0.00  0.00           C
+ATOM     69  CD  LYS A  29     -26.709  22.292  57.251  0.00  0.00           C
+ATOM     70  CE  LYS A  29     -27.494  22.719  58.581  0.00  0.00           C
+ATOM   1389  CG  ARG A 187     -28.322  27.702  47.276  0.00  0.00           C
+ATOM   1390  CD  ARG A 187     -27.850  28.800  48.241  0.00  0.00           C
+ATOM   1391  NE  ARG A 187     -26.797  28.344  49.153  0.00  0.00           N
+ATOM   1392  CZ  ARG A 187     -25.495  28.268  48.831  0.00  0.00           C
+ATOM   1394  NH2 ARG A 187     -24.604  27.821  49.713  0.00  0.00           N
+ATOM   1531  CB  ARG A 206     -25.814  23.694  48.736  0.00  0.00           C
+ATOM   1532  CG  ARG A 206     -27.151  24.391  48.375  0.00  0.00           C
+ATOM   1533  CD  ARG A 206     -28.402  23.694  48.940  0.00  0.00           C
+ATOM   1534  NE  ARG A 206     -28.454  23.885  50.371  0.00  0.00           N
+ATOM   1535  CZ  ARG A 206     -29.122  23.109  51.221  0.00  0.00           C
+ATOM   1537  NH2 ARG A 206     -29.086  23.394  52.522  0.00  0.00           N

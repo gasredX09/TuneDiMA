@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -23.87   5.97 -30.70 with max radius 6.67
+ATOM    749  CE1 TYR A 679     -21.482   1.833 -26.872  0.00  0.00           C
+ATOM    750  CE2 TYR A 679     -22.883   2.962 -25.306  0.00  0.00           C
+ATOM    751  CZ  TYR A 679     -22.721   2.294 -26.499  0.00  0.00           C
+ATOM    752  OH  TYR A 679     -23.798   2.080 -27.326  0.00  0.00           O
+ATOM    796  CE1 TYR A 685     -19.799   5.590 -27.036  0.00  0.00           C
+ATOM    798  CZ  TYR A 685     -20.204   6.911 -27.085  0.00  0.00           C
+ATOM    799  OH  TYR A 685     -21.512   7.224 -27.401  0.00  0.00           O
+ATOM    832  CE  LYS A 688     -18.397   2.178 -31.049  0.00  0.00           C
+ATOM    841  CG  ASN A 689     -18.878   7.417 -31.252  0.00  0.00           C
+ATOM    842  OD1 ASN A 689     -19.934   7.316 -31.796  0.00  0.00           O
+ATOM    896  C   ASN A 786     -28.384   9.210 -32.400  0.00  0.00           C
+ATOM    897  O   ASN A 786     -27.246   9.002 -31.984  0.00  0.00           O
+ATOM    903  CA  SER A 787     -28.605   6.909 -33.103  0.00  0.00           C
+ATOM    904  C   SER A 787     -27.503   6.843 -34.159  0.00  0.00           C
+ATOM    905  O   SER A 787     -26.678   5.927 -34.108  0.00  0.00           O
+ATOM    906  CB  SER A 787     -29.733   5.921 -33.441  0.00  0.00           C
+ATOM    908  N   GLU A 788     -27.447   7.805 -35.089  0.00  0.00           N
+ATOM    909  CA  GLU A 788     -26.490   7.748 -36.190  0.00  0.00           C
+ATOM    910  C   GLU A 788     -25.089   8.217 -35.821  0.00  0.00           C
+ATOM    917  N   GLY A 789     -24.906   8.878 -34.690  0.00  0.00           N
+ATOM    918  CA  GLY A 789     -23.582   9.346 -34.336  0.00  0.00           C
+ATOM    919  C   GLY A 789     -23.645  10.388 -33.240  0.00  0.00           C
+ATOM    920  O   GLY A 789     -24.720  10.832 -32.829  0.00  0.00           O
+ATOM    921  N   LEU A 790     -22.454  10.773 -32.773  0.00  0.00           N
+ATOM    922  CA  LEU A 790     -22.365  11.767 -31.714  0.00  0.00           C
+ATOM    925  CB  LEU A 790     -20.998  11.725 -31.028  0.00  0.00           C
+ATOM    926  CG  LEU A 790     -20.759  10.550 -30.085  0.00  0.00           C
+ATOM    928  CD2 LEU A 790     -21.925  10.370 -29.109  0.00  0.00           C
+ATOM   1239  CE  LYS A 830     -24.801   8.478 -27.024  0.00  0.00           C
+ATOM   1240  NZ  LYS A 830     -25.694   9.199 -27.977  0.00  0.00           N

@@ -1,0 +1,73 @@
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'pyg-lib'. Disabling its usage. Stacktrace: /lib64/libm.so.6: version `GLIBC_2.29' not found (required by /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/libpyg.so)
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-scatter'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_scatter/_scatter_cuda.so: undefined symbol: _ZN2at4_ops16div__Tensor_mode4callERNS_6TensorERKS2_St8optionalIN3c1017basic_string_viewIcEEE
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-spline-conv'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_spline_conv/_basis_cuda.so: undefined symbol: _ZN5torch8autograd12VariableInfoC1ERKN2at6TensorE
+  import torch_geometric.typing
+/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_geometric/__init__.py:4: UserWarning: An issue occurred while importing 'torch-sparse'. Disabling its usage. Stacktrace: /jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch_sparse/_spmm_cuda.so: undefined symbol: _ZN5torch8autograd12VariableInfoC1ERKN2at6TensorE
+  import torch_geometric.typing
+[18:17:08] SMILES Parse Error: syntax error while parsing: [8KZ]
+[18:17:08] SMILES Parse Error: check for mistakes around position 4:
+[18:17:08] [8KZ]
+[18:17:08] ~~~^
+[18:17:08] SMILES Parse Error: Failed parsing SMILES '[8KZ]' for input: '[8KZ]'
+[18:17:08] SMILES Parse Error: syntax error while parsing: [X84]
+[18:17:08] SMILES Parse Error: check for mistakes around position 2:
+[18:17:08] [X84]
+[18:17:08] ~^
+[18:17:08] SMILES Parse Error: Failed parsing SMILES '[X84]' for input: '[X84]'
+[18:17:08] SMILES Parse Error: syntax error while parsing: [QP4]
+[18:17:08] SMILES Parse Error: check for mistakes around position 2:
+[18:17:08] [QP4]
+[18:17:08] ~^
+[18:17:08] SMILES Parse Error: Failed parsing SMILES '[QP4]' for input: '[QP4]'
+[18:17:09] SMILES Parse Error: syntax error while parsing: [XA0]
+[18:17:09] SMILES Parse Error: check for mistakes around position 2:
+[18:17:09] [XA0]
+[18:17:09] ~^
+[18:17:09] SMILES Parse Error: Failed parsing SMILES '[XA0]' for input: '[XA0]'
+[18:17:09] SMILES Parse Error: syntax error while parsing: [5TL]
+[18:17:09] SMILES Parse Error: check for mistakes around position 3:
+[18:17:09] [5TL]
+[18:17:09] ~~^
+[18:17:09] SMILES Parse Error: Failed parsing SMILES '[5TL]' for input: '[5TL]'
+[18:17:17] SMILES Parse Error: syntax error while parsing: [0]
+[18:17:17] SMILES Parse Error: check for mistakes around position 3:
+[18:17:17] [0]
+[18:17:17] ~~^
+[18:17:17] SMILES Parse Error: Failed parsing SMILES '[0]' for input: '[0]'
+[18:17:17] SMILES Parse Error: syntax error while parsing: [A3Q]
+[18:17:17] SMILES Parse Error: check for mistakes around position 2:
+[18:17:17] [A3Q]
+[18:17:17] ~^
+[18:17:17] SMILES Parse Error: Failed parsing SMILES '[A3Q]' for input: '[A3Q]'
+[18:17:17] SMILES Parse Error: syntax error while parsing: [5T1]
+[18:17:17] SMILES Parse Error: check for mistakes around position 3:
+[18:17:17] [5T1]
+[18:17:17] ~~^
+[18:17:17] SMILES Parse Error: Failed parsing SMILES '[5T1]' for input: '[5T1]'
+[18:17:18] SMILES Parse Error: syntax error while parsing: [0]
+[18:17:18] SMILES Parse Error: check for mistakes around position 3:
+[18:17:18] [0]
+[18:17:18] ~~^
+[18:17:18] SMILES Parse Error: Failed parsing SMILES '[0]' for input: '[0]'
+Traceback (most recent call last):
+  File "/ocean/projects/cis260039p/mjaju/projects/train_model.py", line 195, in main
+    trained_model = train(
+  File "/ocean/projects/cis260039p/mjaju/projects/training.py", line 124, in train
+    train_loss = train_epoch(model, train_loader, optimizer, loss_fn, device)
+  File "/ocean/projects/cis260039p/mjaju/projects/training.py", line 72, in train_epoch
+    preds = model(lig_batch, poc_batch, int_batch)
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/ocean/projects/cis260039p/mjaju/projects/models/ligand_pocket.py", line 84, in forward
+    h = F.relu(self.fc1(h))
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/jet/home/mjaju/miniconda3/envs/nn/lib/python3.10/site-packages/torch/nn/modules/linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (16x784 and 529x128)

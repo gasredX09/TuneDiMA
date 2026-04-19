@@ -1,0 +1,57 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 51 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.73  -3.25  28.58 with max radius 6.89
+ATOM   1458  CB  GLU A 382      15.023  -1.847  29.858  0.00  0.00           C
+ATOM   1459  CG  GLU A 382      15.286  -1.743  28.354  0.00  0.00           C
+ATOM   1460  CD  GLU A 382      14.823  -2.895  27.471  0.00  0.00           C
+ATOM   1461  OE1 GLU A 382      15.278  -2.930  26.308  0.00  0.00           O
+ATOM   1462  OE2 GLU A 382      14.032  -3.763  27.913  0.00  0.00           O
+ATOM   1496  C   SER A 387      17.228   1.081  32.722  0.00  0.00           C
+ATOM   1497  O   SER A 387      18.416   0.802  32.915  0.00  0.00           O
+ATOM   1498  CB  SER A 387      16.045  -0.446  34.275  0.00  0.00           C
+ATOM   1499  OG  SER A 387      15.520  -1.264  33.242  0.00  0.00           O
+ATOM   1500  N   ILE A 388      16.731   1.399  31.508  0.00  0.00           N
+ATOM   1501  CA  ILE A 388      17.571   1.461  30.307  0.00  0.00           C
+ATOM   1502  C   ILE A 388      18.757   2.403  30.522  0.00  0.00           C
+ATOM   1504  CB  ILE A 388      16.732   1.867  29.050  0.00  0.00           C
+ATOM   1505  CG1 ILE A 388      17.630   1.868  27.780  0.00  0.00           C
+ATOM   1507  CD1 ILE A 388      16.879   1.741  26.424  0.00  0.00           C
+ATOM   1508  N   ASN A 389      19.942   1.995  30.080  0.00  0.00           N
+ATOM   1509  CA  ASN A 389      21.102   2.878  30.133  0.00  0.00           C
+ATOM   1512  CB  ASN A 389      22.391   2.119  30.390  0.00  0.00           C
+ATOM   1557  O   GLU A 394      21.107  -1.948  22.259  0.00  0.00           O
+ATOM   1563  N   SER A 395      21.693  -0.464  23.878  0.00  0.00           N
+ATOM   1564  CA  SER A 395      20.402  -0.527  24.567  0.00  0.00           C
+ATOM   1565  C   SER A 395      19.249  -0.106  23.650  0.00  0.00           C
+ATOM   1566  O   SER A 395      18.182  -0.743  23.657  0.00  0.00           O
+ATOM   1567  CB  SER A 395      20.402   0.324  25.820  0.00  0.00           C
+ATOM   1568  OG  SER A 395      21.273  -0.265  26.774  0.00  0.00           O
+ATOM   1590  CA  ARG A 398      17.801  -4.024  21.778  0.00  0.00           C
+ATOM   1591  C   ARG A 398      16.330  -3.675  22.003  0.00  0.00           C
+ATOM   1592  O   ARG A 398      15.472  -4.563  21.864  0.00  0.00           O
+ATOM   1593  CB  ARG A 398      18.515  -4.361  23.094  0.00  0.00           C
+ATOM   1594  CG  ARG A 398      19.916  -4.981  22.868  0.00  0.00           C
+ATOM   1595  CD  ARG A 398      20.755  -4.839  24.123  0.00  0.00           C
+ATOM   1597  CZ  ARG A 398      22.994  -5.450  24.937  0.00  0.00           C
+ATOM   1598  NH1 ARG A 398      22.754  -4.833  26.087  0.00  0.00           N
+ATOM   1600  N   ALA A 399      16.029  -2.385  22.334  0.00  0.00           N
+ATOM   1601  CA  ALA A 399      14.640  -1.953  22.521  0.00  0.00           C
+ATOM   1604  CB  ALA A 399      14.569  -0.555  23.116  0.00  0.00           C
+ATOM   2242  C   ALA A 477      14.490  -8.253  29.572  0.00  0.00           C
+ATOM   2243  O   ALA A 477      14.645  -7.036  29.625  0.00  0.00           O
+ATOM   2246  CA  ASN A 478      16.893  -8.664  29.429  0.00  0.00           C
+ATOM   2247  C   ASN A 478      17.250  -8.427  27.964  0.00  0.00           C
+ATOM   2251  OD1 ASN A 478      19.699  -8.167  29.661  0.00  0.00           O
+ATOM   2253  N   GLY A 479      17.454  -7.155  27.614  0.00  0.00           N
+ATOM   2254  CA  GLY A 479      17.776  -6.761  26.246  0.00  0.00           C
+ATOM   2255  C   GLY A 479      18.977  -7.493  25.678  0.00  0.00           C
+ATOM   2257  N   ALA A 480      20.002  -7.749  26.527  0.00  0.00           N
+ATOM   2258  CA  ALA A 480      21.200  -8.466  26.090  0.00  0.00           C
+ATOM   2261  CB  ALA A 480      22.261  -8.435  27.181  0.00  0.00           C
+ATOM   2273  CD  ARG A 482      15.110  -7.733  23.404  0.00  0.00           C
+ATOM   2275  CZ  ARG A 482      14.392  -6.280  25.279  0.00  0.00           C
+ATOM   2276  NH1 ARG A 482      14.850  -5.184  24.668  0.00  0.00           N
+ATOM   2277  NH2 ARG A 482      13.887  -6.183  26.506  0.00  0.00           N

@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   6.29  25.33  -2.98 with max radius 5.54
+ATOM   1426  CB  TRP A 538       7.568  19.651  -1.116  0.00  0.00           C
+ATOM   1427  CG  TRP A 538       8.625  20.664  -1.495  0.00  0.00           C
+ATOM   1428  CD1 TRP A 538       9.688  21.129  -0.717  0.00  0.00           C
+ATOM   1429  CD2 TRP A 538       8.756  21.284  -2.784  0.00  0.00           C
+ATOM   1431  CE2 TRP A 538       9.922  22.111  -2.740  0.00  0.00           C
+ATOM   1432  CE3 TRP A 538       7.980  21.256  -3.951  0.00  0.00           C
+ATOM   1433  CZ2 TRP A 538      10.325  22.894  -3.847  0.00  0.00           C
+ATOM   1434  CZ3 TRP A 538       8.385  22.032  -5.081  0.00  0.00           C
+ATOM   1435  CH2 TRP A 538       9.550  22.854  -4.999  0.00  0.00           C
+ATOM   1647  C   ILE A 566      10.725  28.387  -5.021  0.00  0.00           C
+ATOM   1648  O   ILE A 566      10.023  27.508  -5.609  0.00  0.00           O
+ATOM   1651  CG2 ILE A 566      10.797  26.981  -2.501  0.00  0.00           C
+ATOM   1654  CA  LEU A 567       9.063  30.162  -5.382  0.00  0.00           C
+ATOM   1660  CD2 LEU A 567       7.207  30.799  -2.889  0.00  0.00           C
+ATOM   1844  O   THR A 590       4.963  21.194  -6.076  0.00  0.00           O
+ATOM   1849  CA  LYS A 591       5.149  23.868  -6.752  0.00  0.00           C
+ATOM   1850  C   LYS A 591       3.748  23.954  -6.189  0.00  0.00           C
+ATOM   1851  O   LYS A 591       3.525  24.249  -4.978  0.00  0.00           O
+ATOM   1852  CB  LYS A 591       5.609  25.205  -7.364  0.00  0.00           C
+ATOM   1853  CG  LYS A 591       7.083  25.158  -7.834  0.00  0.00           C
+ATOM   1854  CD  LYS A 591       7.632  26.582  -8.073  0.00  0.00           C
+ATOM   1856  NZ  LYS A 591      10.085  26.322  -7.874  0.00  0.00           N
+ATOM   1895  CZ  ARG A 596       4.221  20.541  -2.775  0.00  0.00           C
+ATOM   1896  NH1 ARG A 596       3.978  20.245  -1.471  0.00  0.00           N
+ATOM   1897  NH2 ARG A 596       4.302  21.830  -3.142  0.00  0.00           N

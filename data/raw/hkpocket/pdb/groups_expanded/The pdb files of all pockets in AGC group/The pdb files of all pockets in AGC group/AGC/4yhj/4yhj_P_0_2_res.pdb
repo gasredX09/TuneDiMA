@@ -1,0 +1,25 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 19 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  20.13  29.88  27.70 with max radius 6.25
+ATOM   1529  CE  LYS A 211      16.364  25.243  29.519  0.00  0.00           C
+ATOM   1530  NZ  LYS A 211      16.118  26.144  30.683  0.00  0.00           N
+ATOM   1969  CG2 THR A 265      21.248  30.065  31.848  0.00  0.00           C
+ATOM   1973  O   ILE A 266      23.891  28.539  29.202  0.00  0.00           O
+ATOM   1976  CG2 ILE A 266      23.221  25.472  28.673  0.00  0.00           C
+ATOM   1984  SD  MET A 267      24.443  31.996  30.528  0.00  0.00           S
+ATOM   2421  CB  ASP A 321      23.893  32.471  26.783  0.00  0.00           C
+ATOM   2422  CG  ASP A 321      22.975  33.506  26.128  0.00  0.00           C
+ATOM   2424  OD2 ASP A 321      21.749  33.449  26.375  0.00  0.00           O
+ATOM   2430  CG  ASP A 322      23.330  29.152  23.429  0.00  0.00           C
+ATOM   2431  OD1 ASP A 322      22.268  29.829  23.421  0.00  0.00           O
+ATOM   2432  OD2 ASP A 322      23.499  28.138  24.161  0.00  0.00           O
+ATOM   2439  CD  ARG A 323      19.396  33.151  22.357  0.00  0.00           C
+ATOM   2440  NE  ARG A 323      19.414  33.429  23.802  0.00  0.00           N
+ATOM   2441  CZ  ARG A 323      18.696  34.377  24.404  0.00  0.00           C
+ATOM   2443  NH2 ARG A 323      18.793  34.559  25.715  0.00  0.00           N
+ATOM   2473  NE  ARG A 327      21.001  33.617  31.825  0.00  0.00           N
+ATOM   2474  CZ  ARG A 327      19.746  33.515  32.240  0.00  0.00           C
+ATOM   2476  NH2 ARG A 327      18.766  33.328  31.368  0.00  0.00           N

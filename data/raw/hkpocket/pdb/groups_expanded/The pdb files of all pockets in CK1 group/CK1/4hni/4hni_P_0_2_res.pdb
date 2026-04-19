@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -28.60 -17.56 -32.77 with max radius 8.26
+ATOM    109  CG2 ILE A  15     -25.535 -21.261 -28.932  0.00  0.00           C
+ATOM    112  CA  GLY A  16     -24.301 -21.175 -33.389  0.00  0.00           C
+ATOM    118  O   SER A  17     -25.125 -19.480 -37.334  0.00  0.00           O
+ATOM    139  CE1 PHE A  20     -26.281 -15.855 -38.161  0.00  0.00           C
+ATOM    140  CE2 PHE A  20     -24.696 -16.114 -36.328  0.00  0.00           C
+ATOM    141  CZ  PHE A  20     -25.855 -16.546 -37.006  0.00  0.00           C
+ATOM    158  CB  ILE A  23     -22.932 -17.403 -31.251  0.00  0.00           C
+ATOM    159  CG1 ILE A  23     -23.542 -16.586 -32.398  0.00  0.00           C
+ATOM    160  CG2 ILE A  23     -23.135 -16.716 -29.905  0.00  0.00           C
+ATOM    161  CD1 ILE A  23     -22.820 -15.298 -32.725  0.00  0.00           C
+ATOM    591  CB  SER A  88     -34.467 -17.354 -30.321  0.00  0.00           C
+ATOM    947  CE  LYS A 130     -33.245 -14.618 -38.931  0.00  0.00           C
+ATOM    958  C   ASP A 132     -33.832 -14.973 -33.813  0.00  0.00           C
+ATOM    959  O   ASP A 132     -32.865 -15.221 -33.092  0.00  0.00           O
+ATOM    960  CB  ASP A 132     -34.063 -16.799 -35.550  0.00  0.00           C
+ATOM    970  OD1 ASN A 133     -31.595 -13.085 -35.871  0.00  0.00           O
+ATOM    988  CG  LEU A 135     -32.006 -14.789 -28.141  0.00  0.00           C
+ATOM    989  CD1 LEU A 135     -32.570 -14.757 -29.553  0.00  0.00           C
+ATOM    990  CD2 LEU A 135     -30.507 -14.511 -28.135  0.00  0.00           C
+ATOM   1087  CD1 ILE A 148     -30.200 -12.764 -31.607  0.00  0.00           C
+ATOM   1104  CE1 PHE A 150     -26.218 -13.431 -33.911  0.00  0.00           C
+ATOM   1105  CE2 PHE A 150     -28.475 -13.093 -34.712  0.00  0.00           C
+ATOM   1106  CZ  PHE A 150     -27.586 -13.708 -33.827  0.00  0.00           C

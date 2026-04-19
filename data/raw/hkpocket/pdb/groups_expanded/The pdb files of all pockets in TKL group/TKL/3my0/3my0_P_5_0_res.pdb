@@ -1,0 +1,60 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 54 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  37.54 -47.76 -43.50 with max radius 6.79
+ATOM   1624  CD2 TRP A 406      42.982 -52.234 -43.151  0.00  0.00           C
+ATOM   1625  NE1 TRP A 406      41.531 -52.646 -44.805  0.00  0.00           N
+ATOM   1626  CE2 TRP A 406      42.364 -51.689 -44.296  0.00  0.00           C
+ATOM   1628  CZ2 TRP A 406      42.637 -50.404 -44.753  0.00  0.00           C
+ATOM   1629  CZ3 TRP A 406      44.181 -50.181 -42.896  0.00  0.00           C
+ATOM   1630  CH2 TRP A 406      43.548 -49.668 -44.048  0.00  0.00           C
+ATOM   1764  O   PRO A 423      44.150 -46.909 -41.477  0.00  0.00           O
+ATOM   1769  CA  PRO A 424      42.680 -48.574 -39.852  0.00  0.00           C
+ATOM   1770  C   PRO A 424      41.835 -47.310 -39.716  0.00  0.00           C
+ATOM   1772  CB  PRO A 424      42.373 -49.539 -38.697  0.00  0.00           C
+ATOM   1775  N   PHE A 425      40.798 -47.214 -40.536  0.00  0.00           N
+ATOM   1776  CA  PHE A 425      39.906 -46.045 -40.591  0.00  0.00           C
+ATOM   1777  C   PHE A 425      40.594 -44.753 -41.015  0.00  0.00           C
+ATOM   1779  CB  PHE A 425      39.192 -45.838 -39.257  0.00  0.00           C
+ATOM   1780  CG  PHE A 425      38.423 -47.031 -38.794  0.00  0.00           C
+ATOM   1781  CD1 PHE A 425      37.189 -47.319 -39.332  0.00  0.00           C
+ATOM   1782  CD2 PHE A 425      38.929 -47.856 -37.790  0.00  0.00           C
+ATOM   1783  CE1 PHE A 425      36.468 -48.421 -38.899  0.00  0.00           C
+ATOM   1785  CZ  PHE A 425      36.978 -49.243 -37.899  0.00  0.00           C
+ATOM   1786  N   TYR A 426      41.725 -44.866 -41.705  0.00  0.00           N
+ATOM   1793  CD2 TYR A 426      43.229 -45.997 -44.551  0.00  0.00           C
+ATOM   1795  CE2 TYR A 426      43.090 -46.524 -45.813  0.00  0.00           C
+ATOM   1796  CZ  TYR A 426      43.252 -45.695 -46.946  0.00  0.00           C
+ATOM   1797  OH  TYR A 426      43.114 -46.217 -48.210  0.00  0.00           O
+ATOM   1798  N   ASP A 427      40.572 -43.321 -43.738  0.00  0.00           N
+ATOM   1803  CG  ASP A 427      38.548 -44.738 -45.322  0.00  0.00           C
+ATOM   1804  OD1 ASP A 427      37.694 -44.637 -44.411  0.00  0.00           O
+ATOM   1805  OD2 ASP A 427      38.841 -45.829 -45.855  0.00  0.00           O
+ATOM   1810  CB  VAL A 428      36.113 -42.714 -41.724  0.00  0.00           C
+ATOM   1910  CG1 VAL A 441      34.203 -45.119 -38.634  0.00  0.00           C
+ATOM   1950  CA  GLN A 447      31.734 -48.857 -40.700  0.00  0.00           C
+ATOM   1951  C   GLN A 447      32.798 -49.827 -40.200  0.00  0.00           C
+ATOM   1952  O   GLN A 447      33.089 -49.909 -39.000  0.00  0.00           O
+ATOM   1953  CB  GLN A 447      32.406 -47.518 -41.022  0.00  0.00           C
+ATOM   1954  CG  GLN A 447      32.122 -47.009 -42.451  0.00  0.00           C
+ATOM   1955  CD  GLN A 447      31.965 -45.498 -42.531  0.00  0.00           C
+ATOM   1956  OE1 GLN A 447      32.387 -44.766 -41.630  0.00  0.00           O
+ATOM   1957  NE2 GLN A 447      31.333 -45.022 -43.610  0.00  0.00           N
+ATOM   1958  N   THR A 448      33.379 -50.558 -41.145  0.00  0.00           N
+ATOM   1959  CA  THR A 448      34.551 -51.395 -40.892  0.00  0.00           C
+ATOM   1960  C   THR A 448      35.570 -51.121 -42.025  0.00  0.00           C
+ATOM   1961  O   THR A 448      35.156 -50.728 -43.128  0.00  0.00           O
+ATOM   1965  N   PRO A 449      36.901 -51.288 -41.766  0.00  0.00           N
+ATOM   1966  CA  PRO A 449      37.843 -50.996 -42.870  0.00  0.00           C
+ATOM   1967  C   PRO A 449      37.477 -51.714 -44.161  0.00  0.00           C
+ATOM   1969  CB  PRO A 449      39.194 -51.538 -42.347  0.00  0.00           C
+ATOM   1970  CG  PRO A 449      39.079 -51.513 -40.874  0.00  0.00           C
+ATOM   1971  CD  PRO A 449      37.617 -51.808 -40.581  0.00  0.00           C
+ATOM   1972  N   THR A 450      37.694 -51.062 -45.294  0.00  0.00           N
+ATOM   1973  CA  THR A 450      37.395 -51.669 -46.590  0.00  0.00           C
+ATOM   1974  C   THR A 450      38.269 -52.907 -46.791  0.00  0.00           C
+ATOM   1975  O   THR A 450      39.499 -52.838 -46.685  0.00  0.00           O
+ATOM   1976  CB  THR A 450      37.643 -50.691 -47.770  0.00  0.00           C
+ATOM   1977  OG1 THR A 450      37.274 -49.351 -47.397  0.00  0.00           O

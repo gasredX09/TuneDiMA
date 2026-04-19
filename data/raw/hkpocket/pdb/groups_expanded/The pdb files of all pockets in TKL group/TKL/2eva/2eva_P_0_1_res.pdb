@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.35  28.89  20.68 with max radius 6.56
+ATOM   1450  CA  THR A 224      13.685  32.162  21.812  0.00  0.00           C
+ATOM   1451  C   THR A 224      14.797  33.000  21.186  0.00  0.00           C
+ATOM   1452  O   THR A 224      15.806  32.460  20.746  0.00  0.00           O
+ATOM   1453  CB  THR A 224      12.860  31.543  20.658  0.00  0.00           C
+ATOM   1455  CG2 THR A 224      11.722  30.686  21.192  0.00  0.00           C
+ATOM   1472  CG  ARG A 226      15.104  31.694  17.098  0.00  0.00           C
+ATOM   1473  CD  ARG A 226      14.379  30.373  17.135  0.00  0.00           C
+ATOM   1474  NE  ARG A 226      15.290  29.266  17.398  0.00  0.00           N
+ATOM   1475  CZ  ARG A 226      16.141  28.770  16.504  0.00  0.00           C
+ATOM   1477  NH2 ARG A 226      16.937  27.759  16.832  0.00  0.00           N
+ATOM   2109  CD2 HIS A 468      21.932  33.074  20.749  0.00  0.00           C
+ATOM   2110  CE1 HIS A 468      20.226  33.993  19.722  0.00  0.00           C
+ATOM   2111  NE2 HIS A 468      20.642  32.888  20.313  0.00  0.00           N
+ATOM   2114  C   SER A 469      23.682  31.139  17.591  0.00  0.00           C
+ATOM   2117  OG  SER A 469      24.037  29.259  19.882  0.00  0.00           O
+ATOM   2118  N   LEU A 470      22.773  30.169  17.761  0.00  0.00           N
+ATOM   2119  CA  LEU A 470      21.506  30.040  17.012  0.00  0.00           C
+ATOM   2120  C   LEU A 470      21.512  28.929  15.951  0.00  0.00           C
+ATOM   2122  CB  LEU A 470      21.098  31.370  16.348  0.00  0.00           C
+ATOM   2124  CD1 LEU A 470      19.065  30.710  15.002  0.00  0.00           C
+ATOM   2125  CD2 LEU A 470      18.815  31.605  17.338  0.00  0.00           C
+ATOM   2126  N   PRO A 471      21.217  27.684  16.374  0.00  0.00           N
+ATOM   2128  C   PRO A 471      19.720  26.159  15.092  0.00  0.00           C
+ATOM   2129  O   PRO A 471      19.017  25.439  15.810  0.00  0.00           O
+ATOM   2131  CG  PRO A 471      21.161  25.775  17.750  0.00  0.00           C
+ATOM   2132  CD  PRO A 471      21.263  27.295  17.801  0.00  0.00           C
+ATOM   2177  CA  VAL A 478      13.009  25.156  19.156  0.00  0.00           C
+ATOM   2178  C   VAL A 478      13.370  25.301  20.626  0.00  0.00           C
+ATOM   2180  CB  VAL A 478      12.809  26.589  18.561  0.00  0.00           C
+ATOM   2181  CG1 VAL A 478      12.564  26.501  17.066  0.00  0.00           C
+ATOM   2182  CG2 VAL A 478      11.687  27.323  19.274  0.00  0.00           C
+ATOM   2183  N   GLU A 479      14.646  25.516  20.907  0.00  0.00           N
+ATOM   2184  CA  GLU A 479      15.093  25.670  22.276  0.00  0.00           C
+ATOM   2185  C   GLU A 479      14.977  27.118  22.704  0.00  0.00           C
+ATOM   2186  O   GLU A 479      15.134  28.029  21.902  0.00  0.00           O
+ATOM   2187  CB  GLU A 479      16.543  25.203  22.406  0.00  0.00           C
+ATOM   2188  CG  GLU A 479      16.717  23.741  22.067  0.00  0.00           C
+ATOM   2192  N   PRO A 480      14.673  27.356  23.983  0.00  0.00           N
+ATOM   2193  CA  PRO A 480      14.572  28.755  24.390  0.00  0.00           C
+ATOM   2194  C   PRO A 480      15.965  29.347  24.561  0.00  0.00           C
+ATOM   2195  O   PRO A 480      16.926  28.618  24.817  0.00  0.00           O
+ATOM   2199  N   TYR A 481      16.076  30.661  24.396  0.00  0.00           N
+ATOM   2200  CA  TYR A 481      17.346  31.341  24.599  0.00  0.00           C
+ATOM   2201  C   TYR A 481      17.507  31.493  26.105  0.00  0.00           C
+ATOM   2203  CB  TYR A 481      17.337  32.731  23.966  0.00  0.00           C
+ATOM   2204  CG  TYR A 481      18.429  33.617  24.508  0.00  0.00           C
+ATOM   2205  CD1 TYR A 481      19.768  33.359  24.213  0.00  0.00           C

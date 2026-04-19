@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -1.64  13.44  21.05 with max radius 8.02
+ATOM   2872  C   TRP B  25      -4.332  17.287  23.211  0.00  0.00           C
+ATOM   2873  O   TRP B  25      -3.251  16.872  22.811  0.00  0.00           O
+ATOM   2874  CB  TRP B  25      -4.548  16.410  25.542  0.00  0.00           C
+ATOM   2877  CD2 TRP B  25      -6.257  14.705  24.478  0.00  0.00           C
+ATOM   2880  CE3 TRP B  25      -5.646  14.180  23.329  0.00  0.00           C
+ATOM   2882  CZ3 TRP B  25      -6.343  13.239  22.569  0.00  0.00           C
+ATOM   2884  N   ASP B  26      -5.397  17.419  22.424  0.00  0.00           N
+ATOM   2885  CA  ASP B  26      -5.344  17.138  20.989  0.00  0.00           C
+ATOM   2886  C   ASP B  26      -4.739  18.327  20.228  0.00  0.00           C
+ATOM   2888  CB  ASP B  26      -6.742  16.808  20.468  0.00  0.00           C
+ATOM   2889  CG  ASP B  26      -6.742  16.312  19.030  0.00  0.00           C
+ATOM   2890  OD1 ASP B  26      -5.676  15.917  18.508  0.00  0.00           O
+ATOM   2892  N   TYR B  27      -3.449  18.546  20.436  0.00  0.00           N
+ATOM   2897  CG  TYR B  27      -0.497  18.548  20.060  0.00  0.00           C
+ATOM   2898  CD1 TYR B  27       0.134  18.437  18.824  0.00  0.00           C
+ATOM   2899  CD2 TYR B  27      -0.323  17.523  20.984  0.00  0.00           C
+ATOM   2900  CE1 TYR B  27       0.902  17.353  18.523  0.00  0.00           C
+ATOM   2901  CE2 TYR B  27       0.448  16.420  20.684  0.00  0.00           C
+ATOM   2902  CZ  TYR B  27       1.062  16.341  19.453  0.00  0.00           C
+ATOM   2903  OH  TYR B  27       1.834  15.245  19.141  0.00  0.00           O
+ATOM   2904  N   GLU B  28      -2.906  18.523  17.657  0.00  0.00           N
+ATOM   2905  CA  GLU B  28      -2.907  18.504  16.189  0.00  0.00           C
+ATOM   2908  CB  GLU B  28      -2.915  17.078  15.637  0.00  0.00           C
+ATOM   2909  CG  GLU B  28      -1.588  16.371  15.797  0.00  0.00           C
+ATOM   2910  CD  GLU B  28      -1.600  14.952  15.244  0.00  0.00           C
+ATOM   2911  OE1 GLU B  28      -2.566  14.571  14.550  0.00  0.00           O
+ATOM   2912  OE2 GLU B  28      -0.622  14.221  15.496  0.00  0.00           O
+ATOM   4148  CD  GLU B 181       3.574  14.438  22.761  0.00  0.00           C
+ATOM   4149  OE1 GLU B 181       3.589  14.199  21.536  0.00  0.00           O
+ATOM   4150  OE2 GLU B 181       2.520  14.691  23.383  0.00  0.00           O
+ATOM   4151  N   PHE B 182       2.137  15.524  26.085  0.00  0.00           N
+ATOM   4152  CA  PHE B 182       1.046  15.194  26.983  0.00  0.00           C
+ATOM   4153  C   PHE B 182       1.221  13.757  27.428  0.00  0.00           C
+ATOM   4154  O   PHE B 182       1.508  12.868  26.608  0.00  0.00           O
+ATOM   4155  CB  PHE B 182      -0.305  15.392  26.301  0.00  0.00           C
+ATOM   4156  CG  PHE B 182      -0.578  16.821  25.912  0.00  0.00           C
+ATOM   4158  CD2 PHE B 182      -0.088  17.336  24.714  0.00  0.00           C
+ATOM   4179  CG  HIS B 184      -2.456  10.867  26.495  0.00  0.00           C
+ATOM   4181  CD2 HIS B 184      -1.833  11.770  25.697  0.00  0.00           C
+ATOM   4182  CE1 HIS B 184      -3.763  12.631  26.276  0.00  0.00           C
+ATOM   4183  NE2 HIS B 184      -2.660  12.859  25.582  0.00  0.00           N
+ATOM   4202  CD  GLN B 187       0.499   9.033  23.625  0.00  0.00           C
+ATOM   4203  OE1 GLN B 187      -0.708   9.169  23.861  0.00  0.00           O
+ATOM   4204  NE2 GLN B 187       1.224   9.976  23.019  0.00  0.00           N
+ATOM   4220  CD1 TYR B 189       4.842  10.285  24.551  0.00  0.00           C
+ATOM   4222  CE1 TYR B 189       3.636  10.648  25.125  0.00  0.00           C

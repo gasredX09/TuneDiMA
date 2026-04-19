@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  56.46  43.93  -4.53 with max radius 5.88
+ATOM     72  CD  ARG A 145      60.892  43.276  -0.649  0.00  0.00           C
+ATOM     73  NE  ARG A 145      59.493  42.989  -0.343  0.00  0.00           N
+ATOM     74  CZ  ARG A 145      58.780  43.618   0.585  0.00  0.00           C
+ATOM     75  NH1 ARG A 145      57.509  43.288   0.780  0.00  0.00           N
+ATOM     84  CD2 PHE A 146      61.582  39.678  -2.909  0.00  0.00           C
+ATOM     86  CE2 PHE A 146      60.501  40.526  -3.056  0.00  0.00           C
+ATOM     87  CZ  PHE A 146      59.369  40.342  -2.272  0.00  0.00           C
+ATOM    504  CA  LYS A 199      53.582  44.899  -9.117  0.00  0.00           C
+ATOM    505  C   LYS A 199      52.491  45.742  -8.473  0.00  0.00           C
+ATOM    506  O   LYS A 199      52.238  45.615  -7.267  0.00  0.00           O
+ATOM    507  CB  LYS A 199      54.914  45.639  -9.002  0.00  0.00           C
+ATOM    508  CG  LYS A 199      56.163  44.803  -9.193  0.00  0.00           C
+ATOM    509  CD  LYS A 199      57.361  45.616  -8.727  0.00  0.00           C
+ATOM    510  CE  LYS A 199      58.683  44.912  -8.960  0.00  0.00           C
+ATOM    511  NZ  LYS A 199      59.803  45.734  -8.415  0.00  0.00           N
+ATOM    578  CG  ARG A 208      51.381  40.608  -4.318  0.00  0.00           C
+ATOM    579  CD  ARG A 208      51.479  40.984  -2.854  0.00  0.00           C
+ATOM    580  NE  ARG A 208      52.350  42.133  -2.652  0.00  0.00           N
+ATOM    581  CZ  ARG A 208      52.543  42.714  -1.473  0.00  0.00           C
+ATOM    583  NH2 ARG A 208      53.356  43.759  -1.370  0.00  0.00           N
+ATOM    584  N   PHE A 209      52.044  39.812  -7.328  0.00  0.00           N
+ATOM    586  C   PHE A 209      54.305  40.677  -7.274  0.00  0.00           C
+ATOM    587  O   PHE A 209      54.065  41.889  -7.237  0.00  0.00           O
+ATOM    596  CA  TYR A 210      56.324  40.894  -5.909  0.00  0.00           C
+ATOM    597  C   TYR A 210      57.485  41.465  -6.711  0.00  0.00           C
+ATOM    598  O   TYR A 210      57.780  42.657  -6.601  0.00  0.00           O
+ATOM    599  CB  TYR A 210      56.891  40.031  -4.783  0.00  0.00           C
+ATOM    600  CG  TYR A 210      55.954  39.823  -3.611  0.00  0.00           C
+ATOM    601  CD1 TYR A 210      55.848  40.772  -2.610  0.00  0.00           C
+ATOM    603  CE1 TYR A 210      55.003  40.571  -1.527  0.00  0.00           C
+ATOM    608  CA  ASP A 211      59.409  41.056  -8.131  0.00  0.00           C
+ATOM    611  CB  ASP A 211      60.520  41.280  -7.101  0.00  0.00           C
+ATOM    612  CG  ASP A 211      61.603  42.222  -7.595  0.00  0.00           C
+ATOM    613  OD1 ASP A 211      61.483  42.746  -8.727  0.00  0.00           O
+ATOM    614  OD2 ASP A 211      62.570  42.441  -6.835  0.00  0.00           O

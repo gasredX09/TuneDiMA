@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  48.59  25.31  13.74 with max radius 6.36
+ATOM   1877  CA  MET A1053      51.793  22.643  12.189  0.00  0.00           C
+ATOM   1878  C   MET A1053      51.406  21.191  12.472  0.00  0.00           C
+ATOM   1879  O   MET A1053      50.585  20.923  13.356  0.00  0.00           O
+ATOM   1880  CB  MET A1053      51.098  23.122  10.913  0.00  0.00           C
+ATOM   1881  CG  MET A1053      51.286  24.601  10.608  0.00  0.00           C
+ATOM   1882  SD  MET A1053      50.611  25.042   8.993  0.00  0.00           S
+ATOM   1883  CE  MET A1053      48.859  24.923   9.341  0.00  0.00           C
+ATOM   1901  CA  ASP A1056      51.358  20.677  17.007  0.00  0.00           C
+ATOM   1902  C   ASP A1056      50.055  19.872  17.010  0.00  0.00           C
+ATOM   1904  CB  ASP A1056      51.074  22.161  16.742  0.00  0.00           C
+ATOM   1905  CG  ASP A1056      52.276  23.055  17.029  0.00  0.00           C
+ATOM   1906  OD1 ASP A1056      52.280  24.211  16.556  0.00  0.00           O
+ATOM   1908  N   MET A1057      49.551  19.562  15.816  0.00  0.00           N
+ATOM   1913  CG  MET A1057      47.274  20.078  13.678  0.00  0.00           C
+ATOM   1914  SD  MET A1057      46.670  19.967  11.971  0.00  0.00           S
+ATOM   1915  CE  MET A1057      48.077  20.605  11.096  0.00  0.00           C
+ATOM   1982  CB  PRO A1066      46.157  24.193  16.977  0.00  0.00           C
+ATOM   1983  CG  PRO A1066      46.811  22.973  16.406  0.00  0.00           C
+ATOM   1984  CD  PRO A1066      47.187  22.150  17.596  0.00  0.00           C
+ATOM   2008  CA  ASN A1070      43.645  28.527  14.585  0.00  0.00           C
+ATOM   2009  C   ASN A1070      44.490  27.933  13.461  0.00  0.00           C
+ATOM   2010  O   ASN A1070      45.389  28.597  12.937  0.00  0.00           O
+ATOM   2011  CB  ASN A1070      44.287  28.301  15.952  0.00  0.00           C
+ATOM   2015  N   ILE A1071      44.185  26.691  13.089  0.00  0.00           N
+ATOM   2016  CA  ILE A1071      44.805  26.055  11.931  0.00  0.00           C
+ATOM   2017  C   ILE A1071      44.421  26.819  10.665  0.00  0.00           C
+ATOM   2018  O   ILE A1071      45.297  27.214   9.895  0.00  0.00           O
+ATOM   2019  CB  ILE A1071      44.400  24.567  11.791  0.00  0.00           C
+ATOM   2020  CG1 ILE A1071      44.927  23.750  12.974  0.00  0.00           C
+ATOM   2021  CG2 ILE A1071      44.929  23.977  10.478  0.00  0.00           C
+ATOM   2022  CD1 ILE A1071      44.162  22.444  13.200  0.00  0.00           C
+ATOM   2041  CA  ASN A1074      47.607  30.071   9.646  0.00  0.00           C
+ATOM   2044  CB  ASN A1074      48.137  28.634   9.682  0.00  0.00           C
+ATOM   2045  CG  ASN A1074      49.652  28.570   9.820  0.00  0.00           C
+ATOM   2047  ND2 ASN A1074      50.121  28.096  10.969  0.00  0.00           N

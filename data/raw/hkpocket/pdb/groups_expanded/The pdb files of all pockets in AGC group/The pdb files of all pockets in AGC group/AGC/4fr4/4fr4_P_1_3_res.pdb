@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -61.91 192.54 -84.68 with max radius 5.90
+ATOM    795  O   ARG A 109     -65.675 189.058 -81.683  0.00  0.00           O
+ATOM    798  CD  ARG A 109     -63.200 187.955 -84.190  0.00  0.00           C
+ATOM    800  CZ  ARG A 109     -60.740 187.998 -84.091  0.00  0.00           C
+ATOM    801  NH1 ARG A 109     -60.733 189.316 -83.971  0.00  0.00           N
+ATOM    826  CA  LEU A 112     -64.934 192.285 -80.428  0.00  0.00           C
+ATOM    827  C   LEU A 112     -65.765 192.706 -81.631  0.00  0.00           C
+ATOM    828  O   LEU A 112     -65.767 193.890 -82.012  0.00  0.00           O
+ATOM    829  CB  LEU A 112     -63.605 191.721 -80.910  0.00  0.00           C
+ATOM    830  CG  LEU A 112     -62.518 191.553 -79.870  0.00  0.00           C
+ATOM    831  CD1 LEU A 112     -61.366 190.819 -80.505  0.00  0.00           C
+ATOM    832  CD2 LEU A 112     -62.093 192.896 -79.318  0.00  0.00           C
+ATOM    833  N   GLN A 113     -66.496 191.747 -82.212  0.00  0.00           N
+ATOM    834  CA  GLN A 113     -67.346 192.034 -83.373  0.00  0.00           C
+ATOM    837  CB  GLN A 113     -67.804 190.743 -84.066  0.00  0.00           C
+ATOM    838  CG  GLN A 113     -66.726 190.045 -84.892  0.00  0.00           C
+ATOM   1663  CG  GLU A 215     -57.775 192.307 -81.545  0.00  0.00           C
+ATOM   1664  CD  GLU A 215     -57.906 190.959 -82.289  0.00  0.00           C
+ATOM   1666  OE2 GLU A 215     -58.596 190.886 -83.373  0.00  0.00           O
+ATOM   1696  C   GLY A 219     -59.705 196.475 -82.094  0.00  0.00           C
+ATOM   1697  O   GLY A 219     -60.378 196.042 -83.004  0.00  0.00           O
+ATOM   1699  CA  ARG A 220     -57.692 196.132 -83.347  0.00  0.00           C
+ATOM   1702  CB  ARG A 220     -57.585 197.267 -84.355  0.00  0.00           C
+ATOM   1709  N   ARG A 221     -55.729 194.880 -83.914  0.00  0.00           N
+ATOM   1720  NE  ARG A 221     -56.312 191.790 -86.675  0.00  0.00           N
+ATOM   1722  CZ  ARG A 221     -56.862 191.202 -87.745  0.00  0.00           C
+ATOM   1726  NH2 ARG A 221     -57.566 191.918 -88.619  0.00  0.00           N

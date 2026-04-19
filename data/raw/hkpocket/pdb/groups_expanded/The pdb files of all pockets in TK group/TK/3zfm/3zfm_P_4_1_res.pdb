@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -0.46  -6.05   3.13 with max radius 6.00
+ATOM   1074  N   PRO A 789       3.144  -2.620   1.969  0.00  0.00           N
+ATOM   1075  CA  PRO A 789       3.828  -1.835   3.013  0.00  0.00           C
+ATOM   1076  C   PRO A 789       3.604  -2.476   4.380  0.00  0.00           C
+ATOM   1079  CG  PRO A 789       1.928  -0.637   2.087  0.00  0.00           C
+ATOM   1080  CD  PRO A 789       2.231  -1.786   1.167  0.00  0.00           C
+ATOM   1081  N   ILE A 790       4.102  -3.717   4.505  0.00  0.00           N
+ATOM   1082  CA  ILE A 790       4.025  -4.646   5.643  0.00  0.00           C
+ATOM   1086  CG1 ILE A 790       4.559  -6.786   4.258  0.00  0.00           C
+ATOM   1088  CD1 ILE A 790       3.398  -7.791   4.527  0.00  0.00           C
+ATOM   1118  CB  THR A 793      -0.010  -3.671   6.366  0.00  0.00           C
+ATOM   1119  OG1 THR A 793       0.306  -2.886   5.217  0.00  0.00           O
+ATOM   1120  CG2 THR A 793      -1.335  -4.349   6.080  0.00  0.00           C
+ATOM   1143  CA  ALA A 797      -4.894  -7.152   6.676  0.00  0.00           C
+ATOM   1144  C   ALA A 797      -3.772  -8.003   6.027  0.00  0.00           C
+ATOM   1145  O   ALA A 797      -3.870  -8.359   4.852  0.00  0.00           O
+ATOM   1146  CB  ALA A 797      -4.618  -5.670   6.493  0.00  0.00           C
+ATOM   1147  N   ILE A 798      -2.727  -8.342   6.803  0.00  0.00           N
+ATOM   1148  CA  ILE A 798      -1.627  -9.210   6.351  0.00  0.00           C
+ATOM   1149  C   ILE A 798      -2.138 -10.672   6.307  0.00  0.00           C
+ATOM   1150  O   ILE A 798      -1.913 -11.359   5.317  0.00  0.00           O
+ATOM   1151  CB  ILE A 798      -0.346  -9.037   7.256  0.00  0.00           C
+ATOM   1152  CG1 ILE A 798       0.306  -7.643   7.045  0.00  0.00           C
+ATOM   1153  CG2 ILE A 798       0.697 -10.184   7.048  0.00  0.00           C
+ATOM   1198  CE1 PHE A 803      -5.356  -5.647   2.442  0.00  0.00           C
+ATOM   1199  CE2 PHE A 803      -4.337  -3.714   3.417  0.00  0.00           C
+ATOM   1200  CZ  PHE A 803      -4.223  -4.948   2.809  0.00  0.00           C

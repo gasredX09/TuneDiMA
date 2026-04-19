@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  26.94  33.93  49.37 with max radius 7.48
+ATOM   1415  CG1 ILE A 215      32.068  38.072  47.021  0.00  0.00           C
+ATOM   1417  CD1 ILE A 215      30.774  37.805  46.263  0.00  0.00           C
+ATOM   1615  CA  PRO A 241      22.916  36.311  44.900  0.00  0.00           C
+ATOM   1616  C   PRO A 241      24.223  35.613  44.527  0.00  0.00           C
+ATOM   1617  O   PRO A 241      24.296  34.405  44.591  0.00  0.00           O
+ATOM   1618  CB  PRO A 241      22.713  36.206  46.413  0.00  0.00           C
+ATOM   1619  CG  PRO A 241      21.223  36.022  46.586  0.00  0.00           C
+ATOM   1620  CD  PRO A 241      20.749  35.265  45.387  0.00  0.00           C
+ATOM   1621  N   PRO A 242      25.244  36.351  44.128  0.00  0.00           N
+ATOM   1623  C   PRO A 242      27.153  35.044  45.082  0.00  0.00           C
+ATOM   1624  O   PRO A 242      26.833  35.442  46.220  0.00  0.00           O
+ATOM   1628  N   THR A 243      27.982  34.026  44.839  0.00  0.00           N
+ATOM   1629  CA  THR A 243      28.776  33.358  45.853  0.00  0.00           C
+ATOM   1630  C   THR A 243      30.267  33.448  45.517  0.00  0.00           C
+ATOM   1631  O   THR A 243      30.641  33.972  44.468  0.00  0.00           O
+ATOM   1632  CB  THR A 243      28.387  31.846  46.030  0.00  0.00           C
+ATOM   1634  CG2 THR A 243      27.259  31.712  47.029  0.00  0.00           C
+ATOM   1635  N   PHE A 244      31.101  32.941  46.425  0.00  0.00           N
+ATOM   1636  CA  PHE A 244      32.524  32.782  46.179  0.00  0.00           C
+ATOM   1639  CB  PHE A 244      33.204  32.219  47.431  0.00  0.00           C
+ATOM   1640  CG  PHE A 244      33.277  33.183  48.609  0.00  0.00           C
+ATOM   1641  CD1 PHE A 244      33.799  34.458  48.469  0.00  0.00           C
+ATOM   1642  CD2 PHE A 244      32.861  32.778  49.869  0.00  0.00           C
+ATOM   1643  CE1 PHE A 244      33.873  35.333  49.560  0.00  0.00           C
+ATOM   1644  CE2 PHE A 244      32.956  33.639  50.966  0.00  0.00           C
+ATOM   1645  CZ  PHE A 244      33.452  34.918  50.806  0.00  0.00           C
+ATOM   1736  CA  THR A 255      30.758  33.026  53.952  0.00  0.00           C
+ATOM   1737  C   THR A 255      29.385  33.572  54.338  0.00  0.00           C
+ATOM   1738  O   THR A 255      28.621  33.992  53.454  0.00  0.00           O
+ATOM   1739  CB  THR A 255      30.746  31.476  53.888  0.00  0.00           C
+ATOM   1741  CG2 THR A 255      29.799  30.968  52.848  0.00  0.00           C
+ATOM   1762  CA  VAL A 258      28.761  37.838  52.301  0.00  0.00           C
+ATOM   1763  C   VAL A 258      27.291  37.535  51.947  0.00  0.00           C
+ATOM   1764  O   VAL A 258      26.605  38.313  51.247  0.00  0.00           O
+ATOM   1765  CB  VAL A 258      29.813  37.184  51.356  0.00  0.00           C
+ATOM   1766  CG1 VAL A 258      29.438  37.379  49.888  0.00  0.00           C
+ATOM   1767  CG2 VAL A 258      31.174  37.810  51.590  0.00  0.00           C
+ATOM   1768  N   LYS A 259      26.776  36.441  52.490  0.00  0.00           N
+ATOM   1769  CA  LYS A 259      25.368  36.092  52.289  0.00  0.00           C
+ATOM   1770  C   LYS A 259      24.397  37.168  52.795  0.00  0.00           C
+ATOM   1771  O   LYS A 259      23.397  37.447  52.165  0.00  0.00           O
+ATOM   1772  CB  LYS A 259      25.068  34.730  52.963  0.00  0.00           C
+ATOM   1773  CG  LYS A 259      23.707  34.145  52.635  0.00  0.00           C
+ATOM   1774  CD  LYS A 259      23.359  32.952  53.524  0.00  0.00           C
+ATOM   1793  CA  LEU A 262      23.861  40.084  49.290  0.00  0.00           C
+ATOM   1794  C   LEU A 262      22.469  39.455  49.344  0.00  0.00           C
+ATOM   1795  O   LEU A 262      22.204  38.486  48.650  0.00  0.00           O
+ATOM   1796  CB  LEU A 262      24.829  39.244  48.422  0.00  0.00           C
+ATOM   1797  CG  LEU A 262      26.264  39.780  48.229  0.00  0.00           C
+ATOM   1798  CD1 LEU A 262      27.117  38.829  47.329  0.00  0.00           C

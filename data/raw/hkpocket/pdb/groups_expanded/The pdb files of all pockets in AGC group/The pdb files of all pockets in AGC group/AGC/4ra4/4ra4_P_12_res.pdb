@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  22.22   9.12   8.14 with max radius 6.22
+ATOM    390  C   GLU A 382      27.319  10.042   6.370  0.00  0.00           C
+ATOM    392  CB  GLU A 382      25.961  11.776   5.143  0.00  0.00           C
+ATOM    393  CG  GLU A 382      26.043  13.260   5.494  0.00  0.00           C
+ATOM    396  OE2 GLU A 382      25.658  13.499   7.834  0.00  0.00           O
+ATOM    397  N   CYS A 383      26.909   8.789   6.099  0.00  0.00           N
+ATOM    398  CA  CYS A 383      26.909   7.679   7.069  0.00  0.00           C
+ATOM    401  CB  CYS A 383      26.318   6.434   6.421  0.00  0.00           C
+ATOM    402  SG  CYS A 383      24.629   6.657   5.821  0.00  0.00           S
+ATOM    422  CB  VAL A 386      26.859   9.991  10.912  0.00  0.00           C
+ATOM    423  CG1 VAL A 386      26.095   9.904  12.222  0.00  0.00           C
+ATOM    424  CG2 VAL A 386      26.239  11.069  10.041  0.00  0.00           C
+ATOM   1050  CZ  ARG A 462      18.296   8.014  10.806  0.00  0.00           C
+ATOM   1052  NH2 ARG A 462      19.362   8.353  10.087  0.00  0.00           N
+ATOM   1213  C   GLY A 483      25.144   5.304  10.170  0.00  0.00           C
+ATOM   1214  O   GLY A 483      24.982   6.429   9.678  0.00  0.00           O
+ATOM   1216  CA  MET A 484      22.719   4.927  10.516  0.00  0.00           C
+ATOM   1217  C   MET A 484      22.213   5.859  11.598  0.00  0.00           C
+ATOM   1218  O   MET A 484      21.036   6.214  11.603  0.00  0.00           O
+ATOM   1219  CB  MET A 484      21.826   3.705  10.334  0.00  0.00           C
+ATOM   1220  CG  MET A 484      21.736   3.260   8.886  0.00  0.00           C
+ATOM   1225  C   CYS A 485      22.325   8.559  13.070  0.00  0.00           C
+ATOM   1226  O   CYS A 485      22.755   9.039  12.010  0.00  0.00           O
+ATOM   1230  CA  LYS A 486      21.046  10.549  13.548  0.00  0.00           C
+ATOM   1233  CB  LYS A 486      19.547  10.593  13.197  0.00  0.00           C
+ATOM   1235  CD  LYS A 486      19.901  12.591  11.633  0.00  0.00           C
+ATOM   1236  CE  LYS A 486      19.241  12.547  10.282  0.00  0.00           C

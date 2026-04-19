@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -37.02 -16.84  28.57 with max radius 5.85
+ATOM   1513  CB  LYS A 215     -32.718 -13.300  29.544  0.00  0.00           C
+ATOM   1514  CG  LYS A 215     -31.668 -14.391  29.779  0.00  0.00           C
+ATOM   1515  CD  LYS A 215     -31.992 -15.253  30.997  0.00  0.00           C
+ATOM   1516  CE  LYS A 215     -33.257 -16.088  30.779  0.00  0.00           C
+ATOM   1517  NZ  LYS A 215     -33.552 -16.993  31.931  0.00  0.00           N
+ATOM   1518  N   GLU A 216     -34.298 -13.521  26.871  0.00  0.00           N
+ATOM   1519  CA  GLU A 216     -34.841 -14.335  25.787  0.00  0.00           C
+ATOM   1522  CB  GLU A 216     -36.369 -14.416  25.884  0.00  0.00           C
+ATOM   1523  CG  GLU A 216     -37.106 -13.090  25.890  0.00  0.00           C
+ATOM   1524  CD  GLU A 216     -37.197 -12.465  27.269  0.00  0.00           C
+ATOM   1525  OE1 GLU A 216     -38.214 -11.791  27.542  0.00  0.00           O
+ATOM   1526  OE2 GLU A 216     -36.261 -12.637  28.077  0.00  0.00           O
+ATOM   1543  CB  GLU A 219     -32.240 -17.610  24.778  0.00  0.00           C
+ATOM   1544  CG  GLU A 219     -32.719 -16.994  26.084  0.00  0.00           C
+ATOM   1545  CD  GLU A 219     -31.992 -17.529  27.308  0.00  0.00           C
+ATOM   1547  OE2 GLU A 219     -32.682 -17.974  28.254  0.00  0.00           O
+ATOM   1566  CA  GLY A 222     -35.558 -18.200  23.696  0.00  0.00           C
+ATOM   1567  C   GLY A 222     -36.874 -17.840  23.028  0.00  0.00           C
+ATOM   1569  N   VAL A 223     -37.904 -17.649  23.846  0.00  0.00           N
+ATOM   1570  CA  VAL A 223     -39.238 -17.302  23.369  0.00  0.00           C
+ATOM   1571  C   VAL A 223     -39.549 -15.822  23.632  0.00  0.00           C
+ATOM   1572  O   VAL A 223     -39.532 -15.367  24.781  0.00  0.00           O
+ATOM   1573  CB  VAL A 223     -40.308 -18.190  24.061  0.00  0.00           C
+ATOM   1574  CG1 VAL A 223     -40.107 -18.166  25.569  0.00  0.00           C
+ATOM   2215  O   GLU A 303     -35.511 -13.765  33.310  0.00  0.00           O
+ATOM   2233  CB  PRO A 305     -40.681 -14.014  30.604  0.00  0.00           C
+ATOM   2234  CG  PRO A 305     -39.290 -14.514  30.371  0.00  0.00           C
+ATOM   2235  CD  PRO A 305     -38.864 -14.955  31.743  0.00  0.00           C

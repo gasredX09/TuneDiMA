@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  35.17  18.77  29.51 with max radius 5.12
+ATOM    881  N   ALA A 923      38.764  15.280  30.535  0.00  0.00           N
+ATOM    882  CA  ALA A 923      37.411  14.839  30.817  0.00  0.00           C
+ATOM    885  CB  ALA A 923      36.677  14.605  29.509  0.00  0.00           C
+ATOM    908  CG  LEU A 926      36.745  17.543  34.366  0.00  0.00           C
+ATOM    909  CD1 LEU A 926      36.033  18.407  33.291  0.00  0.00           C
+ATOM   1686  CA  PHE A1021      32.592  20.485  33.048  0.00  0.00           C
+ATOM   1687  C   PHE A1021      32.730  21.834  32.358  0.00  0.00           C
+ATOM   1688  O   PHE A1021      33.142  21.885  31.170  0.00  0.00           O
+ATOM   1689  CB  PHE A1021      31.603  19.541  32.404  0.00  0.00           C
+ATOM   1690  CG  PHE A1021      31.893  18.107  32.710  0.00  0.00           C
+ATOM   1692  CD2 PHE A1021      32.733  17.350  31.877  0.00  0.00           C
+ATOM   1694  CE2 PHE A1021      32.998  16.040  32.194  0.00  0.00           C
+ATOM   1710  CD2 TYR A1023      37.164  22.959  32.062  0.00  0.00           C
+ATOM   1712  CE2 TYR A1023      37.528  21.819  31.364  0.00  0.00           C
+ATOM   1713  CZ  TYR A1023      38.371  20.900  31.907  0.00  0.00           C
+ATOM   1714  OH  TYR A1023      38.716  19.759  31.157  0.00  0.00           O
+ATOM   2018  CB  PRO A1063      30.127  22.664  29.263  0.00  0.00           C
+ATOM   2028  N   ALA A1065      32.645  21.250  25.704  0.00  0.00           N
+ATOM   2029  CA  ALA A1065      33.563  20.162  25.952  0.00  0.00           C
+ATOM   2030  C   ALA A1065      32.939  19.030  26.746  0.00  0.00           C
+ATOM   2031  O   ALA A1065      33.534  17.995  26.876  0.00  0.00           O
+ATOM   2032  CB  ALA A1065      34.825  20.680  26.641  0.00  0.00           C
+ATOM   2033  N   CYS A1066      31.703  19.197  27.224  0.00  0.00           N
+ATOM   2034  CA  CYS A1066      31.087  18.211  28.095  0.00  0.00           C
+ATOM   2035  C   CYS A1066      30.631  16.998  27.273  0.00  0.00           C
+ATOM   2037  CB  CYS A1066      29.870  18.857  28.724  0.00  0.00           C
+ATOM   2044  CG  PRO A1067      32.041  13.851  28.538  0.00  0.00           C
+ATOM   2045  CD  PRO A1067      31.875  15.335  28.759  0.00  0.00           C

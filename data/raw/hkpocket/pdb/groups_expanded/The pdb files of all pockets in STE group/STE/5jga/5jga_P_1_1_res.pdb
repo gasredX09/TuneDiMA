@@ -1,0 +1,58 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 52 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -19.70 -51.35 -35.58 with max radius 8.42
+ATOM    688  C   LEU A 116     -17.907 -47.792 -31.218  0.00  0.00           C
+ATOM    689  O   LEU A 116     -18.517 -47.691 -32.291  0.00  0.00           O
+ATOM    695  CA  HIS A 117     -18.354 -50.172 -31.020  0.00  0.00           C
+ATOM    696  C   HIS A 117     -19.437 -50.889 -30.198  0.00  0.00           C
+ATOM    697  O   HIS A 117     -19.827 -51.985 -30.564  0.00  0.00           O
+ATOM    698  CB  HIS A 117     -17.169 -51.137 -31.169  0.00  0.00           C
+ATOM    699  CG  HIS A 117     -15.960 -50.556 -31.841  0.00  0.00           C
+ATOM    700  ND1 HIS A 117     -15.961 -50.134 -33.151  0.00  0.00           N
+ATOM    702  CE1 HIS A 117     -14.754 -49.711 -33.479  0.00  0.00           C
+ATOM    707  O   GLY A 118     -22.515 -50.926 -29.936  0.00  0.00           O
+ATOM    718  CG  GLU A 120     -26.403 -49.732 -32.568  0.00  0.00           C
+ATOM    719  CD  GLU A 120     -26.891 -49.847 -34.000  0.00  0.00           C
+ATOM    735  CD1 LEU A 122     -22.535 -47.864 -32.457  0.00  0.00           C
+ATOM    736  CD2 LEU A 122     -22.127 -47.602 -30.007  0.00  0.00           C
+ATOM   1441  C   ARG A 225     -15.388 -47.772 -36.795  0.00  0.00           C
+ATOM   1442  O   ARG A 225     -16.487 -48.339 -36.809  0.00  0.00           O
+ATOM   1443  CB  ARG A 225     -16.649 -45.577 -36.350  0.00  0.00           C
+ATOM   1444  CG  ARG A 225     -17.434 -45.860 -35.081  0.00  0.00           C
+ATOM   1445  CD  ARG A 225     -18.768 -45.134 -35.028  0.00  0.00           C
+ATOM   1446  NE  ARG A 225     -19.250 -45.119 -33.641  0.00  0.00           N
+ATOM   1451  CA  ARG A 226     -14.135 -49.819 -37.446  0.00  0.00           C
+ATOM   1452  C   ARG A 226     -13.197 -50.512 -36.469  0.00  0.00           C
+ATOM   1454  CB  ARG A 226     -13.584 -50.040 -38.850  0.00  0.00           C
+ATOM   1455  CG  ARG A 226     -14.565 -49.773 -39.959  0.00  0.00           C
+ATOM   1461  N   LYS A 227     -13.441 -51.799 -36.224  0.00  0.00           N
+ATOM   1462  CA  LYS A 227     -12.537 -52.610 -35.410  0.00  0.00           C
+ATOM   1465  CB  LYS A 227     -13.238 -53.866 -34.867  0.00  0.00           C
+ATOM   1466  CG  LYS A 227     -14.411 -53.565 -33.954  0.00  0.00           C
+ATOM   1467  CD  LYS A 227     -15.130 -54.855 -33.602  0.00  0.00           C
+ATOM   1468  CE  LYS A 227     -16.482 -54.576 -32.973  0.00  0.00           C
+ATOM   1469  NZ  LYS A 227     -17.205 -55.854 -32.691  0.00  0.00           N
+ATOM   1492  CB  ASP A 230     -13.316 -56.363 -37.852  0.00  0.00           C
+ATOM   1493  CG  ASP A 230     -14.573 -56.962 -37.221  0.00  0.00           C
+ATOM   1495  OD2 ASP A 230     -15.640 -56.900 -37.858  0.00  0.00           O
+ATOM   2083  CA  HIS A 468     -24.422 -46.461 -37.572  0.00  0.00           C
+ATOM   2084  C   HIS A 468     -24.296 -47.924 -37.996  0.00  0.00           C
+ATOM   2085  O   HIS A 468     -24.397 -48.835 -37.162  0.00  0.00           O
+ATOM   2086  CB  HIS A 468     -23.213 -46.022 -36.718  0.00  0.00           C
+ATOM   2087  CG  HIS A 468     -21.888 -46.285 -37.364  0.00  0.00           C
+ATOM   2088  ND1 HIS A 468     -20.962 -47.159 -36.834  0.00  0.00           N
+ATOM   2089  CD2 HIS A 468     -21.346 -45.812 -38.512  0.00  0.00           C
+ATOM   2090  CE1 HIS A 468     -19.901 -47.205 -37.621  0.00  0.00           C
+ATOM   2091  NE2 HIS A 468     -20.109 -46.398 -38.646  0.00  0.00           N
+ATOM   2092  N   SER A 469     -24.089 -48.129 -39.299  0.00  0.00           N
+ATOM   2093  CA  SER A 469     -23.679 -49.433 -39.848  0.00  0.00           C
+ATOM   2094  C   SER A 469     -22.628 -49.268 -40.956  0.00  0.00           C
+ATOM   2096  CB  SER A 469     -24.888 -50.261 -40.316  0.00  0.00           C
+ATOM   2098  N   LEU A 470     -21.859 -50.329 -41.201  0.00  0.00           N
+ATOM   2102  CB  LEU A 470     -19.501 -51.022 -41.457  0.00  0.00           C
+ATOM   2103  CG  LEU A 470     -18.944 -50.544 -40.113  0.00  0.00           C
+ATOM   2104  CD1 LEU A 470     -17.993 -51.597 -39.565  0.00  0.00           C
+ATOM   2105  CD2 LEU A 470     -18.269 -49.174 -40.203  0.00  0.00           C

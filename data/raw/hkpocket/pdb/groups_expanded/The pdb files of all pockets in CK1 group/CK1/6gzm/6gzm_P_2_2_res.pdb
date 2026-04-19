@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -4.11  15.74  35.53 with max radius 6.10
+ATOM   1614  N   ALA A 177       0.141  11.429  36.297  0.00  0.00           N
+ATOM   1615  CA  ALA A 177      -0.651  11.421  37.509  0.00  0.00           C
+ATOM   1616  C   ALA A 177      -2.119  11.087  37.344  0.00  0.00           C
+ATOM   1618  CB  ALA A 177      -0.495  12.748  38.218  0.00  0.00           C
+ATOM   1619  N   ARG A 178      -2.728  11.400  36.204  0.00  0.00           N
+ATOM   1620  CA  ARG A 178      -4.216  11.312  36.112  0.00  0.00           C
+ATOM   1623  CB  ARG A 178      -4.686  11.661  34.676  0.00  0.00           C
+ATOM   1624  CG  ARG A 178      -6.192  11.815  34.533  0.00  0.00           C
+ATOM   1625  CD  ARG A 178      -6.621  11.891  33.095  0.00  0.00           C
+ATOM   1626  NE  ARG A 178      -6.155  13.112  32.448  0.00  0.00           N
+ATOM   1627  CZ  ARG A 178      -6.328  13.392  31.158  0.00  0.00           C
+ATOM   1629  NH2 ARG A 178      -5.845  14.527  30.677  0.00  0.00           N
+ATOM   1903  CA  TRP A 213      -8.834  15.669  39.621  0.00  0.00           C
+ATOM   1904  C   TRP A 213      -8.024  16.153  38.421  0.00  0.00           C
+ATOM   1905  O   TRP A 213      -6.841  16.413  38.552  0.00  0.00           O
+ATOM   1906  CB  TRP A 213      -8.037  14.596  40.387  0.00  0.00           C
+ATOM   1907  CG  TRP A 213      -8.082  13.254  39.782  0.00  0.00           C
+ATOM   1908  CD1 TRP A 213      -7.310  12.777  38.760  0.00  0.00           C
+ATOM   1910  NE1 TRP A 213      -7.639  11.470  38.490  0.00  0.00           N
+ATOM   1916  N   GLN A 214      -8.657  16.271  37.255  0.00  0.00           N
+ATOM   1917  CA  GLN A 214      -8.080  17.053  36.162  0.00  0.00           C
+ATOM   1918  C   GLN A 214      -8.342  18.546  36.381  0.00  0.00           C
+ATOM   1920  CB  GLN A 214      -8.655  16.670  34.818  0.00  0.00           C
+ATOM   1921  CG  GLN A 214      -8.328  15.264  34.368  0.00  0.00           C
+ATOM   1925  N   GLY A 215      -7.414  19.354  35.874  0.00  0.00           N
+ATOM   1926  CA  GLY A 215      -7.525  20.806  35.884  0.00  0.00           C
+ATOM   1929  N   LEU A 216      -6.597  20.907  38.144  0.00  0.00           N
+ATOM   1997  CG  LYS A 224      -0.429  19.106  38.776  0.00  0.00           C
+ATOM   1998  CD  LYS A 224      -1.559  20.083  38.501  0.00  0.00           C
+ATOM   1999  CE  LYS A 224      -1.669  20.371  37.015  0.00  0.00           C
+ATOM   2000  NZ  LYS A 224      -2.974  21.008  36.697  0.00  0.00           N
+ATOM   2046  CG1 ILE A 228      -3.764  15.723  40.132  0.00  0.00           C
+ATOM   2047  CG2 ILE A 228      -4.130  13.403  40.777  0.00  0.00           C
+ATOM   2048  CD1 ILE A 228      -2.695  15.605  39.061  0.00  0.00           C

@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -8.84  81.14   3.12 with max radius 5.01
+ATOM    886  O   LYS B 762     -11.747  79.814   7.651  0.00  0.00           O
+ATOM    911  CA  GLN B 765     -13.167  82.490   4.705  0.00  0.00           C
+ATOM    912  C   GLN B 765     -13.103  81.251   3.811  0.00  0.00           C
+ATOM    913  O   GLN B 765     -13.184  81.359   2.589  0.00  0.00           O
+ATOM    914  CB  GLN B 765     -11.770  82.855   5.202  0.00  0.00           C
+ATOM    915  CG  GLN B 765     -11.744  84.064   6.120  0.00  0.00           C
+ATOM    916  CD  GLN B 765     -10.356  84.368   6.643  0.00  0.00           C
+ATOM    918  NE2 GLN B 765      -9.338  83.961   5.892  0.00  0.00           N
+ATOM    919  N   ILE B 766     -12.950  80.080   4.423  0.00  0.00           N
+ATOM    920  CA  ILE B 766     -12.935  78.824   3.679  0.00  0.00           C
+ATOM    921  C   ILE B 766     -14.181  78.716   2.810  0.00  0.00           C
+ATOM    922  O   ILE B 766     -14.109  78.355   1.636  0.00  0.00           O
+ATOM    923  CB  ILE B 766     -12.907  77.603   4.619  0.00  0.00           C
+ATOM    924  CG1 ILE B 766     -11.672  77.633   5.519  0.00  0.00           C
+ATOM    926  CD1 ILE B 766     -10.420  77.132   4.849  0.00  0.00           C
+ATOM    945  CB  GLU B 769     -12.405  80.119  -1.220  0.00  0.00           C
+ATOM    946  CG  GLU B 769     -11.541  81.057  -0.395  0.00  0.00           C
+ATOM    947  CD  GLU B 769     -11.388  82.424  -1.029  0.00  0.00           C
+ATOM    948  OE1 GLU B 769     -12.389  83.169  -1.093  0.00  0.00           O
+ATOM    949  OE2 GLU B 769     -10.261  82.758  -1.452  0.00  0.00           O
+ATOM   1147  CE1 TYR B 794      -5.003  77.414   3.671  0.00  0.00           C
+ATOM   1148  CE2 TYR B 794      -7.166  76.518   4.162  0.00  0.00           C
+ATOM   1149  CZ  TYR B 794      -6.218  77.509   4.313  0.00  0.00           C
+ATOM   1150  OH  TYR B 794      -6.482  78.602   5.109  0.00  0.00           O
+ATOM   1160  CA  LYS B 798      -5.498  79.432  -0.958  0.00  0.00           C
+ATOM   1161  C   LYS B 798      -6.565  78.353  -0.775  0.00  0.00           C
+ATOM   1162  O   LYS B 798      -6.398  77.445   0.038  0.00  0.00           O
+ATOM   1163  CB  LYS B 798      -6.059  80.619  -1.740  0.00  0.00           C
+ATOM   1164  CG  LYS B 798      -6.634  81.732  -0.877  0.00  0.00           C
+ATOM   1165  CD  LYS B 798      -6.805  83.007  -1.695  0.00  0.00           C
+ATOM   1166  CE  LYS B 798      -7.088  84.212  -0.812  0.00  0.00           C
+ATOM   1168  N   VAL B 799      -7.657  78.455  -1.530  0.00  0.00           N
+ATOM   1172  CB  VAL B 799      -9.926  77.880  -0.713  0.00  0.00           C
+ATOM   1174  CG2 VAL B 799      -9.530  78.211   0.715  0.00  0.00           C

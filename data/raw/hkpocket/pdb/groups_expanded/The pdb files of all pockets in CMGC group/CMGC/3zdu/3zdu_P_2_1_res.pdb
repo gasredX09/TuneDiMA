@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  49.04   9.47  62.40 with max radius 6.78
+ATOM    705  N   LEU A  97      44.403  12.908  58.833  0.00  0.00           N
+ATOM    707  C   LEU A  97      46.206  14.323  59.746  0.00  0.00           C
+ATOM    708  O   LEU A  97      46.777  13.390  60.303  0.00  0.00           O
+ATOM    723  CA  SER A  99      49.396  14.734  63.315  0.00  0.00           C
+ATOM    726  CB  SER A  99      50.697  14.002  63.599  0.00  0.00           C
+ATOM    750  CB  LEU A 102      45.454  14.005  64.456  0.00  0.00           C
+ATOM    753  CD2 LEU A 102      45.685  11.546  64.548  0.00  0.00           C
+ATOM   1458  CA  ALA A 195      44.927   8.882  61.567  0.00  0.00           C
+ATOM   1459  C   ALA A 195      45.379   8.386  60.195  0.00  0.00           C
+ATOM   1460  O   ALA A 195      46.370   8.898  59.649  0.00  0.00           O
+ATOM   1461  CB  ALA A 195      45.476   7.990  62.649  0.00  0.00           C
+ATOM   1462  N   THR A 196      44.685   7.383  59.640  0.00  0.00           N
+ATOM   1463  CA  THR A 196      45.042   6.803  58.325  0.00  0.00           C
+ATOM   1468  CG2 THR A 196      45.716   4.692  59.484  0.00  0.00           C
+ATOM   1903  C   LYS A 254      50.928   3.659  61.792  0.00  0.00           C
+ATOM   1904  O   LYS A 254      50.959   4.724  61.205  0.00  0.00           O
+ATOM   1907  CA  LEU A 255      50.323   4.740  63.867  0.00  0.00           C
+ATOM   1908  C   LEU A 255      51.532   5.203  64.712  0.00  0.00           C
+ATOM   1910  CB  LEU A 255      49.146   4.484  64.788  0.00  0.00           C
+ATOM   1911  CG  LEU A 255      47.903   3.866  64.178  0.00  0.00           C
+ATOM   1913  CD2 LEU A 255      47.339   4.693  63.036  0.00  0.00           C
+ATOM   1914  N   ASN A 256      51.550   6.493  65.007  0.00  0.00           N
+ATOM   1915  CA  ASN A 256      52.400   7.061  66.048  0.00  0.00           C
+ATOM   1918  CB  ASN A 256      52.022   8.548  66.249  0.00  0.00           C
+ATOM   1938  CB  LEU A 259      48.499   7.702  68.000  0.00  0.00           C
+ATOM   1939  CG  LEU A 259      47.058   7.996  67.527  0.00  0.00           C
+ATOM   1941  CD2 LEU A 259      47.039   8.725  66.208  0.00  0.00           C

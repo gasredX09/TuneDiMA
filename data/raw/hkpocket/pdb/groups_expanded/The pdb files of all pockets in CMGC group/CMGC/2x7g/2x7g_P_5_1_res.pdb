@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -22.35  20.76  -4.54 with max radius 6.47
+ATOM    607  CE  MET A 155     -20.507  25.851  -0.998  0.00  0.00           C
+ATOM    981  CA  SER A 203     -27.105  20.689  -5.728  0.00  0.00           C
+ATOM    982  C   SER A 203     -27.255  22.211  -5.495  0.00  0.00           C
+ATOM    983  O   SER A 203     -26.549  22.785  -4.662  0.00  0.00           O
+ATOM    984  CB  SER A 203     -26.359  20.367  -7.037  0.00  0.00           C
+ATOM    985  OG  SER A 203     -25.093  20.984  -7.084  0.00  0.00           O
+ATOM   1006  CB  ARG A 206     -26.814  21.243  -1.121  0.00  0.00           C
+ATOM   1007  CG  ARG A 206     -25.614  21.014  -0.172  0.00  0.00           C
+ATOM   1008  CD  ARG A 206     -24.771  19.768  -0.490  0.00  0.00           C
+ATOM   1009  NE  ARG A 206     -25.569  18.551  -0.692  0.00  0.00           N
+ATOM   1010  CZ  ARG A 206     -25.846  17.967  -1.870  0.00  0.00           C
+ATOM   1011  NH1 ARG A 206     -25.403  18.459  -3.022  0.00  0.00           N
+ATOM   1018  CG  GLN A 207     -23.858  24.668  -3.687  0.00  0.00           C
+ATOM   1019  CD  GLN A 207     -23.437  24.915  -5.090  0.00  0.00           C
+ATOM   1021  NE2 GLN A 207     -23.644  23.927  -5.953  0.00  0.00           N
+ATOM   1044  OE1 GLN A 210     -22.691  24.140   0.137  0.00  0.00           O
+ATOM   1403  C   ALA A 532     -24.477  18.812 -10.215  0.00  0.00           C
+ATOM   1404  O   ALA A 532     -24.645  19.718  -9.407  0.00  0.00           O
+ATOM   1407  CA  ASP A 533     -22.240  18.382  -9.367  0.00  0.00           C
+ATOM   1408  C   ASP A 533     -21.229  19.445  -9.822  0.00  0.00           C
+ATOM   1409  O   ASP A 533     -20.376  19.845  -9.029  0.00  0.00           O
+ATOM   1410  CB  ASP A 533     -21.512  17.063  -9.049  0.00  0.00           C
+ATOM   1411  CG  ASP A 533     -22.121  16.312  -7.866  0.00  0.00           C
+ATOM   1412  OD1 ASP A 533     -22.559  16.950  -6.878  0.00  0.00           O
+ATOM   1426  O   ILE A 535     -22.523  23.826  -8.463  0.00  0.00           O
+ATOM   1437  CD  ARG A 536     -19.750  25.179  -6.839  0.00  0.00           C
+ATOM   1438  NE  ARG A 536     -18.738  24.149  -6.555  0.00  0.00           N
+ATOM   1439  CZ  ARG A 536     -18.774  22.878  -6.982  0.00  0.00           C
+ATOM   1440  NH1 ARG A 536     -19.782  22.417  -7.716  0.00  0.00           N
+ATOM   1441  NH2 ARG A 536     -17.789  22.048  -6.664  0.00  0.00           N

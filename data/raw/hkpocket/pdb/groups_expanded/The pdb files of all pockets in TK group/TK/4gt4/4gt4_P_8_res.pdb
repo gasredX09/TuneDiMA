@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -34.96  -0.17 -24.73 with max radius 7.02
+ATOM    240  CA  GLN A 502     -38.999   3.629 -26.398  0.00  0.00           C
+ATOM    241  C   GLN A 502     -38.469   4.681 -25.430  0.00  0.00           C
+ATOM    243  CB  GLN A 502     -38.022   3.442 -27.561  0.00  0.00           C
+ATOM    244  CG  GLN A 502     -37.949   4.630 -28.506  0.00  0.00           C
+ATOM    245  CD  GLN A 502     -36.988   4.401 -29.656  0.00  0.00           C
+ATOM    246  OE1 GLN A 502     -36.005   3.671 -29.524  0.00  0.00           O
+ATOM    248  N   ALA A 503     -37.664   4.240 -24.468  0.00  0.00           N
+ATOM    249  CA  ALA A 503     -37.055   5.145 -23.501  0.00  0.00           C
+ATOM    250  C   ALA A 503     -35.992   6.004 -24.175  0.00  0.00           C
+ATOM    251  O   ALA A 503     -35.199   5.509 -24.975  0.00  0.00           O
+ATOM    252  CB  ALA A 503     -36.454   4.361 -22.346  0.00  0.00           C
+ATOM    601  CB  SER A 554     -31.329   4.981 -27.879  0.00  0.00           C
+ATOM    602  OG  SER A 554     -31.699   3.773 -27.235  0.00  0.00           O
+ATOM    605  C   TYR A 555     -32.367   3.781 -22.996  0.00  0.00           C
+ATOM    606  O   TYR A 555     -33.222   3.192 -23.658  0.00  0.00           O
+ATOM    616  CA  CYS A 556     -32.098   1.904 -21.470  0.00  0.00           C
+ATOM    617  C   CYS A 556     -33.343   1.841 -20.593  0.00  0.00           C
+ATOM    618  O   CYS A 556     -33.923   2.868 -20.240  0.00  0.00           O
+ATOM    619  CB  CYS A 556     -30.907   1.334 -20.702  0.00  0.00           C
+ATOM    621  N   SER A 557     -33.744   0.623 -20.245  0.00  0.00           N
+ATOM    622  CA  SER A 557     -34.857   0.408 -19.330  0.00  0.00           C
+ATOM    625  CB  SER A 557     -36.087  -0.102 -20.083  0.00  0.00           C
+ATOM    626  OG  SER A 557     -36.566   0.868 -20.999  0.00  0.00           O
+ATOM    634  CD2 HIS A 558     -33.083  -3.689 -19.634  0.00  0.00           C
+ATOM    636  NE2 HIS A 558     -34.101  -4.582 -19.868  0.00  0.00           N
+ATOM   1097  CA  TYR A 624     -30.334  -3.100 -22.355  0.00  0.00           C
+ATOM   1098  C   TYR A 624     -30.731  -4.569 -22.287  0.00  0.00           C
+ATOM   1100  CB  TYR A 624     -30.051  -2.698 -23.805  0.00  0.00           C
+ATOM   1101  CG  TYR A 624     -29.971  -1.205 -24.030  0.00  0.00           C
+ATOM   1102  CD1 TYR A 624     -30.968  -0.534 -24.727  0.00  0.00           C
+ATOM   1104  CE1 TYR A 624     -30.900   0.831 -24.935  0.00  0.00           C
+ATOM   1108  N   ASP A 625     -31.798  -4.928 -22.996  0.00  0.00           N
+ATOM   1109  CA  ASP A 625     -32.267  -6.310 -23.036  0.00  0.00           C
+ATOM   1112  CB  ASP A 625     -33.510  -6.430 -23.921  0.00  0.00           C
+ATOM   1113  CG  ASP A 625     -34.679  -5.607 -23.403  0.00  0.00           C
+ATOM   1114  OD1 ASP A 625     -34.741  -5.361 -22.180  0.00  0.00           O
+ATOM   1115  OD2 ASP A 625     -35.539  -5.210 -24.219  0.00  0.00           O

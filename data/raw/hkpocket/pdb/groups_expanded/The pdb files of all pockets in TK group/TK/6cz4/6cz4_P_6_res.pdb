@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   8.97  -1.60 -10.68 with max radius 6.71
+ATOM   1386  CB  ALA A 355       5.101   1.212 -14.797  0.00  0.00           C
+ATOM   1387  N   PRO A 356       8.116   1.861 -13.689  0.00  0.00           N
+ATOM   1388  CA  PRO A 356       9.565   1.639 -13.730  0.00  0.00           C
+ATOM   1389  C   PRO A 356       9.989   0.484 -14.635  0.00  0.00           C
+ATOM   1390  O   PRO A 356      11.023   0.564 -15.296  0.00  0.00           O
+ATOM   1391  CB  PRO A 356       9.935   1.378 -12.268  0.00  0.00           C
+ATOM   1392  CG  PRO A 356       8.838   2.000 -11.483  0.00  0.00           C
+ATOM   1393  CD  PRO A 356       7.595   1.848 -12.312  0.00  0.00           C
+ATOM   1394  N   GLU A 357       9.197  -0.583 -14.660  0.00  0.00           N
+ATOM   1395  CA  GLU A 357       9.552  -1.752 -15.460  0.00  0.00           C
+ATOM   1398  CB  GLU A 357       8.698  -2.966 -15.064  0.00  0.00           C
+ATOM   1399  CG  GLU A 357       7.260  -2.958 -15.580  0.00  0.00           C
+ATOM   1400  CD  GLU A 357       6.282  -2.254 -14.647  0.00  0.00           C
+ATOM   1401  OE1 GLU A 357       6.727  -1.663 -13.634  0.00  0.00           O
+ATOM   1421  OG  SER A 360      13.029  -1.496 -16.028  0.00  0.00           O
+ATOM   1512  CE3 TRP A 371       4.246   2.007 -10.632  0.00  0.00           C
+ATOM   1514  CZ3 TRP A 371       5.199   2.060  -9.627  0.00  0.00           C
+ATOM   1515  CH2 TRP A 371       5.957   3.224  -9.404  0.00  0.00           C
+ATOM   1752  C   VAL A 400      10.746   4.134  -7.617  0.00  0.00           C
+ATOM   1753  O   VAL A 400      10.169   3.301  -6.917  0.00  0.00           O
+ATOM   1756  CG2 VAL A 400       9.793   5.610  -9.991  0.00  0.00           C
+ATOM   1757  N   ASP A 401      11.711   3.803  -8.467  0.00  0.00           N
+ATOM   1758  CA  ASP A 401      12.139   2.416  -8.586  0.00  0.00           C
+ATOM   1761  CB  ASP A 401      13.133   2.263  -9.741  0.00  0.00           C
+ATOM   1762  CG  ASP A 401      13.330   0.818 -10.149  0.00  0.00           C
+ATOM   1763  OD1 ASP A 401      12.371   0.025 -10.017  0.00  0.00           O
+ATOM   1794  CZ  ARG A 405       6.752   2.972  -5.615  0.00  0.00           C
+ATOM   1795  NH1 ARG A 405       7.849   3.713  -5.682  0.00  0.00           N
+ATOM   1796  NH2 ARG A 405       6.815   1.673  -5.889  0.00  0.00           N
+ATOM   1934  O   TRP A 424       4.253   1.317  -6.712  0.00  0.00           O
+ATOM   1949  C   CYS A 425       4.366  -1.445  -7.311  0.00  0.00           C
+ATOM   1951  O   CYS A 425       4.218  -1.355  -8.529  0.00  0.00           O
+ATOM   1957  N   ARG A 426       5.526  -1.771  -6.752  0.00  0.00           N
+ATOM   1958  CA  ARG A 426       6.685  -2.059  -7.586  0.00  0.00           C
+ATOM   1959  C   ARG A 426       6.417  -3.289  -8.446  0.00  0.00           C
+ATOM   1960  O   ARG A 426       6.781  -3.329  -9.620  0.00  0.00           O
+ATOM   1961  CB  ARG A 426       7.929  -2.298  -6.726  0.00  0.00           C
+ATOM   1962  CG  ARG A 426       9.202  -2.430  -7.546  0.00  0.00           C
+ATOM   1963  CD  ARG A 426      10.422  -2.672  -6.674  0.00  0.00           C
+ATOM   1964  NE  ARG A 426      11.641  -2.192  -7.321  0.00  0.00           N
+ATOM   1965  CZ  ARG A 426      12.273  -2.833  -8.299  0.00  0.00           C
+ATOM   1966  NH1 ARG A 426      11.804  -3.989  -8.750  0.00  0.00           N
+ATOM   1967  NH2 ARG A 426      13.374  -2.317  -8.828  0.00  0.00           N
+ATOM   1969  CA  ASP A 427       5.426  -5.516  -8.555  0.00  0.00           C
+ATOM   1981  CG  PRO A 428       5.096  -5.130 -12.841  0.00  0.00           C
+ATOM   1982  CD  PRO A 428       5.456  -5.618 -11.464  0.00  0.00           C
+ATOM   2011  NH2 ARG A 431       4.803  -1.394 -11.535  0.00  0.00           N

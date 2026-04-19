@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.35  -9.93  -8.97 with max radius 4.48
+ATOM      5  CB  SER A 464      19.871  -9.049  -4.851  0.00  0.00           C
+ATOM      6  OG  SER A 464      20.027 -10.331  -5.447  0.00  0.00           O
+ATOM     18  C   TYR A 466      22.393  -8.831  -9.342  0.00  0.00           C
+ATOM     19  O   TYR A 466      22.205  -7.850  -8.617  0.00  0.00           O
+ATOM     20  CB  TYR A 466      21.714 -11.257  -9.060  0.00  0.00           C
+ATOM     21  CG  TYR A 466      22.238 -12.641  -8.744  0.00  0.00           C
+ATOM     22  CD1 TYR A 466      22.111 -13.177  -7.457  0.00  0.00           C
+ATOM     23  CD2 TYR A 466      22.935 -13.381  -9.702  0.00  0.00           C
+ATOM     28  N   GLU A 467      22.289  -8.783 -10.668  0.00  0.00           N
+ATOM     29  CA  GLU A 467      22.041  -7.527 -11.365  0.00  0.00           C
+ATOM     30  C   GLU A 467      20.822  -7.379 -12.263  0.00  0.00           C
+ATOM     31  O   GLU A 467      20.397  -6.255 -12.543  0.00  0.00           O
+ATOM     37  N   LEU A 468      20.257  -8.485 -12.726  0.00  0.00           N
+ATOM     38  CA  LEU A 468      19.118  -8.382 -13.627  0.00  0.00           C
+ATOM     39  C   LEU A 468      17.805  -8.013 -12.960  0.00  0.00           C
+ATOM     40  O   LEU A 468      17.449  -8.546 -11.908  0.00  0.00           O
+ATOM     41  CB  LEU A 468      18.957  -9.676 -14.419  0.00  0.00           C
+ATOM    662  C   THR A 555      17.344 -13.717 -12.479  0.00  0.00           C
+ATOM    663  O   THR A 555      18.245 -12.898 -12.292  0.00  0.00           O
+ATOM    667  N   GLN A 556      16.607 -14.223 -11.497  0.00  0.00           N
+ATOM    668  CA  GLN A 556      16.802 -13.817 -10.116  0.00  0.00           C
+ATOM    669  C   GLN A 556      17.516 -14.837  -9.259  0.00  0.00           C
+ATOM    671  CB  GLN A 556      15.444 -13.529  -9.486  0.00  0.00           C
+ATOM    672  CG  GLN A 556      14.598 -12.572 -10.303  0.00  0.00           C
+ATOM    673  CD  GLN A 556      15.233 -11.200 -10.401  0.00  0.00           C
+ATOM    674  OE1 GLN A 556      15.418 -10.517  -9.391  0.00  0.00           O
+ATOM    675  NE2 GLN A 556      15.579 -10.789 -11.618  0.00  0.00           N
+ATOM    676  N   ASP A 557      18.288 -14.342  -8.287  0.00  0.00           N
+ATOM    682  OD1 ASP A 557      17.769 -13.555  -5.487  0.00  0.00           O

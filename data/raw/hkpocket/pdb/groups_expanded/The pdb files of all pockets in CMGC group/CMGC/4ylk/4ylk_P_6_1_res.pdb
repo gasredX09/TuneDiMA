@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  28.41  57.94  13.91 with max radius 4.75
+ATOM   1601  C   GLN A 320      30.762  60.208  17.358  0.00  0.00           C
+ATOM   1602  O   GLN A 320      29.873  60.357  16.528  0.00  0.00           O
+ATOM   1624  N   ILE A 322      27.884  58.004  18.815  0.00  0.00           N
+ATOM   1627  O   ILE A 322      25.300  57.612  18.109  0.00  0.00           O
+ATOM   1689  CG  ARG A 328      22.913  57.701  15.200  0.00  0.00           C
+ATOM   1690  CD  ARG A 328      24.090  56.842  14.755  0.00  0.00           C
+ATOM   1691  NE  ARG A 328      24.366  55.795  15.757  0.00  0.00           N
+ATOM   1692  CZ  ARG A 328      24.760  54.576  15.515  0.00  0.00           C
+ATOM   1693  NH1 ARG A 328      25.173  54.239  14.294  0.00  0.00           N
+ATOM   1694  NH2 ARG A 328      24.846  53.699  16.486  0.00  0.00           N
+ATOM   1719  C   VAL A 332      25.746  60.878  12.821  0.00  0.00           C
+ATOM   1720  O   VAL A 332      26.949  60.638  12.585  0.00  0.00           O
+ATOM   1722  CG1 VAL A 332      25.816  60.085  15.624  0.00  0.00           C
+ATOM   1724  N   LEU A 333      24.747  60.308  12.122  0.00  0.00           N
+ATOM   1725  CA  LEU A 333      25.073  59.407  10.973  0.00  0.00           C
+ATOM   1726  C   LEU A 333      25.985  60.100   9.944  0.00  0.00           C
+ATOM   1727  O   LEU A 333      26.868  59.460   9.367  0.00  0.00           O
+ATOM   1728  CB  LEU A 333      23.789  58.905  10.305  0.00  0.00           C
+ATOM   1731  CD2 LEU A 333      23.550  56.508  11.019  0.00  0.00           C
+ATOM   1741  CA  GLY A 335      29.436  63.019  11.014  0.00  0.00           C
+ATOM   1985  CD  GLU A 366      26.958  54.979  11.239  0.00  0.00           C
+ATOM   1986  OE1 GLU A 366      27.749  55.296  10.314  0.00  0.00           O
+ATOM   1987  OE2 GLU A 366      26.726  55.675  12.300  0.00  0.00           O
+ATOM   2180  CD  LYS A 390      30.423  59.566   9.148  0.00  0.00           C
+ATOM   2181  CE  LYS A 390      29.721  58.204   8.975  0.00  0.00           C
+ATOM   2182  NZ  LYS A 390      29.153  57.633  10.211  0.00  0.00           N

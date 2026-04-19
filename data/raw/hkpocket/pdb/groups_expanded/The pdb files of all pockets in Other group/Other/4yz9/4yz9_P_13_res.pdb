@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -51.45  27.25   6.22 with max radius 8.58
+ATOM   2763  CD2 TYR A 765     -51.011  22.738   1.764  0.00  0.00           C
+ATOM   2765  CE2 TYR A 765     -50.434  22.932   3.005  0.00  0.00           C
+ATOM   2766  CZ  TYR A 765     -49.063  22.871   3.137  0.00  0.00           C
+ATOM   2767  OH  TYR A 765     -48.485  23.062   4.373  0.00  0.00           O
+ATOM   2867  CA  SER A 772     -53.870  21.339   5.233  0.00  0.00           C
+ATOM   2868  C   SER A 772     -54.126  22.118   3.943  0.00  0.00           C
+ATOM   2870  CB  SER A 772     -52.411  21.497   5.664  0.00  0.00           C
+ATOM   2871  OG  SER A 772     -52.192  20.910   6.934  0.00  0.00           O
+ATOM   2877  N   HIS A 773     -54.293  23.436   4.087  0.00  0.00           N
+ATOM   2878  CA  HIS A 773     -54.470  24.363   2.976  0.00  0.00           C
+ATOM   2879  C   HIS A 773     -53.335  25.382   2.998  0.00  0.00           C
+ATOM   2880  O   HIS A 773     -52.905  25.787   4.083  0.00  0.00           O
+ATOM   2881  CB  HIS A 773     -55.832  25.089   3.090  0.00  0.00           C
+ATOM   2896  CA  PRO A 774     -51.684  26.752   1.860  0.00  0.00           C
+ATOM   2897  C   PRO A 774     -51.974  28.075   2.542  0.00  0.00           C
+ATOM   2898  O   PRO A 774     -51.075  28.652   3.165  0.00  0.00           O
+ATOM   2909  N   PHE A 775     -53.193  28.583   2.416  0.00  0.00           N
+ATOM   2910  CA  PHE A 775     -53.599  29.871   2.958  0.00  0.00           C
+ATOM   2911  C   PHE A 775     -54.249  29.773   4.338  0.00  0.00           C
+ATOM   2912  O   PHE A 775     -54.809  30.769   4.812  0.00  0.00           O
+ATOM   2913  CB  PHE A 775     -54.515  30.579   1.963  0.00  0.00           C
+ATOM   2929  N   GLY A 776     -54.232  28.600   4.967  0.00  0.00           N
+ATOM   2930  CA  GLY A 776     -54.624  28.462   6.359  0.00  0.00           C
+ATOM   2931  C   GLY A 776     -55.990  27.821   6.540  0.00  0.00           C
+ATOM   2932  O   GLY A 776     -56.542  27.177   5.644  0.00  0.00           O
+ATOM   3045  CB  ASN A 784     -54.514  34.248   3.999  0.00  0.00           C
+ATOM   3046  CG  ASN A 784     -54.446  34.427   5.505  0.00  0.00           C
+ATOM   3048  ND2 ASN A 784     -54.672  33.343   6.238  0.00  0.00           N
+ATOM   3121  C   ALA A 789     -50.288  33.483   2.774  0.00  0.00           C
+ATOM   3122  O   ALA A 789     -51.413  33.041   3.028  0.00  0.00           O
+ATOM   3123  CB  ALA A 789     -50.480  35.536   4.213  0.00  0.00           C
+ATOM   3129  N   CYS A 790     -49.267  32.708   2.422  0.00  0.00           N
+ATOM   3130  CA  CYS A 790     -49.387  31.267   2.268  0.00  0.00           C
+ATOM   3131  C   CYS A 790     -48.258  30.593   3.031  0.00  0.00           C
+ATOM   3140  N   SER A 791     -48.546  29.397   3.543  0.00  0.00           N
+ATOM   3141  CA  SER A 791     -47.581  28.603   4.295  0.00  0.00           C
+ATOM   3142  C   SER A 791     -47.604  27.180   3.761  0.00  0.00           C
+ATOM   3143  O   SER A 791     -48.630  26.497   3.845  0.00  0.00           O
+ATOM   3144  CB  SER A 791     -47.896  28.623   5.793  0.00  0.00           C
+ATOM   3145  OG  SER A 791     -46.888  27.957   6.529  0.00  0.00           O
+ATOM   3175  CG  ASP A 793     -45.990  25.389   7.684  0.00  0.00           C
+ATOM   3176  OD1 ASP A 793     -46.894  24.654   7.234  0.00  0.00           O
+ATOM   3177  OD2 ASP A 793     -46.212  26.313   8.495  0.00  0.00           O
+ATOM   3182  N   CYS A 794     -45.798  22.290   5.762  0.00  0.00           N
+ATOM   3186  CB  CYS A 794     -47.296  20.350   5.444  0.00  0.00           C
+ATOM   3187  SG  CYS A 794     -48.575  20.603   6.704  0.00  0.00           S

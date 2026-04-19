@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  33.25  64.09 -20.97 with max radius 6.36
+ATOM   1448  C   TYR A 198      38.141  65.730 -19.684  0.00  0.00           C
+ATOM   1449  O   TYR A 198      37.460  64.712 -19.607  0.00  0.00           O
+ATOM   1450  CB  TYR A 198      37.223  66.609 -17.427  0.00  0.00           C
+ATOM   1451  CG  TYR A 198      36.143  67.630 -17.745  0.00  0.00           C
+ATOM   1452  CD1 TYR A 198      35.296  67.452 -18.835  0.00  0.00           C
+ATOM   1454  CE1 TYR A 198      34.303  68.384 -19.128  0.00  0.00           C
+ATOM   1458  N   GLU A 199      38.695  66.171 -20.821  0.00  0.00           N
+ATOM   1459  CA  GLU A 199      38.665  65.423 -22.089  0.00  0.00           C
+ATOM   1465  OE1 GLU A 199      37.195  65.498 -25.745  0.00  0.00           O
+ATOM   1467  N   PRO A 200      38.466  62.953 -22.277  0.00  0.00           N
+ATOM   1472  CG  PRO A 200      36.581  61.652 -22.736  0.00  0.00           C
+ATOM   1473  CD  PRO A 200      37.159  63.016 -22.964  0.00  0.00           C
+ATOM   1719  C   LEU A 236      27.871  64.452 -17.106  0.00  0.00           C
+ATOM   1720  O   LEU A 236      28.482  64.570 -18.170  0.00  0.00           O
+ATOM   1724  CD2 LEU A 236      30.996  61.797 -15.811  0.00  0.00           C
+ATOM   1743  CA  MET A 239      30.834  67.583 -18.378  0.00  0.00           C
+ATOM   1744  C   MET A 239      30.691  67.217 -19.849  0.00  0.00           C
+ATOM   1745  O   MET A 239      31.386  67.787 -20.714  0.00  0.00           O
+ATOM   1746  CB  MET A 239      31.615  66.508 -17.647  0.00  0.00           C
+ATOM   1747  CG  MET A 239      32.079  66.961 -16.273  0.00  0.00           C
+ATOM   1748  SD  MET A 239      32.691  65.582 -15.271  0.00  0.00           S
+ATOM   1749  CE  MET A 239      34.255  65.175 -16.019  0.00  0.00           C
+ATOM   1750  N   TYR A 240      29.767  66.290 -20.135  0.00  0.00           N
+ATOM   1751  CA  TYR A 240      29.564  65.855 -21.514  0.00  0.00           C
+ATOM   1752  C   TYR A 240      29.060  67.018 -22.341  0.00  0.00           C
+ATOM   1753  O   TYR A 240      29.572  67.252 -23.438  0.00  0.00           O
+ATOM   1754  CB  TYR A 240      28.634  64.634 -21.643  0.00  0.00           C
+ATOM   1755  CG  TYR A 240      28.471  64.214 -23.096  0.00  0.00           C
+ATOM   1756  CD1 TYR A 240      27.471  64.784 -23.887  0.00  0.00           C
+ATOM   1757  CD2 TYR A 240      29.350  63.300 -23.696  0.00  0.00           C
+ATOM   1759  CE2 TYR A 240      29.204  62.942 -25.039  0.00  0.00           C
+ATOM   1779  CB  SER A 243      33.183  67.720 -23.578  0.00  0.00           C
+ATOM   1780  OG  SER A 243      32.168  66.799 -23.941  0.00  0.00           O

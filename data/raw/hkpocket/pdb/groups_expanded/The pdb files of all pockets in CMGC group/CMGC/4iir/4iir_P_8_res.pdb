@@ -1,0 +1,48 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 42 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   7.86  21.83 -18.62 with max radius 5.96
+ATOM   1985  CA  ILE A 913       5.716  15.421 -17.814  0.00  0.00           C
+ATOM   1986  C   ILE A 913       4.854  16.683 -17.986  0.00  0.00           C
+ATOM   1987  O   ILE A 913       4.591  17.368 -16.999  0.00  0.00           O
+ATOM   1988  CB  ILE A 913       7.195  15.649 -18.266  0.00  0.00           C
+ATOM   1990  CG2 ILE A 913       7.857  16.793 -17.471  0.00  0.00           C
+ATOM   1992  N   ARG A 914       4.388  16.952 -19.225  0.00  0.00           N
+ATOM   1993  CA  ARG A 914       3.557  18.110 -19.582  0.00  0.00           C
+ATOM   1996  CB  ARG A 914       3.358  18.199 -21.106  0.00  0.00           C
+ATOM   1997  CG  ARG A 914       4.630  18.483 -21.897  0.00  0.00           C
+ATOM   1998  CD  ARG A 914       4.326  18.696 -23.367  0.00  0.00           C
+ATOM   1999  NE  ARG A 914       5.531  18.624 -24.195  0.00  0.00           N
+ATOM   2035  CA  LYS A 919       6.724  20.055 -13.780  0.00  0.00           C
+ATOM   2036  C   LYS A 919       8.068  20.756 -13.567  0.00  0.00           C
+ATOM   2037  O   LYS A 919       9.109  20.103 -13.609  0.00  0.00           O
+ATOM   2038  CB  LYS A 919       6.133  20.506 -15.135  0.00  0.00           C
+ATOM   2039  CG  LYS A 919       4.652  20.202 -15.348  0.00  0.00           C
+ATOM   2040  CD  LYS A 919       4.135  20.733 -16.693  0.00  0.00           C
+ATOM   2041  CE  LYS A 919       3.660  22.171 -16.653  0.00  0.00           C
+ATOM   2043  N   ASP A 920       8.027  22.084 -13.332  0.00  0.00           N
+ATOM   2044  CA  ASP A 920       9.177  22.971 -13.127  0.00  0.00           C
+ATOM   2047  CB  ASP A 920       8.724  24.441 -13.060  0.00  0.00           C
+ATOM   2071  CA  PHE A 923      12.043  19.108 -15.057  0.00  0.00           C
+ATOM   2072  C   PHE A 923      12.128  20.545 -15.574  0.00  0.00           C
+ATOM   2073  O   PHE A 923      11.327  21.388 -15.170  0.00  0.00           O
+ATOM   2074  CB  PHE A 923      11.047  18.306 -15.914  0.00  0.00           C
+ATOM   2075  CG  PHE A 923      11.131  16.805 -15.765  0.00  0.00           C
+ATOM   2083  C   ASP A 924      12.399  22.320 -18.347  0.00  0.00           C
+ATOM   2084  O   ASP A 924      11.604  21.433 -18.668  0.00  0.00           O
+ATOM   2089  N   GLN A 925      12.546  23.470 -19.050  0.00  0.00           N
+ATOM   2090  CA  GLN A 925      11.803  23.813 -20.271  0.00  0.00           C
+ATOM   2091  C   GLN A 925      12.071  22.831 -21.423  0.00  0.00           C
+ATOM   2092  O   GLN A 925      11.175  22.589 -22.235  0.00  0.00           O
+ATOM   2093  CB  GLN A 925      12.109  25.261 -20.699  0.00  0.00           C
+ATOM   2094  CG  GLN A 925      11.044  25.905 -21.592  0.00  0.00           C
+ATOM   2095  CD  GLN A 925       9.795  26.292 -20.835  0.00  0.00           C
+ATOM   2096  OE1 GLN A 925       8.801  25.558 -20.813  0.00  0.00           O
+ATOM   2106  N   LEU A 927      12.467  19.687 -21.049  0.00  0.00           N
+ATOM   2107  CA  LEU A 927      11.941  18.426 -20.503  0.00  0.00           C
+ATOM   2110  CB  LEU A 927      10.963  17.732 -21.480  0.00  0.00           C
+ATOM   2111  CG  LEU A 927       9.689  18.511 -21.805  0.00  0.00           C
+ATOM   2112  CD1 LEU A 927       9.468  18.595 -23.298  0.00  0.00           C
+ATOM   2113  CD2 LEU A 927       8.486  17.907 -21.117  0.00  0.00           C

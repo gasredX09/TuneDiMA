@@ -1,0 +1,55 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 49 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  16.10   0.35 -10.35 with max radius 7.25
+ATOM     22  CG  TRP A 450      13.756   5.285 -12.727  0.00  0.00           C
+ATOM     23  CD1 TRP A 450      12.574   4.670 -12.434  0.00  0.00           C
+ATOM     24  CD2 TRP A 450      14.548   5.224 -11.541  0.00  0.00           C
+ATOM     25  NE1 TRP A 450      12.590   4.209 -11.130  0.00  0.00           N
+ATOM     26  CE2 TRP A 450      13.791   4.543 -10.563  0.00  0.00           C
+ATOM     27  CE3 TRP A 450      15.827   5.681 -11.205  0.00  0.00           C
+ATOM     28  CZ2 TRP A 450      14.274   4.300  -9.285  0.00  0.00           C
+ATOM     29  CZ3 TRP A 450      16.303   5.436  -9.924  0.00  0.00           C
+ATOM     30  CH2 TRP A 450      15.528   4.755  -8.984  0.00  0.00           C
+ATOM    438  C   LEU A 505      14.739  -2.792 -14.769  0.00  0.00           C
+ATOM    439  O   LEU A 505      15.517  -3.061 -13.839  0.00  0.00           O
+ATOM    444  N   ARG A 506      13.646  -2.035 -14.606  0.00  0.00           N
+ATOM    445  CA  ARG A 506      13.305  -1.457 -13.304  0.00  0.00           C
+ATOM    446  C   ARG A 506      12.921  -2.508 -12.271  0.00  0.00           C
+ATOM    447  O   ARG A 506      12.890  -2.196 -11.072  0.00  0.00           O
+ATOM    448  CB  ARG A 506      12.135  -0.485 -13.433  0.00  0.00           C
+ATOM    449  CG  ARG A 506      12.449   0.830 -14.081  0.00  0.00           C
+ATOM    450  CD  ARG A 506      11.216   1.715 -14.005  0.00  0.00           C
+ATOM    451  NE  ARG A 506      10.882   2.007 -12.614  0.00  0.00           N
+ATOM    452  CZ  ARG A 506       9.671   2.346 -12.186  0.00  0.00           C
+ATOM    453  NH1 ARG A 506       9.474   2.594 -10.899  0.00  0.00           N
+ATOM    457  C   LYS A 507      13.486  -5.424 -11.146  0.00  0.00           C
+ATOM    464  N   THR A 508      14.703  -4.990 -11.490  0.00  0.00           N
+ATOM    465  CA  THR A 508      15.903  -5.688 -11.044  0.00  0.00           C
+ATOM    466  C   THR A 508      16.690  -4.848 -10.039  0.00  0.00           C
+ATOM    467  O   THR A 508      17.067  -3.705 -10.321  0.00  0.00           O
+ATOM    468  CB  THR A 508      16.783  -6.104 -12.225  0.00  0.00           C
+ATOM    469  OG1 THR A 508      17.201  -4.958 -12.975  0.00  0.00           O
+ATOM    472  CA  ARG A 509      17.798  -4.876  -7.829  0.00  0.00           C
+ATOM    475  CB  ARG A 509      16.996  -4.136  -6.762  0.00  0.00           C
+ATOM    476  CG  ARG A 509      16.395  -2.806  -7.203  0.00  0.00           C
+ATOM    477  CD  ARG A 509      15.406  -2.255  -6.114  0.00  0.00           C
+ATOM    478  NE  ARG A 509      15.177  -0.822  -6.338  0.00  0.00           N
+ATOM    479  CZ  ARG A 509      16.025   0.138  -5.984  0.00  0.00           C
+ATOM    480  NH1 ARG A 509      17.152  -0.169  -5.342  0.00  0.00           N
+ATOM    481  NH2 ARG A 509      15.739   1.411  -6.253  0.00  0.00           N
+ATOM    528  CG  LEU A 515      22.395  -0.156 -10.128  0.00  0.00           C
+ATOM    529  CD1 LEU A 515      21.317  -0.971  -9.429  0.00  0.00           C
+ATOM    530  CD2 LEU A 515      23.238   0.619  -9.112  0.00  0.00           C
+ATOM    531  N   PHE A 516      20.683  -1.014 -13.411  0.00  0.00           N
+ATOM    532  CA  PHE A 516      19.984   0.000 -14.194  0.00  0.00           C
+ATOM    533  C   PHE A 516      19.943   1.294 -13.391  0.00  0.00           C
+ATOM    534  O   PHE A 516      19.644   1.271 -12.204  0.00  0.00           O
+ATOM    535  CB  PHE A 516      18.555  -0.462 -14.511  0.00  0.00           C
+ATOM    536  CG  PHE A 516      17.668   0.618 -15.048  0.00  0.00           C
+ATOM    538  CD2 PHE A 516      16.730   1.237 -14.229  0.00  0.00           C
+ATOM    540  CE2 PHE A 516      15.902   2.251 -14.729  0.00  0.00           C
+ATOM    542  N   MET A 517      20.239   2.427 -14.031  0.00  0.00           N
+ATOM    543  CA  MET A 517      20.236   3.699 -13.303  0.00  0.00           C

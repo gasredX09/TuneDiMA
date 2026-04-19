@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 19 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   1.58  18.31 -35.48 with max radius 6.30
+ATOM    887  CB  GLN A 111      -3.279  15.458 -37.985  0.00  0.00           C
+ATOM    888  CG  GLN A 111      -2.312  14.636 -38.832  0.00  0.00           C
+ATOM    896  CB  THR A 112      -1.054  13.410 -34.700  0.00  0.00           C
+ATOM    898  CG2 THR A 112      -0.511  14.794 -34.435  0.00  0.00           C
+ATOM    937  CB  ILE A 117       4.060  15.215 -31.911  0.00  0.00           C
+ATOM    938  CG1 ILE A 117       3.339  15.990 -30.808  0.00  0.00           C
+ATOM    939  CG2 ILE A 117       3.106  14.898 -33.052  0.00  0.00           C
+ATOM    940  CD1 ILE A 117       3.036  17.426 -31.194  0.00  0.00           C
+ATOM   1012  CE  LYS A 126       5.197  21.251 -31.241  0.00  0.00           C
+ATOM   1013  NZ  LYS A 126       5.940  20.233 -32.053  0.00  0.00           N
+ATOM   1264  C   VAL A 158      -3.428  18.016 -33.630  0.00  0.00           C
+ATOM   1265  O   VAL A 158      -3.438  16.921 -34.166  0.00  0.00           O
+ATOM   1266  CB  VAL A 158      -1.956  18.347 -31.636  0.00  0.00           C
+ATOM   1267  CG1 VAL A 158      -1.925  18.615 -30.133  0.00  0.00           C
+ATOM   1268  CG2 VAL A 158      -1.122  17.147 -31.929  0.00  0.00           C
+ATOM   1269  N   ASN A 159      -3.455  19.150 -34.324  0.00  0.00           N
+ATOM   1270  CA  ASN A 159      -3.353  19.081 -35.781  0.00  0.00           C
+ATOM   1271  C   ASN A 159      -2.030  19.653 -36.265  0.00  0.00           C
+ATOM   1272  O   ASN A 159      -1.112  19.868 -35.473  0.00  0.00           O
+ATOM   1277  N   GLU A 160      -1.927  19.897 -37.569  0.00  0.00           N
+ATOM   1278  CA  GLU A 160      -0.660  20.319 -38.148  0.00  0.00           C
+ATOM   1279  C   GLU A 160      -0.281  21.720 -37.678  0.00  0.00           C
+ATOM   1280  O   GLU A 160       0.897  22.068 -37.625  0.00  0.00           O
+ATOM   1281  CB  GLU A 160      -0.729  20.262 -39.678  0.00  0.00           C
+ATOM   1282  CG  GLU A 160       0.593  19.879 -40.338  0.00  0.00           C
+ATOM   1294  N   CYS A 162      -0.767  22.816 -34.707  0.00  0.00           N
+ATOM   1295  CA  CYS A 162      -0.657  22.704 -33.251  0.00  0.00           C
+ATOM   1298  CB  CYS A 162       0.603  23.407 -32.723  0.00  0.00           C
+ATOM   1299  SG  CYS A 162       2.074  22.348 -32.726  0.00  0.00           S

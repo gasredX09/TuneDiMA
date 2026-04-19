@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  34.65  40.85 -77.21 with max radius 5.92
+ATOM     40  O   THR A  32      33.497  35.797 -74.307  0.00  0.00           O
+ATOM     45  CA  VAL A  33      34.984  38.046 -73.532  0.00  0.00           C
+ATOM     46  C   VAL A  33      36.460  38.414 -73.375  0.00  0.00           C
+ATOM     48  CB  VAL A  33      34.094  39.270 -73.217  0.00  0.00           C
+ATOM     49  CG1 VAL A  33      32.622  38.905 -73.323  0.00  0.00           C
+ATOM     50  CG2 VAL A  33      34.400  39.822 -71.834  0.00  0.00           C
+ATOM     51  N   GLU A  34      36.965  39.161 -74.353  0.00  0.00           N
+ATOM     52  CA  GLU A  34      38.381  39.463 -74.455  0.00  0.00           C
+ATOM     53  C   GLU A  34      38.538  40.940 -74.667  0.00  0.00           C
+ATOM     54  O   GLU A  34      38.054  41.478 -75.658  0.00  0.00           O
+ATOM     55  CB  GLU A  34      38.998  38.731 -75.642  0.00  0.00           C
+ATOM     57  CD  GLU A  34      38.623  36.552 -76.885  0.00  0.00           C
+ATOM     59  OE2 GLU A  34      38.134  37.258 -77.803  0.00  0.00           O
+ATOM     66  CD1 LEU A  35      36.564  43.009 -72.768  0.00  0.00           C
+ATOM    619  CB  ALA A 105      36.659  46.163 -76.425  0.00  0.00           C
+ATOM    620  N   SER A 106      34.854  47.191 -78.528  0.00  0.00           N
+ATOM    622  C   SER A 106      33.444  45.876 -80.086  0.00  0.00           C
+ATOM    623  O   SER A 106      34.388  45.141 -80.349  0.00  0.00           O
+ATOM    631  CG1 ILE A 107      31.945  42.623 -79.387  0.00  0.00           C
+ATOM    633  CD1 ILE A 107      31.363  42.256 -78.033  0.00  0.00           C
+ATOM    723  CD1 LEU A 120      32.674  43.597 -74.766  0.00  0.00           C

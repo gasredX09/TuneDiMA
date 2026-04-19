@@ -1,0 +1,59 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 53 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  20.71 -32.31 -34.94 with max radius 7.73
+ATOM      1  N   GLN A 843      20.782 -35.286 -29.646  0.00  0.00           N
+ATOM      2  CA  GLN A 843      19.805 -35.179 -28.556  0.00  0.00           C
+ATOM      3  C   GLN A 843      18.639 -34.255 -28.934  0.00  0.00           C
+ATOM      5  CB  GLN A 843      20.486 -34.731 -27.248  0.00  0.00           C
+ATOM      6  CG  GLN A 843      21.217 -33.405 -27.395  0.00  0.00           C
+ATOM     10  N   PHE A 844      18.930 -33.143 -29.626  0.00  0.00           N
+ATOM     11  CA  PHE A 844      17.895 -32.220 -30.068  0.00  0.00           C
+ATOM     12  C   PHE A 844      18.093 -31.948 -31.536  0.00  0.00           C
+ATOM     13  O   PHE A 844      18.910 -31.103 -31.930  0.00  0.00           O
+ATOM     14  CB  PHE A 844      17.858 -30.928 -29.244  0.00  0.00           C
+ATOM     21  N   GLU A 845      17.361 -32.710 -32.345  0.00  0.00           N
+ATOM     22  CA  GLU A 845      17.390 -32.626 -33.797  0.00  0.00           C
+ATOM     23  C   GLU A 845      16.561 -31.410 -34.219  0.00  0.00           C
+ATOM     25  CB  GLU A 845      16.806 -33.927 -34.398  0.00  0.00           C
+ATOM     26  CG  GLU A 845      17.548 -35.179 -33.956  0.00  0.00           C
+ATOM     27  CD  GLU A 845      17.148 -36.453 -34.672  0.00  0.00           C
+ATOM     29  OE2 GLU A 845      17.988 -36.997 -35.425  0.00  0.00           O
+ATOM     30  N   GLU A 846      17.149 -30.488 -35.013  0.00  0.00           N
+ATOM     31  CA  GLU A 846      16.424 -29.272 -35.461  0.00  0.00           C
+ATOM     32  C   GLU A 846      15.088 -29.540 -36.123  0.00  0.00           C
+ATOM     34  CB  GLU A 846      17.276 -28.312 -36.344  0.00  0.00           C
+ATOM     35  CG  GLU A 846      17.522 -28.753 -37.780  0.00  0.00           C
+ATOM     36  CD  GLU A 846      18.284 -27.792 -38.678  0.00  0.00           C
+ATOM     38  OE2 GLU A 846      19.290 -28.233 -39.276  0.00  0.00           O
+ATOM     39  N   ARG A 847      14.984 -30.639 -36.894  0.00  0.00           N
+ATOM     40  CA  ARG A 847      13.746 -30.964 -37.586  0.00  0.00           C
+ATOM     43  CB  ARG A 847      13.956 -32.162 -38.530  0.00  0.00           C
+ATOM     44  CG  ARG A 847      14.252 -33.487 -37.839  0.00  0.00           C
+ATOM     45  CD  ARG A 847      14.448 -34.570 -38.890  0.00  0.00           C
+ATOM     47  CZ  ARG A 847      15.996 -36.278 -38.001  0.00  0.00           C
+ATOM     48  NH1 ARG A 847      17.034 -35.471 -38.185  0.00  0.00           N
+ATOM    614  C   VAL A 916      21.514 -28.558 -28.721  0.00  0.00           C
+ATOM    615  O   VAL A 916      21.234 -29.764 -28.794  0.00  0.00           O
+ATOM    620  CA  CYS A 917      20.659 -28.072 -30.958  0.00  0.00           C
+ATOM    621  C   CYS A 917      21.574 -27.452 -31.995  0.00  0.00           C
+ATOM    623  CB  CYS A 917      19.216 -27.615 -31.156  0.00  0.00           C
+ATOM    624  SG  CYS A 917      18.633 -27.800 -32.874  0.00  0.00           S
+ATOM    625  N   TYR A 918      22.088 -28.282 -32.923  0.00  0.00           N
+ATOM    626  CA  TYR A 918      22.938 -27.789 -34.013  0.00  0.00           C
+ATOM    627  C   TYR A 918      22.097 -27.645 -35.300  0.00  0.00           C
+ATOM    628  O   TYR A 918      21.963 -28.622 -36.039  0.00  0.00           O
+ATOM    629  CB  TYR A 918      24.136 -28.736 -34.237  0.00  0.00           C
+ATOM    630  CG  TYR A 918      24.999 -28.954 -33.012  0.00  0.00           C
+ATOM    631  CD1 TYR A 918      24.775 -30.028 -32.160  0.00  0.00           C
+ATOM    633  CE1 TYR A 918      25.585 -30.254 -31.049  0.00  0.00           C
+ATOM    637  N   SER A 919      21.527 -26.446 -35.565  0.00  0.00           N
+ATOM    638  CA  SER A 919      20.670 -26.165 -36.708  0.00  0.00           C
+ATOM    649  CA  GLY A 921      22.898 -28.230 -41.125  0.00  0.00           C
+ATOM    657  CG  ARG A 922      24.735 -30.546 -37.552  0.00  0.00           C
+ATOM    658  CD  ARG A 922      25.322 -31.672 -36.795  0.00  0.00           C
+ATOM    659  NE  ARG A 922      24.308 -32.686 -36.539  0.00  0.00           N
+ATOM    660  CZ  ARG A 922      24.575 -33.980 -36.470  0.00  0.00           C
+ATOM    662  NH2 ARG A 922      23.606 -34.849 -36.203  0.00  0.00           N

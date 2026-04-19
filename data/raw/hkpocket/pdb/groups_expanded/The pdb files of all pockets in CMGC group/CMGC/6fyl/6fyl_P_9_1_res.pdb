@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.80  93.10   3.22 with max radius 5.47
+ATOM   2108  C   ILE A 396       4.932  97.023   4.921  0.00  0.00           C
+ATOM   2109  O   ILE A 396       4.710  95.877   4.510  0.00  0.00           O
+ATOM   2115  CA  LEU A 397       2.553  97.526   5.135  0.00  0.00           C
+ATOM   2116  C   LEU A 397       1.706  98.158   4.036  0.00  0.00           C
+ATOM   2117  O   LEU A 397       0.548  97.775   3.855  0.00  0.00           O
+ATOM   2118  CB  LEU A 397       1.931  97.870   6.493  0.00  0.00           C
+ATOM   2121  CD2 LEU A 397       2.268  95.761   7.860  0.00  0.00           C
+ATOM   2458  CA  PRO A 437       7.333  94.847   2.336  0.00  0.00           C
+ATOM   2459  C   PRO A 437       7.378  93.611   3.247  0.00  0.00           C
+ATOM   2461  CB  PRO A 437       6.905  94.493   0.914  0.00  0.00           C
+ATOM   2464  N   LEU A 438       6.399  93.513   4.141  0.00  0.00           N
+ATOM   2465  CA  LEU A 438       6.375  92.509   5.213  0.00  0.00           C
+ATOM   2466  C   LEU A 438       6.665  91.070   4.785  0.00  0.00           C
+ATOM   2468  CB  LEU A 438       5.030  92.560   5.944  0.00  0.00           C
+ATOM   2469  CG  LEU A 438       4.843  91.673   7.178  0.00  0.00           C
+ATOM   2471  CD2 LEU A 438       3.361  91.649   7.582  0.00  0.00           C
+ATOM   2472  N   ARG A 439       6.030  90.612   3.709  0.00  0.00           N
+ATOM   2473  CA  ARG A 439       6.180  89.207   3.297  0.00  0.00           C
+ATOM   2476  CB  ARG A 439       5.124  88.797   2.278  0.00  0.00           C
+ATOM   2477  CG  ARG A 439       3.770  88.738   2.886  0.00  0.00           C
+ATOM   2478  CD  ARG A 439       2.875  87.720   2.228  0.00  0.00           C
+ATOM   2636  CG  GLU A 457      -0.634  91.451   6.257  0.00  0.00           C
+ATOM   2637  CD  GLU A 457      -0.543  90.880   4.848  0.00  0.00           C
+ATOM   2639  OE2 GLU A 457      -0.218  91.637   3.916  0.00  0.00           O

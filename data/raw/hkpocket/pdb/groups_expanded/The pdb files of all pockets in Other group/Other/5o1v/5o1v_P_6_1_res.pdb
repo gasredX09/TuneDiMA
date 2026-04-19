@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  53.03  31.68 -40.09 with max radius 5.77
+ATOM   1358  CB  PHE A 305      54.375  32.385 -34.517  0.00  0.00           C
+ATOM   1366  C   LYS A 307      49.822  29.561 -36.129  0.00  0.00           C
+ATOM   1367  O   LYS A 307      50.574  30.511 -36.365  0.00  0.00           O
+ATOM   1374  CA  SER A 308      49.943  28.730 -38.423  0.00  0.00           C
+ATOM   1375  C   SER A 308      49.040  29.618 -39.275  0.00  0.00           C
+ATOM   1377  CB  SER A 308      50.034  27.320 -39.016  0.00  0.00           C
+ATOM   1379  N   VAL A 309      49.659  30.390 -40.164  0.00  0.00           N
+ATOM   1380  CA  VAL A 309      48.966  31.382 -40.975  0.00  0.00           C
+ATOM   1381  C   VAL A 309      49.288  31.121 -42.441  0.00  0.00           C
+ATOM   1382  O   VAL A 309      50.387  30.669 -42.779  0.00  0.00           O
+ATOM   1383  CB  VAL A 309      49.364  32.820 -40.555  0.00  0.00           C
+ATOM   1384  CG1 VAL A 309      48.877  33.856 -41.555  0.00  0.00           C
+ATOM   1385  CG2 VAL A 309      48.819  33.137 -39.174  0.00  0.00           C
+ATOM   1388  C   ILE A 310      49.632  32.301 -45.130  0.00  0.00           C
+ATOM   1389  O   ILE A 310      49.555  33.492 -44.804  0.00  0.00           O
+ATOM   1394  N   GLY A 311      50.652  31.811 -45.826  0.00  0.00           N
+ATOM   1395  CA  GLY A 311      51.702  32.676 -46.317  0.00  0.00           C
+ATOM   1396  C   GLY A 311      53.081  32.070 -46.203  0.00  0.00           C
+ATOM   1397  O   GLY A 311      53.264  31.018 -45.583  0.00  0.00           O
+ATOM   1410  CG  PRO A 313      57.699  31.738 -43.006  0.00  0.00           C
+ATOM   1411  CD  PRO A 313      57.140  31.564 -44.392  0.00  0.00           C
+ATOM   1438  SD  MET A 316      53.319  34.282 -43.452  0.00  0.00           S
+ATOM   1439  CE  MET A 316      52.334  35.240 -42.308  0.00  0.00           C
+ATOM   1475  CD1 TYR A 321      53.858  36.129 -37.888  0.00  0.00           C
+ATOM   1477  CE1 TYR A 321      54.719  35.538 -38.794  0.00  0.00           C

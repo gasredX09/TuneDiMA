@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  12.48 -13.85  21.70 with max radius 6.19
+ATOM   1750  CD1 TRP A 685      12.970 -12.819  27.737  0.00  0.00           C
+ATOM   1752  NE1 TRP A 685      13.601 -13.301  26.622  0.00  0.00           N
+ATOM   1753  CE2 TRP A 685      14.769 -12.602  26.427  0.00  0.00           C
+ATOM   1755  CZ2 TRP A 685      15.735 -12.731  25.426  0.00  0.00           C
+ATOM   1822  N   TYR A 695      14.988  -8.561  22.476  0.00  0.00           N
+ATOM   1823  CA  TYR A 695      14.613  -8.623  21.056  0.00  0.00           C
+ATOM   1824  C   TYR A 695      15.840  -8.781  20.134  0.00  0.00           C
+ATOM   1826  CB  TYR A 695      13.773  -7.395  20.670  0.00  0.00           C
+ATOM   1827  CG  TYR A 695      12.657  -7.065  21.651  0.00  0.00           C
+ATOM   1828  CD1 TYR A 695      11.414  -7.694  21.566  0.00  0.00           C
+ATOM   1839  CG  PRO A 696      17.254 -12.087  20.659  0.00  0.00           C
+ATOM   1840  CD  PRO A 696      16.331 -11.017  21.211  0.00  0.00           C
+ATOM   1852  CD1 ILE A 698      12.497  -9.150  17.668  0.00  0.00           C
+ATOM   1959  CE1 HIS A 711       8.389 -11.614  19.407  0.00  0.00           C
+ATOM   1960  NE2 HIS A 711       8.910 -10.456  19.775  0.00  0.00           N
+ATOM   1964  O   ARG A 712       7.364 -12.400  22.338  0.00  0.00           O
+ATOM   1973  CA  MET A 713       9.602 -12.112  23.843  0.00  0.00           C
+ATOM   1974  C   MET A 713       9.247 -13.522  24.315  0.00  0.00           C
+ATOM   1976  CB  MET A 713      10.761 -11.554  24.669  0.00  0.00           C
+ATOM   1977  CG  MET A 713      11.574 -10.514  23.926  0.00  0.00           C
+ATOM   1978  SD  MET A 713      13.052 -10.076  24.853  0.00  0.00           S
+ATOM   1980  N   ASP A 714       9.901 -14.526  23.733  0.00  0.00           N
+ATOM   1981  CA  ASP A 714       9.700 -15.910  24.156  0.00  0.00           C
+ATOM   1982  C   ASP A 714      10.269 -16.181  25.547  0.00  0.00           C
+ATOM   1983  O   ASP A 714      11.112 -15.431  26.040  0.00  0.00           O
+ATOM   1984  CB  ASP A 714      10.328 -16.875  23.155  0.00  0.00           C
+ATOM   1985  CG  ASP A 714       9.606 -16.883  21.838  0.00  0.00           C
+ATOM   1986  OD1 ASP A 714       8.375 -16.662  21.835  0.00  0.00           O
+ATOM   1987  OD2 ASP A 714      10.271 -17.108  20.807  0.00  0.00           O
+ATOM   1988  N   LYS A 715       9.805 -17.269  26.161  0.00  0.00           N
+ATOM   1989  CA  LYS A 715      10.284 -17.697  27.471  0.00  0.00           C
+ATOM   1990  C   LYS A 715      11.734 -18.159  27.384  0.00  0.00           C
+ATOM   1991  O   LYS A 715      12.074 -19.008  26.556  0.00  0.00           O
+ATOM   1997  N   PRO A 716      12.598 -17.598  28.239  0.00  0.00           N
+ATOM   1998  CA  PRO A 716      13.987 -18.067  28.345  0.00  0.00           C
+ATOM   2003  CD  PRO A 716      12.320 -16.470  29.145  0.00  0.00           C

@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  26.90 -21.45 -16.75 with max radius 5.15
+ATOM    421  CA  GLU A 139      24.039 -22.587 -12.729  0.00  0.00           C
+ATOM    422  C   GLU A 139      23.839 -23.399 -14.007  0.00  0.00           C
+ATOM    423  O   GLU A 139      24.179 -22.947 -15.099  0.00  0.00           O
+ATOM    424  CB  GLU A 139      25.131 -23.222 -11.875  0.00  0.00           C
+ATOM    425  CG  GLU A 139      26.527 -23.189 -12.517  0.00  0.00           C
+ATOM    426  CD  GLU A 139      27.588 -22.783 -11.516  0.00  0.00           C
+ATOM    428  OE2 GLU A 139      28.530 -22.050 -11.900  0.00  0.00           O
+ATOM    447  N   GLN A 142      21.847 -21.861 -17.024  0.00  0.00           N
+ATOM    448  CA  GLN A 142      22.490 -20.855 -17.855  0.00  0.00           C
+ATOM    449  C   GLN A 142      23.238 -21.431 -19.054  0.00  0.00           C
+ATOM    450  O   GLN A 142      23.335 -20.771 -20.094  0.00  0.00           O
+ATOM    451  CB  GLN A 142      23.433 -20.012 -16.993  0.00  0.00           C
+ATOM    452  CG  GLN A 142      22.912 -19.804 -15.566  0.00  0.00           C
+ATOM    453  CD  GLN A 142      23.698 -18.788 -14.761  0.00  0.00           C
+ATOM    455  NE2 GLN A 142      25.008 -18.722 -14.991  0.00  0.00           N
+ATOM    456  N   LYS A 143      23.762 -22.652 -18.915  0.00  0.00           N
+ATOM    457  CA  LYS A 143      24.496 -23.311 -20.011  0.00  0.00           C
+ATOM    460  CB  LYS A 143      25.127 -24.632 -19.541  0.00  0.00           C
+ATOM    461  CG  LYS A 143      26.344 -25.065 -20.360  0.00  0.00           C
+ATOM    462  CD  LYS A 143      27.525 -24.117 -20.137  0.00  0.00           C
+ATOM    463  CE  LYS A 143      28.138 -23.650 -21.455  0.00  0.00           C
+ATOM    464  NZ  LYS A 143      29.265 -22.707 -21.211  0.00  0.00           N
+ATOM    487  CG  LEU A 146      26.093 -18.854 -21.394  0.00  0.00           C
+ATOM    488  CD1 LEU A 146      27.159 -19.354 -20.445  0.00  0.00           C
+ATOM    665  CB  PHE A 169      26.137 -16.285 -16.983  0.00  0.00           C

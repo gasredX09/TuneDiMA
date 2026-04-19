@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  49.39  34.22  -5.66 with max radius 8.45
+ATOM     12  CB  SER A  89      56.601  34.919  -6.406  0.00  0.00           C
+ATOM     13  OG  SER A  89      55.648  35.223  -7.408  0.00  0.00           O
+ATOM     68  C   LEU A  96      55.267  37.075  -2.653  0.00  0.00           C
+ATOM     70  CB  LEU A  96      54.267  37.691  -4.851  0.00  0.00           C
+ATOM     72  CD1 LEU A  96      52.791  38.089  -6.825  0.00  0.00           C
+ATOM     74  N   LEU A  97      54.657  37.127  -1.467  0.00  0.00           N
+ATOM     75  CA  LEU A  97      54.814  36.071  -0.469  0.00  0.00           C
+ATOM     76  C   LEU A  97      53.474  35.463  -0.127  0.00  0.00           C
+ATOM     77  O   LEU A  97      52.479  36.193  -0.013  0.00  0.00           O
+ATOM     82  N   PRO A  98      53.442  34.128   0.089  0.00  0.00           N
+ATOM     83  CA  PRO A  98      52.182  33.480   0.463  0.00  0.00           C
+ATOM     86  CB  PRO A  98      52.590  32.024   0.703  0.00  0.00           C
+ATOM     87  CG  PRO A  98      54.033  32.086   1.066  0.00  0.00           C
+ATOM     88  CD  PRO A  98      54.588  33.201   0.229  0.00  0.00           C
+ATOM    116  CG  ARG A 102      47.689  30.827  -1.117  0.00  0.00           C
+ATOM    117  CD  ARG A 102      47.653  31.947  -2.144  0.00  0.00           C
+ATOM    118  NE  ARG A 102      47.872  31.454  -3.500  0.00  0.00           N
+ATOM    119  CZ  ARG A 102      47.294  30.368  -4.003  0.00  0.00           C
+ATOM    121  NH2 ARG A 102      47.552  29.993  -5.249  0.00  0.00           N
+ATOM    124  C   GLU A 103      43.481  32.509  -3.241  0.00  0.00           C
+ATOM    125  O   GLU A 103      43.871  31.523  -3.876  0.00  0.00           O
+ATOM    132  CA  HIS A 104      44.424  34.161  -4.767  0.00  0.00           C
+ATOM    133  C   HIS A 104      45.199  35.406  -4.289  0.00  0.00           C
+ATOM    134  O   HIS A 104      45.824  36.082  -5.122  0.00  0.00           O
+ATOM    135  CB  HIS A 104      43.704  34.410  -6.100  0.00  0.00           C
+ATOM    136  CG  HIS A 104      43.259  33.153  -6.777  0.00  0.00           C
+ATOM    137  ND1 HIS A 104      44.142  32.291  -7.392  0.00  0.00           N
+ATOM    139  CE1 HIS A 104      43.475  31.267  -7.895  0.00  0.00           C
+ATOM    141  N   VAL A 105      45.182  35.651  -2.960  0.00  0.00           N
+ATOM    142  CA  VAL A 105      45.779  36.841  -2.315  0.00  0.00           C
+ATOM    143  C   VAL A 105      47.167  36.546  -1.705  0.00  0.00           C
+ATOM    144  O   VAL A 105      47.355  35.553  -1.010  0.00  0.00           O
+ATOM    148  N   SER A 106      48.126  37.440  -1.934  0.00  0.00           N
+ATOM    149  CA  SER A 106      49.450  37.311  -1.333  0.00  0.00           C
+ATOM    152  CB  SER A 106      50.421  36.737  -2.371  0.00  0.00           C
+ATOM    153  OG  SER A 106      50.667  37.646  -3.406  0.00  0.00           O
+ATOM    265  C   CYS A 119      47.159  40.258  -4.483  0.00  0.00           C
+ATOM    266  O   CYS A 119      47.278  39.234  -3.834  0.00  0.00           O
+ATOM    267  CB  CYS A 119      49.445  41.077  -4.901  0.00  0.00           C
+ATOM    268  SG  CYS A 119      49.361  40.726  -6.659  0.00  0.00           S
+ATOM    270  CA  LYS A 120      45.356  39.361  -5.841  0.00  0.00           C
+ATOM    271  C   LYS A 120      45.450  39.298  -7.357  0.00  0.00           C
+ATOM    278  N   VAL A 121      45.621  38.095  -7.877  0.00  0.00           N
+ATOM    279  CA  VAL A 121      45.758  37.867  -9.301  0.00  0.00           C
+ATOM    282  CB  VAL A 121      46.805  36.785  -9.615  0.00  0.00           C
+ATOM    283  CG1 VAL A 121      47.068  36.734 -11.107  0.00  0.00           C
+ATOM    284  CG2 VAL A 121      48.100  37.089  -8.883  0.00  0.00           C
+ATOM    561  CE2 TYR A 157      50.803  37.875 -10.840  0.00  0.00           C

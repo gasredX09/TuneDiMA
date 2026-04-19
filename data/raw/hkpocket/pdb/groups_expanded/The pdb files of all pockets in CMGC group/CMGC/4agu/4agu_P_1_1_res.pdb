@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  41.81 106.04 -22.56 with max radius 6.50
+ATOM   1424  CA  LEU A 196      42.941 107.481 -17.254  0.00  0.00           C
+ATOM   1425  C   LEU A 196      41.664 107.578 -18.095  0.00  0.00           C
+ATOM   1426  O   LEU A 196      41.627 108.361 -19.035  0.00  0.00           O
+ATOM   1427  CB  LEU A 196      43.756 106.253 -17.748  0.00  0.00           C
+ATOM   1430  CD2 LEU A 196      46.143 107.087 -17.833  0.00  0.00           C
+ATOM   1431  N   SER A 197      40.645 106.750 -17.790  0.00  0.00           N
+ATOM   1432  CA  SER A 197      39.391 106.667 -18.557  0.00  0.00           C
+ATOM   1435  CB  SER A 197      38.925 105.219 -18.655  0.00  0.00           C
+ATOM   1852  C   LYS A 252      40.617 100.503 -22.959  0.00  0.00           C
+ATOM   1853  O   LYS A 252      39.906 101.499 -22.799  0.00  0.00           O
+ATOM   1860  CA  PHE A 253      42.708 101.843 -23.237  0.00  0.00           C
+ATOM   1861  C   PHE A 253      43.492 101.989 -24.574  0.00  0.00           C
+ATOM   1862  O   PHE A 253      44.723 101.858 -24.575  0.00  0.00           O
+ATOM   1863  CB  PHE A 253      43.653 101.942 -22.014  0.00  0.00           C
+ATOM   1864  CG  PHE A 253      42.962 101.717 -20.689  0.00  0.00           C
+ATOM   1865  CD1 PHE A 253      42.329 102.765 -20.029  0.00  0.00           C
+ATOM   1867  CE1 PHE A 253      41.653 102.542 -18.827  0.00  0.00           C
+ATOM   1870  N   PRO A 254      42.802 102.276 -25.717  0.00  0.00           N
+ATOM   1871  CA  PRO A 254      43.517 102.382 -27.010  0.00  0.00           C
+ATOM   1872  C   PRO A 254      44.459 103.587 -27.173  0.00  0.00           C
+ATOM   1875  CG  PRO A 254      41.242 103.041 -27.282  0.00  0.00           C
+ATOM   1876  CD  PRO A 254      41.346 102.448 -25.908  0.00  0.00           C
+ATOM   1877  N   ASN A 255      44.279 104.676 -26.379  0.00  0.00           N
+ATOM   1878  CA  ASN A 255      45.090 105.884 -26.525  0.00  0.00           C
+ATOM   1879  C   ASN A 255      46.131 106.082 -25.406  0.00  0.00           C
+ATOM   1880  O   ASN A 255      46.812 107.118 -25.402  0.00  0.00           O
+ATOM   1881  CB  ASN A 255      44.178 107.129 -26.625  0.00  0.00           C
+ATOM   1885  N   ILE A 256      46.298 105.118 -24.475  0.00  0.00           N
+ATOM   1886  CA  ILE A 256      47.301 105.347 -23.417  0.00  0.00           C
+ATOM   1891  CG2 ILE A 256      45.637 105.157 -21.500  0.00  0.00           C

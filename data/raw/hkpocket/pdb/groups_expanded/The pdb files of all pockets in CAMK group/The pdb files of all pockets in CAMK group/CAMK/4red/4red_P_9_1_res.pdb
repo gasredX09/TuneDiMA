@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -26.79 -10.30  13.01 with max radius 5.84
+ATOM    520  CE1 HIS A  77     -31.158  -8.954  14.496  0.00  0.00           C
+ATOM    521  NE2 HIS A  77     -30.512  -8.289  15.434  0.00  0.00           N
+ATOM    864  CA  ARG A 120     -23.606  -7.338  11.064  0.00  0.00           C
+ATOM    865  C   ARG A 120     -24.772  -6.391  11.334  0.00  0.00           C
+ATOM    866  O   ARG A 120     -25.929  -6.794  11.255  0.00  0.00           O
+ATOM    867  CB  ARG A 120     -22.803  -7.568  12.353  0.00  0.00           C
+ATOM    868  CG  ARG A 120     -23.553  -8.239  13.479  0.00  0.00           C
+ATOM    869  CD  ARG A 120     -22.645  -8.348  14.688  0.00  0.00           C
+ATOM    894  CA  GLN A 123     -27.968  -7.220   8.126  0.00  0.00           C
+ATOM    895  C   GLN A 123     -29.124  -7.183   9.101  0.00  0.00           C
+ATOM    897  CB  GLN A 123     -27.177  -8.517   8.339  0.00  0.00           C
+ATOM    898  CG  GLN A 123     -26.161  -8.825   7.244  0.00  0.00           C
+ATOM    899  CD  GLN A 123     -25.205  -9.926   7.641  0.00  0.00           C
+ATOM    900  OE1 GLN A 123     -24.798 -10.024   8.794  0.00  0.00           O
+ATOM    902  N   GLN A 124     -28.865  -6.715  10.316  0.00  0.00           N
+ATOM    903  CA  GLN A 124     -29.917  -6.593  11.335  0.00  0.00           C
+ATOM    906  CB  GLN A 124     -29.329  -6.156  12.678  0.00  0.00           C
+ATOM    907  CG  GLN A 124     -28.278  -7.084  13.246  0.00  0.00           C
+ATOM    908  CD  GLN A 124     -27.910  -6.710  14.671  0.00  0.00           C
+ATOM    910  NE2 GLN A 124     -27.540  -7.700  15.467  0.00  0.00           N
+ATOM   1996  O   ASP A 273     -23.338 -13.273   9.362  0.00  0.00           O
+ATOM   2013  CB  PRO A 275     -27.689 -14.105  11.857  0.00  0.00           C
+ATOM   2014  CG  PRO A 275     -26.596 -13.112  11.743  0.00  0.00           C
+ATOM   2015  CD  PRO A 275     -26.308 -13.049  10.271  0.00  0.00           C
+ATOM   2033  CE1 TYR A 277     -29.918 -14.052  14.577  0.00  0.00           C
+ATOM   2034  CE2 TYR A 277     -31.893 -12.705  14.687  0.00  0.00           C
+ATOM   2035  CZ  TYR A 277     -30.526 -12.841  14.846  0.00  0.00           C
+ATOM   2036  OH  TYR A 277     -29.774 -11.769  15.271  0.00  0.00           O
+ATOM   2042  CG  LEU A 278     -30.400 -11.909  10.576  0.00  0.00           C
+ATOM   2043  CD1 LEU A 278     -29.285 -11.142   9.879  0.00  0.00           C
+ATOM   2044  CD2 LEU A 278     -31.072 -11.001  11.583  0.00  0.00           C

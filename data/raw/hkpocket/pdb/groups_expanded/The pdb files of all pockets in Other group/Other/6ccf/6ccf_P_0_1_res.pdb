@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  44.44  68.20  52.22 with max radius 4.98
+ATOM    110  C   ALA A 138      46.386  63.902  49.749  0.00  0.00           C
+ATOM    111  O   ALA A 138      47.488  64.447  49.773  0.00  0.00           O
+ATOM    113  N   TYR A 139      45.440  64.095  50.665  0.00  0.00           N
+ATOM    114  CA  TYR A 139      45.662  64.725  51.975  0.00  0.00           C
+ATOM    115  C   TYR A 139      46.905  64.241  52.756  0.00  0.00           C
+ATOM    116  O   TYR A 139      47.677  65.057  53.283  0.00  0.00           O
+ATOM    117  CB  TYR A 139      44.406  64.541  52.854  0.00  0.00           C
+ATOM    278  CA  LEU A 159      46.935  66.229  56.780  0.00  0.00           C
+ATOM    281  CB  LEU A 159      45.803  67.258  56.749  0.00  0.00           C
+ATOM    282  CG  LEU A 159      44.393  66.790  57.112  0.00  0.00           C
+ATOM    283  CD1 LEU A 159      43.427  67.965  57.092  0.00  0.00           C
+ATOM    284  CD2 LEU A 159      43.915  65.709  56.165  0.00  0.00           C
+ATOM    285  N   SER A 160      48.692  67.305  55.475  0.00  0.00           N
+ATOM    286  CA  SER A 160      49.880  68.127  55.225  0.00  0.00           C
+ATOM    287  C   SER A 160      49.421  69.523  54.836  0.00  0.00           C
+ATOM    288  O   SER A 160      48.655  69.677  53.886  0.00  0.00           O
+ATOM    306  CA  LYS A 163      49.378  69.862  50.355  0.00  0.00           C
+ATOM    307  C   LYS A 163      48.018  70.581  50.268  0.00  0.00           C
+ATOM    308  O   LYS A 163      47.414  70.590  49.205  0.00  0.00           O
+ATOM    309  CB  LYS A 163      49.174  68.365  50.652  0.00  0.00           C
+ATOM    313  N   LEU A 164      47.546  71.185  51.361  0.00  0.00           N
+ATOM    314  CA  LEU A 164      46.229  71.867  51.378  0.00  0.00           C
+ATOM    317  CB  LEU A 164      45.797  72.183  52.816  0.00  0.00           C

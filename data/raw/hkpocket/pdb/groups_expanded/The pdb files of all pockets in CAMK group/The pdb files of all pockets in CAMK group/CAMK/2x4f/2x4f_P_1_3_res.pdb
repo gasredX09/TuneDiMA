@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  72.60  54.56  40.54 with max radius 5.73
+ATOM   1110  C   LEU A 228      74.340  52.374  37.436  0.00  0.00           C
+ATOM   1111  O   LEU A 228      73.544  52.849  38.256  0.00  0.00           O
+ATOM   1116  N   LYS A 229      75.659  52.547  37.512  0.00  0.00           N
+ATOM   1117  CA  LYS A 229      76.278  53.420  38.504  0.00  0.00           C
+ATOM   1118  C   LYS A 229      77.523  54.038  37.933  0.00  0.00           C
+ATOM   1120  CB  LYS A 229      76.611  52.671  39.795  0.00  0.00           C
+ATOM   1131  CD  PRO A 230      77.502  55.776  39.775  0.00  0.00           C
+ATOM   1453  CA  PHE A 269      72.862  52.621  44.254  0.00  0.00           C
+ATOM   1454  C   PHE A 269      71.671  51.720  43.962  0.00  0.00           C
+ATOM   1455  O   PHE A 269      71.107  51.770  42.856  0.00  0.00           O
+ATOM   1456  CB  PHE A 269      74.029  52.301  43.324  0.00  0.00           C
+ATOM   1457  CG  PHE A 269      75.090  53.348  43.340  0.00  0.00           C
+ATOM   1458  CD1 PHE A 269      74.817  54.637  42.872  0.00  0.00           C
+ATOM   1460  CE1 PHE A 269      75.818  55.640  42.909  0.00  0.00           C
+ATOM   1605  CD1 TRP A 287      67.418  53.899  41.916  0.00  0.00           C
+ATOM   1607  NE1 TRP A 287      67.555  54.248  43.238  0.00  0.00           N
+ATOM   1613  N   SER A 288      68.216  54.582  38.580  0.00  0.00           N
+ATOM   1614  CA  SER A 288      69.654  54.830  38.580  0.00  0.00           C
+ATOM   1615  C   SER A 288      69.998  56.056  37.788  0.00  0.00           C
+ATOM   1616  O   SER A 288      70.876  56.820  38.147  0.00  0.00           O
+ATOM   1617  CB  SER A 288      70.383  53.626  38.022  0.00  0.00           C
+ATOM   1618  OG  SER A 288      70.209  52.519  38.897  0.00  0.00           O
+ATOM   1632  C   VAL A 291      71.761  59.606  40.404  0.00  0.00           C
+ATOM   1634  CB  VAL A 291      70.976  57.472  41.502  0.00  0.00           C
+ATOM   1635  CG1 VAL A 291      72.276  57.517  42.312  0.00  0.00           C
+ATOM   1636  CG2 VAL A 291      69.886  56.834  42.317  0.00  0.00           C
+ATOM   1637  N   ILE A 292      72.169  59.151  39.218  0.00  0.00           N
+ATOM   1638  CA  ILE A 292      73.310  59.738  38.516  0.00  0.00           C
+ATOM   1641  CB  ILE A 292      73.669  58.941  37.218  0.00  0.00           C
+ATOM   1642  CG1 ILE A 292      74.454  57.691  37.593  0.00  0.00           C
+ATOM   1644  CD1 ILE A 292      74.099  56.483  36.760  0.00  0.00           C

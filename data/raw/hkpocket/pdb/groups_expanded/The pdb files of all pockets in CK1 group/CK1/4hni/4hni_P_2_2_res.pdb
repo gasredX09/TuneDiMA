@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -40.60   4.53 -43.15 with max radius 6.42
+ATOM   1148  CD1 TYR A 156     -34.638   6.105 -41.370  0.00  0.00           C
+ATOM   1150  CE1 TYR A 156     -35.349   6.704 -40.340  0.00  0.00           C
+ATOM   1216  CD2 HIS A 164     -36.498   7.977 -43.978  0.00  0.00           C
+ATOM   1217  CE1 HIS A 164     -35.796   6.401 -45.332  0.00  0.00           C
+ATOM   1218  NE2 HIS A 164     -36.639   6.663 -44.350  0.00  0.00           N
+ATOM   1428  CA  SER A 191     -36.791   1.668 -44.365  0.00  0.00           C
+ATOM   1429  C   SER A 191     -37.605   1.203 -43.167  0.00  0.00           C
+ATOM   1430  O   SER A 191     -37.887   0.018 -43.020  0.00  0.00           O
+ATOM   1431  CB  SER A 191     -37.444   2.884 -45.065  0.00  0.00           C
+ATOM   1432  OG  SER A 191     -38.651   2.572 -45.732  0.00  0.00           O
+ATOM   1433  N   ARG A 192     -37.978   2.131 -42.304  0.00  0.00           N
+ATOM   1434  CA  ARG A 192     -38.717   1.767 -41.113  0.00  0.00           C
+ATOM   1435  C   ARG A 192     -39.974   0.949 -41.393  0.00  0.00           C
+ATOM   1437  CB  ARG A 192     -39.051   3.025 -40.319  0.00  0.00           C
+ATOM   1438  CG  ARG A 192     -37.833   3.747 -39.767  0.00  0.00           C
+ATOM   1439  CD  ARG A 192     -38.197   5.107 -39.213  0.00  0.00           C
+ATOM   1440  NE  ARG A 192     -38.637   6.035 -40.249  0.00  0.00           N
+ATOM   1441  CZ  ARG A 192     -38.914   7.319 -40.035  0.00  0.00           C
+ATOM   1443  NH2 ARG A 192     -39.306   8.093 -41.040  0.00  0.00           N
+ATOM   1444  N   ARG A 193     -40.741   1.344 -42.402  0.00  0.00           N
+ATOM   1445  CA  ARG A 193     -41.967   0.632 -42.741  0.00  0.00           C
+ATOM   1448  CB  ARG A 193     -42.556   1.172 -44.039  0.00  0.00           C
+ATOM   1449  CG  ARG A 193     -41.653   1.004 -45.222  0.00  0.00           C
+ATOM   1450  CD  ARG A 193     -42.242   1.631 -46.438  0.00  0.00           C
+ATOM   1451  NE  ARG A 193     -41.319   1.530 -47.557  0.00  0.00           N
+ATOM   1977  CA  LEU A 258     -46.429   3.573 -45.491  0.00  0.00           C
+ATOM   1978  C   LEU A 258     -45.546   3.956 -46.666  0.00  0.00           C
+ATOM   1980  CB  LEU A 258     -45.576   3.058 -44.324  0.00  0.00           C
+ATOM   1981  CG  LEU A 258     -46.293   3.077 -42.970  0.00  0.00           C
+ATOM   1982  CD1 LEU A 258     -45.675   2.076 -42.016  0.00  0.00           C
+ATOM   1983  CD2 LEU A 258     -46.219   4.471 -42.399  0.00  0.00           C
+ATOM   1984  N   ARG A 259     -45.243   5.244 -46.758  0.00  0.00           N
+ATOM   1986  C   ARG A 259     -42.970   5.320 -47.422  0.00  0.00           C
+ATOM   1987  O   ARG A 259     -42.724   4.902 -46.286  0.00  0.00           O
+ATOM   1996  CA  PHE A 260     -40.677   5.059 -48.121  0.00  0.00           C
+ATOM   1997  C   PHE A 260     -40.044   5.742 -46.913  0.00  0.00           C
+ATOM   1998  O   PHE A 260     -39.463   5.090 -46.042  0.00  0.00           O
+ATOM   2006  N   ASP A 261     -40.163   7.058 -46.856  0.00  0.00           N
+ATOM   2007  CA  ASP A 261     -39.553   7.821 -45.776  0.00  0.00           C
+ATOM   2008  C   ASP A 261     -40.513   8.171 -44.656  0.00  0.00           C
+ATOM   2009  O   ASP A 261     -40.186   8.969 -43.781  0.00  0.00           O
+ATOM   2014  N   ASP A 262     -41.688   7.557 -44.678  0.00  0.00           N
+ATOM   2015  CA  ASP A 262     -42.703   7.809 -43.660  0.00  0.00           C
+ATOM   2016  C   ASP A 262     -42.331   7.375 -42.255  0.00  0.00           C
+ATOM   2017  O   ASP A 262     -41.706   6.328 -42.051  0.00  0.00           O
+ATOM   2018  CB  ASP A 262     -44.011   7.108 -44.015  0.00  0.00           C
+ATOM   2036  CG  PRO A 264     -42.755   3.668 -39.193  0.00  0.00           C
+ATOM   2037  CD  PRO A 264     -42.263   5.084 -39.067  0.00  0.00           C

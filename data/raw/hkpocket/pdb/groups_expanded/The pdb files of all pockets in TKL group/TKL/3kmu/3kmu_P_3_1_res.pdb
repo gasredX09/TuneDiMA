@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -0.71  25.05   5.15 with max radius 5.71
+ATOM    980  CA  ALA A 306       2.140  27.493   7.332  0.00  0.00           C
+ATOM    981  C   ALA A 306       2.419  28.290   6.049  0.00  0.00           C
+ATOM    982  O   ALA A 306       1.844  28.012   4.971  0.00  0.00           O
+ATOM    983  CB  ALA A 306       1.133  28.256   8.218  0.00  0.00           C
+ATOM   1004  CA  HIS A 309       3.211  25.287   2.834  0.00  0.00           C
+ATOM   1005  C   HIS A 309       2.253  25.901   1.826  0.00  0.00           C
+ATOM   1006  O   HIS A 309       1.558  25.161   1.092  0.00  0.00           O
+ATOM   1007  CB  HIS A 309       2.454  24.538   3.907  0.00  0.00           C
+ATOM   1008  CG  HIS A 309       3.248  23.407   4.475  0.00  0.00           C
+ATOM   1009  ND1 HIS A 309       2.717  22.513   5.364  0.00  0.00           N
+ATOM   1011  CE1 HIS A 309       3.632  21.618   5.683  0.00  0.00           C
+ATOM   1013  N   THR A 310       2.282  27.215   1.735  0.00  0.00           N
+ATOM   1014  CA  THR A 310       1.456  27.917   0.710  0.00  0.00           C
+ATOM   1019  CG2 THR A 310       0.335  29.292   2.512  0.00  0.00           C
+ATOM   1500  CB  ARG A 371       1.672  19.450   3.739  0.00  0.00           C
+ATOM   1501  CG  ARG A 371       2.016  20.484   2.622  0.00  0.00           C
+ATOM   1502  CD  ARG A 371       0.751  21.260   2.206  0.00  0.00           C
+ATOM   1503  NE  ARG A 371       1.008  22.291   1.192  0.00  0.00           N
+ATOM   2021  CA  LYS A 438      -2.318  21.475   8.823  0.00  0.00           C
+ATOM   2022  C   LYS A 438      -1.697  22.504   9.762  0.00  0.00           C
+ATOM   2024  CB  LYS A 438      -3.138  22.204   7.767  0.00  0.00           C
+ATOM   2025  CG  LYS A 438      -3.596  21.312   6.573  0.00  0.00           C
+ATOM   2026  CD  LYS A 438      -4.209  22.194   5.473  0.00  0.00           C
+ATOM   2027  CE  LYS A 438      -3.090  22.989   4.767  0.00  0.00           C
+ATOM   2028  NZ  LYS A 438      -3.531  23.478   3.432  0.00  0.00           N
+ATOM   2029  N   PHE A 439      -0.572  23.068   9.359  0.00  0.00           N
+ATOM   2030  CA  PHE A 439       0.038  24.165  10.192  0.00  0.00           C
+ATOM   2031  C   PHE A 439      -0.905  25.361  10.403  0.00  0.00           C
+ATOM   2033  CB  PHE A 439       1.361  24.628   9.601  0.00  0.00           C
+ATOM   2034  CG  PHE A 439       2.500  23.654   9.864  0.00  0.00           C
+ATOM   2036  CD2 PHE A 439       2.886  22.720   8.905  0.00  0.00           C
+ATOM   2040  N   ASP A 440      -1.712  25.706   9.396  0.00  0.00           N
+ATOM   2041  CA  ASP A 440      -2.626  26.845   9.559  0.00  0.00           C
+ATOM   2044  CB  ASP A 440      -3.123  27.390   8.192  0.00  0.00           C
+ATOM   2045  CG  ASP A 440      -3.905  26.369   7.360  0.00  0.00           C
+ATOM   2046  OD1 ASP A 440      -4.290  25.282   7.839  0.00  0.00           O
+ATOM   2047  OD2 ASP A 440      -4.142  26.697   6.156  0.00  0.00           O

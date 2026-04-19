@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -0.35  20.20  32.74 with max radius 6.43
+ATOM   1231  CA  ASP A 282      -0.265  23.115  27.676  0.00  0.00           C
+ATOM   1232  C   ASP A 282      -0.030  21.640  28.000  0.00  0.00           C
+ATOM   1233  O   ASP A 282       0.687  21.311  28.941  0.00  0.00           O
+ATOM   1234  CB  ASP A 282      -0.671  23.873  28.951  0.00  0.00           C
+ATOM   1235  CG  ASP A 282      -2.002  23.411  29.523  0.00  0.00           C
+ATOM   1236  OD1 ASP A 282      -2.528  22.370  29.079  0.00  0.00           O
+ATOM   1237  OD2 ASP A 282      -2.527  24.099  30.427  0.00  0.00           O
+ATOM   1239  CA  HIS A 283      -0.354  19.325  27.361  0.00  0.00           C
+ATOM   1242  CB  HIS A 283      -1.209  18.699  28.471  0.00  0.00           C
+ATOM   1243  CG  HIS A 283      -2.684  18.767  28.219  0.00  0.00           C
+ATOM   1244  ND1 HIS A 283      -3.409  19.932  28.343  0.00  0.00           N
+ATOM   1245  CD2 HIS A 283      -3.573  17.807  27.867  0.00  0.00           C
+ATOM   1246  CE1 HIS A 283      -4.681  19.688  28.079  0.00  0.00           C
+ATOM   1247  NE2 HIS A 283      -4.807  18.406  27.788  0.00  0.00           N
+ATOM   1389  CB  GLU A 300      -1.731  12.963  34.435  0.00  0.00           C
+ATOM   1390  CG  GLU A 300      -0.487  13.720  33.977  0.00  0.00           C
+ATOM   1391  CD  GLU A 300       0.502  14.046  35.098  0.00  0.00           C
+ATOM   1393  OE2 GLU A 300       1.422  14.847  34.826  0.00  0.00           O
+ATOM   1436  CA  THR A 306      -1.062  13.052  29.167  0.00  0.00           C
+ATOM   1437  C   THR A 306       0.380  13.413  29.502  0.00  0.00           C
+ATOM   1438  O   THR A 306       0.910  12.990  30.529  0.00  0.00           O
+ATOM   1439  CB  THR A 306      -1.988  13.696  30.211  0.00  0.00           C
+ATOM   1441  CG2 THR A 306      -1.773  15.199  30.273  0.00  0.00           C
+ATOM   1442  N   PHE A 307       1.000  14.206  28.633  0.00  0.00           N
+ATOM   1443  CA  PHE A 307       2.353  14.701  28.857  0.00  0.00           C
+ATOM   1444  C   PHE A 307       2.388  16.219  28.789  0.00  0.00           C
+ATOM   1454  CA  SER A 308       3.368  18.260  29.706  0.00  0.00           C
+ATOM   1457  CB  SER A 308       2.281  18.699  30.683  0.00  0.00           C
+ATOM   1458  OG  SER A 308       2.562  18.176  31.971  0.00  0.00           O
+ATOM   1459  N   HIS A 309       4.995  19.890  30.502  0.00  0.00           N
+ATOM   1460  CA  HIS A 309       6.215  20.240  31.216  0.00  0.00           C
+ATOM   1461  C   HIS A 309       6.216  19.616  32.608  0.00  0.00           C
+ATOM   1463  CB  HIS A 309       6.373  21.760  31.324  0.00  0.00           C
+ATOM   1469  N   ALA A 310       5.046  19.574  33.243  0.00  0.00           N
+ATOM   1470  CA  ALA A 310       4.930  18.998  34.577  0.00  0.00           C
+ATOM   1473  CB  ALA A 310       3.549  19.285  35.158  0.00  0.00           C
+ATOM   1983  C   PRO A 372       1.205  20.088  38.232  0.00  0.00           C
+ATOM   1984  O   PRO A 372       2.380  20.452  38.223  0.00  0.00           O
+ATOM   1985  CB  PRO A 372       0.257  18.450  36.539  0.00  0.00           C
+ATOM   1986  CG  PRO A 372      -0.658  17.276  36.688  0.00  0.00           C
+ATOM   1987  CD  PRO A 372      -1.266  17.422  38.060  0.00  0.00           C
+ATOM   1988  N   GLU A 373       0.197  20.911  38.508  0.00  0.00           N
+ATOM   1989  CA  GLU A 373       0.423  22.331  38.761  0.00  0.00           C
+ATOM   1993  CG  GLU A 373      -1.643  23.214  37.516  0.00  0.00           C
+ATOM   1994  CD  GLU A 373      -2.469  21.991  37.162  0.00  0.00           C
+ATOM   1995  OE1 GLU A 373      -2.530  21.043  37.978  0.00  0.00           O
+ATOM   1996  OE2 GLU A 373      -3.062  21.980  36.060  0.00  0.00           O

@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  24.26 205.23 -76.85 with max radius 7.36
+ATOM   1246  CD2 LEU U 173      18.490 202.845 -80.756  0.00  0.00           C
+ATOM   1268  N   PRO U 177      24.448 200.314 -74.030  0.00  0.00           N
+ATOM   1269  CA  PRO U 177      25.286 201.212 -74.880  0.00  0.00           C
+ATOM   1270  C   PRO U 177      26.616 200.680 -75.367  0.00  0.00           C
+ATOM   1271  O   PRO U 177      26.945 200.899 -76.447  0.00  0.00           O
+ATOM   1272  CB  PRO U 177      25.476 202.488 -74.000  0.00  0.00           C
+ATOM   1273  CG  PRO U 177      24.257 202.493 -73.157  0.00  0.00           C
+ATOM   1274  CD  PRO U 177      23.775 201.035 -72.960  0.00  0.00           C
+ATOM   1299  CB  MET U 180      23.857 198.983 -79.005  0.00  0.00           C
+ATOM   1300  CG  MET U 180      22.768 198.640 -77.964  0.00  0.00           C
+ATOM   1301  SD  MET U 180      22.031 200.092 -77.056  0.00  0.00           S
+ATOM   1302  CE  MET U 180      21.075 200.796 -78.395  0.00  0.00           C
+ATOM   1337  CG1 VAL U 185      23.430 206.372 -82.649  0.00  0.00           C
+ATOM   1338  CG2 VAL U 185      22.967 204.340 -81.296  0.00  0.00           C
+ATOM   1593  O   PHE U 218      28.892 209.237 -75.225  0.00  0.00           O
+ATOM   1594  CB  PHE U 218      27.519 209.388 -72.305  0.00  0.00           C
+ATOM   1595  CG  PHE U 218      27.063 208.304 -71.341  0.00  0.00           C
+ATOM   1596  CD1 PHE U 218      26.775 206.977 -71.812  0.00  0.00           C
+ATOM   1598  CE1 PHE U 218      26.332 205.993 -70.929  0.00  0.00           C
+ATOM   1620  CB  LEU U 221      30.437 206.088 -75.395  0.00  0.00           C
+ATOM   1621  CG  LEU U 221      29.555 204.923 -75.843  0.00  0.00           C
+ATOM   1623  CD2 LEU U 221      28.756 204.338 -74.681  0.00  0.00           C
+ATOM   1624  N   GLU U 222      29.405 207.942 -77.741  0.00  0.00           N
+ATOM   1625  CA  GLU U 222      28.611 208.250 -78.947  0.00  0.00           C
+ATOM   1628  CB  GLU U 222      27.458 209.251 -78.719  0.00  0.00           C
+ATOM   1629  CG  GLU U 222      26.301 208.967 -79.652  0.00  0.00           C
+ATOM   1630  CD  GLU U 222      25.322 210.107 -79.768  0.00  0.00           C
+ATOM   1631  OE1 GLU U 222      24.432 210.210 -78.911  0.00  0.00           O
+ATOM   1656  CG1 ILE U 225      28.406 203.760 -80.022  0.00  0.00           C
+ATOM   1657  CG2 ILE U 225      26.960 204.094 -82.128  0.00  0.00           C
+ATOM   1658  CD1 ILE U 225      27.339 203.873 -78.966  0.00  0.00           C

@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  82.74  37.31  18.46 with max radius 5.91
+ATOM   2042  CB  ARG A 459      86.491  39.679  22.095  0.00  0.00           C
+ATOM   2043  CG  ARG A 459      85.782  39.709  20.732  0.00  0.00           C
+ATOM   2044  CD  ARG A 459      85.333  41.186  20.405  0.00  0.00           C
+ATOM   2045  NE  ARG A 459      84.454  41.198  19.244  0.00  0.00           N
+ATOM   2046  CZ  ARG A 459      84.869  41.281  17.978  0.00  0.00           C
+ATOM   2047  NH1 ARG A 459      86.161  41.403  17.698  0.00  0.00           N
+ATOM   2048  NH2 ARG A 459      83.981  41.259  16.993  0.00  0.00           N
+ATOM   2230  CA  GLU A 481      79.370  37.454  22.772  0.00  0.00           C
+ATOM   2231  C   GLU A 481      78.425  37.830  21.638  0.00  0.00           C
+ATOM   2232  O   GLU A 481      78.884  38.109  20.533  0.00  0.00           O
+ATOM   2233  CB  GLU A 481      79.702  35.966  22.722  0.00  0.00           C
+ATOM   2234  CG  GLU A 481      80.945  35.631  23.535  0.00  0.00           C
+ATOM   2235  CD  GLU A 481      81.323  34.189  23.451  0.00  0.00           C
+ATOM   2237  OE2 GLU A 481      82.537  33.915  23.292  0.00  0.00           O
+ATOM   2254  C   TRP A 484      80.649  41.316  19.120  0.00  0.00           C
+ATOM   2255  O   TRP A 484      81.809  41.271  18.701  0.00  0.00           O
+ATOM   2258  CD1 TRP A 484      82.040  39.783  21.236  0.00  0.00           C
+ATOM   2260  NE1 TRP A 484      82.660  38.859  22.040  0.00  0.00           N
+ATOM   2261  CE2 TRP A 484      83.045  39.477  23.206  0.00  0.00           C
+ATOM   2266  N   ASP A 485      79.651  40.620  18.581  0.00  0.00           N
+ATOM   2267  CA  ASP A 485      79.792  39.778  17.398  0.00  0.00           C
+ATOM   2268  C   ASP A 485      80.392  40.526  16.207  0.00  0.00           C
+ATOM   2270  CB  ASP A 485      78.404  39.266  17.008  0.00  0.00           C
+ATOM   2271  CG  ASP A 485      78.442  38.033  16.148  0.00  0.00           C
+ATOM   2272  OD1 ASP A 485      79.203  37.978  15.161  0.00  0.00           O
+ATOM   2273  OD2 ASP A 485      77.651  37.121  16.430  0.00  0.00           O
+ATOM   2274  N   GLN A 486      81.360  39.903  15.540  0.00  0.00           N
+ATOM   2275  CA  GLN A 486      81.869  40.377  14.249  0.00  0.00           C
+ATOM   2278  CB  GLN A 486      82.694  39.278  13.547  0.00  0.00           C
+ATOM   2279  CG  GLN A 486      84.126  39.137  14.025  0.00  0.00           C
+ATOM   2280  CD  GLN A 486      84.995  40.338  13.683  0.00  0.00           C
+ATOM   2281  OE1 GLN A 486      85.495  41.021  14.579  0.00  0.00           O

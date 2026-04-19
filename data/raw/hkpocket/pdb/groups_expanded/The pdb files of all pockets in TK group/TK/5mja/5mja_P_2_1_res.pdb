@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -7.64  22.80   3.64 with max radius 6.18
+ATOM   1278  N   PRO A 776      -7.651  18.998  -0.067  0.00  0.00           N
+ATOM   1279  CA  PRO A 776      -7.420  19.861  -1.236  0.00  0.00           C
+ATOM   1280  C   PRO A 776      -6.043  20.516  -1.166  0.00  0.00           C
+ATOM   1281  O   PRO A 776      -5.809  21.441  -0.389  0.00  0.00           O
+ATOM   1282  CB  PRO A 776      -8.590  20.861  -1.213  0.00  0.00           C
+ATOM   1283  CG  PRO A 776      -9.349  20.600   0.071  0.00  0.00           C
+ATOM   1284  CD  PRO A 776      -8.534  19.647   0.916  0.00  0.00           C
+ATOM   1456  CB  THR A 802      -3.608  23.596   1.835  0.00  0.00           C
+ATOM   1457  OG1 THR A 802      -2.978  24.152   2.982  0.00  0.00           O
+ATOM   1458  CG2 THR A 802      -3.137  22.162   1.596  0.00  0.00           C
+ATOM   1459  N   SER A 803      -5.147  26.092   1.304  0.00  0.00           N
+ATOM   1460  CA  SER A 803      -5.718  27.360   1.781  0.00  0.00           C
+ATOM   1463  CB  SER A 803      -7.222  27.210   1.960  0.00  0.00           C
+ATOM   1464  OG  SER A 803      -7.821  27.529   0.719  0.00  0.00           O
+ATOM   1465  N   ALA A 804      -4.726  26.712   3.946  0.00  0.00           N
+ATOM   1466  CA  ALA A 804      -4.040  26.879   5.235  0.00  0.00           C
+ATOM   1469  CB  ALA A 804      -4.013  25.569   5.998  0.00  0.00           C
+ATOM   1970  NE  ARG A 865      -2.426  20.434   5.762  0.00  0.00           N
+ATOM   1973  NH2 ARG A 865      -3.248  18.299   5.478  0.00  0.00           N
+ATOM   1980  OD1 ASN A 866      -5.628  20.052   8.794  0.00  0.00           O

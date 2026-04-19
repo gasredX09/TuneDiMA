@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  12.80  38.11  34.20 with max radius 5.65
+ATOM   3425  CD1 ILE B  96      10.748  32.769  29.785  0.00  0.00           C
+ATOM   3568  CB  GLU B 115       8.394  37.017  30.138  0.00  0.00           C
+ATOM   3569  CG  GLU B 115       8.974  35.724  30.650  0.00  0.00           C
+ATOM   3570  CD  GLU B 115       8.421  35.329  31.993  0.00  0.00           C
+ATOM   3571  OE1 GLU B 115       8.161  36.238  32.805  0.00  0.00           O
+ATOM   3572  OE2 GLU B 115       8.221  34.118  32.226  0.00  0.00           O
+ATOM   3575  C   TYR B 116      12.973  38.170  30.321  0.00  0.00           C
+ATOM   3576  O   TYR B 116      12.448  38.616  31.345  0.00  0.00           O
+ATOM   3578  CG  TYR B 116      14.358  40.243  28.848  0.00  0.00           C
+ATOM   3580  CD2 TYR B 116      14.799  40.927  29.981  0.00  0.00           C
+ATOM   3582  CE2 TYR B 116      16.151  41.143  30.200  0.00  0.00           C
+ATOM   3585  N   ILE B 117      14.004  37.332  30.339  0.00  0.00           N
+ATOM   3586  CA  ILE B 117      14.746  37.063  31.571  0.00  0.00           C
+ATOM   3587  C   ILE B 117      16.251  37.079  31.315  0.00  0.00           C
+ATOM   3589  CB  ILE B 117      14.349  35.710  32.223  0.00  0.00           C
+ATOM   3590  CG1 ILE B 117      15.497  35.168  33.090  0.00  0.00           C
+ATOM   3591  CG2 ILE B 117      13.963  34.707  31.169  0.00  0.00           C
+ATOM   3592  CD1 ILE B 117      15.087  34.144  34.121  0.00  0.00           C
+ATOM   3593  N   ASN B 118      16.967  37.812  32.163  0.00  0.00           N
+ATOM   4009  CB  ASP B 166      17.395  36.555  36.757  0.00  0.00           C
+ATOM   4010  CG  ASP B 166      17.875  38.008  36.889  0.00  0.00           C
+ATOM   4012  OD2 ASP B 166      17.332  38.887  36.188  0.00  0.00           O
+ATOM   4038  CD  GLN B 169      15.421  41.161  38.164  0.00  0.00           C
+ATOM   4039  OE1 GLN B 169      15.962  41.323  37.072  0.00  0.00           O
+ATOM   4040  NE2 GLN B 169      14.121  41.340  38.353  0.00  0.00           N
+ATOM   4058  CB  LYS B 171      13.831  35.493  38.481  0.00  0.00           C
+ATOM   4060  CG  LYS B 171      13.468  36.733  39.273  0.00  0.00           C
+ATOM   4062  CD  LYS B 171      12.946  37.832  38.361  0.00  0.00           C
+ATOM   4064  CE  LYS B 171      11.627  37.440  37.721  0.00  0.00           C
+ATOM   4066  NZ  LYS B 171      11.109  38.505  36.818  0.00  0.00           N
+ATOM   4080  CB  ARG B 173      11.962  31.114  33.331  0.00  0.00           C
+ATOM   4081  CG  ARG B 173      11.394  32.375  33.912  0.00  0.00           C
+ATOM   4082  CD  ARG B 173      10.015  32.141  34.500  0.00  0.00           C
+ATOM   4083  NE  ARG B 173       9.434  33.415  34.904  0.00  0.00           N
+ATOM   4084  CZ  ARG B 173       9.458  33.916  36.134  0.00  0.00           C
+ATOM   4085  NH1 ARG B 173       8.898  35.104  36.366  0.00  0.00           N
+ATOM   4086  NH2 ARG B 173      10.027  33.242  37.131  0.00  0.00           N

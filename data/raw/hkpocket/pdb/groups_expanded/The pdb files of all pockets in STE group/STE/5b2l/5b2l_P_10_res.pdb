@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -37.43 -13.59   5.58 with max radius 6.01
+ATOM   1002  CD1 TYR A 247     -33.133 -14.731   3.916  0.00  0.00           C
+ATOM   1004  CE1 TYR A 247     -34.045 -15.663   3.434  0.00  0.00           C
+ATOM   1006  CZ  TYR A 247     -33.553 -16.819   2.822  0.00  0.00           C
+ATOM   1007  OH  TYR A 247     -34.392 -17.782   2.343  0.00  0.00           O
+ATOM   1032  CB  LYS A 250     -33.963 -13.486   9.496  0.00  0.00           C
+ATOM   1033  CG  LYS A 250     -35.486 -13.583   9.606  0.00  0.00           C
+ATOM   1034  CD  LYS A 250     -35.987 -13.260  11.036  0.00  0.00           C
+ATOM   1035  CE  LYS A 250     -37.496 -12.989  11.119  0.00  0.00           C
+ATOM   1036  NZ  LYS A 250     -38.278 -14.203  11.496  0.00  0.00           N
+ATOM   1037  N   GLU A 251     -33.323 -16.541   9.211  0.00  0.00           N
+ATOM   1042  CG  GLU A 251     -34.061 -17.495   6.470  0.00  0.00           C
+ATOM   1043  CD  GLU A 251     -35.576 -17.579   6.582  0.00  0.00           C
+ATOM   1044  OE1 GLU A 251     -36.231 -16.540   6.738  0.00  0.00           O
+ATOM   1460  CG1 ILE A 317     -36.924  -9.622   7.446  0.00  0.00           C
+ATOM   1461  CG2 ILE A 317     -35.542  -9.946   9.495  0.00  0.00           C
+ATOM   1462  CD1 ILE A 317     -36.773  -9.207   5.992  0.00  0.00           C
+ATOM   2007  CA  LYS A 386     -37.731  -9.012   2.318  0.00  0.00           C
+ATOM   2008  C   LYS A 386     -36.496  -9.569   1.675  0.00  0.00           C
+ATOM   2010  CB  LYS A 386     -38.573 -10.145   2.882  0.00  0.00           C
+ATOM   2011  CG  LYS A 386     -39.838  -9.536   3.496  0.00  0.00           C
+ATOM   2012  CD  LYS A 386     -40.427 -10.458   4.549  0.00  0.00           C
+ATOM   2013  CE  LYS A 386     -40.222  -9.824   5.922  0.00  0.00           C
+ATOM   2014  NZ  LYS A 386     -41.225 -10.286   6.921  0.00  0.00           N
+ATOM   2015  N   TYR A 387     -35.671 -10.240   2.475  0.00  0.00           N
+ATOM   2016  CA  TYR A 387     -34.373 -10.731   1.976  0.00  0.00           C
+ATOM   2017  C   TYR A 387     -34.556 -11.748   0.863  0.00  0.00           C
+ATOM   2019  CB  TYR A 387     -33.579 -11.392   3.147  0.00  0.00           C
+ATOM   2020  CG  TYR A 387     -33.185 -10.410   4.246  0.00  0.00           C
+ATOM   2022  CD2 TYR A 387     -33.439 -10.686   5.578  0.00  0.00           C
+ATOM   2024  CE2 TYR A 387     -33.137  -9.764   6.574  0.00  0.00           C
+ATOM   2027  N   ASN A 388     -35.567 -12.612   1.006  0.00  0.00           N
+ATOM   2028  CA  ASN A 388     -35.713 -13.765   0.062  0.00  0.00           C
+ATOM   2031  CB  ASN A 388     -36.785 -14.789   0.516  0.00  0.00           C
+ATOM   2032  CG  ASN A 388     -38.084 -14.125   0.942  0.00  0.00           C
+ATOM   2033  OD1 ASN A 388     -38.582 -13.193   0.298  0.00  0.00           O
+ATOM   2034  ND2 ASN A 388     -38.637 -14.598   2.056  0.00  0.00           N

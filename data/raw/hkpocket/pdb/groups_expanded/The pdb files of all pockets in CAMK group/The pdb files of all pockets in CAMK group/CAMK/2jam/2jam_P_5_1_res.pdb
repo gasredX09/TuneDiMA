@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -5.43   9.96  -7.06 with max radius 5.28
+ATOM   1371  CA  LYS A 199      -3.878   6.585  -2.829  0.00  0.00           C
+ATOM   1372  C   LYS A 199      -3.761   8.103  -3.093  0.00  0.00           C
+ATOM   1373  O   LYS A 199      -2.667   8.646  -3.117  0.00  0.00           O
+ATOM   1374  CB  LYS A 199      -4.148   5.784  -4.101  0.00  0.00           C
+ATOM   1379  N   ALA A 200      -4.889   8.788  -3.234  0.00  0.00           N
+ATOM   1380  CA  ALA A 200      -4.898  10.249  -3.434  0.00  0.00           C
+ATOM   1381  C   ALA A 200      -4.362  11.053  -2.222  0.00  0.00           C
+ATOM   1382  O   ALA A 200      -3.677  12.067  -2.387  0.00  0.00           O
+ATOM   1383  CB  ALA A 200      -6.244  10.702  -3.784  0.00  0.00           C
+ATOM   1403  CB  CYS A 203      -1.072  11.737  -4.767  0.00  0.00           C
+ATOM   1404  SG  CYS A 203      -0.843  10.186  -5.626  0.00  0.00           S
+ATOM   1904  CA  PRO A 263      -8.975  14.117  -5.090  0.00  0.00           C
+ATOM   1905  C   PRO A 263      -9.176  13.396  -6.445  0.00  0.00           C
+ATOM   1906  O   PRO A 263      -8.342  12.585  -6.827  0.00  0.00           O
+ATOM   1928  CA  ARG A 266      -5.330  15.424  -8.211  0.00  0.00           C
+ATOM   1929  C   ARG A 266      -4.518  14.457  -9.046  0.00  0.00           C
+ATOM   1930  O   ARG A 266      -5.021  13.426  -9.468  0.00  0.00           O
+ATOM   1931  CB  ARG A 266      -5.293  14.962  -6.740  0.00  0.00           C
+ATOM   1932  CG  ARG A 266      -3.867  14.984  -6.045  0.00  0.00           C
+ATOM   1933  CD  ARG A 266      -4.001  14.677  -4.549  0.00  0.00           C
+ATOM   1940  C   TYR A 267      -2.205  12.569  -9.099  0.00  0.00           C
+ATOM   1941  O   TYR A 267      -2.067  12.617  -7.873  0.00  0.00           O
+ATOM   1950  N   THR A 268      -2.235  11.439  -9.802  0.00  0.00           N
+ATOM   1951  CA  THR A 268      -1.763  10.144  -9.322  0.00  0.00           C
+ATOM   1954  CB  THR A 268      -2.302   8.998 -10.226  0.00  0.00           C
+ATOM   1956  CG2 THR A 268      -3.855   8.976 -10.205  0.00  0.00           C

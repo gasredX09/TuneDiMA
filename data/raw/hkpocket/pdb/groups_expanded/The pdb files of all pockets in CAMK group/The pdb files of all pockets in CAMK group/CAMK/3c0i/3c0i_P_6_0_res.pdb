@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -1.78  18.54 -14.88 with max radius 6.90
+ATOM    325  CB  VAL A  45      -8.262  19.005 -14.408  0.00  0.00           C
+ATOM    326  CG1 VAL A  45      -7.731  19.829 -15.576  0.00  0.00           C
+ATOM    327  CG2 VAL A  45      -7.090  18.521 -13.528  0.00  0.00           C
+ATOM    398  CA  THR A  56      -4.368  24.563 -17.052  0.00  0.00           C
+ATOM    400  O   THR A  56      -2.203  24.157 -16.085  0.00  0.00           O
+ATOM    403  CG2 THR A  56      -3.754  22.335 -18.124  0.00  0.00           C
+ATOM    422  CA  LEU A  59      -1.905  23.747 -12.595  0.00  0.00           C
+ATOM    423  C   LEU A  59      -0.484  23.266 -12.895  0.00  0.00           C
+ATOM    424  O   LEU A  59       0.167  22.672 -12.042  0.00  0.00           O
+ATOM    425  CB  LEU A  59      -2.935  22.725 -13.085  0.00  0.00           C
+ATOM    426  CG  LEU A  59      -4.414  22.981 -12.765  0.00  0.00           C
+ATOM    427  CD1 LEU A  59      -5.298  21.958 -13.471  0.00  0.00           C
+ATOM    428  CD2 LEU A  59      -4.687  22.980 -11.268  0.00  0.00           C
+ATOM    429  N   LYS A  60      -0.002  23.538 -14.103  0.00  0.00           N
+ATOM    430  CA  LYS A  60       1.354  23.148 -14.475  0.00  0.00           C
+ATOM    434  CG  LYS A  60       0.524  22.469 -16.771  0.00  0.00           C
+ATOM    435  CD  LYS A  60       1.122  21.675 -17.918  0.00  0.00           C
+ATOM    436  CE  LYS A  60       0.220  20.499 -18.262  0.00  0.00           C
+ATOM    437  NZ  LYS A  60       0.955  19.434 -18.996  0.00  0.00           N
+ATOM    462  CB  ALA A  63       2.460  20.382 -11.065  0.00  0.00           C
+ATOM    609  OG1 THR A  80       2.334  14.594 -10.996  0.00  0.00           O
+ATOM    639  CB  SER A  82      -2.021  13.533 -14.891  0.00  0.00           C
+ATOM    640  OG  SER A  82      -0.941  14.273 -14.336  0.00  0.00           O
+ATOM    670  O   MET A  86      -6.056  14.013 -12.456  0.00  0.00           O
+ATOM    676  CA  LEU A  87      -4.866  15.745 -10.620  0.00  0.00           C
+ATOM    679  CB  LEU A  87      -4.375  17.182 -10.839  0.00  0.00           C
+ATOM    680  CG  LEU A  87      -2.921  17.448 -11.274  0.00  0.00           C
+ATOM    681  CD1 LEU A  87      -2.550  18.905 -11.022  0.00  0.00           C
+ATOM    682  CD2 LEU A  87      -1.914  16.529 -10.597  0.00  0.00           C

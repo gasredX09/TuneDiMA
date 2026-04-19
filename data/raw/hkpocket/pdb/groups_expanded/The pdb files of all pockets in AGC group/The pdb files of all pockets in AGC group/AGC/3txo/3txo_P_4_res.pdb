@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  15.96  -2.11  -3.70 with max radius 6.81
+ATOM    829  CA  ALA A 454      19.913   1.629  -6.511  0.00  0.00           C
+ATOM    830  C   ALA A 454      19.913   1.898  -4.984  0.00  0.00           C
+ATOM    831  O   ALA A 454      18.964   1.565  -4.282  0.00  0.00           O
+ATOM    832  CB  ALA A 454      20.616   0.243  -6.870  0.00  0.00           C
+ATOM    850  CA  ARG A 457      16.010   4.195  -4.392  0.00  0.00           C
+ATOM    851  C   ARG A 457      15.555   3.457  -3.090  0.00  0.00           C
+ATOM    852  O   ARG A 457      14.433   3.637  -2.589  0.00  0.00           O
+ATOM    853  CB  ARG A 457      16.008   3.189  -5.555  0.00  0.00           C
+ATOM    854  CG  ARG A 457      14.571   2.661  -5.798  0.00  0.00           C
+ATOM    855  CD  ARG A 457      14.525   1.527  -6.859  0.00  0.00           C
+ATOM    858  NH1 ARG A 457      16.854   1.248  -8.498  0.00  0.00           N
+ATOM    860  N   PHE A 458      16.470   2.639  -2.566  0.00  0.00           N
+ATOM    861  CA  PHE A 458      16.244   1.878  -1.354  0.00  0.00           C
+ATOM    862  C   PHE A 458      15.927   2.823  -0.183  0.00  0.00           C
+ATOM    863  O   PHE A 458      14.979   2.630   0.526  0.00  0.00           O
+ATOM    864  CB  PHE A 458      17.485   1.020  -1.025  0.00  0.00           C
+ATOM    865  CG  PHE A 458      17.352   0.243   0.265  0.00  0.00           C
+ATOM    866  CD1 PHE A 458      16.680  -0.998   0.281  0.00  0.00           C
+ATOM    868  CE1 PHE A 458      16.587  -1.780   1.440  0.00  0.00           C
+ATOM    892  CB  ALA A 461      11.718   2.150  -1.062  0.00  0.00           C
+ATOM   2033  CD1 PHE A 614      10.922   3.424  -5.244  0.00  0.00           C
+ATOM   2035  CE1 PHE A 614      11.470   4.474  -4.497  0.00  0.00           C
+ATOM   2049  C   GLU A 616      10.846  -3.705  -7.303  0.00  0.00           C
+ATOM   2050  O   GLU A 616      11.424  -4.690  -6.809  0.00  0.00           O
+ATOM   2052  CG  GLU A 616      13.343  -3.357  -8.007  0.00  0.00           C
+ATOM   2053  CD  GLU A 616      14.609  -2.495  -8.255  0.00  0.00           C
+ATOM   2054  OE1 GLU A 616      15.638  -2.799  -7.591  0.00  0.00           O
+ATOM   2055  OE2 GLU A 616      14.587  -1.533  -9.080  0.00  0.00           O
+ATOM   2056  N   ILE A 617      10.164  -2.792  -6.565  0.00  0.00           N
+ATOM   2057  CA  ILE A 617      10.095  -2.880  -5.077  0.00  0.00           C
+ATOM   2058  C   ILE A 617       8.842  -3.696  -4.715  0.00  0.00           C
+ATOM   2060  CB  ILE A 617       9.965  -1.464  -4.381  0.00  0.00           C
+ATOM   2061  CG1 ILE A 617      11.285  -0.686  -4.291  0.00  0.00           C
+ATOM   2062  CG2 ILE A 617       9.636  -1.644  -2.902  0.00  0.00           C
+ATOM   2063  CD1 ILE A 617      12.041  -0.640  -5.472  0.00  0.00           C
+ATOM   2064  N   ASP A 618       9.014  -4.734  -3.878  0.00  0.00           N
+ATOM   2104  CB  LEU A 622      10.084  -2.599   1.317  0.00  0.00           C
+ATOM   2106  CD1 LEU A 622      12.192  -1.314   1.000  0.00  0.00           C
+ATOM   2150  CB  ILE A 627      14.386  -5.386   0.203  0.00  0.00           C
+ATOM   2151  CG1 ILE A 627      13.096  -5.970  -0.427  0.00  0.00           C
+ATOM   2152  CG2 ILE A 627      15.378  -4.814  -0.841  0.00  0.00           C
+ATOM   2153  CD1 ILE A 627      12.101  -4.955  -0.822  0.00  0.00           C
+ATOM   2157  O   GLU A 628      19.330  -4.660   0.295  0.00  0.00           O
+ATOM   2174  CB  PRO A 630      22.313  -0.890  -1.567  0.00  0.00           C
+ATOM   2175  CG  PRO A 630      21.375  -0.038  -0.589  0.00  0.00           C
+ATOM   2176  CD  PRO A 630      20.594  -1.149  -0.035  0.00  0.00           C

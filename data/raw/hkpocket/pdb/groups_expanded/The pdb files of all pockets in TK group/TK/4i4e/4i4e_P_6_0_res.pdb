@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   5.74  20.23  20.93 with max radius 4.70
+ATOM     16  CD2 TYR A 415       0.765  18.192  20.722  0.00  0.00           C
+ATOM     17  CE1 TYR A 415       0.809  19.366  18.224  0.00  0.00           C
+ATOM     18  CE2 TYR A 415       1.972  18.375  20.071  0.00  0.00           C
+ATOM     19  CZ  TYR A 415       1.995  18.959  18.826  0.00  0.00           C
+ATOM     20  OH  TYR A 415       3.216  19.119  18.204  0.00  0.00           O
+ATOM    427  CA  LEU A 469      10.022  18.044  22.067  0.00  0.00           C
+ATOM    428  C   LEU A 469       9.978  17.893  20.544  0.00  0.00           C
+ATOM    429  O   LEU A 469       8.897  17.951  19.945  0.00  0.00           O
+ATOM    430  CB  LEU A 469       9.547  19.437  22.495  0.00  0.00           C
+ATOM    431  CG  LEU A 469       9.118  19.626  23.961  0.00  0.00           C
+ATOM    432  CD1 LEU A 469       8.921  21.088  24.314  0.00  0.00           C
+ATOM    433  CD2 LEU A 469       7.850  18.841  24.275  0.00  0.00           C
+ATOM    453  CA  ALA A 472       6.540  15.192  19.396  0.00  0.00           C
+ATOM    454  C   ALA A 472       6.153  15.888  18.099  0.00  0.00           C
+ATOM    455  O   ALA A 472       5.170  15.523  17.466  0.00  0.00           O
+ATOM    456  CB  ALA A 472       6.107  16.028  20.587  0.00  0.00           C
+ATOM    457  N   LEU A 473       6.931  16.888  17.699  0.00  0.00           N
+ATOM    458  CA  LEU A 473       6.665  17.585  16.442  0.00  0.00           C
+ATOM    461  CB  LEU A 473       7.650  18.739  16.236  0.00  0.00           C
+ATOM    462  CG  LEU A 473       7.605  19.852  17.288  0.00  0.00           C
+ATOM    463  CD1 LEU A 473       8.617  20.927  16.933  0.00  0.00           C
+ATOM    464  CD2 LEU A 473       6.217  20.459  17.407  0.00  0.00           C
+ATOM    586  CD2 LEU A 486       2.331  15.184  19.248  0.00  0.00           C
+ATOM    603  CB  VAL A 489       3.580  18.401  24.432  0.00  0.00           C
+ATOM    604  CG1 VAL A 489       4.114  17.477  23.349  0.00  0.00           C
+ATOM    605  CG2 VAL A 489       2.985  19.672  23.818  0.00  0.00           C
+ATOM    620  CG2 THR A 491       5.343  22.056  25.237  0.00  0.00           C

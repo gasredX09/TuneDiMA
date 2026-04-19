@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  24.95  23.66  48.85 with max radius 7.03
+ATOM   1310  OH  TYR A 191      21.877  19.972  47.179  0.00  0.00           O
+ATOM   1383  CB  LYS A 200      19.313  22.961  49.259  0.00  0.00           C
+ATOM   1384  CG  LYS A 200      19.298  21.517  48.774  0.00  0.00           C
+ATOM   1385  CD  LYS A 200      19.864  20.552  49.792  0.00  0.00           C
+ATOM   1386  CE  LYS A 200      19.616  19.114  49.377  0.00  0.00           C
+ATOM   1390  C   GLN A 201      20.962  26.822  51.185  0.00  0.00           C
+ATOM   1391  O   GLN A 201      21.496  26.124  50.285  0.00  0.00           O
+ATOM   1409  N   GLN A 203      24.270  28.410  50.276  0.00  0.00           N
+ATOM   1410  CA  GLN A 203      25.667  28.509  50.663  0.00  0.00           C
+ATOM   1411  C   GLN A 203      26.556  28.602  49.409  0.00  0.00           C
+ATOM   1412  O   GLN A 203      26.609  27.674  48.612  0.00  0.00           O
+ATOM   1413  CB  GLN A 203      26.069  27.306  51.528  0.00  0.00           C
+ATOM   1414  CG  GLN A 203      25.641  27.381  53.000  0.00  0.00           C
+ATOM   1456  CD  LYS A 208      30.272  21.798  46.604  0.00  0.00           C
+ATOM   1573  C   GLY A 224      27.746  26.844  44.823  0.00  0.00           C
+ATOM   1574  O   GLY A 224      27.804  26.042  45.726  0.00  0.00           O
+ATOM   1576  CA  VAL A 225      25.417  27.411  45.314  0.00  0.00           C
+ATOM   1577  C   VAL A 225      24.638  26.228  44.775  0.00  0.00           C
+ATOM   1582  N   ALA A 226      24.011  25.470  45.684  0.00  0.00           N
+ATOM   1583  CA  ALA A 226      23.199  24.302  45.269  0.00  0.00           C
+ATOM   1586  CB  ALA A 226      22.581  23.595  46.484  0.00  0.00           C

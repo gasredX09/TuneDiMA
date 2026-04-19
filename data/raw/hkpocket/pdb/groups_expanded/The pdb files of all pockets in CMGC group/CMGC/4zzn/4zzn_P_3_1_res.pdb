@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -20.76  10.71  58.43 with max radius 5.44
+ATOM    857  CG  LEU A 113     -18.176  13.148  55.378  0.00  0.00           C
+ATOM    858  CD1 LEU A 113     -19.503  13.616  54.756  0.00  0.00           C
+ATOM    859  CD2 LEU A 113     -17.927  11.701  54.939  0.00  0.00           C
+ATOM    888  CB  GLN A 117     -19.835  15.511  58.709  0.00  0.00           C
+ATOM    889  CG  GLN A 117     -20.697  16.081  57.558  0.00  0.00           C
+ATOM    895  C   HIS A 118     -18.644  13.302  62.527  0.00  0.00           C
+ATOM    896  O   HIS A 118     -19.771  12.931  62.190  0.00  0.00           O
+ATOM    904  CA  LEU A 119     -17.789  11.065  62.147  0.00  0.00           C
+ATOM    905  C   LEU A 119     -18.046  10.232  63.391  0.00  0.00           C
+ATOM    907  CB  LEU A 119     -16.516  10.509  61.447  0.00  0.00           C
+ATOM    908  CG  LEU A 119     -16.433  10.620  59.938  0.00  0.00           C
+ATOM    909  CD1 LEU A 119     -16.774  12.028  59.411  0.00  0.00           C
+ATOM    911  N   SER A 120     -19.026   9.304  63.367  0.00  0.00           N
+ATOM    937  CB  HIS A 123     -18.694   6.924  60.089  0.00  0.00           C
+ATOM    938  CG  HIS A 123     -20.139   6.951  59.675  0.00  0.00           C
+ATOM    939  ND1 HIS A 123     -21.155   7.045  60.622  0.00  0.00           N
+ATOM    940  CD2 HIS A 123     -20.699   6.809  58.447  0.00  0.00           C
+ATOM    941  CE1 HIS A 123     -22.289   6.996  59.936  0.00  0.00           C
+ATOM    942  NE2 HIS A 123     -22.063   6.858  58.622  0.00  0.00           N
+ATOM    978  CE2 PHE A 127     -16.674   8.347  56.579  0.00  0.00           C
+ATOM    979  CZ  PHE A 127     -17.715   7.780  55.872  0.00  0.00           C

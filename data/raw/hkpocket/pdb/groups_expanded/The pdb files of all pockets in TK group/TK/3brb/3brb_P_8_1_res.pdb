@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -6.44   0.60 -12.01 with max radius 5.57
+ATOM   1250  C   MET A 762     -11.107   2.879 -10.999  0.00  0.00           C
+ATOM   1251  O   MET A 762     -10.501   1.988 -11.599  0.00  0.00           O
+ATOM   1254  CA  PRO A 763      -9.001   3.549 -10.137  0.00  0.00           C
+ATOM   1255  C   PRO A 763      -8.847   2.659  -8.916  0.00  0.00           C
+ATOM   1256  O   PRO A 763      -8.188   3.045  -7.931  0.00  0.00           O
+ATOM   1257  CB  PRO A 763      -8.381   4.931  -9.879  0.00  0.00           C
+ATOM   1260  N   VAL A 764      -9.467   1.484  -8.983  0.00  0.00           N
+ATOM   1261  CA  VAL A 764      -9.578   0.539  -7.866  0.00  0.00           C
+ATOM   1262  C   VAL A 764      -8.280   0.334  -7.118  0.00  0.00           C
+ATOM   1264  CB  VAL A 764     -10.097  -0.839  -8.351  0.00  0.00           C
+ATOM   1266  CG2 VAL A 764     -11.494  -0.706  -8.908  0.00  0.00           C
+ATOM   1267  N   LYS A 765      -7.181   0.251  -7.859  0.00  0.00           N
+ATOM   1268  CA  LYS A 765      -5.872  -0.104  -7.286  0.00  0.00           C
+ATOM   1271  CB  LYS A 765      -4.950  -0.643  -8.381  0.00  0.00           C
+ATOM   1272  CG  LYS A 765      -5.276  -2.066  -8.772  0.00  0.00           C
+ATOM   1273  CD  LYS A 765      -4.462  -2.543  -9.951  0.00  0.00           C
+ATOM   1274  CE  LYS A 765      -4.627  -4.045 -10.180  0.00  0.00           C
+ATOM   1286  CE3 TRP A 766      -4.646   3.201  -9.392  0.00  0.00           C
+ATOM   1288  CZ3 TRP A 766      -4.150   2.750 -10.600  0.00  0.00           C
+ATOM   1289  CH2 TRP A 766      -2.857   3.051 -11.018  0.00  0.00           C
+ATOM   1539  CG2 THR A 799      -1.419  -1.472 -13.242  0.00  0.00           C
+ATOM   1590  CB  ASN A 806      -9.714  -4.019 -11.352  0.00  0.00           C
+ATOM   1591  CG  ASN A 806      -8.679  -3.018 -11.784  0.00  0.00           C
+ATOM   1592  OD1 ASN A 806      -7.557  -3.032 -11.292  0.00  0.00           O
+ATOM   1593  ND2 ASN A 806      -9.049  -2.140 -12.709  0.00  0.00           N

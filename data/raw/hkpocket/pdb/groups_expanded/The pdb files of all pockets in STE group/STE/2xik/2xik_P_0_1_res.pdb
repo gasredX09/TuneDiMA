@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -6.69  -7.87 -10.64 with max radius 6.70
+ATOM    201  C   LYS A  28      -2.198  -8.692 -13.676  0.00  0.00           C
+ATOM    202  O   LYS A  28      -3.376  -8.721 -14.049  0.00  0.00           O
+ATOM    204  CG  LYS A  28      -2.136  -5.699 -13.029  0.00  0.00           C
+ATOM    205  CD  LYS A  28      -2.031  -5.252 -11.581  0.00  0.00           C
+ATOM    207  CA  GLY A  29      -2.464 -10.395 -11.900  0.00  0.00           C
+ATOM    208  C   GLY A  29      -2.400 -10.000 -10.438  0.00  0.00           C
+ATOM    209  O   GLY A  29      -1.709  -9.038 -10.086  0.00  0.00           O
+ATOM    210  N   SER A  30      -3.112 -10.745  -9.578  0.00  0.00           N
+ATOM    211  CA  SER A  30      -3.213 -10.520  -8.130  0.00  0.00           C
+ATOM    214  CB  SER A  30      -4.129 -11.562  -7.494  0.00  0.00           C
+ATOM   1064  CG  ASP A 140     -11.201  -9.380  -7.592  0.00  0.00           C
+ATOM   1066  OD2 ASP A 140     -10.029  -9.248  -8.007  0.00  0.00           O
+ATOM   1082  CE  LYS A 142     -10.747  -6.365 -10.278  0.00  0.00           C
+ATOM   1083  NZ  LYS A 142     -10.101  -5.404  -9.332  0.00  0.00           N
+ATOM   1090  CA  ALA A 144     -10.967  -6.610 -15.633  0.00  0.00           C
+ATOM   1091  C   ALA A 144     -10.612  -8.124 -15.569  0.00  0.00           C
+ATOM   1092  O   ALA A 144      -9.605  -8.528 -16.139  0.00  0.00           O
+ATOM   1093  CB  ALA A 144     -10.213  -5.856 -14.535  0.00  0.00           C
+ATOM   1094  N   ASN A 145     -11.447  -8.938 -14.890  0.00  0.00           N
+ATOM   1099  CG  ASN A 145     -10.388 -10.219 -12.348  0.00  0.00           C
+ATOM   1100  OD1 ASN A 145      -9.315  -9.842 -12.797  0.00  0.00           O
+ATOM   1101  ND2 ASN A 145     -10.659 -10.097 -11.069  0.00  0.00           N
+ATOM   1194  CB  ASP A 158      -7.668 -12.867 -11.591  0.00  0.00           C
+ATOM   1195  CG  ASP A 158      -6.595 -12.245 -10.696  0.00  0.00           C
+ATOM   1196  OD1 ASP A 158      -6.524 -12.614  -9.504  0.00  0.00           O
+ATOM   1197  OD2 ASP A 158      -5.862 -11.355 -11.179  0.00  0.00           O

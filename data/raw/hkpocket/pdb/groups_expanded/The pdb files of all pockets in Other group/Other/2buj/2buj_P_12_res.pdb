@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -22.81 -29.41 -17.23 with max radius 6.60
+ATOM    300  CA  HIS A  44     -24.524 -25.552 -20.515  0.00  0.00           C
+ATOM    301  C   HIS A  44     -23.552 -24.554 -19.872  0.00  0.00           C
+ATOM    303  CB  HIS A  44     -23.980 -26.985 -20.376  0.00  0.00           C
+ATOM    304  CG  HIS A  44     -24.893 -28.044 -20.934  0.00  0.00           C
+ATOM    305  ND1 HIS A  44     -24.424 -29.198 -21.528  0.00  0.00           N
+ATOM    306  CD2 HIS A  44     -26.246 -28.114 -21.000  0.00  0.00           C
+ATOM    307  CE1 HIS A  44     -25.446 -29.934 -21.929  0.00  0.00           C
+ATOM    309  N   PHE A  45     -23.603 -24.454 -18.542  0.00  0.00           N
+ATOM    310  CA  PHE A  45     -22.737 -23.560 -17.766  0.00  0.00           C
+ATOM    311  C   PHE A  45     -21.574 -24.286 -17.125  0.00  0.00           C
+ATOM    312  O   PHE A  45     -21.661 -25.471 -16.834  0.00  0.00           O
+ATOM    327  CD2 TYR A  46     -18.714 -26.883 -18.364  0.00  0.00           C
+ATOM    328  CE1 TYR A  46     -20.058 -25.884 -20.580  0.00  0.00           C
+ATOM    329  CE2 TYR A  46     -19.242 -27.757 -19.294  0.00  0.00           C
+ATOM    330  CZ  TYR A  46     -19.911 -27.248 -20.408  0.00  0.00           C
+ATOM    331  OH  TYR A  46     -20.438 -28.103 -21.356  0.00  0.00           O
+ATOM    610  CZ  ARG A  79     -18.098 -33.993 -17.868  0.00  0.00           C
+ATOM    612  NH2 ARG A  79     -18.778 -33.275 -18.739  0.00  0.00           N
+ATOM    768  CA  PRO A  99     -19.323 -28.442 -14.329  0.00  0.00           C
+ATOM    769  C   PRO A  99     -19.739 -27.374 -13.317  0.00  0.00           C
+ATOM    771  CB  PRO A  99     -19.835 -29.801 -13.850  0.00  0.00           C
+ATOM    772  CG  PRO A  99     -18.755 -30.768 -14.217  0.00  0.00           C
+ATOM    774  N   PHE A 100     -20.862 -26.697 -13.566  0.00  0.00           N
+ATOM    775  CA  PHE A 100     -21.376 -25.664 -12.679  0.00  0.00           C
+ATOM    776  C   PHE A 100     -22.596 -26.163 -11.896  0.00  0.00           C
+ATOM    777  O   PHE A 100     -23.591 -26.649 -12.465  0.00  0.00           O
+ATOM    778  CB  PHE A 100     -21.752 -24.453 -13.498  0.00  0.00           C

@@ -1,0 +1,55 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 49 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  43.55   6.86  21.20 with max radius 6.44
+ATOM   3375  CA  PRO B 183      39.859   8.348  15.022  0.00  0.00           C
+ATOM   3376  C   PRO B 183      39.508   7.603  16.314  0.00  0.00           C
+ATOM   3377  O   PRO B 183      39.603   6.376  16.369  0.00  0.00           O
+ATOM   3378  CB  PRO B 183      41.378   8.427  14.829  0.00  0.00           C
+ATOM   3379  CG  PRO B 183      41.753   9.831  15.175  0.00  0.00           C
+ATOM   3380  CD  PRO B 183      40.575  10.670  14.807  0.00  0.00           C
+ATOM   3381  N   GLU B 184      39.082   8.334  17.344  0.00  0.00           N
+ATOM   3382  CA  GLU B 184      38.662   7.696  18.590  0.00  0.00           C
+ATOM   3383  C   GLU B 184      37.196   7.294  18.544  0.00  0.00           C
+ATOM   3384  O   GLU B 184      36.821   6.226  19.025  0.00  0.00           O
+ATOM   3385  CB  GLU B 184      38.900   8.604  19.797  0.00  0.00           C
+ATOM   3386  CG  GLU B 184      40.228   9.324  19.790  0.00  0.00           C
+ATOM   3387  CD  GLU B 184      40.147  10.649  19.074  0.00  0.00           C
+ATOM   3389  OE2 GLU B 184      41.082  10.969  18.315  0.00  0.00           O
+ATOM   3409  CB  LEU B 187      39.170   3.450  17.525  0.00  0.00           C
+ATOM   3410  CG  LEU B 187      40.429   3.126  16.719  0.00  0.00           C
+ATOM   3412  CD2 LEU B 187      41.459   4.231  16.916  0.00  0.00           C
+ATOM   3417  CB  GLN B 188      36.820   4.004  21.160  0.00  0.00           C
+ATOM   3419  CD  GLN B 188      37.351   5.054  23.372  0.00  0.00           C
+ATOM   3421  NE2 GLN B 188      38.626   4.958  23.009  0.00  0.00           N
+ATOM   3433  OG1 THR B 190      37.764   8.008  22.922  0.00  0.00           O
+ATOM   3798  CA  ASP B 237      49.658   5.301  21.145  0.00  0.00           C
+ATOM   3799  C   ASP B 237      48.381   4.669  20.590  0.00  0.00           C
+ATOM   3800  O   ASP B 237      47.542   5.361  20.013  0.00  0.00           O
+ATOM   3805  N   TRP B 238      48.226   3.363  20.783  0.00  0.00           N
+ATOM   3806  CA  TRP B 238      47.022   2.661  20.359  0.00  0.00           C
+ATOM   3807  C   TRP B 238      46.074   2.440  21.536  0.00  0.00           C
+ATOM   3808  O   TRP B 238      46.498   2.424  22.691  0.00  0.00           O
+ATOM   3823  CB  PRO B 239      42.903   3.359  22.178  0.00  0.00           C
+ATOM   3824  CG  PRO B 239      43.258   3.963  20.854  0.00  0.00           C
+ATOM   3825  CD  PRO B 239      44.678   3.582  20.608  0.00  0.00           C
+ATOM   4089  C   PHE B 278      45.463  10.507  17.980  0.00  0.00           C
+ATOM   4090  O   PHE B 278      44.373  10.151  18.435  0.00  0.00           O
+ATOM   4091  CB  PHE B 278      46.435   9.208  16.076  0.00  0.00           C
+ATOM   4092  CG  PHE B 278      45.603   7.972  16.288  0.00  0.00           C
+ATOM   4093  CD1 PHE B 278      44.272   7.939  15.903  0.00  0.00           C
+ATOM   4094  CD2 PHE B 278      46.149   6.846  16.876  0.00  0.00           C
+ATOM   4095  CE1 PHE B 278      43.505   6.802  16.103  0.00  0.00           C
+ATOM   4096  CE2 PHE B 278      45.387   5.708  17.071  0.00  0.00           C
+ATOM   4097  CZ  PHE B 278      44.064   5.689  16.685  0.00  0.00           C
+ATOM   4098  N   ASN B 279      46.472  10.932  18.736  0.00  0.00           N
+ATOM   4099  CA  ASN B 279      46.425  10.948  20.195  0.00  0.00           C
+ATOM   4102  CB  ASN B 279      47.854  10.990  20.746  0.00  0.00           C
+ATOM   4103  CG  ASN B 279      47.924  10.658  22.219  0.00  0.00           C
+ATOM   4104  OD1 ASN B 279      46.917  10.686  22.927  0.00  0.00           O
+ATOM   4105  ND2 ASN B 279      49.123  10.335  22.691  0.00  0.00           N
+ATOM   4111  CG  PRO B 280      42.401  10.776  21.644  0.00  0.00           C
+ATOM   4112  CD  PRO B 280      43.844  10.545  21.304  0.00  0.00           C
+ATOM   4121  CE1 HIS B 281      44.472  10.438  26.479  0.00  0.00           C

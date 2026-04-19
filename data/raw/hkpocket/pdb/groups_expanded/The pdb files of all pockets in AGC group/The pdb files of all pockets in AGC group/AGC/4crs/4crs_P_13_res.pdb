@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -9.97  23.02 178.45 with max radius 6.38
+ATOM     74  CE1 PHE A 652     -13.296  21.589 182.575  0.00  0.00           C
+ATOM     75  CE2 PHE A 652     -14.366  21.697 180.442  0.00  0.00           C
+ATOM     76  CZ  PHE A 652     -13.256  21.915 181.232  0.00  0.00           C
+ATOM     91  CD1 LEU A 654      -8.633  20.907 183.126  0.00  0.00           C
+ATOM    693  O   THR A 729      -4.370  23.389 178.525  0.00  0.00           O
+ATOM    694  CB  THR A 729      -4.791  21.667 180.429  0.00  0.00           C
+ATOM    695  OG1 THR A 729      -5.484  22.897 180.705  0.00  0.00           O
+ATOM    696  CG2 THR A 729      -4.931  20.697 181.599  0.00  0.00           C
+ATOM    710  CB  GLU A 731      -5.806  26.682 176.619  0.00  0.00           C
+ATOM    711  CG  GLU A 731      -5.694  26.617 175.114  0.00  0.00           C
+ATOM    719  CB  HIS A 732      -6.330  25.999 181.370  0.00  0.00           C
+ATOM    720  CG  HIS A 732      -7.523  26.716 180.828  0.00  0.00           C
+ATOM    722  CD2 HIS A 732      -8.284  26.489 179.733  0.00  0.00           C
+ATOM    724  NE2 HIS A 732      -9.254  27.463 179.704  0.00  0.00           N
+ATOM   2527  C   LEU A 957     -13.735  26.617 179.905  0.00  0.00           C
+ATOM   2528  O   LEU A 957     -13.788  25.732 179.050  0.00  0.00           O
+ATOM   2529  CB  LEU A 957     -12.014  25.784 181.483  0.00  0.00           C
+ATOM   2530  CG  LEU A 957     -11.598  25.384 182.888  0.00  0.00           C
+ATOM   2531  CD1 LEU A 957     -10.139  24.950 182.911  0.00  0.00           C
+ATOM   2544  N   PRO A 959     -12.998  27.574 176.345  0.00  0.00           N
+ATOM   2545  CA  PRO A 959     -11.779  27.387 175.566  0.00  0.00           C
+ATOM   2548  CB  PRO A 959     -12.155  26.284 174.581  0.00  0.00           C
+ATOM   2549  CG  PRO A 959     -13.624  26.431 174.403  0.00  0.00           C
+ATOM   2550  CD  PRO A 959     -14.168  26.953 175.698  0.00  0.00           C
+ATOM   2557  CD  PRO A 960      -8.945  28.288 175.440  0.00  0.00           C

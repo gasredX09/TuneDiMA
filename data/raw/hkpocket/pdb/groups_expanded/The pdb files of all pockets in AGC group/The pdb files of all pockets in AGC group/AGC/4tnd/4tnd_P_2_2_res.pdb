@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  33.89 -32.32  32.92 with max radius 6.30
+ATOM   1458  CB  ARG A 190      39.181 -29.580  30.903  0.00  0.00           C
+ATOM   1459  CG  ARG A 190      37.803 -29.225  31.437  0.00  0.00           C
+ATOM   1460  CD  ARG A 190      37.796 -29.282  32.974  0.00  0.00           C
+ATOM   1461  NE  ARG A 190      36.451 -29.436  33.527  0.00  0.00           N
+ATOM   1462  CZ  ARG A 190      35.877 -28.572  34.362  0.00  0.00           C
+ATOM   1464  NH2 ARG A 190      34.650 -28.798  34.815  0.00  0.00           N
+ATOM   1467  C   VAL A 191      36.603 -32.966  29.454  0.00  0.00           C
+ATOM   1468  O   VAL A 191      36.749 -32.784  30.662  0.00  0.00           O
+ATOM   1472  N   LEU A 192      35.414 -33.049  28.879  0.00  0.00           N
+ATOM   1473  CA  LEU A 192      34.171 -33.204  29.637  0.00  0.00           C
+ATOM   1474  C   LEU A 192      33.770 -34.649  29.864  0.00  0.00           C
+ATOM   1475  O   LEU A 192      33.169 -35.004  30.886  0.00  0.00           O
+ATOM   1476  CB  LEU A 192      33.047 -32.467  28.927  0.00  0.00           C
+ATOM   1477  CG  LEU A 192      33.331 -30.986  28.693  0.00  0.00           C
+ATOM   1479  CD2 LEU A 192      33.573 -30.272  30.015  0.00  0.00           C
+ATOM   2061  CG  ASN A 267      30.498 -30.030  32.507  0.00  0.00           C
+ATOM   2062  OD1 ASN A 267      30.646 -31.237  32.236  0.00  0.00           O
+ATOM   2063  ND2 ASN A 267      31.349 -29.357  33.281  0.00  0.00           N
+ATOM   3700  CA  ARG A 470      30.764 -32.115  36.394  0.00  0.00           C
+ATOM   3701  C   ARG A 470      32.256 -31.845  36.202  0.00  0.00           C
+ATOM   3702  O   ARG A 470      32.642 -30.932  35.475  0.00  0.00           O
+ATOM   3703  CB  ARG A 470      30.215 -32.955  35.238  0.00  0.00           C
+ATOM   3704  CG  ARG A 470      30.670 -34.398  35.264  0.00  0.00           C
+ATOM   3705  CD  ARG A 470      30.250 -35.099  33.979  0.00  0.00           C
+ATOM   3706  NE  ARG A 470      30.826 -36.435  33.885  0.00  0.00           N
+ATOM   3710  N   ALA A 471      33.090 -32.634  36.866  0.00  0.00           N
+ATOM   3711  CA  ALA A 471      34.524 -32.530  36.672  0.00  0.00           C
+ATOM   3712  C   ALA A 471      35.118 -33.914  36.489  0.00  0.00           C
+ATOM   3715  N   VAL A 472      35.670 -34.170  35.313  0.00  0.00           N
+ATOM   3716  CA  VAL A 472      36.332 -35.439  35.071  0.00  0.00           C
+ATOM   3719  CB  VAL A 472      35.849 -36.114  33.749  0.00  0.00           C
+ATOM   3720  CG1 VAL A 472      34.340 -36.255  33.742  0.00  0.00           C
+ATOM   3721  CG2 VAL A 472      36.293 -35.332  32.535  0.00  0.00           C

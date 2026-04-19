@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  23.39  -9.02   1.88 with max radius 5.80
+ATOM      8  O   PRO A 701      23.233 -12.154  -2.992  0.00  0.00           O
+ATOM     13  CA  LEU A 702      24.425 -10.020  -4.144  0.00  0.00           C
+ATOM     16  CB  LEU A 702      25.504  -8.977  -4.520  0.00  0.00           C
+ATOM     18  CD1 LEU A 702      24.641  -7.280  -2.885  0.00  0.00           C
+ATOM     38  CB  SER A 705      21.176  -9.750  -1.301  0.00  0.00           C
+ATOM     39  OG  SER A 705      21.682 -10.844  -0.583  0.00  0.00           O
+ATOM    586  CA  ARG A 770      26.203  -5.473   0.040  0.00  0.00           C
+ATOM    588  O   ARG A 770      25.343  -5.299   2.266  0.00  0.00           O
+ATOM    589  CB  ARG A 770      27.351  -6.473  -0.022  0.00  0.00           C
+ATOM    590  CG  ARG A 770      27.143  -7.544   1.090  0.00  0.00           C
+ATOM    591  CD  ARG A 770      28.213  -8.606   0.956  0.00  0.00           C
+ATOM    592  NE  ARG A 770      27.950  -9.734   1.860  0.00  0.00           N
+ATOM    618  CA  LEU A 773      21.763  -4.283   2.549  0.00  0.00           C
+ATOM    619  C   LEU A 773      22.039  -4.961   3.903  0.00  0.00           C
+ATOM    620  O   LEU A 773      21.093  -5.312   4.629  0.00  0.00           O
+ATOM    621  CB  LEU A 773      21.771  -5.326   1.425  0.00  0.00           C
+ATOM    622  CG  LEU A 773      21.221  -4.757   0.106  0.00  0.00           C
+ATOM    623  CD1 LEU A 773      21.507  -5.823  -0.994  0.00  0.00           C
+ATOM    625  N   SER A 774      23.317  -5.195   4.212  0.00  0.00           N
+ATOM    626  CA  SER A 774      23.677  -5.809   5.496  0.00  0.00           C
+ATOM    630  CB  SER A 774      25.192  -6.007   5.604  0.00  0.00           C
+ATOM    632  OG  SER A 774      25.607  -7.003   4.701  0.00  0.00           O

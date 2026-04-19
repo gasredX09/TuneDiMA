@@ -1,0 +1,41 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 35 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  57.56 -20.12  22.08 with max radius 6.90
+ATOM    941  CD  GLU A 160      51.421 -20.358  23.366  0.00  0.00           C
+ATOM    943  OE2 GLU A 160      52.622 -20.101  23.639  0.00  0.00           O
+ATOM   1798  CB  SER A 295      54.954 -22.757  27.904  0.00  0.00           C
+ATOM   1799  OG  SER A 295      55.224 -21.397  27.636  0.00  0.00           O
+ATOM   1814  CG  GLU A 297      59.182 -18.792  27.887  0.00  0.00           C
+ATOM   1815  CD  GLU A 297      59.560 -19.133  26.443  0.00  0.00           C
+ATOM   1816  OE1 GLU A 297      59.062 -20.126  25.901  0.00  0.00           O
+ATOM   1817  OE2 GLU A 297      60.372 -18.403  25.850  0.00  0.00           O
+ATOM   1824  CG2 VAL A 298      54.018 -18.401  26.535  0.00  0.00           C
+ATOM   2030  C   PRO A 323      60.241 -15.280  21.832  0.00  0.00           C
+ATOM   2031  O   PRO A 323      59.971 -15.555  20.668  0.00  0.00           O
+ATOM   2032  CB  PRO A 323      62.317 -16.352  22.777  0.00  0.00           C
+ATOM   2035  N   TRP A 324      59.297 -15.144  22.746  0.00  0.00           N
+ATOM   2036  CA  TRP A 324      57.893 -15.398  22.399  0.00  0.00           C
+ATOM   2037  C   TRP A 324      57.343 -14.288  21.474  0.00  0.00           C
+ATOM   2038  O   TRP A 324      56.408 -14.509  20.673  0.00  0.00           O
+ATOM   2039  CB  TRP A 324      57.075 -15.494  23.682  0.00  0.00           C
+ATOM   2040  CG  TRP A 324      55.729 -16.042  23.541  0.00  0.00           C
+ATOM   2041  CD1 TRP A 324      55.384 -17.359  23.391  0.00  0.00           C
+ATOM   2043  NE1 TRP A 324      54.016 -17.480  23.299  0.00  0.00           N
+ATOM   2067  C   GLN A 327      58.277 -15.609  17.024  0.00  0.00           C
+ATOM   2068  O   GLN A 327      57.892 -16.770  17.061  0.00  0.00           O
+ATOM   2069  CB  GLN A 327      60.510 -16.553  17.392  0.00  0.00           C
+ATOM   2070  CG  GLN A 327      61.703 -16.752  16.515  0.00  0.00           C
+ATOM   2089  C   LYS A 330      56.736 -20.151  16.445  0.00  0.00           C
+ATOM   2090  O   LYS A 330      57.383 -21.061  16.972  0.00  0.00           O
+ATOM   2093  N   VAL A 331      55.708 -19.539  17.043  0.00  0.00           N
+ATOM   2094  CA  VAL A 331      55.174 -19.882  18.367  0.00  0.00           C
+ATOM   2095  C   VAL A 331      54.146 -20.981  18.179  0.00  0.00           C
+ATOM   2097  CB  VAL A 331      54.476 -18.625  18.984  0.00  0.00           C
+ATOM   2098  CG1 VAL A 331      53.542 -18.984  20.145  0.00  0.00           C
+ATOM   2099  CG2 VAL A 331      55.518 -17.608  19.397  0.00  0.00           C
+ATOM   2100  N   PRO A 332      54.033 -21.915  19.123  0.00  0.00           N
+ATOM   2105  CG  PRO A 332      54.418 -23.413  20.880  0.00  0.00           C
+ATOM   2106  CD  PRO A 332      54.801 -22.052  20.367  0.00  0.00           C

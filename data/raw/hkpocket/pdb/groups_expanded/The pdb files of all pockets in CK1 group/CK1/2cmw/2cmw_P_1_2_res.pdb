@@ -1,0 +1,66 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 60 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  36.82  59.68  32.32 with max radius 6.56
+ATOM   1413  CA  SER A 219      38.363  55.910  28.410  0.00  0.00           C
+ATOM   1414  C   SER A 219      39.269  55.396  29.523  0.00  0.00           C
+ATOM   1416  CB  SER A 219      37.054  56.381  29.033  0.00  0.00           C
+ATOM   1417  OG  SER A 219      36.447  55.351  29.793  0.00  0.00           O
+ATOM   1418  N   ILE A 220      39.936  56.327  30.190  0.00  0.00           N
+ATOM   1419  CA  ILE A 220      40.815  55.967  31.294  0.00  0.00           C
+ATOM   1420  C   ILE A 220      40.037  55.216  32.374  0.00  0.00           C
+ATOM   1422  CB  ILE A 220      41.515  57.191  31.872  0.00  0.00           C
+ATOM   1423  CG1 ILE A 220      42.544  57.712  30.860  0.00  0.00           C
+ATOM   1424  CG2 ILE A 220      42.181  56.846  33.217  0.00  0.00           C
+ATOM   1425  CD1 ILE A 220      43.266  58.962  31.288  0.00  0.00           C
+ATOM   1426  N   ASN A 221      38.817  55.658  32.660  0.00  0.00           N
+ATOM   1427  CA  ASN A 221      38.004  55.022  33.698  0.00  0.00           C
+ATOM   1430  CB  ASN A 221      36.807  55.902  34.091  0.00  0.00           C
+ATOM   1431  CG  ASN A 221      37.198  57.052  35.021  0.00  0.00           C
+ATOM   1432  OD1 ASN A 221      38.151  56.954  35.809  0.00  0.00           O
+ATOM   1433  ND2 ASN A 221      36.458  58.143  34.939  0.00  0.00           N
+ATOM   1508  CA  ARG A 231      31.117  60.260  29.540  0.00  0.00           C
+ATOM   1509  C   ARG A 231      32.133  59.386  28.795  0.00  0.00           C
+ATOM   1510  O   ARG A 231      32.993  59.882  28.073  0.00  0.00           O
+ATOM   1511  CB  ARG A 231      31.671  60.603  30.930  0.00  0.00           C
+ATOM   1512  CG  ARG A 231      31.854  59.388  31.838  0.00  0.00           C
+ATOM   1513  CD  ARG A 231      32.199  59.786  33.259  0.00  0.00           C
+ATOM   1514  NE  ARG A 231      32.478  58.605  34.073  0.00  0.00           N
+ATOM   1515  CZ  ARG A 231      32.893  58.646  35.329  0.00  0.00           C
+ATOM   1516  NH1 ARG A 231      33.068  59.813  35.944  0.00  0.00           N
+ATOM   1517  NH2 ARG A 231      33.128  57.523  35.981  0.00  0.00           N
+ATOM   1518  N   ASP A 232      32.052  58.077  28.987  0.00  0.00           N
+ATOM   1519  CA  ASP A 232      33.071  57.192  28.445  0.00  0.00           C
+ATOM   1520  C   ASP A 232      32.961  57.049  26.927  0.00  0.00           C
+ATOM   1522  CB  ASP A 232      33.033  55.851  29.161  0.00  0.00           C
+ATOM   1523  CG  ASP A 232      33.267  56.004  30.647  0.00  0.00           C
+ATOM   1524  OD1 ASP A 232      34.406  56.330  31.051  0.00  0.00           O
+ATOM   1525  OD2 ASP A 232      32.299  55.847  31.412  0.00  0.00           O
+ATOM   1542  N   GLU A 235      34.650  60.281  25.650  0.00  0.00           N
+ATOM   1543  CA  GLU A 235      36.112  60.256  25.761  0.00  0.00           C
+ATOM   1546  CB  GLU A 235      36.570  59.806  27.164  0.00  0.00           C
+ATOM   1547  CG  GLU A 235      38.074  59.784  27.339  0.00  0.00           C
+ATOM   1548  CD  GLU A 235      38.516  59.428  28.757  0.00  0.00           C
+ATOM   1549  OE1 GLU A 235      37.724  59.636  29.703  0.00  0.00           O
+ATOM   1550  OE2 GLU A 235      39.660  58.946  28.917  0.00  0.00           O
+ATOM   2000  CA  VAL A 293      34.945  64.711  28.898  0.00  0.00           C
+ATOM   2001  C   VAL A 293      35.650  63.860  29.959  0.00  0.00           C
+ATOM   2002  O   VAL A 293      35.006  63.062  30.624  0.00  0.00           O
+ATOM   2003  CB  VAL A 293      34.932  63.974  27.537  0.00  0.00           C
+ATOM   2004  CG1 VAL A 293      34.123  64.763  26.525  0.00  0.00           C
+ATOM   2005  CG2 VAL A 293      36.334  63.754  27.025  0.00  0.00           C
+ATOM   2006  N   ARG A 294      36.956  64.043  30.129  0.00  0.00           N
+ATOM   2007  CA  ARG A 294      37.695  63.341  31.185  0.00  0.00           C
+ATOM   2008  C   ARG A 294      37.214  63.755  32.578  0.00  0.00           C
+ATOM   2009  O   ARG A 294      37.299  62.970  33.517  0.00  0.00           O
+ATOM   2010  CB  ARG A 294      39.190  63.621  31.083  0.00  0.00           C
+ATOM   2011  CG  ARG A 294      39.884  63.003  29.894  0.00  0.00           C
+ATOM   2012  CD  ARG A 294      40.542  61.701  30.245  0.00  0.00           C
+ATOM   2013  NE  ARG A 294      41.277  61.132  29.110  0.00  0.00           N
+ATOM   2028  N   LEU A 296      34.013  64.773  33.334  0.00  0.00           N
+ATOM   2029  CA  LEU A 296      32.605  64.478  33.589  0.00  0.00           C
+ATOM   2030  C   LEU A 296      32.468  63.488  34.734  0.00  0.00           C
+ATOM   2031  O   LEU A 296      33.307  62.598  34.895  0.00  0.00           O
+ATOM   2032  CB  LEU A 296      31.912  63.913  32.343  0.00  0.00           C

@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  43.29  28.85  74.30 with max radius 5.07
+ATOM    643  C   TYR A 178      42.338  31.617  70.911  0.00  0.00           C
+ATOM    644  O   TYR A 178      43.229  31.036  71.534  0.00  0.00           O
+ATOM    653  N   ILE A 179      41.156  31.070  70.637  0.00  0.00           N
+ATOM    654  CA  ILE A 179      40.794  29.724  71.073  0.00  0.00           C
+ATOM    655  C   ILE A 179      41.108  28.754  69.936  0.00  0.00           C
+ATOM    657  CB  ILE A 179      39.298  29.654  71.458  0.00  0.00           C
+ATOM    658  CG1 ILE A 179      38.930  30.794  72.414  0.00  0.00           C
+ATOM    659  CG2 ILE A 179      38.937  28.284  72.051  0.00  0.00           C
+ATOM    660  CD1 ILE A 179      39.699  30.791  73.755  0.00  0.00           C
+ATOM    661  N   ASN A 180      42.038  27.829  70.175  0.00  0.00           N
+ATOM    662  CA  ASN A 180      42.633  27.032  69.091  0.00  0.00           C
+ATOM    666  CG  ASN A 180      45.028  26.891  69.978  0.00  0.00           C
+ATOM    667  OD1 ASN A 180      44.647  26.769  71.139  0.00  0.00           O
+ATOM    669  N   GLY A 181      41.599  25.066  70.095  0.00  0.00           N
+ATOM   1073  O   LEU A 230      39.255  25.075  71.840  0.00  0.00           O
+ATOM   1079  CA  ASP A 231      40.631  25.657  74.138  0.00  0.00           C
+ATOM   1080  C   ASP A 231      41.668  24.537  74.010  0.00  0.00           C
+ATOM   1082  CB  ASP A 231      40.850  26.530  75.387  0.00  0.00           C
+ATOM   1083  CG  ASP A 231      40.720  25.762  76.691  0.00  0.00           C
+ATOM   1085  OD2 ASP A 231      40.455  26.416  77.726  0.00  0.00           O
+ATOM   1086  N   SER A 232      42.947  24.894  74.044  0.00  0.00           N
+ATOM   1087  CA  SER A 232      44.027  23.932  73.808  0.00  0.00           C
+ATOM   1090  CB  SER A 232      45.378  24.644  73.745  0.00  0.00           C
+ATOM   1091  OG  SER A 232      45.662  25.284  74.973  0.00  0.00           O
+ATOM   2267  O   GLY A 378      47.284  28.680  72.693  0.00  0.00           O

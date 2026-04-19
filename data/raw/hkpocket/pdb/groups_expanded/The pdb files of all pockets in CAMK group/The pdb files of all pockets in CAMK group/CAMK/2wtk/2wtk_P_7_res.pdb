@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -79.27  35.07  46.01 with max radius 5.91
+ATOM   5180  CB  ASP C  53     -80.906  34.203  40.993  0.00  0.00           C
+ATOM   5181  CG  ASP C  53     -82.146  33.354  40.785  0.00  0.00           C
+ATOM   5183  OD2 ASP C  53     -82.819  33.025  41.785  0.00  0.00           O
+ATOM   5187  O   LEU C  54     -79.532  38.035  41.854  0.00  0.00           O
+ATOM   5199  CD2 LEU C  55     -76.354  37.678  43.249  0.00  0.00           C
+ATOM   5268  CB  GLU C  65     -75.266  34.250  41.001  0.00  0.00           C
+ATOM   5270  CD  GLU C  65     -75.011  32.654  42.972  0.00  0.00           C
+ATOM   5271  OE1 GLU C  65     -75.387  33.496  43.818  0.00  0.00           O
+ATOM   5341  NH1 ARG C  74     -73.679  33.099  46.470  0.00  0.00           N
+ATOM   7293  CB  SER C 325     -81.492  39.206  49.586  0.00  0.00           C
+ATOM   7294  OG  SER C 325     -82.245  39.018  48.398  0.00  0.00           O
+ATOM   7315  CA  TRP C 332     -76.424  33.642  49.985  0.00  0.00           C
+ATOM   7316  C   TRP C 332     -75.805  32.400  49.317  0.00  0.00           C
+ATOM   7317  O   TRP C 332     -76.508  31.437  48.963  0.00  0.00           O
+ATOM   7318  CB  TRP C 332     -75.650  34.941  49.646  0.00  0.00           C
+ATOM   7319  CG  TRP C 332     -76.259  36.243  50.228  0.00  0.00           C
+ATOM   7321  CD2 TRP C 332     -76.441  37.505  49.548  0.00  0.00           C
+ATOM   7324  CE3 TRP C 332     -76.182  37.958  48.243  0.00  0.00           C
+ATOM   7326  CZ3 TRP C 332     -76.510  39.283  47.914  0.00  0.00           C
+ATOM   7332  CB  THR C 336     -78.468  31.233  43.284  0.00  0.00           C
+ATOM   7333  OG1 THR C 336     -78.581  32.413  44.087  0.00  0.00           O
+ATOM   7334  CG2 THR C 336     -79.591  31.229  42.259  0.00  0.00           C

@@ -1,0 +1,21 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 15 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.96  31.35   5.54 with max radius 5.13
+ATOM   1001  CA  LYS A 267      -2.072  29.663   8.449  0.00  0.00           C
+ATOM   1002  C   LYS A 267      -3.427  29.547   9.120  0.00  0.00           C
+ATOM   1003  O   LYS A 267      -4.350  30.337   8.891  0.00  0.00           O
+ATOM   1004  CB  LYS A 267      -1.968  28.653   7.329  0.00  0.00           C
+ATOM   1005  CG  LYS A 267      -0.783  28.947   6.438  0.00  0.00           C
+ATOM   1006  CD  LYS A 267      -0.657  27.925   5.318  0.00  0.00           C
+ATOM   1026  CB  TYR A 270      -3.582  33.918   9.446  0.00  0.00           C
+ATOM   1027  CG  TYR A 270      -3.753  35.243   8.776  0.00  0.00           C
+ATOM   1029  CD2 TYR A 270      -4.644  35.387   7.727  0.00  0.00           C
+ATOM   1034  N   GLN A 271      -6.364  32.515   9.742  0.00  0.00           N
+ATOM   1039  CG  GLN A 271      -7.213  31.152   7.195  0.00  0.00           C
+ATOM   1040  CD  GLN A 271      -7.404  29.952   6.353  0.00  0.00           C
+ATOM   1042  NE2 GLN A 271      -6.991  30.056   5.104  0.00  0.00           N
+ATOM   1443  OD1 ASP A 320      -6.664  27.587   3.345  0.00  0.00           O
+ATOM   2794  CD1 LEU A 480      -0.553  33.630   7.610  0.00  0.00           C

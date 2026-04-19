@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  74.87  19.01  50.86 with max radius 5.95
+ATOM    793  CD2 LEU A 114      70.156  19.015  46.317  0.00  0.00           C
+ATOM    826  O   VAL A 119      77.292  18.683  45.440  0.00  0.00           O
+ATOM    831  CA  LYS A 120      78.394  20.966  46.485  0.00  0.00           C
+ATOM    832  C   LYS A 120      77.498  22.163  46.781  0.00  0.00           C
+ATOM    839  N   PHE A 121      76.771  22.089  47.889  0.00  0.00           N
+ATOM    840  CA  PHE A 121      75.884  23.175  48.307  0.00  0.00           C
+ATOM    841  C   PHE A 121      76.328  23.769  49.649  0.00  0.00           C
+ATOM    842  O   PHE A 121      76.406  23.046  50.639  0.00  0.00           O
+ATOM    843  CB  PHE A 121      74.444  22.655  48.443  0.00  0.00           C
+ATOM    844  CG  PHE A 121      73.700  22.550  47.132  0.00  0.00           C
+ATOM    846  CD2 PHE A 121      73.662  21.349  46.432  0.00  0.00           C
+ATOM    885  CG1 ILE A 126      71.925  24.040  50.750  0.00  0.00           C
+ATOM    887  CD1 ILE A 126      72.383  22.982  51.749  0.00  0.00           C
+ATOM   1661  CA  MET A 222      68.974  19.656  50.139  0.00  0.00           C
+ATOM   1662  C   MET A 222      70.179  19.136  50.932  0.00  0.00           C
+ATOM   1663  O   MET A 222      71.323  19.391  50.581  0.00  0.00           O
+ATOM   1668  N   TRP A 223      69.917  18.423  52.018  0.00  0.00           N
+ATOM   1669  CA  TRP A 223      71.005  17.865  52.795  0.00  0.00           C
+ATOM   1670  C   TRP A 223      71.122  16.365  52.534  0.00  0.00           C
+ATOM   1671  O   TRP A 223      72.207  15.884  52.202  0.00  0.00           O
+ATOM   1672  CB  TRP A 223      70.799  18.155  54.288  0.00  0.00           C
+ATOM   1673  CG  TRP A 223      71.087  19.610  54.635  0.00  0.00           C
+ATOM   1674  CD1 TRP A 223      72.307  20.170  54.882  0.00  0.00           C
+ATOM   1676  NE1 TRP A 223      72.176  21.517  55.129  0.00  0.00           N
+ATOM   1694  CG  ARG A 225      72.909  14.908  48.820  0.00  0.00           C
+ATOM   1695  CD  ARG A 225      72.821  15.992  47.776  0.00  0.00           C
+ATOM   1696  NE  ARG A 225      73.963  16.876  47.887  0.00  0.00           N
+ATOM   1697  CZ  ARG A 225      74.593  17.419  46.859  0.00  0.00           C
+ATOM   1699  NH2 ARG A 225      75.628  18.207  47.079  0.00  0.00           N

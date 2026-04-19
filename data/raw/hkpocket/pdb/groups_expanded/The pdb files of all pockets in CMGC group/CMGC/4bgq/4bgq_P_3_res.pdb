@@ -1,0 +1,50 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 44 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  22.99  33.29  75.38 with max radius 7.36
+ATOM   1581  O   VAL A 226      21.919  38.573  71.775  0.00  0.00           O
+ATOM   1586  CA  LEU A 227      23.916  38.281  73.716  0.00  0.00           C
+ATOM   1588  O   LEU A 227      23.377  38.250  76.052  0.00  0.00           O
+ATOM   1589  CB  LEU A 227      25.302  37.656  73.892  0.00  0.00           C
+ATOM   1590  CG  LEU A 227      25.780  36.831  72.695  0.00  0.00           C
+ATOM   1591  CD1 LEU A 227      27.214  36.399  72.844  0.00  0.00           C
+ATOM   1592  CD2 LEU A 227      24.898  35.601  72.507  0.00  0.00           C
+ATOM   1836  CA  SER A 257      19.405  36.784  70.874  0.00  0.00           C
+ATOM   1837  C   SER A 257      19.874  35.940  69.665  0.00  0.00           C
+ATOM   1839  CB  SER A 257      18.094  36.203  71.433  0.00  0.00           C
+ATOM   1841  N   LEU A 258      20.623  34.897  69.975  0.00  0.00           N
+ATOM   1842  CA  LEU A 258      21.131  33.979  68.960  0.00  0.00           C
+ATOM   1845  CB  LEU A 258      22.100  32.980  69.591  0.00  0.00           C
+ATOM   1846  CG  LEU A 258      23.511  33.464  69.927  0.00  0.00           C
+ATOM   1847  CD1 LEU A 258      24.221  32.352  70.677  0.00  0.00           C
+ATOM   1849  N   GLU A 259      18.937  32.900  69.048  0.00  0.00           N
+ATOM   1855  CD  GLU A 259      17.823  31.547  71.874  0.00  0.00           C
+ATOM   1856  OE1 GLU A 259      18.633  32.509  71.763  0.00  0.00           O
+ATOM   1857  OE2 GLU A 259      17.687  30.906  72.948  0.00  0.00           O
+ATOM   1976  C   MET A 274      26.386  28.484  70.689  0.00  0.00           C
+ATOM   1977  O   MET A 274      27.284  29.240  71.110  0.00  0.00           O
+ATOM   1986  N   LYS A 275      25.207  28.338  71.294  0.00  0.00           N
+ATOM   1987  CA  LYS A 275      24.882  28.989  72.568  0.00  0.00           C
+ATOM   1988  C   LYS A 275      25.854  28.660  73.685  0.00  0.00           C
+ATOM   1989  O   LYS A 275      26.113  29.503  74.543  0.00  0.00           O
+ATOM   1990  CB  LYS A 275      23.483  28.581  73.051  0.00  0.00           C
+ATOM   1991  CG  LYS A 275      22.321  29.265  72.377  0.00  0.00           C
+ATOM   1992  CD  LYS A 275      21.024  28.966  73.145  0.00  0.00           C
+ATOM   1993  CE  LYS A 275      19.852  28.754  72.218  0.00  0.00           C
+ATOM   2013  C   LEU A 278      28.687  32.289  74.309  0.00  0.00           C
+ATOM   2014  O   LEU A 278      28.001  33.306  74.357  0.00  0.00           O
+ATOM   2015  CB  LEU A 278      28.529  32.396  71.781  0.00  0.00           C
+ATOM   2019  N   LYS A 279      28.917  31.532  75.386  0.00  0.00           N
+ATOM   2020  CA  LYS A 279      28.605  32.018  76.725  0.00  0.00           C
+ATOM   2021  C   LYS A 279      29.519  33.205  77.068  0.00  0.00           C
+ATOM   2023  CB  LYS A 279      28.773  30.917  77.771  0.00  0.00           C
+ATOM   2024  CG  LYS A 279      27.754  29.783  77.681  0.00  0.00           C
+ATOM   2025  CD  LYS A 279      26.405  30.192  78.231  0.00  0.00           C
+ATOM   2026  CE  LYS A 279      25.334  29.183  77.858  0.00  0.00           C
+ATOM   2027  NZ  LYS A 279      24.115  29.379  78.696  0.00  0.00           N
+ATOM   2028  N   LEU A 280      28.952  34.277  77.614  0.00  0.00           N
+ATOM   2032  CB  LEU A 280      28.881  36.661  78.220  0.00  0.00           C
+ATOM   2033  CG  LEU A 280      27.995  37.162  77.082  0.00  0.00           C
+ATOM   2034  CD1 LEU A 280      26.893  38.097  77.582  0.00  0.00           C

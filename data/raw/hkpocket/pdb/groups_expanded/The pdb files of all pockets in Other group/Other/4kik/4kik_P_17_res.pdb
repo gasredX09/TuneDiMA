@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 17 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  46.36  -6.01 -137.58 with max radius 6.75
+ATOM   3643  CA  LYS A 482      44.648  -7.600-132.982  0.00  0.00           C
+ATOM   3644  C   LYS A 482      44.897  -8.953-133.615  0.00  0.00           C
+ATOM   3645  O   LYS A 482      45.014  -9.019-134.829  0.00  0.00           O
+ATOM   3646  CB  LYS A 482      45.950  -6.987-132.453  0.00  0.00           C
+ATOM   3647  CG  LYS A 482      45.825  -5.494-132.150  0.00  0.00           C
+ATOM   3648  CD  LYS A 482      47.168  -4.903-131.787  0.00  0.00           C
+ATOM   3649  CE  LYS A 482      47.102  -3.455-131.374  0.00  0.00           C
+ATOM   3650  NZ  LYS A 482      47.026  -2.570-132.571  0.00  0.00           N
+ATOM   3668  CA  PHE A 485      42.201  -8.968-137.159  0.00  0.00           C
+ATOM   3669  C   PHE A 485      43.288  -9.463-138.078  0.00  0.00           C
+ATOM   3670  O   PHE A 485      43.078  -9.529-139.293  0.00  0.00           O
+ATOM   3671  CB  PHE A 485      42.490  -7.547-136.757  0.00  0.00           C
+ATOM   3672  CG  PHE A 485      41.747  -6.591-137.643  0.00  0.00           C
+ATOM   3673  CD1 PHE A 485      41.453  -5.312-137.209  0.00  0.00           C
+ATOM   3674  CD2 PHE A 485      41.250  -7.002-138.882  0.00  0.00           C
+ATOM   3675  CE1 PHE A 485      40.735  -4.434-138.016  0.00  0.00           C
+ATOM   3676  CE2 PHE A 485      40.501  -6.138-139.680  0.00  0.00           C
+ATOM   3677  CZ  PHE A 485      40.255  -4.854-139.248  0.00  0.00           C
+ATOM   3678  N   PHE A 486      44.448  -9.836-137.513  0.00  0.00           N
+ATOM   3679  CA  PHE A 486      45.568 -10.411-138.263  0.00  0.00           C
+ATOM   3682  CB  PHE A 486      46.796 -10.644-137.349  0.00  0.00           C
+ATOM   3683  CG  PHE A 486      48.026 -11.218-138.018  0.00  0.00           C
+ATOM   3684  CD1 PHE A 486      49.058 -10.390-138.441  0.00  0.00           C
+ATOM   3705  N   SER A 489      42.920 -10.807-141.812  0.00  0.00           N
+ATOM   3706  CA  SER A 489      43.778 -10.215-142.837  0.00  0.00           C
+ATOM   3709  CB  SER A 489      44.700  -9.174-142.206  0.00  0.00           C
+ATOM   3710  OG  SER A 489      45.336  -8.383-143.198  0.00  0.00           O
+ATOM   4866  C   VAL A 643      51.769  -8.007-135.682  0.00  0.00           C
+ATOM   4867  O   VAL A 643      51.605  -8.136-136.892  0.00  0.00           O
+ATOM   4868  CB  VAL A 643      50.305  -9.193-133.948  0.00  0.00           C
+ATOM   4869  CG1 VAL A 643      49.122  -8.787-134.824  0.00  0.00           C
+ATOM   4871  N   VAL A 644      52.114  -6.836-135.096  0.00  0.00           N
+ATOM   4872  CA  VAL A 644      52.332  -5.542-135.754  0.00  0.00           C
+ATOM   4877  CG2 VAL A 644      51.466  -4.112-133.862  0.00  0.00           C
+ATOM   4901  CB  GLN A 647      50.275  -6.856-139.708  0.00  0.00           C
+ATOM   4902  CG  GLN A 647      49.124  -6.198-140.492  0.00  0.00           C
+ATOM   4903  CD  GLN A 647      48.142  -7.155-141.130  0.00  0.00           C
+ATOM   4904  OE1 GLN A 647      48.106  -8.356-140.828  0.00  0.00           O
+ATOM   4905  NE2 GLN A 647      47.305  -6.628-142.021  0.00  0.00           N

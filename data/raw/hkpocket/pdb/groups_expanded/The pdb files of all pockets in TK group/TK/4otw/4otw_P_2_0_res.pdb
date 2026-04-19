@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  33.27  28.93  13.99 with max radius 6.79
+ATOM    372  CB  ASP A 727      37.941  30.916  17.018  0.00  0.00           C
+ATOM    373  CG  ASP A 727      37.749  32.335  16.540  0.00  0.00           C
+ATOM    374  OD1 ASP A 727      36.634  32.870  16.718  0.00  0.00           O
+ATOM    407  CA  GLN A 732      33.870  32.026  18.883  0.00  0.00           C
+ATOM    408  C   GLN A 732      34.063  30.545  19.193  0.00  0.00           C
+ATOM    409  O   GLN A 732      35.187  30.037  19.125  0.00  0.00           O
+ATOM    410  CB  GLN A 732      33.379  32.181  17.449  0.00  0.00           C
+ATOM    411  CG  GLN A 732      32.724  33.530  17.181  0.00  0.00           C
+ATOM    412  CD  GLN A 732      32.204  33.647  15.764  0.00  0.00           C
+ATOM    413  OE1 GLN A 732      32.955  33.483  14.794  0.00  0.00           O
+ATOM    414  NE2 GLN A 732      30.910  33.928  15.632  0.00  0.00           N
+ATOM    415  N   SER A 733      32.966  29.856  19.516  0.00  0.00           N
+ATOM    416  CA  SER A 733      33.025  28.471  19.979  0.00  0.00           C
+ATOM    417  C   SER A 733      32.694  27.484  18.890  0.00  0.00           C
+ATOM    418  O   SER A 733      32.294  27.878  17.792  0.00  0.00           O
+ATOM    422  CA  PHE A 734      32.493  25.136  18.290  0.00  0.00           C
+ATOM    426  CG  PHE A 734      34.677  25.261  16.979  0.00  0.00           C
+ATOM    427  CD1 PHE A 734      34.520  25.327  15.594  0.00  0.00           C
+ATOM    428  CD2 PHE A 734      35.728  25.966  17.564  0.00  0.00           C
+ATOM    429  CE1 PHE A 734      35.400  26.097  14.799  0.00  0.00           C
+ATOM    430  CE2 PHE A 734      36.602  26.736  16.786  0.00  0.00           C
+ATOM    431  CZ  PHE A 734      36.441  26.798  15.400  0.00  0.00           C
+ATOM    459  CG2 THR A 738      28.940  24.141  11.880  0.00  0.00           C
+ATOM   1231  C   LEU A 839      36.097  26.723  10.455  0.00  0.00           C
+ATOM   1232  O   LEU A 839      35.527  26.920  11.527  0.00  0.00           O
+ATOM   1238  CA  LEU A 840      37.066  28.980  10.418  0.00  0.00           C
+ATOM   1241  CB  LEU A 840      38.571  29.156  10.677  0.00  0.00           C
+ATOM   1242  CG  LEU A 840      39.320  28.164  11.582  0.00  0.00           C
+ATOM   1250  CG  PRO A 841      35.513  32.865  11.634  0.00  0.00           C
+ATOM   1251  CD  PRO A 841      35.955  31.431  11.521  0.00  0.00           C

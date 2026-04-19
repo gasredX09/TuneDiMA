@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -23.51  -5.18  34.57 with max radius 5.41
+ATOM   1758  N   HIS A 247     -24.990  -2.003  31.470  0.00  0.00           N
+ATOM   1759  CA  HIS A 247     -23.861  -2.920  31.308  0.00  0.00           C
+ATOM   1760  C   HIS A 247     -22.600  -2.359  30.676  0.00  0.00           C
+ATOM   1762  CB  HIS A 247     -24.333  -4.147  30.536  0.00  0.00           C
+ATOM   1763  CG  HIS A 247     -25.546  -4.777  31.131  0.00  0.00           C
+ATOM   1765  CD2 HIS A 247     -25.998  -4.803  32.408  0.00  0.00           C
+ATOM   1766  CE1 HIS A 247     -27.466  -5.855  31.162  0.00  0.00           C
+ATOM   1767  NE2 HIS A 247     -27.195  -5.476  32.399  0.00  0.00           N
+ATOM   1781  CG  ASN A 249     -20.304  -1.872  34.279  0.00  0.00           C
+ATOM   1782  OD1 ASN A 249     -21.282  -1.285  34.749  0.00  0.00           O
+ATOM   1783  ND2 ASN A 249     -20.397  -3.060  33.685  0.00  0.00           N
+ATOM   1951  C   ALA A 270     -19.711  -7.555  31.110  0.00  0.00           C
+ATOM   1952  O   ALA A 270     -20.840  -8.009  31.312  0.00  0.00           O
+ATOM   1953  CB  ALA A 270     -18.524  -6.723  33.142  0.00  0.00           C
+ATOM   1987  CB  ALA A 274     -24.357  -7.947  32.680  0.00  0.00           C
+ATOM   2005  OG1 THR A 277     -27.177  -8.863  33.742  0.00  0.00           O
+ATOM   2019  CA  PRO A 279     -27.999  -3.795  36.055  0.00  0.00           C
+ATOM   2022  CB  PRO A 279     -28.107  -2.567  35.155  0.00  0.00           C
+ATOM   2030  CG  PRO A 280     -24.622  -2.437  38.361  0.00  0.00           C
+ATOM   2031  CD  PRO A 280     -25.483  -3.255  37.436  0.00  0.00           C

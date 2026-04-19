@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  49.33  41.53  36.21 with max radius 5.97
+ATOM    717  CA  MET A 429      46.706  45.646  38.631  0.00  0.00           C
+ATOM    720  CB  MET A 429      47.356  46.175  37.351  0.00  0.00           C
+ATOM    721  CG  MET A 429      46.457  46.762  36.297  0.00  0.00           C
+ATOM    750  CB  ILE A 432      48.125  42.357  40.636  0.00  0.00           C
+ATOM    751  CG1 ILE A 432      46.748  41.934  40.102  0.00  0.00           C
+ATOM    752  CG2 ILE A 432      49.163  41.264  40.387  0.00  0.00           C
+ATOM    753  CD1 ILE A 432      46.335  40.520  40.439  0.00  0.00           C
+ATOM    761  OE1 GLN A 433      51.786  44.393  40.189  0.00  0.00           O
+ATOM   1053  CB  LEU A 469      44.167  44.068  35.041  0.00  0.00           C
+ATOM   1055  CD1 LEU A 469      45.757  42.257  35.678  0.00  0.00           C
+ATOM   1564  CA  GLU A 533      46.563  37.203  35.878  0.00  0.00           C
+ATOM   1565  C   GLU A 533      46.420  37.233  37.390  0.00  0.00           C
+ATOM   1566  O   GLU A 533      47.412  37.327  38.106  0.00  0.00           O
+ATOM   1567  CB  GLU A 533      46.132  38.557  35.320  0.00  0.00           C
+ATOM   1568  CG  GLU A 533      45.990  38.623  33.819  0.00  0.00           C
+ATOM   1569  CD  GLU A 533      47.067  39.451  33.162  0.00  0.00           C
+ATOM   1570  OE1 GLU A 533      48.182  39.575  33.715  0.00  0.00           O
+ATOM   1571  OE2 GLU A 533      46.789  39.989  32.077  0.00  0.00           O
+ATOM   1594  CA  GLY A 537      50.397  37.045  38.919  0.00  0.00           C
+ATOM   1595  C   GLY A 537      51.159  37.338  37.635  0.00  0.00           C
+ATOM   1596  O   GLY A 537      52.105  38.111  37.632  0.00  0.00           O
+ATOM   1597  N   GLN A 538      50.747  36.718  36.537  0.00  0.00           N
+ATOM   1598  CA  GLN A 538      51.413  36.889  35.259  0.00  0.00           C
+ATOM   1599  C   GLN A 538      50.412  36.728  34.149  0.00  0.00           C
+ATOM   1600  O   GLN A 538      49.385  36.076  34.324  0.00  0.00           O
+ATOM   1606  N   ALA A 539      50.730  37.319  33.002  0.00  0.00           N

@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -31.67   1.37 -20.62 with max radius 6.25
+ATOM   1528  CA  GLY A 268     -31.005  -3.671 -23.606  0.00  0.00           C
+ATOM   1529  C   GLY A 268     -32.060  -2.640 -23.940  0.00  0.00           C
+ATOM   1530  O   GLY A 268     -32.359  -1.771 -23.114  0.00  0.00           O
+ATOM   1532  CA  LYS A 269     -33.644  -1.800 -25.637  0.00  0.00           C
+ATOM   1536  N   TYR A 270     -35.821  -1.449 -24.579  0.00  0.00           N
+ATOM   1541  CG  TYR A 270     -36.907  -1.155 -21.700  0.00  0.00           C
+ATOM   1543  CD2 TYR A 270     -35.611  -1.124 -21.197  0.00  0.00           C
+ATOM   1545  CE2 TYR A 270     -35.242  -0.225 -20.196  0.00  0.00           C
+ATOM   1546  CZ  TYR A 270     -36.183   0.653 -19.681  0.00  0.00           C
+ATOM   1547  OH  TYR A 270     -35.855   1.563 -18.700  0.00  0.00           O
+ATOM   1657  CA  ARG A 285     -33.143   3.119 -16.201  0.00  0.00           C
+ATOM   1658  C   ARG A 285     -31.999   2.869 -15.177  0.00  0.00           C
+ATOM   1659  O   ARG A 285     -30.900   2.481 -15.574  0.00  0.00           O
+ATOM   1660  CB  ARG A 285     -33.034   4.538 -16.785  0.00  0.00           C
+ATOM   1661  CG  ARG A 285     -33.840   4.786 -18.036  0.00  0.00           C
+ATOM   1662  CD  ARG A 285     -33.395   6.076 -18.709  0.00  0.00           C
+ATOM   1663  NE  ARG A 285     -32.177   5.911 -19.513  0.00  0.00           N
+ATOM   1664  CZ  ARG A 285     -32.167   5.488 -20.779  0.00  0.00           C
+ATOM   1665  NH1 ARG A 285     -33.305   5.167 -21.393  0.00  0.00           N
+ATOM   1666  NH2 ARG A 285     -31.018   5.372 -21.438  0.00  0.00           N
+ATOM   1690  CA  LEU A 288     -31.883  -1.918 -16.497  0.00  0.00           C
+ATOM   1691  C   LEU A 288     -30.647  -1.310 -17.200  0.00  0.00           C
+ATOM   1692  O   LEU A 288     -30.632  -1.089 -18.424  0.00  0.00           O
+ATOM   1693  CB  LEU A 288     -33.155  -1.946 -17.378  0.00  0.00           C
+ATOM   1697  N   VAL A 289     -29.591  -1.075 -16.388  0.00  0.00           N
+ATOM   1698  CA  VAL A 289     -28.278  -0.592 -16.828  0.00  0.00           C
+ATOM   1703  CG2 VAL A 289     -28.122   1.199 -15.019  0.00  0.00           C

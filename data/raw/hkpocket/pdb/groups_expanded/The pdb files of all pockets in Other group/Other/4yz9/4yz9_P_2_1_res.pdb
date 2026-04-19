@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -31.41  27.90 -11.01 with max radius 5.99
+ATOM   4291  CA  GLN A 861     -26.917  29.061 -15.076  0.00  0.00           C
+ATOM   4292  C   GLN A 861     -26.957  27.880 -14.114  0.00  0.00           C
+ATOM   4293  O   GLN A 861     -27.432  28.006 -12.979  0.00  0.00           O
+ATOM   4294  CB  GLN A 861     -28.019  28.933 -16.131  0.00  0.00           C
+ATOM   4295  CG  GLN A 861     -29.437  28.796 -15.580  0.00  0.00           C
+ATOM   4296  CD  GLN A 861     -30.088  30.132 -15.291  0.00  0.00           C
+ATOM   4297  OE1 GLN A 861     -29.464  31.041 -14.742  0.00  0.00           O
+ATOM   4298  NE2 GLN A 861     -31.354  30.259 -15.665  0.00  0.00           N
+ATOM   4345  CB  ARG A 864     -26.382  30.435 -11.112  0.00  0.00           C
+ATOM   4346  CG  ARG A 864     -26.826  31.720 -10.426  0.00  0.00           C
+ATOM   4351  N   GLY A 865     -26.573  28.192  -8.876  0.00  0.00           N
+ATOM   4352  CA  GLY A 865     -26.932  27.669  -7.565  0.00  0.00           C
+ATOM   5541  C   ALA A 942     -34.230  22.103  -9.153  0.00  0.00           C
+ATOM   5542  O   ALA A 942     -34.659  22.783 -10.091  0.00  0.00           O
+ATOM   5550  CA  HIS A 943     -32.105  23.287  -9.196  0.00  0.00           C
+ATOM   5551  C   HIS A 943     -31.778  22.990 -10.656  0.00  0.00           C
+ATOM   5552  O   HIS A 943     -31.804  23.888 -11.506  0.00  0.00           O
+ATOM   5553  CB  HIS A 943     -30.824  23.342  -8.363  0.00  0.00           C
+ATOM   5554  CG  HIS A 943     -29.711  24.080  -9.030  0.00  0.00           C
+ATOM   5555  ND1 HIS A 943     -29.695  25.452  -9.149  0.00  0.00           N
+ATOM   5557  CE1 HIS A 943     -28.602  25.821  -9.791  0.00  0.00           C
+ATOM   5558  NE2 HIS A 943     -27.905  24.739 -10.085  0.00  0.00           N
+ATOM   5603  CA  ARG A 946     -35.011  25.228 -13.376  0.00  0.00           C
+ATOM   5604  C   ARG A 946     -33.904  25.752 -14.280  0.00  0.00           C
+ATOM   5605  O   ARG A 946     -34.164  26.528 -15.205  0.00  0.00           O
+ATOM   5606  CB  ARG A 946     -35.083  26.051 -12.087  0.00  0.00           C
+ATOM   5607  CG  ARG A 946     -36.043  25.487 -11.050  0.00  0.00           C
+ATOM   5608  CD  ARG A 946     -36.720  26.555 -10.210  0.00  0.00           C
+ATOM   5609  NE  ARG A 946     -35.861  27.086  -9.154  0.00  0.00           N
+ATOM   5610  CZ  ARG A 946     -36.309  27.765  -8.101  0.00  0.00           C
+ATOM   5612  NH2 ARG A 946     -35.458  28.217  -7.189  0.00  0.00           N
+ATOM   5626  N   ALA A 947     -32.664  25.323 -14.039  0.00  0.00           N
+ATOM   5627  CA  ALA A 947     -31.543  25.837 -14.814  0.00  0.00           C
+ATOM   5630  CB  ALA A 947     -30.226  25.413 -14.166  0.00  0.00           C

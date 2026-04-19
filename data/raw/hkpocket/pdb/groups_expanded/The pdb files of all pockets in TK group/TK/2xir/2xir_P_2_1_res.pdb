@@ -1,0 +1,46 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 40 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  11.04  18.32  15.32 with max radius 6.51
+ATOM   1703  CD1 TRP A1089      16.326  17.855  17.427  0.00  0.00           C
+ATOM   1704  CD2 TRP A1089      16.523  17.602  15.209  0.00  0.00           C
+ATOM   1705  NE1 TRP A1089      15.175  17.254  16.973  0.00  0.00           N
+ATOM   1706  CE2 TRP A1089      15.269  17.088  15.615  0.00  0.00           C
+ATOM   1708  CZ2 TRP A1089      14.359  16.525  14.712  0.00  0.00           C
+ATOM   1710  CH2 TRP A1089      14.723  16.488  13.390  0.00  0.00           C
+ATOM   1737  CG1 VAL A1093      11.989  20.314  21.446  0.00  0.00           C
+ATOM   1738  CG2 VAL A1093      13.450  19.778  19.502  0.00  0.00           C
+ATOM   1841  CE1 TYR A1106       9.379  16.462  18.865  0.00  0.00           C
+ATOM   1842  CE2 TYR A1106       8.104  16.264  16.834  0.00  0.00           C
+ATOM   1843  CZ  TYR A1106       9.309  16.486  17.482  0.00  0.00           C
+ATOM   1844  OH  TYR A1106      10.441  16.730  16.742  0.00  0.00           O
+ATOM   1943  CD1 LEU A1119      11.377  14.295  14.628  0.00  0.00           C
+ATOM   1969  C   THR A1123       8.362  15.908  11.055  0.00  0.00           C
+ATOM   1970  O   THR A1123       9.333  15.609  11.756  0.00  0.00           O
+ATOM   1974  N   ARG A1124       7.755  17.091  11.108  0.00  0.00           N
+ATOM   1975  CA  ARG A1124       8.168  18.144  12.037  0.00  0.00           C
+ATOM   1976  C   ARG A1124       6.970  18.740  12.770  0.00  0.00           C
+ATOM   1978  CB  ARG A1124       8.930  19.252  11.296  0.00  0.00           C
+ATOM   1979  CG  ARG A1124      10.173  18.794  10.534  0.00  0.00           C
+ATOM   1980  CD  ARG A1124      11.280  18.307  11.466  0.00  0.00           C
+ATOM   1981  NE  ARG A1124      12.493  17.938  10.736  0.00  0.00           N
+ATOM   1982  CZ  ARG A1124      12.838  16.693  10.415  0.00  0.00           C
+ATOM   1983  NH1 ARG A1124      12.066  15.667  10.753  0.00  0.00           N
+ATOM   1985  N   MET A1125       7.230  19.345  13.927  0.00  0.00           N
+ATOM   1986  CA  MET A1125       6.196  20.050  14.681  0.00  0.00           C
+ATOM   1989  CB  MET A1125       6.753  20.573  16.007  0.00  0.00           C
+ATOM   1990  CG  MET A1125       6.751  19.555  17.125  0.00  0.00           C
+ATOM   1991  SD  MET A1125       7.135  20.281  18.729  0.00  0.00           S
+ATOM   1992  CE  MET A1125       8.927  20.372  18.676  0.00  0.00           C
+ATOM   2136  CB  TRP A1143      14.107  20.364  12.620  0.00  0.00           C
+ATOM   2137  CG  TRP A1143      13.713  20.821  13.997  0.00  0.00           C
+ATOM   2138  CD1 TRP A1143      14.463  20.752  15.141  0.00  0.00           C
+ATOM   2139  CD2 TRP A1143      12.452  21.380  14.379  0.00  0.00           C
+ATOM   2140  NE1 TRP A1143      13.752  21.257  16.204  0.00  0.00           N
+ATOM   2141  CE2 TRP A1143      12.514  21.647  15.764  0.00  0.00           C
+ATOM   2142  CE3 TRP A1143      11.276  21.693  13.681  0.00  0.00           C
+ATOM   2143  CZ2 TRP A1143      11.446  22.208  16.466  0.00  0.00           C
+ATOM   2144  CZ3 TRP A1143      10.213  22.251  14.379  0.00  0.00           C
+ATOM   2145  CH2 TRP A1143      10.307  22.505  15.759  0.00  0.00           C

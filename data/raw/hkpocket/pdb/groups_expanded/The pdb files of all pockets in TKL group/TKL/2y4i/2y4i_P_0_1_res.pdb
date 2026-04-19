@@ -1,0 +1,49 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 43 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -6.20  66.25  -7.68 with max radius 7.58
+ATOM    222  CB  VAL B 680      -5.111  60.681  -9.174  0.00  0.00           C
+ATOM    223  CG1 VAL B 680      -4.245  61.930  -9.130  0.00  0.00           C
+ATOM    224  CG2 VAL B 680      -6.525  61.021  -9.625  0.00  0.00           C
+ATOM    309  O   ALA B 690      -3.774  65.283 -13.149  0.00  0.00           O
+ATOM    310  CB  ALA B 690      -2.848  65.714 -10.369  0.00  0.00           C
+ATOM    323  CB  ARG B 692      -7.431  61.392 -13.363  0.00  0.00           C
+ATOM    327  CZ  ARG B 692      -9.696  62.599 -10.807  0.00  0.00           C
+ATOM    328  NH1 ARG B 692      -9.511  63.642 -11.605  0.00  0.00           N
+ATOM    329  NH2 ARG B 692      -9.715  62.772  -9.493  0.00  0.00           N
+ATOM    594  CB  VAL B 723      -8.289  72.231 -10.122  0.00  0.00           C
+ATOM    595  CG1 VAL B 723      -7.934  71.931  -8.673  0.00  0.00           C
+ATOM    596  CG2 VAL B 723      -9.617  71.602 -10.520  0.00  0.00           C
+ATOM    708  C   THR B 739      -3.860  69.435 -13.162  0.00  0.00           C
+ATOM    709  O   THR B 739      -3.038  68.666 -12.675  0.00  0.00           O
+ATOM    710  CB  THR B 739      -6.157  68.494 -13.240  0.00  0.00           C
+ATOM    711  OG1 THR B 739      -6.626  69.620 -12.491  0.00  0.00           O
+ATOM    712  CG2 THR B 739      -5.764  67.382 -12.276  0.00  0.00           C
+ATOM    713  N   SER B 740      -3.853  70.742 -12.922  0.00  0.00           N
+ATOM    715  C   SER B 740      -2.749  70.552 -10.751  0.00  0.00           C
+ATOM    716  O   SER B 740      -3.744  70.324 -10.067  0.00  0.00           O
+ATOM    719  N   LEU B 741      -1.536  70.134 -10.417  0.00  0.00           N
+ATOM    720  CA  LEU B 741      -1.330  69.468  -9.141  0.00  0.00           C
+ATOM    721  C   LEU B 741      -1.427  70.499  -8.028  0.00  0.00           C
+ATOM    723  CB  LEU B 741       0.022  68.756  -9.088  0.00  0.00           C
+ATOM    725  CD1 LEU B 741      -0.524  66.642  -7.851  0.00  0.00           C
+ATOM    727  N   CYS B 742      -2.326  70.258  -7.080  0.00  0.00           N
+ATOM    728  CA  CYS B 742      -2.468  71.150  -5.942  0.00  0.00           C
+ATOM    730  O   CYS B 742      -1.333  69.717  -4.397  0.00  0.00           O
+ATOM    731  CB  CYS B 742      -3.862  71.024  -5.332  0.00  0.00           C
+ATOM    732  SG  CYS B 742      -5.190  71.623  -6.413  0.00  0.00           S
+ATOM   1119  OD1 ASN B 791     -11.975  65.628  -5.068  0.00  0.00           O
+ATOM   1133  CG  PHE B 793      -6.391  69.970  -3.052  0.00  0.00           C
+ATOM   1134  CD1 PHE B 793      -5.696  69.079  -2.258  0.00  0.00           C
+ATOM   1135  CD2 PHE B 793      -7.159  69.476  -4.087  0.00  0.00           C
+ATOM   1136  CE1 PHE B 793      -5.759  67.723  -2.499  0.00  0.00           C
+ATOM   1137  CE2 PHE B 793      -7.226  68.124  -4.335  0.00  0.00           C
+ATOM   1138  CZ  PHE B 793      -6.526  67.245  -3.539  0.00  0.00           C
+ATOM   1194  CB  THR B 802     -10.273  69.734  -7.574  0.00  0.00           C
+ATOM   1195  OG1 THR B 802      -9.801  68.698  -8.445  0.00  0.00           O
+ATOM   1196  CG2 THR B 802     -10.444  69.178  -6.176  0.00  0.00           C
+ATOM   1202  CG  ASP B 803     -11.249  65.684  -8.570  0.00  0.00           C
+ATOM   1203  OD1 ASP B 803     -10.447  66.012  -9.468  0.00  0.00           O
+ATOM   1204  OD2 ASP B 803     -10.899  65.072  -7.541  0.00  0.00           O

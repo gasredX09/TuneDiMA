@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.28  -8.45   2.78 with max radius 5.40
+ATOM   1082  CZ  TYR A 736       4.979  -6.425   5.602  0.00  0.00           C
+ATOM   1083  OH  TYR A 736       4.231  -5.361   6.030  0.00  0.00           O
+ATOM   1085  CA  VAL A 737       4.761  -8.458   0.580  0.00  0.00           C
+ATOM   1086  C   VAL A 737       4.458  -7.113   1.211  0.00  0.00           C
+ATOM   1087  O   VAL A 737       3.591  -7.006   2.093  0.00  0.00           O
+ATOM   1088  CB  VAL A 737       3.565  -8.975  -0.222  0.00  0.00           C
+ATOM   1089  CG1 VAL A 737       3.197  -8.023  -1.364  0.00  0.00           C
+ATOM   1090  CG2 VAL A 737       3.856 -10.367  -0.779  0.00  0.00           C
+ATOM   1092  CA  HIS A 738       5.104  -4.798   1.450  0.00  0.00           C
+ATOM   1093  C   HIS A 738       3.824  -4.042   1.097  0.00  0.00           C
+ATOM   1094  O   HIS A 738       3.162  -3.508   1.985  0.00  0.00           O
+ATOM   1109  CB  ARG A 739       1.007  -3.780  -0.033  0.00  0.00           C
+ATOM   1111  CG  ARG A 739       0.777  -5.291   0.044  0.00  0.00           C
+ATOM   1113  CD  ARG A 739      -0.667  -5.584   0.503  0.00  0.00           C
+ATOM   1115  NE  ARG A 739      -1.009  -7.001   0.391  0.00  0.00           N
+ATOM   1117  CZ  ARG A 739      -2.252  -7.480   0.399  0.00  0.00           C
+ATOM   1119  NH1 ARG A 739      -3.291  -6.659   0.526  0.00  0.00           N
+ATOM   1121  NH2 ARG A 739      -2.455  -8.787   0.283  0.00  0.00           N
+ATOM   1300  C   GLY A 760       0.773  -4.710   7.414  0.00  0.00           C
+ATOM   1301  O   GLY A 760       1.072  -4.684   6.214  0.00  0.00           O
+ATOM   1303  CA  LEU A 761      -0.724  -6.603   7.109  0.00  0.00           C
+ATOM   1304  C   LEU A 761      -2.198  -6.334   6.856  0.00  0.00           C
+ATOM   1305  O   LEU A 761      -2.863  -7.150   6.204  0.00  0.00           O
+ATOM   1306  CB  LEU A 761      -0.510  -7.984   7.740  0.00  0.00           C
+ATOM   1307  CG  LEU A 761       0.946  -8.465   7.677  0.00  0.00           C
+ATOM   1309  CD2 LEU A 761       1.258  -8.997   6.282  0.00  0.00           C

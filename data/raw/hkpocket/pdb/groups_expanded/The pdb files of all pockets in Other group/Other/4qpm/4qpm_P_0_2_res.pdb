@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   3.52  12.79  23.67 with max radius 7.16
+ATOM    900  CD2 LEU A 793       6.423  14.696  29.937  0.00  0.00           C
+ATOM   2020  C   SER A 870       7.772  10.600  25.303  0.00  0.00           C
+ATOM   2021  O   SER A 870       7.352  11.739  25.096  0.00  0.00           O
+ATOM   2030  CA  TYR A 871       6.225   9.645  23.686  0.00  0.00           C
+ATOM   2031  C   TYR A 871       4.785   9.275  24.053  0.00  0.00           C
+ATOM   2032  O   TYR A 871       4.081   8.629  23.276  0.00  0.00           O
+ATOM   2033  CB  TYR A 871       6.694   8.805  22.496  0.00  0.00           C
+ATOM   2034  CG  TYR A 871       7.969   9.339  21.882  0.00  0.00           C
+ATOM   2035  CD1 TYR A 871       7.935  10.386  20.973  0.00  0.00           C
+ATOM   2050  N   GLY A 872       4.346   9.707  25.231  0.00  0.00           N
+ATOM   2051  CA  GLY A 872       2.937   9.676  25.588  0.00  0.00           C
+ATOM   2052  C   GLY A 872       2.342   8.302  25.840  0.00  0.00           C
+ATOM   2057  N   THR A 873       1.094   8.296  26.303  0.00  0.00           N
+ATOM   2113  CB  ASN A 876      -1.932   9.916  24.110  0.00  0.00           C
+ATOM   2114  CG  ASN A 876      -1.648  11.114  23.228  0.00  0.00           C
+ATOM   2116  ND2 ASN A 876      -0.546  11.060  22.489  0.00  0.00           N
+ATOM   2124  CA  ALA A 877      -1.898   6.984  20.714  0.00  0.00           C
+ATOM   2172  CD1 LEU A 880      -0.535  10.354  18.798  0.00  0.00           C
+ATOM   5257  CA  LEU A1077       3.701  10.597  18.043  0.00  0.00           C
+ATOM   5258  C   LEU A1077       4.584  11.841  18.080  0.00  0.00           C
+ATOM   5259  O   LEU A1077       4.483  12.657  18.997  0.00  0.00           O
+ATOM   5260  CB  LEU A1077       4.493   9.385  18.536  0.00  0.00           C
+ATOM   5261  CG  LEU A1077       3.690   8.112  18.802  0.00  0.00           C
+ATOM   5262  CD1 LEU A1077       4.631   6.948  19.069  0.00  0.00           C
+ATOM   5263  CD2 LEU A1077       2.732   8.302  19.967  0.00  0.00           C
+ATOM   5310  CA  CYS A1080       1.980  15.180  19.140  0.00  0.00           C
+ATOM   5311  C   CYS A1080       2.974  15.776  20.132  0.00  0.00           C
+ATOM   5312  O   CYS A1080       2.631  16.663  20.914  0.00  0.00           O
+ATOM   5313  CB  CYS A1080       1.379  13.893  19.709  0.00  0.00           C
+ATOM   5314  SG  CYS A1080       0.507  14.108  21.274  0.00  0.00           S
+ATOM   5320  N   LYS A1081       4.208  15.284  20.091  0.00  0.00           N
+ATOM   5321  CA  LYS A1081       5.239  15.715  21.029  0.00  0.00           C
+ATOM   5324  CB  LYS A1081       6.428  14.752  20.989  0.00  0.00           C
+ATOM   5325  CG  LYS A1081       7.523  15.075  21.994  0.00  0.00           C
+ATOM   5326  CD  LYS A1081       8.545  13.953  22.086  0.00  0.00           C
+ATOM   5328  NZ  LYS A1081       9.203  14.638  24.400  0.00  0.00           N

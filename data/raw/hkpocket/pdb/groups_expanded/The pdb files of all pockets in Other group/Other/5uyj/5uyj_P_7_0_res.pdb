@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -26.75 -11.56 -23.82 with max radius 7.39
+ATOM   1223  CA  ASP A 244     -26.291  -6.036 -25.180  0.00  0.00           C
+ATOM   1224  C   ASP A 244     -25.234  -6.646 -26.092  0.00  0.00           C
+ATOM   1228  OD1 ASP A 244     -28.062  -7.840 -26.354  0.00  0.00           O
+ATOM   1234  N   HIS A 245     -24.555  -7.684 -25.584  0.00  0.00           N
+ATOM   1235  CA  HIS A 245     -23.466  -8.336 -26.303  0.00  0.00           C
+ATOM   1236  C   HIS A 245     -23.413  -9.790 -25.905  0.00  0.00           C
+ATOM   1237  O   HIS A 245     -23.596 -10.081 -24.729  0.00  0.00           O
+ATOM   1251  N   PRO A 246     -23.069 -10.710 -26.818  0.00  0.00           N
+ATOM   1252  CA  PRO A 246     -23.057 -12.127 -26.447  0.00  0.00           C
+ATOM   1255  CB  PRO A 246     -22.810 -12.852 -27.765  0.00  0.00           C
+ATOM   1257  CD  PRO A 246     -22.834 -10.526 -28.257  0.00  0.00           C
+ATOM   1282  O   VAL A 248     -23.819 -10.622 -21.733  0.00  0.00           O
+ATOM   1296  CA  VAL A 249     -24.312 -10.817 -19.056  0.00  0.00           C
+ATOM   1297  C   VAL A 249     -25.424  -9.890 -19.476  0.00  0.00           C
+ATOM   1298  O   VAL A 249     -25.206  -8.696 -19.756  0.00  0.00           O
+ATOM   1311  N   LYS A 250     -26.636 -10.414 -19.455  0.00  0.00           N
+ATOM   1312  CA  LYS A 250     -27.808  -9.688 -19.891  0.00  0.00           C
+ATOM   1315  CB  LYS A 250     -28.489 -10.389 -21.069  0.00  0.00           C
+ATOM   1316  CG  LYS A 250     -29.750  -9.706 -21.570  0.00  0.00           C
+ATOM   1317  CD  LYS A 250     -29.466  -8.344 -22.170  0.00  0.00           C
+ATOM   1318  CE  LYS A 250     -30.704  -7.665 -22.687  0.00  0.00           C
+ATOM   1602  O   GLU A 268     -28.106 -14.959 -17.393  0.00  0.00           O
+ATOM   1603  CB  GLU A 268     -30.029 -14.236 -19.782  0.00  0.00           C
+ATOM   1605  CD  GLU A 268     -30.941 -13.259 -21.963  0.00  0.00           C
+ATOM   1606  OE1 GLU A 268     -29.805 -13.442 -22.453  0.00  0.00           O
+ATOM   2550  CD  LYS A 327     -23.414 -14.375 -21.609  0.00  0.00           C
+ATOM   2551  CE  LYS A 327     -24.216 -15.308 -22.461  0.00  0.00           C
+ATOM   2552  NZ  LYS A 327     -23.655 -15.579 -23.815  0.00  0.00           N

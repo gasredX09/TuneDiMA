@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -17.35 -12.95   8.49 with max radius 7.12
+ATOM    209  CA  GLY A  41     -20.979 -19.000   7.535  0.00  0.00           C
+ATOM    238  CE2 PHE A  45     -17.287 -18.564   8.528  0.00  0.00           C
+ATOM    239  CZ  PHE A  45     -18.244 -18.649   9.532  0.00  0.00           C
+ATOM    777  C   GLY A 113     -14.952 -11.411  12.647  0.00  0.00           C
+ATOM    778  O   GLY A 113     -14.589 -11.407  11.477  0.00  0.00           O
+ATOM    779  N   GLY A 114     -15.245 -12.532  13.294  0.00  0.00           N
+ATOM    780  CA  GLY A 114     -15.155 -13.842  12.649  0.00  0.00           C
+ATOM    781  C   GLY A 114     -13.713 -14.284  12.414  0.00  0.00           C
+ATOM    783  N   ALA A 115     -13.563 -15.369  11.667  0.00  0.00           N
+ATOM    805  C   ALA A 118     -13.453 -14.615   5.832  0.00  0.00           C
+ATOM    806  O   ALA A 118     -14.126 -14.276   4.854  0.00  0.00           O
+ATOM    807  CB  ALA A 118     -14.446 -16.351   7.350  0.00  0.00           C
+ATOM    808  N   VAL A 119     -12.753 -13.743   6.558  0.00  0.00           N
+ATOM    809  CA  VAL A 119     -12.684 -12.330   6.225  0.00  0.00           C
+ATOM    814  CG2 VAL A 119     -12.793 -11.429   8.580  0.00  0.00           C
+ATOM    835  CB  GLU A 122     -15.929 -11.712   3.409  0.00  0.00           C
+ATOM    836  CG  GLU A 122     -17.069 -12.511   4.011  0.00  0.00           C
+ATOM    837  CD  GLU A 122     -18.259 -12.629   3.076  0.00  0.00           C
+ATOM   2201  C   ALA A 307     -17.259  -6.245   6.639  0.00  0.00           C
+ATOM   2202  O   ALA A 307     -18.170  -6.750   5.983  0.00  0.00           O
+ATOM   2203  CB  ALA A 307     -15.141  -7.488   7.018  0.00  0.00           C

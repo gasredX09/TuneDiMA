@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  14.23  49.60  48.75 with max radius 7.71
+ATOM   1143  CD  LYS A 180      12.457  53.747  48.420  0.00  0.00           C
+ATOM   1144  CE  LYS A 180      11.793  52.986  49.581  0.00  0.00           C
+ATOM   1145  NZ  LYS A 180      11.609  51.540  49.270  0.00  0.00           N
+ATOM   1258  CB  GLU A 194      16.567  47.832  44.681  0.00  0.00           C
+ATOM   1259  CG  GLU A 194      17.515  48.576  45.633  0.00  0.00           C
+ATOM   1260  CD  GLU A 194      18.541  47.662  46.304  0.00  0.00           C
+ATOM   1261  OE1 GLU A 194      19.152  48.093  47.308  0.00  0.00           O
+ATOM   1296  CB  ILE A 199      11.686  49.903  42.568  0.00  0.00           C
+ATOM   1297  CG1 ILE A 199      12.869  48.916  42.599  0.00  0.00           C
+ATOM   1298  CG2 ILE A 199      10.382  49.268  42.075  0.00  0.00           C
+ATOM   1299  CD1 ILE A 199      12.661  47.755  43.586  0.00  0.00           C
+ATOM   1302  C   GLY A 200      14.195  52.791  45.293  0.00  0.00           C
+ATOM   1303  O   GLY A 200      13.817  51.645  45.531  0.00  0.00           O
+ATOM   1304  N   TYR A 201      15.230  53.346  45.923  0.00  0.00           N
+ATOM   1305  CA  TYR A 201      16.040  52.560  46.867  0.00  0.00           C
+ATOM   1306  C   TYR A 201      16.575  53.518  47.899  0.00  0.00           C
+ATOM   1308  CB  TYR A 201      17.190  51.832  46.142  0.00  0.00           C
+ATOM   1316  N   ASN A 202      17.195  52.974  48.946  0.00  0.00           N
+ATOM   1317  CA  ASN A 202      17.743  53.785  50.017  0.00  0.00           C
+ATOM   1318  C   ASN A 202      19.175  53.345  50.354  0.00  0.00           C
+ATOM   1319  O   ASN A 202      19.846  52.764  49.505  0.00  0.00           O
+ATOM   1320  CB  ASN A 202      16.834  53.751  51.251  0.00  0.00           C
+ATOM   1321  CG  ASN A 202      16.661  52.351  51.817  0.00  0.00           C
+ATOM   1322  OD1 ASN A 202      17.480  51.440  51.579  0.00  0.00           O
+ATOM   1323  ND2 ASN A 202      15.586  52.167  52.586  0.00  0.00           N
+ATOM   1336  CG2 VAL A 204      18.863  48.523  51.914  0.00  0.00           C
+ATOM   1823  CA  PRO A 266      16.399  45.610  50.026  0.00  0.00           C
+ATOM   1824  C   PRO A 266      15.764  45.817  51.418  0.00  0.00           C
+ATOM   1826  CB  PRO A 266      16.045  46.787  49.101  0.00  0.00           C
+ATOM   1827  CG  PRO A 266      15.074  46.249  48.099  0.00  0.00           C
+ATOM   1829  N   GLU A 267      14.458  45.571  51.579  0.00  0.00           N
+ATOM   1830  CA  GLU A 267      13.780  45.750  52.864  0.00  0.00           C
+ATOM   1834  CG  GLU A 267      11.632  46.783  51.936  0.00  0.00           C
+ATOM   1835  CD  GLU A 267      11.725  46.569  50.424  0.00  0.00           C
+ATOM   1836  OE1 GLU A 267      12.052  45.424  49.983  0.00  0.00           O
+ATOM   1837  OE2 GLU A 267      11.497  47.546  49.677  0.00  0.00           O

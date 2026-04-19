@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -2.95   5.62 -19.51 with max radius 6.43
+ATOM    278  CD1 LEU A 646      -1.079   8.491 -15.507  0.00  0.00           C
+ATOM    724  O   TYR A 703      -7.178   3.304 -15.257  0.00  0.00           O
+ATOM    728  CD2 TYR A 703      -5.273   6.763 -15.682  0.00  0.00           C
+ATOM    730  CE2 TYR A 703      -5.215   7.656 -16.752  0.00  0.00           C
+ATOM    731  CZ  TYR A 703      -6.281   8.510 -17.007  0.00  0.00           C
+ATOM    732  OH  TYR A 703      -6.239   9.373 -18.071  0.00  0.00           O
+ATOM    743  CB  ALA A 705      -6.228   6.569 -20.056  0.00  0.00           C
+ATOM   1153  CB  THR A 756      -4.703   2.053 -22.569  0.00  0.00           C
+ATOM   1155  CG2 THR A 756      -4.625   3.118 -21.492  0.00  0.00           C
+ATOM   2108  CB  LEU A 901      -3.921   7.205 -25.115  0.00  0.00           C
+ATOM   2109  CG  LEU A 901      -5.325   7.137 -24.514  0.00  0.00           C
+ATOM   2110  CD1 LEU A 901      -5.509   5.861 -23.745  0.00  0.00           C
+ATOM   2111  CD2 LEU A 901      -5.628   8.400 -23.660  0.00  0.00           C
+ATOM   2120  C   GLY A 903       0.351   9.199 -22.386  0.00  0.00           C
+ATOM   2121  O   GLY A 903      -0.864   8.998 -22.348  0.00  0.00           O
+ATOM   2123  CA  ARG A 904       0.765   8.546 -20.016  0.00  0.00           C
+ATOM   2124  C   ARG A 904      -0.308   9.468 -19.405  0.00  0.00           C
+ATOM   2125  O   ARG A 904      -1.301   9.003 -18.846  0.00  0.00           O
+ATOM   2127  CG  ARG A 904       1.951   7.616 -17.925  0.00  0.00           C
+ATOM   2140  N   ASP A 906      -2.081  11.884 -21.130  0.00  0.00           N
+ATOM   2141  CA  ASP A 906      -3.099  12.250 -22.120  0.00  0.00           C
+ATOM   2142  C   ASP A 906      -4.528  12.147 -21.523  0.00  0.00           C
+ATOM   2143  O   ASP A 906      -5.003  11.051 -21.183  0.00  0.00           O
+ATOM   2144  CB  ASP A 906      -2.961  11.329 -23.339  0.00  0.00           C

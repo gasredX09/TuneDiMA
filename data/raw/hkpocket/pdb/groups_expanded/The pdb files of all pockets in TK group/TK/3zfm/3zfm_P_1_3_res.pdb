@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  15.26  10.59  12.52 with max radius 4.73
+ATOM    654  CA  ARG A 712      14.744  13.531   8.940  0.00  0.00           C
+ATOM    657  CB  ARG A 712      15.022  12.423   7.904  0.00  0.00           C
+ATOM    658  CG  ARG A 712      14.374  11.079   8.254  0.00  0.00           C
+ATOM    659  CD  ARG A 712      14.876   9.904   7.432  0.00  0.00           C
+ATOM    685  CB  ASP A 715      16.685  14.951  13.489  0.00  0.00           C
+ATOM    686  CG  ASP A 715      16.772  14.070  14.731  0.00  0.00           C
+ATOM    687  OD1 ASP A 715      15.725  13.834  15.370  0.00  0.00           O
+ATOM    688  OD2 ASP A 715      17.891  13.596  15.049  0.00  0.00           O
+ATOM   1339  C   SER A 821      11.623  10.624  14.708  0.00  0.00           C
+ATOM   1340  O   SER A 821      12.709  10.198  14.319  0.00  0.00           O
+ATOM   1344  CA  TYR A 822      11.564  12.564  13.109  0.00  0.00           C
+ATOM   1345  C   TYR A 822      11.879  11.788  11.822  0.00  0.00           C
+ATOM   1346  O   TYR A 822      12.935  11.971  11.218  0.00  0.00           O
+ATOM   1347  CB  TYR A 822      12.785  13.409  13.572  0.00  0.00           C
+ATOM   1355  N   GLY A 823      10.953  10.915  11.446  0.00  0.00           N
+ATOM   1356  CA  GLY A 823      10.982  10.143  10.215  0.00  0.00           C
+ATOM   1357  C   GLY A 823      11.889   8.941  10.162  0.00  0.00           C
+ATOM   1358  O   GLY A 823      12.276   8.523   9.070  0.00  0.00           O
+ATOM   1359  N   GLU A 824      12.204   8.342  11.306  0.00  0.00           N
+ATOM   1360  CA  GLU A 824      13.062   7.173  11.232  0.00  0.00           C
+ATOM   1363  CB  GLU A 824      13.916   7.000  12.497  0.00  0.00           C
+ATOM   1364  CG  GLU A 824      13.270   6.326  13.682  0.00  0.00           C
+ATOM   1365  CD  GLU A 824      14.246   6.073  14.816  0.00  0.00           C
+ATOM   1367  OE2 GLU A 824      14.063   6.662  15.906  0.00  0.00           O

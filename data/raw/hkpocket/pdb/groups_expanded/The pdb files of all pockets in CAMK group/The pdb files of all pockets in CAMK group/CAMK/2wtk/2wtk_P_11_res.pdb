@@ -1,0 +1,43 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 37 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -77.12  56.68  52.84 with max radius 5.88
+ATOM   5842  CD  GLN C 137     -75.234  53.851  49.310  0.00  0.00           C
+ATOM   5843  OE1 GLN C 137     -74.208  54.473  49.003  0.00  0.00           O
+ATOM   5844  NE2 GLN C 137     -75.948  54.143  50.393  0.00  0.00           N
+ATOM   5863  CA  LEU C 140     -75.786  51.077  54.441  0.00  0.00           C
+ATOM   5864  C   LEU C 140     -77.292  51.296  54.536  0.00  0.00           C
+ATOM   5865  O   LEU C 140     -77.788  51.777  55.562  0.00  0.00           O
+ATOM   5866  CB  LEU C 140     -75.147  52.253  53.703  0.00  0.00           C
+ATOM   5867  CG  LEU C 140     -73.702  52.587  54.073  0.00  0.00           C
+ATOM   5868  CD1 LEU C 140     -73.202  53.698  53.172  0.00  0.00           C
+ATOM   5869  CD2 LEU C 140     -73.562  52.961  55.554  0.00  0.00           C
+ATOM   5870  N   ASP C 141     -78.014  50.940  53.477  0.00  0.00           N
+ATOM   5871  CA  ASP C 141     -79.455  51.145  53.436  0.00  0.00           C
+ATOM   5874  CB  ASP C 141     -79.966  51.074  51.992  0.00  0.00           C
+ATOM   5875  CG  ASP C 141     -79.244  52.043  51.055  0.00  0.00           C
+ATOM   5876  OD1 ASP C 141     -78.668  53.052  51.529  0.00  0.00           O
+ATOM   5908  CA  LYS C 146     -77.545  54.528  57.262  0.00  0.00           C
+ATOM   5909  C   LYS C 146     -76.038  54.765  57.425  0.00  0.00           C
+ATOM   5910  O   LYS C 146     -75.439  55.512  56.655  0.00  0.00           O
+ATOM   5911  CB  LYS C 146     -78.141  55.595  56.332  0.00  0.00           C
+ATOM   5912  CG  LYS C 146     -79.539  55.282  55.816  0.00  0.00           C
+ATOM   5913  CD  LYS C 146     -80.086  56.397  54.934  0.00  0.00           C
+ATOM   5914  CE  LYS C 146     -80.292  57.697  55.714  0.00  0.00           C
+ATOM   5915  NZ  LYS C 146     -81.141  58.672  54.965  0.00  0.00           N
+ATOM   6674  O   ASN C 247     -72.206  57.669  56.564  0.00  0.00           O
+ATOM   6676  CG  ASN C 247     -72.838  58.215  53.177  0.00  0.00           C
+ATOM   6677  OD1 ASN C 247     -73.030  57.110  52.671  0.00  0.00           O
+ATOM   6678  ND2 ASN C 247     -73.830  59.027  53.557  0.00  0.00           N
+ATOM   6702  CA  GLY C 251     -75.193  58.613  57.663  0.00  0.00           C
+ATOM   6703  C   GLY C 251     -75.754  59.835  56.952  0.00  0.00           C
+ATOM   6704  O   GLY C 251     -76.941  59.904  56.644  0.00  0.00           O
+ATOM   6705  N   LEU C 252     -74.891  60.804  56.691  0.00  0.00           N
+ATOM   6706  CA  LEU C 252     -75.291  62.055  56.080  0.00  0.00           C
+ATOM   6720  CD2 TYR C 253     -75.750  61.732  51.631  0.00  0.00           C
+ATOM   6721  CE1 TYR C 253     -73.915  60.609  49.862  0.00  0.00           C
+ATOM   6722  CE2 TYR C 253     -75.968  60.456  51.120  0.00  0.00           C
+ATOM   6723  CZ  TYR C 253     -75.055  59.898  50.233  0.00  0.00           C
+ATOM   6724  OH  TYR C 253     -75.289  58.629  49.730  0.00  0.00           O

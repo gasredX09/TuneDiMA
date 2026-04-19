@@ -1,0 +1,59 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 53 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  29.53  69.55  29.16 with max radius 8.61
+ATOM    929  CA  LEU A 124      34.882  64.419  30.180  0.00  0.00           C
+ATOM    934  CD1 LEU A 124      32.226  64.415  31.937  0.00  0.00           C
+ATOM    955  O   HIS A 127      35.738  70.360  33.097  0.00  0.00           O
+ATOM    956  CB  HIS A 127      34.776  68.839  30.349  0.00  0.00           C
+ATOM    957  CG  HIS A 127      34.750  69.080  28.868  0.00  0.00           C
+ATOM    958  ND1 HIS A 127      33.633  68.840  28.079  0.00  0.00           N
+ATOM    960  CE1 HIS A 127      33.918  69.150  26.823  0.00  0.00           C
+ATOM    967  CG  GLN A 128      34.831  65.936  34.903  0.00  0.00           C
+ATOM   1251  OE1 GLU A 166      30.378  73.636  32.788  0.00  0.00           O
+ATOM   1452  CA  LYS A 192      33.051  73.157  26.574  0.00  0.00           C
+ATOM   1453  C   LYS A 192      32.290  72.559  25.408  0.00  0.00           C
+ATOM   1454  O   LYS A 192      32.757  71.575  24.820  0.00  0.00           O
+ATOM   1455  CB  LYS A 192      32.619  72.498  27.892  0.00  0.00           C
+ATOM   1456  CG  LYS A 192      33.559  72.774  29.067  0.00  0.00           C
+ATOM   1457  CD  LYS A 192      32.946  72.246  30.362  0.00  0.00           C
+ATOM   1458  CE  LYS A 192      33.787  72.505  31.596  0.00  0.00           C
+ATOM   1459  NZ  LYS A 192      32.943  72.392  32.852  0.00  0.00           N
+ATOM   1460  N   PRO A 193      31.127  73.139  25.054  0.00  0.00           N
+ATOM   1461  CA  PRO A 193      30.427  72.554  23.889  0.00  0.00           C
+ATOM   1462  C   PRO A 193      31.200  72.487  22.575  0.00  0.00           C
+ATOM   1463  O   PRO A 193      30.821  71.703  21.708  0.00  0.00           O
+ATOM   1464  CB  PRO A 193      29.172  73.413  23.751  0.00  0.00           C
+ATOM   1465  CG  PRO A 193      28.970  74.019  25.112  0.00  0.00           C
+ATOM   1466  CD  PRO A 193      30.281  74.103  25.778  0.00  0.00           C
+ATOM   1486  CB  LEU A 196      29.988  68.103  22.561  0.00  0.00           C
+ATOM   1487  CG  LEU A 196      30.603  67.228  23.677  0.00  0.00           C
+ATOM   1488  CD1 LEU A 196      30.888  67.911  24.950  0.00  0.00           C
+ATOM   1979  C   PRO A 256      24.990  74.918  23.630  0.00  0.00           C
+ATOM   1980  O   PRO A 256      25.462  74.060  24.347  0.00  0.00           O
+ATOM   1999  N   ARG A 259      23.188  71.603  23.124  0.00  0.00           N
+ATOM   2000  CA  ARG A 259      24.005  70.507  22.666  0.00  0.00           C
+ATOM   2001  C   ARG A 259      24.250  69.547  23.832  0.00  0.00           C
+ATOM   2002  O   ARG A 259      24.343  69.960  24.984  0.00  0.00           O
+ATOM   2003  CB  ARG A 259      25.303  71.087  22.088  0.00  0.00           C
+ATOM   2004  CG  ARG A 259      26.290  70.095  21.481  0.00  0.00           C
+ATOM   2005  CD  ARG A 259      27.490  70.786  20.885  0.00  0.00           C
+ATOM   2010  N   ILE A 260      24.360  68.264  23.502  0.00  0.00           N
+ATOM   2011  CA  ILE A 260      24.645  67.202  24.461  0.00  0.00           C
+ATOM   2012  C   ILE A 260      26.040  67.436  25.088  0.00  0.00           C
+ATOM   2013  O   ILE A 260      26.962  67.896  24.399  0.00  0.00           O
+ATOM   2018  N   THR A 261      26.187  67.165  26.398  0.00  0.00           N
+ATOM   2019  CA  THR A 261      27.484  67.306  27.076  0.00  0.00           C
+ATOM   2020  C   THR A 261      28.224  65.955  27.012  0.00  0.00           C
+ATOM   2022  CB  THR A 261      27.319  67.684  28.548  0.00  0.00           C
+ATOM   2023  OG1 THR A 261      26.556  66.674  29.192  0.00  0.00           O
+ATOM   2024  CG2 THR A 261      26.645  69.054  28.740  0.00  0.00           C
+ATOM   2025  N   ALA A 262      29.503  65.931  27.384  0.00  0.00           N
+ATOM   2026  CA  ALA A 262      30.291  64.682  27.433  0.00  0.00           C
+ATOM   2027  C   ALA A 262      29.684  63.683  28.385  0.00  0.00           C
+ATOM   2029  CB  ALA A 262      31.688  64.957  27.854  0.00  0.00           C
+ATOM   2030  N   ALA A 263      29.196  64.195  29.525  0.00  0.00           N
+ATOM   2031  CA  ALA A 263      28.640  63.387  30.591  0.00  0.00           C
+ATOM   2034  CB  ALA A 263      28.411  64.278  31.873  0.00  0.00           C

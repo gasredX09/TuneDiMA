@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  11.23   6.75  13.62 with max radius 5.68
+ATOM   1038  CA  MET A 537      12.084   6.560   8.285  0.00  0.00           C
+ATOM   1039  C   MET A 537      11.166   7.728   8.627  0.00  0.00           C
+ATOM   1040  O   MET A 537      10.625   7.782   9.747  0.00  0.00           O
+ATOM   1041  CB  MET A 537      13.533   6.830   8.691  0.00  0.00           C
+ATOM   1044  CE  MET A 537      13.352   5.070  11.368  0.00  0.00           C
+ATOM   1063  CA  LEU A 540       7.839   5.609  10.664  0.00  0.00           C
+ATOM   1064  C   LEU A 540       7.789   6.685  11.761  0.00  0.00           C
+ATOM   1065  O   LEU A 540       7.047   6.545  12.753  0.00  0.00           O
+ATOM   1066  CB  LEU A 540       9.032   4.669  10.883  0.00  0.00           C
+ATOM   1067  CG  LEU A 540       9.022   3.421   9.989  0.00  0.00           C
+ATOM   1068  CD1 LEU A 540      10.164   2.487  10.368  0.00  0.00           C
+ATOM   1070  N   GLU A 541       8.558   7.762  11.583  0.00  0.00           N
+ATOM   1071  CA  GLU A 541       8.560   8.887  12.510  0.00  0.00           C
+ATOM   1072  C   GLU A 541       7.160   9.521  12.632  0.00  0.00           C
+ATOM   1074  CB  GLU A 541       9.565   9.937  12.018  0.00  0.00           C
+ATOM   1075  CG  GLU A 541       9.604  11.218  12.876  0.00  0.00           C
+ATOM   1076  CD  GLU A 541      10.592  12.225  12.315  0.00  0.00           C
+ATOM   1078  OE2 GLU A 541      11.705  12.366  12.882  0.00  0.00           O
+ATOM   1095  CA  ASN A 544       6.143   7.497  16.342  0.00  0.00           C
+ATOM   1097  C   ASN A 544       6.596   6.044  16.543  0.00  0.00           C
+ATOM   1109  N   CYS A 545       6.884   5.380  15.425  0.00  0.00           N
+ATOM   1110  CA  CYS A 545       7.271   3.980  15.401  0.00  0.00           C
+ATOM   1111  C   CYS A 545       8.795   3.899  15.345  0.00  0.00           C
+ATOM   1112  O   CYS A 545       9.395   4.331  14.367  0.00  0.00           O
+ATOM   1115  N   VAL A 546       9.399   3.339  16.388  0.00  0.00           N
+ATOM   1116  CA  VAL A 546      10.858   3.304  16.517  0.00  0.00           C
+ATOM   1117  C   VAL A 546      11.415   1.995  15.967  0.00  0.00           C
+ATOM   1119  CB  VAL A 546      11.267   3.538  17.997  0.00  0.00           C
+ATOM   1120  CG1 VAL A 546      12.797   3.434  18.202  0.00  0.00           C
+ATOM   1121  CG2 VAL A 546      10.747   4.912  18.435  0.00  0.00           C
+ATOM   1122  N   HIS A 547      12.382   2.103  15.070  0.00  0.00           N
+ATOM   1123  CA  HIS A 547      12.814   0.943  14.304  0.00  0.00           C
+ATOM   1126  CB  HIS A 547      13.172   1.369  12.886  0.00  0.00           C
+ATOM   1524  N   THR A 604      12.476   8.193  18.231  0.00  0.00           N
+ATOM   1526  CA  THR A 604      12.692   8.598  16.830  0.00  0.00           C
+ATOM   1528  C   THR A 604      14.024   9.335  16.681  0.00  0.00           C
+ATOM   1530  O   THR A 604      14.696   9.194  15.652  0.00  0.00           O
+ATOM   1532  CB  THR A 604      11.521   9.424  16.216  0.00  0.00           C
+ATOM   1536  CG2 THR A 604      10.218   8.612  16.176  0.00  0.00           C
+ATOM   1559  CB  ASP A 607      15.308   6.103  14.678  0.00  0.00           C
+ATOM   1560  CG  ASP A 607      14.763   4.700  14.980  0.00  0.00           C
+ATOM   1562  OD2 ASP A 607      13.562   4.509  14.653  0.00  0.00           O
+ATOM   2158  CG  PHE A 672      13.865  10.270  10.189  0.00  0.00           C
+ATOM   2160  CD2 PHE A 672      13.556   9.712  11.425  0.00  0.00           C
+ATOM   2162  CE2 PHE A 672      14.370   8.742  11.996  0.00  0.00           C
+ATOM   2163  CZ  PHE A 672      15.531   8.320  11.363  0.00  0.00           C

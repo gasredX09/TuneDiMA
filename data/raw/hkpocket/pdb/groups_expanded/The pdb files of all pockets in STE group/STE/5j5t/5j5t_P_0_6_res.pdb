@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  28.27  -9.81  24.79 with max radius 6.86
+ATOM    409  O   MET A  65      31.241  -9.997  22.926  0.00  0.00           O
+ATOM    410  CB  MET A  65      31.169 -10.909  19.748  0.00  0.00           C
+ATOM    411  CG  MET A  65      30.771 -10.303  18.421  0.00  0.00           C
+ATOM    413  CE  MET A  65      28.182 -11.189  18.834  0.00  0.00           C
+ATOM    434  O   CYS A  68      30.137  -7.606  25.040  0.00  0.00           O
+ATOM    438  CA  LYS A  69      29.678  -6.407  27.493  0.00  0.00           C
+ATOM    441  CB  LYS A  69      29.836  -7.250  28.759  0.00  0.00           C
+ATOM    442  CG  LYS A  69      30.336  -8.663  28.495  0.00  0.00           C
+ATOM    443  CD  LYS A  69      29.502  -9.697  29.235  0.00  0.00           C
+ATOM    444  CE  LYS A  69      30.137 -11.076  29.151  0.00  0.00           C
+ATOM    445  NZ  LYS A  69      30.295 -11.537  27.743  0.00  0.00           N
+ATOM    474  O   ILE A  73      25.477  -5.215  23.004  0.00  0.00           O
+ATOM    477  CG2 ILE A  73      28.608  -5.078  21.778  0.00  0.00           C
+ATOM    481  C   VAL A  74      25.604  -7.665  21.467  0.00  0.00           C
+ATOM    482  O   VAL A  74      26.760  -8.010  21.216  0.00  0.00           O
+ATOM    486  N   ALA A  75      24.889  -8.189  22.457  0.00  0.00           N
+ATOM    487  CA  ALA A  75      25.453  -9.160  23.387  0.00  0.00           C
+ATOM    488  C   ALA A  75      25.680 -10.520  22.735  0.00  0.00           C
+ATOM    490  CB  ALA A  75      24.551  -9.305  24.602  0.00  0.00           C
+ATOM    491  N   TYR A  76      26.753 -11.183  23.151  0.00  0.00           N
+ATOM    492  CA  TYR A  76      27.118 -12.498  22.637  0.00  0.00           C
+ATOM    493  C   TYR A  76      26.530 -13.599  23.513  0.00  0.00           C
+ATOM    494  O   TYR A  76      26.727 -13.607  24.728  0.00  0.00           O
+ATOM    495  CB  TYR A  76      28.646 -12.617  22.560  0.00  0.00           C

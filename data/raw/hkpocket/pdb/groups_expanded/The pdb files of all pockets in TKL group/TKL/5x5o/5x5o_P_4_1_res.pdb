@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  17.29  17.35 -12.07 with max radius 6.95
+ATOM    746  C   SER A  99      17.112  13.171 -10.923  0.00  0.00           C
+ATOM    747  O   SER A  99      16.774  14.345 -10.737  0.00  0.00           O
+ATOM    748  CB  SER A  99      17.822  12.604  -8.590  0.00  0.00           C
+ATOM    749  OG  SER A  99      19.201  12.453  -8.861  0.00  0.00           O
+ATOM    750  N   GLU A 100      17.632  12.755 -12.077  0.00  0.00           N
+ATOM    751  CA  GLU A 100      17.667  13.654 -13.229  0.00  0.00           C
+ATOM    752  C   GLU A 100      16.263  14.025 -13.699  0.00  0.00           C
+ATOM    753  O   GLU A 100      16.091  15.003 -14.433  0.00  0.00           O
+ATOM    754  CB  GLU A 100      18.458  13.015 -14.376  0.00  0.00           C
+ATOM    755  CG  GLU A 100      19.973  13.036 -14.205  0.00  0.00           C
+ATOM    756  CD  GLU A 100      20.545  14.452 -14.173  0.00  0.00           C
+ATOM    757  OE1 GLU A 100      20.357  15.197 -15.162  0.00  0.00           O
+ATOM    758  OE2 GLU A 100      21.174  14.825 -13.154  0.00  0.00           O
+ATOM    759  N   GLU A 101      15.250  13.257 -13.305  0.00  0.00           N
+ATOM    760  CA  GLU A 101      13.877  13.569 -13.678  0.00  0.00           C
+ATOM    761  C   GLU A 101      13.240  14.652 -12.814  0.00  0.00           C
+ATOM    768  N   MET A 102      13.932  15.154 -11.794  0.00  0.00           N
+ATOM    769  CA  MET A 102      13.331  16.129 -10.897  0.00  0.00           C
+ATOM    770  C   MET A 102      13.306  17.520 -11.521  0.00  0.00           C
+ATOM    771  O   MET A 102      14.312  18.003 -12.047  0.00  0.00           O
+ATOM    772  CB  MET A 102      14.096  16.186  -9.575  0.00  0.00           C
+ATOM    773  CG  MET A 102      13.891  15.002  -8.647  0.00  0.00           C
+ATOM    774  SD  MET A 102      14.480  15.451  -6.982  0.00  0.00           S
+ATOM    775  CE  MET A 102      16.207  15.703  -7.311  0.00  0.00           C
+ATOM    776  N   ASP A 103      12.148  18.172 -11.441  0.00  0.00           N
+ATOM    815  CG1 ILE A 107      13.421  19.946  -6.918  0.00  0.00           C
+ATOM    817  CD1 ILE A 107      14.571  19.140  -6.384  0.00  0.00           C
+ATOM   1527  O   MET A 199      17.973  18.276  -5.877  0.00  0.00           O
+ATOM   1552  CG  ARG A 202      19.852  15.689  -7.524  0.00  0.00           C
+ATOM   1553  CD  ARG A 202      19.656  17.002  -8.286  0.00  0.00           C
+ATOM   1554  NE  ARG A 202      19.994  16.824  -9.684  0.00  0.00           N
+ATOM   1555  CZ  ARG A 202      20.214  17.814 -10.536  0.00  0.00           C
+ATOM   1556  NH1 ARG A 202      20.160  19.078 -10.121  0.00  0.00           N
+ATOM   1557  NH2 ARG A 202      20.495  17.530 -11.803  0.00  0.00           N
+ATOM   2142  CA  LEU A 277      18.587  22.003 -12.009  0.00  0.00           C
+ATOM   2143  C   LEU A 277      19.251  21.203 -13.117  0.00  0.00           C
+ATOM   2144  O   LEU A 277      20.007  20.277 -12.857  0.00  0.00           O
+ATOM   2145  CB  LEU A 277      17.180  21.456 -11.775  0.00  0.00           C
+ATOM   2146  CG  LEU A 277      16.460  21.817 -10.477  0.00  0.00           C
+ATOM   2147  CD1 LEU A 277      15.004  21.395 -10.556  0.00  0.00           C
+ATOM   2148  CD2 LEU A 277      17.148  21.185  -9.278  0.00  0.00           C
+ATOM   2149  N   HIS A 278      18.980  21.591 -14.357  0.00  0.00           N
+ATOM   2150  CA  HIS A 278      19.508  20.902 -15.530  0.00  0.00           C
+ATOM   2153  CB  HIS A 278      18.507  20.990 -16.677  0.00  0.00           C
+ATOM   2154  CG  HIS A 278      17.105  20.661 -16.277  0.00  0.00           C
+ATOM   2155  ND1 HIS A 278      16.801  19.628 -15.418  0.00  0.00           N
+ATOM   2157  CE1 HIS A 278      15.493  19.570 -15.250  0.00  0.00           C

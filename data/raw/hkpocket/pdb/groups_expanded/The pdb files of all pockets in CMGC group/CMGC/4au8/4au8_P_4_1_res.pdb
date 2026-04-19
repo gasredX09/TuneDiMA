@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  16.33  36.63  24.87 with max radius 6.63
+ATOM    870  CB  HIS A 118      10.063  37.442  21.360  0.00  0.00           C
+ATOM    871  CG  HIS A 118      10.983  36.552  20.565  0.00  0.00           C
+ATOM    872  ND1 HIS A 118      12.314  36.871  20.387  0.00  0.00           N
+ATOM    874  CE1 HIS A 118      12.838  35.856  19.716  0.00  0.00           C
+ATOM   1356  CB  SER A 180      13.843  32.231  27.285  0.00  0.00           C
+ATOM   1357  OG  SER A 180      15.189  32.536  26.947  0.00  0.00           O
+ATOM   1358  N   THR A 181      13.110  32.640  24.520  0.00  0.00           N
+ATOM   1359  CA  THR A 181      13.240  33.190  23.165  0.00  0.00           C
+ATOM   1360  C   THR A 181      14.720  33.385  22.785  0.00  0.00           C
+ATOM   1361  O   THR A 181      15.017  33.601  21.615  0.00  0.00           O
+ATOM   1362  CB  THR A 181      12.415  34.457  23.062  0.00  0.00           C
+ATOM   1363  OG1 THR A 181      12.893  35.359  24.043  0.00  0.00           O
+ATOM   1365  N   SER A 182      15.641  33.238  23.778  0.00  0.00           N
+ATOM   1366  CA  SER A 182      17.112  33.242  23.629  0.00  0.00           C
+ATOM   1367  C   SER A 182      17.548  32.247  22.537  0.00  0.00           C
+ATOM   1368  O   SER A 182      18.553  32.489  21.871  0.00  0.00           O
+ATOM   1369  CB  SER A 182      17.774  32.824  24.938  0.00  0.00           C
+ATOM   1391  CB  MET A 185      18.540  35.927  20.452  0.00  0.00           C
+ATOM   1392  CG  MET A 185      17.188  36.547  20.837  0.00  0.00           C
+ATOM   1393  SD  MET A 185      16.274  37.299  19.472  0.00  0.00           S
+ATOM   1394  CE  MET A 185      17.407  38.573  18.909  0.00  0.00           C
+ATOM   2066  C   PRO A 271      20.847  33.295  27.546  0.00  0.00           C
+ATOM   2067  O   PRO A 271      20.319  34.145  26.813  0.00  0.00           O
+ATOM   2072  CA  VAL A 272      20.598  34.686  29.555  0.00  0.00           C
+ATOM   2073  C   VAL A 272      21.270  35.956  29.091  0.00  0.00           C
+ATOM   2074  O   VAL A 272      20.698  37.025  29.277  0.00  0.00           O
+ATOM   2089  C   ARG A 274      20.962  38.267  24.497  0.00  0.00           C
+ATOM   2090  O   ARG A 274      19.987  38.257  25.254  0.00  0.00           O
+ATOM   2091  CB  ARG A 274      21.363  35.898  23.737  0.00  0.00           C
+ATOM   2100  C   ILE A 275      19.013  40.032  22.968  0.00  0.00           C
+ATOM   2101  O   ILE A 275      18.910  39.045  22.244  0.00  0.00           O
+ATOM   2106  N   SER A 276      17.955  40.753  23.363  0.00  0.00           N
+ATOM   2107  CA  SER A 276      16.604  40.421  22.928  0.00  0.00           C
+ATOM   2108  C   SER A 276      16.391  41.032  21.515  0.00  0.00           C
+ATOM   2110  CB  SER A 276      15.595  41.008  23.919  0.00  0.00           C
+ATOM   2112  N   ALA A 277      15.339  40.609  20.801  0.00  0.00           N

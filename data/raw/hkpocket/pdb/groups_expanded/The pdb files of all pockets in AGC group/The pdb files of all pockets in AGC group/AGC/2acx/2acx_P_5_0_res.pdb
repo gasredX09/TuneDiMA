@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -15.71  15.40   7.88 with max radius 5.57
+ATOM   2295  CB  HIS A 303     -16.237  15.933  14.033  0.00  0.00           C
+ATOM   2296  CG  HIS A 303     -17.077  17.002  13.426  0.00  0.00           C
+ATOM   2297  ND1 HIS A 303     -16.608  17.846  12.440  0.00  0.00           N
+ATOM   2299  CE1 HIS A 303     -17.592  18.654  12.080  0.00  0.00           C
+ATOM   2779  OG1 THR A 363     -19.856  12.741   6.880  0.00  0.00           O
+ATOM   2781  N   PHE A 364     -20.672  15.004   8.148  0.00  0.00           N
+ATOM   2782  CA  PHE A 364     -20.238  16.122   8.977  0.00  0.00           C
+ATOM   2783  C   PHE A 364     -20.137  17.492   8.239  0.00  0.00           C
+ATOM   2784  O   PHE A 364     -19.895  18.494   8.883  0.00  0.00           O
+ATOM   2785  CB  PHE A 364     -18.881  15.795   9.595  0.00  0.00           C
+ATOM   2786  CG  PHE A 364     -18.889  14.623  10.446  0.00  0.00           C
+ATOM   2787  CD1 PHE A 364     -18.216  13.466  10.060  0.00  0.00           C
+ATOM   2788  CD2 PHE A 364     -19.606  14.624  11.614  0.00  0.00           C
+ATOM   2789  CE1 PHE A 364     -18.226  12.298  10.898  0.00  0.00           C
+ATOM   2792  N   SER A 365     -20.315  17.500   6.919  0.00  0.00           N
+ATOM   2793  CA  SER A 365     -20.053  18.628   6.084  0.00  0.00           C
+ATOM   2796  CB  SER A 365     -20.161  18.212   4.605  0.00  0.00           C
+ATOM   2819  CD1 TRP A 368     -16.586  20.354   8.140  0.00  0.00           C
+ATOM   2821  NE1 TRP A 368     -15.891  19.744   9.144  0.00  0.00           N
+ATOM   2822  CE2 TRP A 368     -15.346  20.697   9.942  0.00  0.00           C
+ATOM   2824  CZ2 TRP A 368     -14.602  20.564  11.088  0.00  0.00           C
+ATOM   3356  C   GLY A 433     -13.546  19.034   5.999  0.00  0.00           C
+ATOM   3357  O   GLY A 433     -13.737  18.209   6.817  0.00  0.00           O
+ATOM   3359  CA  CYS A 434     -14.455  17.628   4.248  0.00  0.00           C
+ATOM   3360  C   CYS A 434     -13.673  16.969   3.143  0.00  0.00           C
+ATOM   3361  O   CYS A 434     -14.158  16.035   2.563  0.00  0.00           O
+ATOM   3362  CB  CYS A 434     -15.824  17.949   3.668  0.00  0.00           C
+ATOM   3363  SG  CYS A 434     -16.778  19.273   4.432  0.00  0.00           S
+ATOM   3384  CA  SER A 438     -11.176  17.107   8.901  0.00  0.00           C
+ATOM   3385  C   SER A 438     -10.744  18.475   9.397  0.00  0.00           C
+ATOM   3387  CB  SER A 438     -11.112  16.175  10.091  0.00  0.00           C
+ATOM   3388  OG  SER A 438     -11.392  14.855   9.724  0.00  0.00           O
+ATOM   3389  N   ALA A 439     -10.917  18.697  10.697  0.00  0.00           N

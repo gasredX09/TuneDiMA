@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -10.77  30.45  -7.80 with max radius 5.91
+ATOM   1589  C   LEU A1095     -12.020  27.116 -10.698  0.00  0.00           C
+ATOM   1590  O   LEU A1095     -12.286  28.041  -9.942  0.00  0.00           O
+ATOM   1595  N   THR A1096     -10.771  26.733 -10.956  0.00  0.00           N
+ATOM   1596  CA  THR A1096      -9.612  27.509 -10.524  0.00  0.00           C
+ATOM   1597  C   THR A1096      -9.112  28.468 -11.598  0.00  0.00           C
+ATOM   1598  O   THR A1096      -8.066  29.088 -11.434  0.00  0.00           O
+ATOM   1599  CB  THR A1096      -8.459  26.602 -10.093  0.00  0.00           C
+ATOM   1601  CG2 THR A1096      -8.880  25.754  -8.927  0.00  0.00           C
+ATOM   1602  N   HIS A1097      -9.863  28.579 -12.690  0.00  0.00           N
+ATOM   1606  CB  HIS A1097      -9.770  30.957 -13.330  0.00  0.00           C
+ATOM   1607  CG  HIS A1097     -11.185  31.223 -12.921  0.00  0.00           C
+ATOM   1609  CD2 HIS A1097     -11.883  30.837 -11.828  0.00  0.00           C
+ATOM   1611  NE2 HIS A1097     -13.163  31.315 -11.969  0.00  0.00           N
+ATOM   1644  CD  GLN A1102      -6.428  28.279  -6.824  0.00  0.00           C
+ATOM   1645  OE1 GLN A1102      -7.319  27.627  -6.261  0.00  0.00           O
+ATOM   1646  NE2 GLN A1102      -6.659  29.462  -7.397  0.00  0.00           N
+ATOM   1907  CA  PRO A1137     -11.828  25.717  -5.418  0.00  0.00           C
+ATOM   1908  C   PRO A1137     -12.662  26.757  -4.673  0.00  0.00           C
+ATOM   1910  CB  PRO A1137     -12.144  25.763  -6.916  0.00  0.00           C
+ATOM   1913  N   ASP A1138     -12.032  27.876  -4.365  0.00  0.00           N
+ATOM   1914  CA  ASP A1138     -12.736  29.012  -3.793  0.00  0.00           C
+ATOM   1915  C   ASP A1138     -13.949  29.336  -4.664  0.00  0.00           C
+ATOM   1916  O   ASP A1138     -13.851  29.363  -5.899  0.00  0.00           O
+ATOM   1917  CB  ASP A1138     -11.773  30.209  -3.736  0.00  0.00           C
+ATOM   1918  CG  ASP A1138     -12.313  31.377  -2.953  0.00  0.00           C
+ATOM   1920  OD2 ASP A1138     -11.807  32.497  -3.193  0.00  0.00           O
+ATOM   1927  CD  LYS A1139     -15.363  33.500  -5.665  0.00  0.00           C

@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  29.02   9.10 -29.81 with max radius 6.74
+ATOM    410  CG  GLU A  47      30.587   4.068 -26.954  0.00  0.00           C
+ATOM    411  CD  GLU A  47      31.175   4.318 -25.573  0.00  0.00           C
+ATOM    413  OE2 GLU A  47      30.418   4.706 -24.665  0.00  0.00           O
+ATOM    444  CD  GLU A  51      26.273   5.450 -26.420  0.00  0.00           C
+ATOM    445  OE1 GLU A  51      25.591   4.887 -27.306  0.00  0.00           O
+ATOM    446  OE2 GLU A  51      26.891   6.517 -26.657  0.00  0.00           O
+ATOM   1078  CD  ARG A 127      24.124  11.987 -28.774  0.00  0.00           C
+ATOM   1080  CZ  ARG A 127      25.182   9.797 -28.155  0.00  0.00           C
+ATOM   1081  NH1 ARG A 127      25.885   9.737 -29.284  0.00  0.00           N
+ATOM   1082  NH2 ARG A 127      25.311   8.824 -27.256  0.00  0.00           N
+ATOM   1256  CB  ALA A 150      27.019  10.467 -24.758  0.00  0.00           C
+ATOM   1270  C   VAL A 152      31.318  11.133 -25.422  0.00  0.00           C
+ATOM   1271  O   VAL A 152      30.490  10.406 -25.982  0.00  0.00           O
+ATOM   1273  CG1 VAL A 152      33.260   8.852 -25.270  0.00  0.00           C
+ATOM   1276  CA  LEU A 153      31.094  12.851 -27.140  0.00  0.00           C
+ATOM   1277  C   LEU A 153      32.220  13.520 -27.925  0.00  0.00           C
+ATOM   1279  CB  LEU A 153      29.935  13.839 -26.879  0.00  0.00           C
+ATOM   1280  CG  LEU A 153      28.614  13.188 -26.394  0.00  0.00           C
+ATOM   1282  CD2 LEU A 153      27.995  12.287 -27.473  0.00  0.00           C
+ATOM   1283  N   ASN A 154      32.252  13.242 -29.237  0.00  0.00           N
+ATOM   1284  CA  ASN A 154      33.239  13.805 -30.130  0.00  0.00           C
+ATOM   1285  C   ASN A 154      32.714  15.109 -30.709  0.00  0.00           C
+ATOM   1286  O   ASN A 154      31.590  15.196 -31.248  0.00  0.00           O
+ATOM   1287  CB  ASN A 154      33.578  12.793 -31.232  0.00  0.00           C
+ATOM   1308  CB  VAL A 157      30.687  13.146 -34.099  0.00  0.00           C
+ATOM   1309  CG1 VAL A 157      29.345  12.447 -34.212  0.00  0.00           C
+ATOM   1310  CG2 VAL A 157      31.795  12.299 -34.703  0.00  0.00           C
+ATOM   1316  CG  GLU A 158      28.398  16.217 -30.126  0.00  0.00           C
+ATOM   1317  CD  GLU A 158      26.987  15.691 -30.152  0.00  0.00           C
+ATOM   1319  OE2 GLU A 158      26.799  14.495 -30.451  0.00  0.00           O
+ATOM   1339  CD  ARG A 161      24.110  13.386 -33.737  0.00  0.00           C

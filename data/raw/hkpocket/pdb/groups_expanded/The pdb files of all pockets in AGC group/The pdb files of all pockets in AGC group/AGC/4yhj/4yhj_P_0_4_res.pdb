@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 4 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  18.00  37.80  21.10 with max radius 5.63
+ATOM   2437  CB  ARG A 323      21.678  34.217  21.973  0.00  0.00           C
+ATOM   2438  CG  ARG A 323      20.802  32.963  21.796  0.00  0.00           C
+ATOM   2439  CD  ARG A 323      19.396  33.151  22.357  0.00  0.00           C
+ATOM   2442  NH1 ARG A 323      17.884  35.160  23.695  0.00  0.00           N
+ATOM   2455  CD2 HIS A 325      20.797  36.947  24.261  0.00  0.00           C
+ATOM   2456  CE1 HIS A 325      20.139  39.004  23.954  0.00  0.00           C
+ATOM   2457  NE2 HIS A 325      20.058  37.770  23.447  0.00  0.00           N
+ATOM   3543  CA  ASN A 460      14.803  39.898  25.270  0.00  0.00           C
+ATOM   3544  C   ASN A 460      14.350  40.059  23.803  0.00  0.00           C
+ATOM   3545  O   ASN A 460      13.984  39.092  23.125  0.00  0.00           O
+ATOM   3546  CB  ASN A 460      14.872  38.418  25.744  0.00  0.00           C
+ATOM   3547  CG  ASN A 460      15.687  37.465  24.875  0.00  0.00           C
+ATOM   3548  OD1 ASN A 460      16.893  37.637  24.655  0.00  0.00           O
+ATOM   3549  ND2 ASN A 460      15.030  36.435  24.364  0.00  0.00           N
+ATOM   3550  N   MET A 461      14.352  41.310  23.330  0.00  0.00           N
+ATOM   3551  CA  MET A 461      13.920  41.646  21.976  0.00  0.00           C
+ATOM   3552  C   MET A 461      15.010  42.349  21.191  0.00  0.00           C
+ATOM   3558  N   LEU A 462      16.130  42.641  21.869  0.00  0.00           N
+ATOM   3559  CA  LEU A 462      17.311  43.263  21.299  0.00  0.00           C
+ATOM   3560  C   LEU A 462      18.339  42.203  20.988  0.00  0.00           C
+ATOM   3561  O   LEU A 462      18.680  41.366  21.842  0.00  0.00           O
+ATOM   3566  N   GLU A 463      18.826  42.241  19.745  0.00  0.00           N
+ATOM   3567  CA  GLU A 463      19.856  41.350  19.253  0.00  0.00           C
+ATOM   3570  CB  GLU A 463      19.763  41.219  17.726  0.00  0.00           C
+ATOM   3571  CG  GLU A 463      19.878  39.778  17.247  0.00  0.00           C
+ATOM   3580  CG  PRO A 464      22.935  39.446  21.656  0.00  0.00           C
+ATOM   3581  CD  PRO A 464      22.040  39.635  20.489  0.00  0.00           C

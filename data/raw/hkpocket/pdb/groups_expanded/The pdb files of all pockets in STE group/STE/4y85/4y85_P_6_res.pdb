@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  36.72  13.35 185.08 with max radius 6.00
+ATOM   1486  C   ASP A 280      37.785   8.394 181.428  0.00  0.00           C
+ATOM   1487  O   ASP A 280      37.639   8.786 182.589  0.00  0.00           O
+ATOM   1489  N   VAL A 281      37.152   8.947 180.376  0.00  0.00           N
+ATOM   1490  CA  VAL A 281      36.212  10.066 180.466  0.00  0.00           C
+ATOM   1493  CB  VAL A 281      36.793  11.383 179.852  0.00  0.00           C
+ATOM   1494  CG1 VAL A 281      35.831  12.566 180.005  0.00  0.00           C
+ATOM   1495  CG2 VAL A 281      38.170  11.734 180.424  0.00  0.00           C
+ATOM   1496  N   TYR A 282      33.779   9.959 180.439  0.00  0.00           N
+ATOM   1623  CB  GLU A 297      32.857  17.855 186.244  0.00  0.00           C
+ATOM   1624  CG  GLU A 297      32.653  16.543 186.985  0.00  0.00           C
+ATOM   1625  CD  GLU A 297      32.970  16.499 188.468  0.00  0.00           C
+ATOM   1627  OE2 GLU A 297      33.148  15.370 188.981  0.00  0.00           O
+ATOM   1663  CA  GLY A 303      32.809  15.083 180.363  0.00  0.00           C
+ATOM   1664  C   GLY A 303      33.165  14.925 181.827  0.00  0.00           C
+ATOM   1665  O   GLY A 303      33.664  15.859 182.462  0.00  0.00           O
+ATOM   1666  N   HIS A 304      32.904  13.730 182.368  0.00  0.00           N
+ATOM   1667  CA  HIS A 304      33.159  13.393 183.772  0.00  0.00           C
+ATOM   1668  C   HIS A 304      33.440  11.890 183.948  0.00  0.00           C
+ATOM   1669  O   HIS A 304      33.550  11.161 182.952  0.00  0.00           O
+ATOM   1670  CB  HIS A 304      32.002  13.882 184.672  0.00  0.00           C
+ATOM   1676  N   SER A 305      33.595  11.433 185.203  0.00  0.00           N
+ATOM   1677  CA  SER A 305      33.894  10.028 185.468  0.00  0.00           C
+ATOM   1678  C   SER A 305      33.184   9.528 186.729  0.00  0.00           C
+ATOM   1679  O   SER A 305      32.184  10.116 187.141  0.00  0.00           O
+ATOM   1680  CB  SER A 305      35.406   9.805 185.535  0.00  0.00           C
+ATOM   1681  OG  SER A 305      35.983  10.456 186.655  0.00  0.00           O
+ATOM   1689  N   LYS A 307      34.213   9.787 189.687  0.00  0.00           N
+ATOM   1690  CA  LYS A 307      34.434  10.843 190.693  0.00  0.00           C
+ATOM   1691  C   LYS A 307      33.175  11.667 190.934  0.00  0.00           C
+ATOM   1693  CB  LYS A 307      35.623  11.752 190.318  0.00  0.00           C
+ATOM   1694  CG  LYS A 307      36.983  11.046 190.279  0.00  0.00           C
+ATOM   1698  N   ALA A 308      32.261  11.709 189.939  0.00  0.00           N
+ATOM   1699  CA  ALA A 308      30.966  12.391 190.029  0.00  0.00           C
+ATOM   1702  CB  ALA A 308      30.193  12.221 188.730  0.00  0.00           C
+ATOM   2183  C   PRO A 373      38.923  14.947 190.284  0.00  0.00           C
+ATOM   2185  CB  PRO A 373      36.711  15.326 189.071  0.00  0.00           C
+ATOM   2186  CG  PRO A 373      36.886  16.412 188.077  0.00  0.00           C
+ATOM   2188  N   ASN A 374      39.980  15.466 189.642  0.00  0.00           N
+ATOM   2194  OD1 ASN A 374      41.478  14.447 186.751  0.00  0.00           O

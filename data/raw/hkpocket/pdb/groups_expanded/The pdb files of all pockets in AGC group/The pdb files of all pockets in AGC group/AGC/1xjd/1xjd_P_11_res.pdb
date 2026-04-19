@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  34.13   2.93  25.66 with max radius 6.69
+ATOM   1777  O   ASP A 594      34.643  -1.993  23.153  0.00  0.00           O
+ATOM   1783  CA  ASN A 595      35.714  -1.834  25.731  0.00  0.00           C
+ATOM   1786  CB  ASN A 595      35.162  -1.740  27.151  0.00  0.00           C
+ATOM   1787  CG  ASN A 595      33.818  -1.049  27.203  0.00  0.00           C
+ATOM   1788  OD1 ASN A 595      33.106  -1.134  28.204  0.00  0.00           O
+ATOM   1789  ND2 ASN A 595      33.468  -0.346  26.129  0.00  0.00           N
+ATOM   1795  CG  PRO A 596      38.723   0.471  23.707  0.00  0.00           C
+ATOM   1796  CD  PRO A 596      37.546   0.176  24.583  0.00  0.00           C
+ATOM   1816  CE1 TYR A 598      39.216   2.507  28.322  0.00  0.00           C
+ATOM   1818  CZ  TYR A 598      39.675   3.312  27.290  0.00  0.00           C
+ATOM   1819  OH  TYR A 598      38.797   3.745  26.328  0.00  0.00           O
+ATOM   1926  CA  VAL A 611      36.663   7.078  26.503  0.00  0.00           C
+ATOM   1927  C   VAL A 611      35.648   7.937  25.751  0.00  0.00           C
+ATOM   1928  O   VAL A 611      34.666   7.428  25.195  0.00  0.00           O
+ATOM   1929  CB  VAL A 611      36.338   7.109  28.022  0.00  0.00           C
+ATOM   1930  CG1 VAL A 611      34.865   6.801  28.255  0.00  0.00           C
+ATOM   1931  CG2 VAL A 611      37.193   6.089  28.762  0.00  0.00           C
+ATOM   1950  CA  PHE A 614      35.421   5.686  21.727  0.00  0.00           C
+ATOM   1951  C   PHE A 614      33.921   5.498  21.927  0.00  0.00           C
+ATOM   1952  O   PHE A 614      33.443   4.384  22.132  0.00  0.00           O
+ATOM   1953  CB  PHE A 614      36.187   4.588  22.478  0.00  0.00           C
+ATOM   1954  CG  PHE A 614      37.619   4.431  22.029  0.00  0.00           C
+ATOM   1956  CD2 PHE A 614      38.648   4.286  22.962  0.00  0.00           C
+ATOM   1960  N   VAL A 615      33.177   6.591  21.870  0.00  0.00           N
+ATOM   1961  CA  VAL A 615      31.732   6.517  21.998  0.00  0.00           C
+ATOM   1964  CB  VAL A 615      31.138   7.908  22.325  0.00  0.00           C
+ATOM   1966  CG2 VAL A 615      31.424   8.253  23.789  0.00  0.00           C
+ATOM   1973  CD  ARG A 616      30.963   1.656  20.540  0.00  0.00           C
+ATOM   1975  CZ  ARG A 616      32.574  -0.060  21.272  0.00  0.00           C
+ATOM   1976  NH1 ARG A 616      33.001   0.742  22.241  0.00  0.00           N

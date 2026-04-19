@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  69.67  62.88  51.39 with max radius 7.38
+ATOM   1658  CE1 TYR A 294      69.482  64.609  45.738  0.00  0.00           C
+ATOM   1659  CE2 TYR A 294      71.869  64.375  45.846  0.00  0.00           C
+ATOM   1660  CZ  TYR A 294      70.667  64.743  46.441  0.00  0.00           C
+ATOM   1661  OH  TYR A 294      70.659  65.249  47.732  0.00  0.00           O
+ATOM   1700  CB  LEU A 300      75.545  65.019  47.472  0.00  0.00           C
+ATOM   1706  C   SER A 301      73.513  60.793  47.480  0.00  0.00           C
+ATOM   1707  O   SER A 301      73.481  60.983  48.691  0.00  0.00           O
+ATOM   1710  N   PRO A 302      72.395  60.736  46.729  0.00  0.00           N
+ATOM   1711  CA  PRO A 302      71.084  61.113  47.301  0.00  0.00           C
+ATOM   1712  C   PRO A 302      70.603  60.315  48.527  0.00  0.00           C
+ATOM   1713  O   PRO A 302      69.914  60.885  49.390  0.00  0.00           O
+ATOM   1714  CB  PRO A 302      70.119  60.930  46.127  0.00  0.00           C
+ATOM   1717  N   PHE A 303      70.963  59.034  48.620  0.00  0.00           N
+ATOM   1718  CA  PHE A 303      70.445  58.150  49.685  0.00  0.00           C
+ATOM   1719  C   PHE A 303      71.465  57.658  50.718  0.00  0.00           C
+ATOM   1720  O   PHE A 303      71.128  56.906  51.649  0.00  0.00           O
+ATOM   1721  CB  PHE A 303      69.692  56.978  49.070  0.00  0.00           C
+ATOM   1722  CG  PHE A 303      68.584  57.411  48.204  0.00  0.00           C
+ATOM   1723  CD1 PHE A 303      67.373  57.801  48.761  0.00  0.00           C
+ATOM   1725  CE1 PHE A 303      66.335  58.243  47.970  0.00  0.00           C
+ATOM   1728  N   LEU A 304      72.691  58.109  50.578  0.00  0.00           N
+ATOM   1730  C   LEU A 304      73.390  58.277  52.921  0.00  0.00           C
+ATOM   1731  O   LEU A 304      72.995  59.419  53.095  0.00  0.00           O
+ATOM   1805  CB  ASN A 314      67.812  57.100  52.593  0.00  0.00           C
+ATOM   1806  CG  ASN A 314      68.345  57.835  53.845  0.00  0.00           C
+ATOM   1807  OD1 ASN A 314      67.591  58.416  54.627  0.00  0.00           O
+ATOM   1808  ND2 ASN A 314      69.657  57.828  54.003  0.00  0.00           N
+ATOM   1837  CA  ARG A 319      63.838  59.962  51.338  0.00  0.00           C
+ATOM   1838  C   ARG A 319      65.032  60.687  50.702  0.00  0.00           C
+ATOM   1839  O   ARG A 319      66.190  60.272  50.833  0.00  0.00           O
+ATOM   1840  CB  ARG A 319      64.081  59.701  52.815  0.00  0.00           C
+ATOM   1841  CG  ARG A 319      64.256  60.953  53.622  0.00  0.00           C
+ATOM   1842  CD  ARG A 319      64.668  60.616  55.031  0.00  0.00           C
+ATOM   1847  N   TRP A 320      64.729  61.779  50.009  0.00  0.00           N
+ATOM   1848  CA  TRP A 320      65.732  62.611  49.343  0.00  0.00           C
+ATOM   1849  C   TRP A 320      65.123  63.994  49.179  0.00  0.00           C
+ATOM   1851  CB  TRP A 320      66.126  62.017  47.975  0.00  0.00           C
+ATOM   1861  N   ASP A 321      65.960  64.999  48.943  0.00  0.00           N
+ATOM   1862  CA  ASP A 321      65.478  66.343  48.638  0.00  0.00           C
+ATOM   1863  C   ASP A 321      66.550  67.137  47.913  0.00  0.00           C
+ATOM   1864  O   ASP A 321      67.705  66.699  47.791  0.00  0.00           O
+ATOM   1865  CB  ASP A 321      65.080  67.079  49.916  0.00  0.00           C
+ATOM   1866  CG  ASP A 321      66.244  67.244  50.860  0.00  0.00           C
+ATOM   1867  OD1 ASP A 321      67.119  68.102  50.603  0.00  0.00           O
+ATOM   1868  OD2 ASP A 321      66.298  66.491  51.852  0.00  0.00           O
+ATOM   1893  OD2 ASP A 324      72.807  67.940  49.989  0.00  0.00           O

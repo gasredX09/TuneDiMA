@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.38  29.03  26.08 with max radius 6.04
+ATOM    955  CB  ILE A 148       5.819  27.026  25.761  0.00  0.00           C
+ATOM    956  CG1 ILE A 148       5.679  28.529  25.638  0.00  0.00           C
+ATOM    957  CG2 ILE A 148       4.506  26.462  26.333  0.00  0.00           C
+ATOM    958  CD1 ILE A 148       4.886  28.997  24.413  0.00  0.00           C
+ATOM   2239  CA  LYS A 310       4.409  30.547  29.584  0.00  0.00           C
+ATOM   2240  C   LYS A 310       3.603  31.561  28.809  0.00  0.00           C
+ATOM   2241  O   LYS A 310       3.735  31.651  27.587  0.00  0.00           O
+ATOM   2242  CB  LYS A 310       3.541  29.275  29.794  0.00  0.00           C
+ATOM   2243  CG  LYS A 310       4.300  28.014  30.152  0.00  0.00           C
+ATOM   2244  CD  LYS A 310       3.382  26.945  30.729  0.00  0.00           C
+ATOM   2245  CE  LYS A 310       2.463  26.370  29.702  0.00  0.00           C
+ATOM   2246  NZ  LYS A 310       1.684  25.247  30.260  0.00  0.00           N
+ATOM   2247  N   LYS A 311       2.844  32.371  29.526  0.00  0.00           N
+ATOM   2248  CA  LYS A 311       2.081  33.453  28.869  0.00  0.00           C
+ATOM   2251  CB  LYS A 311       1.042  34.068  29.817  0.00  0.00           C
+ATOM   2252  CG  LYS A 311      -0.136  33.200  30.089  0.00  0.00           C
+ATOM   2275  O   ASN A 314       0.916  34.141  24.742  0.00  0.00           O
+ATOM   2276  CB  ASN A 314       2.408  31.928  24.090  0.00  0.00           C
+ATOM   2277  CG  ASN A 314       1.478  31.655  22.890  0.00  0.00           C
+ATOM   2279  ND2 ASN A 314       0.838  30.495  22.900  0.00  0.00           N
+ATOM   2297  N   GLY A 317      -1.409  34.177  22.844  0.00  0.00           N
+ATOM   2298  CA  GLY A 317      -2.167  32.953  23.026  0.00  0.00           C
+ATOM   2299  C   GLY A 317      -2.412  32.182  21.738  0.00  0.00           C
+ATOM   2304  O   ILE A 318      -0.345  29.527  20.671  0.00  0.00           O
+ATOM   2318  CG  LEU A 320       2.029  25.672  21.981  0.00  0.00           C
+ATOM   2319  CD1 LEU A 320       2.700  24.822  23.029  0.00  0.00           C
+ATOM   2320  CD2 LEU A 320       2.805  26.955  21.680  0.00  0.00           C

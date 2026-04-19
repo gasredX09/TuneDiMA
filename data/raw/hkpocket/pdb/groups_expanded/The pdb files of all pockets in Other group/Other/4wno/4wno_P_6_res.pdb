@@ -1,0 +1,58 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 52 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.53 -41.30 -29.37 with max radius 6.91
+ATOM    723  O   ASN A  96      -2.711 -42.001 -24.019  0.00  0.00           O
+ATOM    726  OD1 ASN A  96      -5.414 -43.098 -25.282  0.00  0.00           O
+ATOM    727  ND2 ASN A  96      -5.030 -45.276 -25.665  0.00  0.00           N
+ATOM    729  CA  GLY A  97      -4.011 -39.540 -24.063  0.00  0.00           C
+ATOM    730  C   GLY A  97      -3.573 -38.363 -23.212  0.00  0.00           C
+ATOM    731  O   GLY A  97      -3.273 -37.299 -23.744  0.00  0.00           O
+ATOM   1126  C   LEU A 146      -7.791 -39.183 -23.845  0.00  0.00           C
+ATOM   1128  CB  LEU A 146      -6.830 -37.041 -24.622  0.00  0.00           C
+ATOM   1131  CD2 LEU A 146      -5.736 -35.242 -25.969  0.00  0.00           C
+ATOM   1132  N   SER A 147      -8.386 -39.829 -24.843  0.00  0.00           N
+ATOM   1133  CA  SER A 147      -8.122 -41.255 -25.070  0.00  0.00           C
+ATOM   1134  C   SER A 147      -8.330 -41.563 -26.543  0.00  0.00           C
+ATOM   1135  O   SER A 147      -9.310 -41.131 -27.127  0.00  0.00           O
+ATOM   1138  N   ASN A 148      -7.421 -42.317 -27.140  0.00  0.00           N
+ATOM   1139  CA  ASN A 148      -7.564 -42.652 -28.549  0.00  0.00           C
+ATOM   1140  C   ASN A 148      -7.722 -44.146 -28.643  0.00  0.00           C
+ATOM   1141  O   ASN A 148      -6.851 -44.890 -28.226  0.00  0.00           O
+ATOM   1142  CB  ASN A 148      -6.368 -42.165 -29.372  0.00  0.00           C
+ATOM   1143  CG  ASN A 148      -6.634 -42.212 -30.877  0.00  0.00           C
+ATOM   1144  OD1 ASN A 148      -7.277 -43.139 -31.373  0.00  0.00           O
+ATOM   1145  ND2 ASN A 148      -6.141 -41.210 -31.610  0.00  0.00           N
+ATOM   1153  N   ALA A 150      -7.699 -46.058 -31.169  0.00  0.00           N
+ATOM   1154  CA  ALA A 150      -6.933 -46.667 -32.252  0.00  0.00           C
+ATOM   1155  C   ALA A 150      -5.499 -47.010 -31.842  0.00  0.00           C
+ATOM   1156  O   ALA A 150      -5.092 -46.765 -30.701  0.00  0.00           O
+ATOM   1157  CB  ALA A 150      -6.929 -45.744 -33.466  0.00  0.00           C
+ATOM   1159  CA  GLY A 151      -3.409 -48.067 -32.508  0.00  0.00           C
+ATOM   1160  C   GLY A 151      -2.342 -46.993 -32.407  0.00  0.00           C
+ATOM   1161  O   GLY A 151      -2.645 -45.798 -32.415  0.00  0.00           O
+ATOM   1162  N   ARG A 152      -1.088 -47.428 -32.305  0.00  0.00           N
+ATOM   1163  CA  ARG A 152       0.040 -46.505 -32.235  0.00  0.00           C
+ATOM   1164  C   ARG A 152       0.068 -45.593 -33.458  0.00  0.00           C
+ATOM   1173  N   ARG A 153       0.346 -44.314 -33.210  0.00  0.00           N
+ATOM   1174  CA  ARG A 153       0.483 -43.303 -34.258  0.00  0.00           C
+ATOM   1175  C   ARG A 153      -0.844 -43.007 -34.959  0.00  0.00           C
+ATOM   1184  N   ALA A 154      -1.955 -43.373 -34.328  0.00  0.00           N
+ATOM   1185  CA  ALA A 154      -3.257 -43.172 -34.949  0.00  0.00           C
+ATOM   1186  C   ALA A 154      -3.510 -41.693 -35.204  0.00  0.00           C
+ATOM   1187  O   ALA A 154      -2.937 -40.830 -34.536  0.00  0.00           O
+ATOM   1188  CB  ALA A 154      -4.357 -43.753 -34.089  0.00  0.00           C
+ATOM   1191  C   ASN A 155      -5.375 -39.365 -35.257  0.00  0.00           C
+ATOM   1192  O   ASN A 155      -6.233 -39.924 -34.571  0.00  0.00           O
+ATOM   1197  N   PRO A 156      -4.904 -38.143 -34.960  0.00  0.00           N
+ATOM   1198  CA  PRO A 156      -5.424 -37.407 -33.799  0.00  0.00           C
+ATOM   1201  CB  PRO A 156      -4.522 -36.169 -33.739  0.00  0.00           C
+ATOM   1202  CG  PRO A 156      -3.248 -36.609 -34.397  0.00  0.00           C
+ATOM   1203  CD  PRO A 156      -3.677 -37.533 -35.500  0.00  0.00           C
+ATOM   1219  CA  ILE A 159      -9.160 -38.581 -30.049  0.00  0.00           C
+ATOM   1222  CB  ILE A 159      -8.272 -37.352 -29.748  0.00  0.00           C
+ATOM   1223  CG1 ILE A 159      -6.824 -37.659 -30.137  0.00  0.00           C
+ATOM   1224  CG2 ILE A 159      -8.347 -37.008 -28.267  0.00  0.00           C
+ATOM   1225  CD1 ILE A 159      -5.902 -36.440 -30.103  0.00  0.00           C

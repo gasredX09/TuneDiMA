@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   9.40  23.53  19.59 with max radius 5.61
+ATOM    916  CA  VAL A 117       8.876  28.877  21.358  0.00  0.00           C
+ATOM    918  O   VAL A 117       8.727  29.039  18.952  0.00  0.00           O
+ATOM    919  CB  VAL A 117       7.617  28.325  22.083  0.00  0.00           C
+ATOM    920  CG1 VAL A 117       6.785  27.474  21.122  0.00  0.00           C
+ATOM    921  CG2 VAL A 117       8.022  27.502  23.313  0.00  0.00           C
+ATOM    937  CB  HIS A 120      11.979  27.697  18.152  0.00  0.00           C
+ATOM    938  CG  HIS A 120      12.681  26.480  17.619  0.00  0.00           C
+ATOM    939  ND1 HIS A 120      12.410  25.211  18.083  0.00  0.00           N
+ATOM    941  CE1 HIS A 120      13.164  24.336  17.438  0.00  0.00           C
+ATOM    950  CD2 TYR A 121       7.480  26.132  16.173  0.00  0.00           C
+ATOM    951  CE1 TYR A 121       5.343  26.412  17.933  0.00  0.00           C
+ATOM    952  CE2 TYR A 121       7.041  25.006  16.917  0.00  0.00           C
+ATOM    953  CZ  TYR A 121       5.967  25.165  17.787  0.00  0.00           C
+ATOM    954  OH  TYR A 121       5.536  24.064  18.501  0.00  0.00           O
+ATOM    982  NE2 GLN A 124      10.820  25.005  14.648  0.00  0.00           N
+ATOM   1208  CD2 LEU A 149       3.598  21.349  16.596  0.00  0.00           C
+ATOM   1241  C   ASN A 154       7.997  19.056  20.772  0.00  0.00           C
+ATOM   1242  O   ASN A 154       7.672  20.234  20.617  0.00  0.00           O
+ATOM   1247  N   SER A 155       9.084  18.522  20.229  0.00  0.00           N
+ATOM   1248  CA  SER A 155      10.019  19.297  19.431  0.00  0.00           C
+ATOM   1249  C   SER A 155       9.765  19.108  17.931  0.00  0.00           C
+ATOM   1250  O   SER A 155      10.690  19.228  17.118  0.00  0.00           O
+ATOM   1251  CB  SER A 155      11.450  18.873  19.771  0.00  0.00           C
+ATOM   1253  N   ALA A 156       8.523  18.795  17.564  0.00  0.00           N
+ATOM   1254  CA  ALA A 156       8.162  18.652  16.150  0.00  0.00           C
+ATOM   1255  C   ALA A 156       8.557  19.905  15.356  0.00  0.00           C
+ATOM   1256  O   ALA A 156       8.304  21.025  15.801  0.00  0.00           O

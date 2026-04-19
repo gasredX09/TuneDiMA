@@ -1,0 +1,30 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 8 with 24 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.89 -15.85  15.59 with max radius 7.15
+ATOM   2691  O   VAL A 204       6.114 -11.593  19.209  0.00  0.00           O
+ATOM   2705  CA  MET A 205       3.983 -13.208  19.882  0.00  0.00           C
+ATOM   2706  C   MET A 205       3.188 -12.126  19.168  0.00  0.00           C
+ATOM   2707  O   MET A 205       2.989 -12.197  17.950  0.00  0.00           O
+ATOM   2708  CB  MET A 205       3.045 -14.150  20.637  0.00  0.00           C
+ATOM   2709  CG  MET A 205       1.914 -14.730  19.807  0.00  0.00           C
+ATOM   2711  CE  MET A 205       2.059 -17.315  20.794  0.00  0.00           C
+ATOM   2786  CG  MET A 209       5.897 -11.377  14.245  0.00  0.00           C
+ATOM   2788  SD  MET A 209       6.030 -12.730  13.061  0.00  0.00           S
+ATOM   2871  CD2 TYR A 214       2.801 -12.208  11.695  0.00  0.00           C
+ATOM   2873  CE2 TYR A 214       2.036 -12.814  12.675  0.00  0.00           C
+ATOM   2874  CZ  TYR A 214       1.193 -12.046  13.449  0.00  0.00           C
+ATOM   2875  OH  TYR A 214       0.431 -12.640  14.427  0.00  0.00           O
+ATOM   3961  CA  ASN A 278      -1.892 -19.211  11.751  0.00  0.00           C
+ATOM   3964  CB  ASN A 278      -0.951 -20.402  11.632  0.00  0.00           C
+ATOM   3965  CG  ASN A 278       0.490 -20.038  11.924  0.00  0.00           C
+ATOM   3966  OD1 ASN A 278       0.825 -18.867  12.102  0.00  0.00           O
+ATOM   3979  CG  PRO A 279      -0.650 -15.003  12.205  0.00  0.00           C
+ATOM   3980  CD  PRO A 279      -1.379 -16.295  12.402  0.00  0.00           C
+ATOM   3992  CB  GLU A 280       3.544 -17.469  10.273  0.00  0.00           C
+ATOM   3993  CG  GLU A 280       4.058 -16.234  11.009  0.00  0.00           C
+ATOM   3994  CD  GLU A 280       5.179 -16.538  11.982  0.00  0.00           C
+ATOM   3995  OE1 GLU A 280       4.899 -17.102  13.061  0.00  0.00           O
+ATOM   3996  OE2 GLU A 280       6.343 -16.209  11.668  0.00  0.00           O

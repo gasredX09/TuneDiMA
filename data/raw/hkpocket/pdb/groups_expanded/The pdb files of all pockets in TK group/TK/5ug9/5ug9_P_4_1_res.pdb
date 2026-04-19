@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   8.21  13.98  -3.16 with max radius 4.89
+ATOM   1917  CA  ASP A 942       4.804  12.873  -0.546  0.00  0.00           C
+ATOM   1918  C   ASP A 942       4.234  13.344  -1.882  0.00  0.00           C
+ATOM   1919  O   ASP A 942       4.891  14.072  -2.629  0.00  0.00           O
+ATOM   1920  CB  ASP A 942       5.358  11.453  -0.717  0.00  0.00           C
+ATOM   1921  CG  ASP A 942       5.873  10.863   0.580  0.00  0.00           C
+ATOM   1923  OD2 ASP A 942       7.057  10.465   0.619  0.00  0.00           O
+ATOM   1944  CA  MET A 945       4.444  18.012  -1.769  0.00  0.00           C
+ATOM   1945  C   MET A 945       4.947  18.223  -3.192  0.00  0.00           C
+ATOM   1947  CB  MET A 945       5.562  17.510  -0.855  0.00  0.00           C
+ATOM   1950  CE  MET A 945       6.804  15.823   1.488  0.00  0.00           C
+ATOM   1951  N   ILE A 946       4.751  17.240  -4.065  0.00  0.00           N
+ATOM   1952  CA  ILE A 946       5.042  17.455  -5.480  0.00  0.00           C
+ATOM   1955  CB  ILE A 946       4.832  16.170  -6.306  0.00  0.00           C
+ATOM   1956  CG1 ILE A 946       5.809  15.088  -5.848  0.00  0.00           C
+ATOM   1958  CD1 ILE A 946       5.627  13.769  -6.566  0.00  0.00           C
+ATOM   1984  CD  LYS A 949       9.122  19.563  -4.761  0.00  0.00           C
+ATOM   1985  CE  LYS A 949       9.770  19.098  -3.466  0.00  0.00           C
+ATOM   1986  NZ  LYS A 949      10.631  17.898  -3.664  0.00  0.00           N
+ATOM   2145  CG  GLU A 967       8.604  12.458  -7.374  0.00  0.00           C
+ATOM   2146  CD  GLU A 967       9.505  11.589  -6.522  0.00  0.00           C
+ATOM   2147  OE1 GLU A 967      10.743  11.694  -6.662  0.00  0.00           O
+ATOM   2148  OE2 GLU A 967       8.975  10.797  -5.713  0.00  0.00           O
+ATOM   2182  CE  MET A 971       5.679  10.844  -4.481  0.00  0.00           C

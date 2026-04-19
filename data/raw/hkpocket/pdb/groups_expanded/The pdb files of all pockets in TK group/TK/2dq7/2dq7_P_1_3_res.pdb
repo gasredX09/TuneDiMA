@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -29.28  23.83 -37.57 with max radius 6.04
+ATOM   1637  CA  TYR X 207     -26.250  24.393 -34.568  0.00  0.00           C
+ATOM   1638  C   TYR X 207     -24.911  24.599 -35.273  0.00  0.00           C
+ATOM   1640  CB  TYR X 207     -26.747  25.721 -33.996  0.00  0.00           C
+ATOM   1641  CG  TYR X 207     -28.007  25.612 -33.171  0.00  0.00           C
+ATOM   1642  CD1 TYR X 207     -29.263  25.646 -33.762  0.00  0.00           C
+ATOM   1644  CE1 TYR X 207     -30.430  25.577 -32.994  0.00  0.00           C
+ATOM   1648  N   PRO X 208     -24.374  23.524 -35.859  0.00  0.00           N
+ATOM   1652  CB  PRO X 208     -23.415  22.364 -37.632  0.00  0.00           C
+ATOM   1653  CG  PRO X 208     -24.215  21.395 -36.823  0.00  0.00           C
+ATOM   1654  CD  PRO X 208     -25.156  22.286 -36.025  0.00  0.00           C
+ATOM   1664  CG  MET X 210     -26.231  27.911 -36.867  0.00  0.00           C
+ATOM   1665  SD  MET X 210     -27.873  27.854 -37.659  0.00  0.00           S
+ATOM   1666  CE  MET X 210     -28.764  29.075 -36.726  0.00  0.00           C
+ATOM   1733  CD  GLN X 218     -32.530  27.605 -37.657  0.00  0.00           C
+ATOM   1734  OE1 GLN X 218     -33.082  26.658 -38.237  0.00  0.00           O
+ATOM   1735  NE2 GLN X 218     -31.611  27.424 -36.715  0.00  0.00           N
+ATOM   1780  CA  ARG X 224     -34.791  24.470 -35.343  0.00  0.00           C
+ATOM   1781  C   ARG X 224     -33.739  23.642 -36.069  0.00  0.00           C
+ATOM   1782  O   ARG X 224     -33.467  23.869 -37.246  0.00  0.00           O
+ATOM   1790  N   MET X 225     -33.146  22.684 -35.370  0.00  0.00           N
+ATOM   1791  CA  MET X 225     -32.125  21.831 -35.978  0.00  0.00           C
+ATOM   1792  C   MET X 225     -32.807  20.645 -36.661  0.00  0.00           C
+ATOM   1794  CB  MET X 225     -31.146  21.302 -34.930  0.00  0.00           C
+ATOM   1795  CG  MET X 225     -30.142  22.304 -34.388  0.00  0.00           C
+ATOM   1796  SD  MET X 225     -28.913  21.447 -33.311  0.00  0.00           S
+ATOM   1798  N   PRO X 226     -32.160  20.076 -37.694  0.00  0.00           N
+ATOM   1802  CB  PRO X 226     -32.168  19.130 -39.811  0.00  0.00           C
+ATOM   1803  CG  PRO X 226     -30.794  19.584 -39.519  0.00  0.00           C
+ATOM   1804  CD  PRO X 226     -30.991  20.609 -38.414  0.00  0.00           C

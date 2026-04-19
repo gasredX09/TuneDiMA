@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  45.06  -3.78  24.82 with max radius 4.71
+ATOM   1580  CE1 TYR A 570      45.137   0.402  23.321  0.00  0.00           C
+ATOM   1582  CZ  TYR A 570      44.314   0.341  24.434  0.00  0.00           C
+ATOM   1583  OH  TYR A 570      44.293  -0.803  25.204  0.00  0.00           O
+ATOM   1615  CG2 ILE A 574      48.345  -0.051  25.555  0.00  0.00           C
+ATOM   1623  C   GLN A 576      47.719  -1.259  20.678  0.00  0.00           C
+ATOM   1625  CB  GLN A 576      48.544  -2.817  22.384  0.00  0.00           C
+ATOM   1626  CG  GLN A 576      49.638  -3.531  23.145  0.00  0.00           C
+ATOM   1627  CD  GLN A 576      49.063  -4.335  24.296  0.00  0.00           C
+ATOM   1628  OE1 GLN A 576      48.967  -3.853  25.427  0.00  0.00           O
+ATOM   1629  NE2 GLN A 576      48.648  -5.560  24.006  0.00  0.00           N
+ATOM   1632  C   SER A 577      44.676  -1.744  20.292  0.00  0.00           C
+ATOM   1633  O   SER A 577      44.709  -2.750  20.994  0.00  0.00           O
+ATOM   1636  N   PRO A 578      43.703  -0.833  20.408  0.00  0.00           N
+ATOM   1637  CA  PRO A 578      42.627  -1.002  21.387  0.00  0.00           C
+ATOM   1638  C   PRO A 578      41.652  -2.147  21.108  0.00  0.00           C
+ATOM   1639  O   PRO A 578      41.073  -2.713  22.035  0.00  0.00           O
+ATOM   1660  ND1 HIS A 580      43.144  -6.407  21.795  0.00  0.00           N
+ATOM   1662  CE1 HIS A 580      44.188  -5.783  22.313  0.00  0.00           C
+ATOM   1663  NE2 HIS A 580      45.228  -5.979  21.521  0.00  0.00           N
+ATOM   1797  N   PHE A 597      41.157  -1.935  26.788  0.00  0.00           N
+ATOM   1798  CA  PHE A 597      41.792  -2.106  28.088  0.00  0.00           C
+ATOM   1800  O   PHE A 597      43.442  -0.455  27.554  0.00  0.00           O
+ATOM   1801  CB  PHE A 597      42.682  -3.351  28.086  0.00  0.00           C
+ATOM   1802  CG  PHE A 597      43.592  -3.446  29.280  0.00  0.00           C
+ATOM   1804  CD2 PHE A 597      44.953  -3.160  29.159  0.00  0.00           C

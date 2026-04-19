@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -16.79  57.68 206.55 with max radius 8.09
+ATOM   1647  CE1 TYR A 848     -16.664  52.312 208.706  0.00  0.00           C
+ATOM   1648  CE2 TYR A 848     -15.479  53.333 210.517  0.00  0.00           C
+ATOM   1649  CZ  TYR A 848     -16.518  53.344 209.603  0.00  0.00           C
+ATOM   1650  OH  TYR A 848     -17.425  54.382 209.591  0.00  0.00           O
+ATOM   1681  CG1 VAL A 852     -20.022  51.551 210.019  0.00  0.00           C
+ATOM   1691  CB  GLU A 854     -20.240  51.500 205.534  0.00  0.00           C
+ATOM   1692  CG  GLU A 854     -21.713  51.304 205.839  0.00  0.00           C
+ATOM   1693  CD  GLU A 854     -22.455  52.609 206.018  0.00  0.00           C
+ATOM   1694  OE1 GLU A 854     -21.896  53.541 206.650  0.00  0.00           O
+ATOM   1698  C   SER A 855     -16.125  52.844 204.737  0.00  0.00           C
+ATOM   1699  O   SER A 855     -17.038  53.651 204.892  0.00  0.00           O
+ATOM   1703  CA  PRO A 856     -14.662  54.164 206.146  0.00  0.00           C
+ATOM   1704  C   PRO A 856     -14.483  55.408 205.286  0.00  0.00           C
+ATOM   1705  O   PRO A 856     -14.451  56.522 205.822  0.00  0.00           O
+ATOM   1706  CB  PRO A 856     -13.330  53.843 206.847  0.00  0.00           C
+ATOM   1709  N   PHE A 857     -14.336  55.211 203.977  0.00  0.00           N
+ATOM   1710  CA  PHE A 857     -14.022  56.288 203.061  0.00  0.00           C
+ATOM   1711  C   PHE A 857     -15.068  56.326 201.965  0.00  0.00           C
+ATOM   1713  CB  PHE A 857     -12.632  56.069 202.475  0.00  0.00           C
+ATOM   1714  CG  PHE A 857     -11.563  55.889 203.517  0.00  0.00           C
+ATOM   1715  CD1 PHE A 857     -11.224  56.938 204.370  0.00  0.00           C
+ATOM   1717  CE1 PHE A 857     -10.234  56.782 205.333  0.00  0.00           C
+ATOM   1720  N   PRO A 858     -16.066  57.209 202.112  0.00  0.00           N
+ATOM   1721  CA  PRO A 858     -17.148  57.255 201.150  0.00  0.00           C
+ATOM   1724  CB  PRO A 858     -18.186  58.127 201.850  0.00  0.00           C
+ATOM   1725  CG  PRO A 858     -17.362  59.103 202.629  0.00  0.00           C
+ATOM   1726  CD  PRO A 858     -16.098  58.376 203.016  0.00  0.00           C
+ATOM   1801  CA  SER A 868     -11.160  60.888 201.697  0.00  0.00           C
+ATOM   1802  C   SER A 868     -10.275  59.917 202.478  0.00  0.00           C
+ATOM   1803  O   SER A 868     -10.316  59.887 203.708  0.00  0.00           O
+ATOM   1804  CB  SER A 868     -12.647  60.528 201.811  0.00  0.00           C
+ATOM   1805  OG  SER A 868     -13.006  59.453 200.976  0.00  0.00           O
+ATOM   1833  CB  ASP A 872     -11.887  62.440 204.927  0.00  0.00           C
+ATOM   1836  OD2 ASP A 872     -13.540  63.089 203.383  0.00  0.00           O
+ATOM   1839  C   GLU A 873     -12.227  60.737 209.194  0.00  0.00           C
+ATOM   1840  O   GLU A 873     -13.342  60.981 208.721  0.00  0.00           O
+ATOM   1846  N   VAL A 874     -11.916  59.573 209.754  0.00  0.00           N
+ATOM   1847  CA  VAL A 874     -12.867  58.468 209.815  0.00  0.00           C
+ATOM   1848  C   VAL A 874     -13.885  58.656 210.936  0.00  0.00           C
+ATOM   1850  CB  VAL A 874     -12.147  57.127 210.046  0.00  0.00           C
+ATOM   1851  CG1 VAL A 874     -13.156  55.981 210.148  0.00  0.00           C
+ATOM   1852  CG2 VAL A 874     -11.127  56.882 208.942  0.00  0.00           C
+ATOM   1853  N   ARG A 875     -15.156  58.453 210.613  0.00  0.00           N
+ATOM   1854  CA  ARG A 875     -16.242  58.597 211.563  0.00  0.00           C
+ATOM   1855  C   ARG A 875     -16.625  57.244 212.135  0.00  0.00           C
+ATOM   1856  O   ARG A 875     -16.983  56.337 211.383  0.00  0.00           O
+ATOM   1857  CB  ARG A 875     -17.452  59.193 210.864  0.00  0.00           C
+ATOM   1858  CG  ARG A 875     -17.175  60.531 210.205  0.00  0.00           C

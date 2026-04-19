@@ -1,0 +1,24 @@
+name: projects-env
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - rdkit
+  - biopython
+  - pytorch
+  - torchvision
+  - matplotlib
+  - networkx
+  - pip:
+      - torch-geometric
+      - torch-scatter
+      - torch-sparse
+      - torch-cluster
+      - torch-spline-conv
+      - requests

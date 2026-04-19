@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  68.97  14.39  -4.10 with max radius 6.20
+ATOM      1  N   GLN A 469      72.278  12.902  -5.592  0.00  0.00           N
+ATOM      2  CA  GLN A 469      72.454  13.284  -7.029  0.00  0.00           C
+ATOM      3  C   GLN A 469      71.879  12.239  -8.005  0.00  0.00           C
+ATOM      6  N   LYS A 470      70.926  11.428  -7.538  0.00  0.00           N
+ATOM      7  CA  LYS A 470      70.211  10.484  -8.411  0.00  0.00           C
+ATOM      8  C   LYS A 470      68.900  11.105  -8.932  0.00  0.00           C
+ATOM     11  N   GLY A 471      68.901  12.427  -9.140  0.00  0.00           N
+ATOM     12  CA  GLY A 471      67.683  13.175  -9.451  0.00  0.00           C
+ATOM     13  C   GLY A 471      66.886  13.506  -8.189  0.00  0.00           C
+ATOM     14  O   GLY A 471      67.157  12.983  -7.122  0.00  0.00           O
+ATOM     15  N   PRO A 472      65.853  14.336  -8.327  0.00  0.00           N
+ATOM     16  CA  PRO A 472      65.005  14.668  -7.166  0.00  0.00           C
+ATOM     17  C   PRO A 472      64.306  13.497  -6.520  0.00  0.00           C
+ATOM     21  CD  PRO A 472      65.521  15.163  -9.498  0.00  0.00           C
+ATOM     22  N   VAL A 473      64.039  13.613  -5.225  0.00  0.00           N
+ATOM     23  CA  VAL A 473      63.354  12.624  -4.408  0.00  0.00           C
+ATOM     26  CB  VAL A 473      64.157  12.280  -3.113  0.00  0.00           C
+ATOM     27  CG1 VAL A 473      65.541  11.722  -3.476  0.00  0.00           C
+ATOM     28  CG2 VAL A 473      64.332  13.497  -2.194  0.00  0.00           C
+ATOM     60  CD2 HIS A 477      65.583  11.303   0.742  0.00  0.00           C
+ATOM    731  C   VAL A 562      69.660  17.742   1.068  0.00  0.00           C
+ATOM    732  O   VAL A 562      70.370  16.839   0.614  0.00  0.00           O
+ATOM    737  CA  HIS A 563      67.816  17.201  -0.479  0.00  0.00           C
+ATOM    738  C   HIS A 563      67.175  18.130  -1.471  0.00  0.00           C
+ATOM    740  CB  HIS A 563      66.758  16.264   0.062  0.00  0.00           C
+ATOM    741  CG  HIS A 563      67.336  15.132   0.870  0.00  0.00           C
+ATOM    743  CD2 HIS A 563      67.791  13.909   0.499  0.00  0.00           C
+ATOM    746  N   CYS A 564      67.085  17.653  -2.690  0.00  0.00           N
+ATOM    747  CA  CYS A 564      66.238  18.243  -3.720  0.00  0.00           C
+ATOM    748  C   CYS A 564      65.034  17.364  -3.881  0.00  0.00           C
+ATOM    749  O   CYS A 564      65.127  16.217  -4.192  0.00  0.00           O
+ATOM    750  CB  CYS A 564      66.989  18.411  -5.022  0.00  0.00           C

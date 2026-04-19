@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -24.27   4.31 -11.78 with max radius 7.68
+ATOM   1584  CB  ILE A 206     -23.858  -1.066 -12.966  0.00  0.00           C
+ATOM   1585  CG1 ILE A 206     -25.261  -1.386 -12.420  0.00  0.00           C
+ATOM   1586  CG2 ILE A 206     -23.635   0.482 -13.026  0.00  0.00           C
+ATOM   1587  CD1 ILE A 206     -25.414  -1.160 -10.889  0.00  0.00           C
+ATOM   1614  CB  LYS A 210     -21.864   3.185 -16.222  0.00  0.00           C
+ATOM   1615  CG  LYS A 210     -23.326   3.087 -15.846  0.00  0.00           C
+ATOM   1616  CD  LYS A 210     -24.089   4.304 -16.307  0.00  0.00           C
+ATOM   1617  CE  LYS A 210     -25.576   4.113 -16.171  0.00  0.00           C
+ATOM   1618  NZ  LYS A 210     -26.315   5.227 -16.840  0.00  0.00           N
+ATOM   1625  C   GLU A 212     -18.369   1.745 -13.327  0.00  0.00           C
+ATOM   1626  O   GLU A 212     -19.582   1.840 -13.577  0.00  0.00           O
+ATOM   1628  CG  GLU A 212     -17.951   4.784 -14.147  0.00  0.00           C
+ATOM   1629  CD  GLU A 212     -17.539   6.215 -13.836  0.00  0.00           C
+ATOM   1631  OE2 GLU A 212     -18.448   7.054 -13.642  0.00  0.00           O
+ATOM   1634  C   PRO A 213     -19.740   1.763 -10.584  0.00  0.00           C
+ATOM   1635  O   PRO A 213     -19.323   2.926 -10.619  0.00  0.00           O
+ATOM   1639  N   PRO A 214     -20.905   1.467  -9.980  0.00  0.00           N
+ATOM   1640  CA  PRO A 214     -21.648   2.534  -9.282  0.00  0.00           C
+ATOM   1641  C   PRO A 214     -20.814   3.146  -8.141  0.00  0.00           C
+ATOM   1643  CB  PRO A 214     -22.879   1.817  -8.730  0.00  0.00           C
+ATOM   1644  CG  PRO A 214     -22.561   0.395  -8.780  0.00  0.00           C
+ATOM   1645  CD  PRO A 214     -21.576   0.161  -9.846  0.00  0.00           C
+ATOM   1646  N   ASN A 215     -21.068   4.424  -7.851  0.00  0.00           N
+ATOM   1647  CA  ASN A 215     -20.361   5.200  -6.820  0.00  0.00           C
+ATOM   1654  N   SER A 216     -18.407   5.375  -8.305  0.00  0.00           N
+ATOM   1658  CB  SER A 216     -16.821   5.308 -10.182  0.00  0.00           C
+ATOM   1792  CA  PRO A 233     -27.172   0.456  -6.491  0.00  0.00           C
+ATOM   1793  C   PRO A 233     -28.241  -0.002  -7.477  0.00  0.00           C
+ATOM   1795  CB  PRO A 233     -25.795   0.159  -7.100  0.00  0.00           C
+ATOM   1798  N   THR A 234     -28.595   0.870  -8.434  0.00  0.00           N
+ATOM   1799  CA  THR A 234     -29.568   0.574  -9.480  0.00  0.00           C
+ATOM   1800  C   THR A 234     -28.969   0.980 -10.835  0.00  0.00           C
+ATOM   1801  O   THR A 234     -28.067   1.814 -10.878  0.00  0.00           O
+ATOM   1803  OG1 THR A 234     -30.667   2.730  -9.188  0.00  0.00           O
+ATOM   1805  N   LEU A 235     -29.453   0.377 -11.929  0.00  0.00           N
+ATOM   1806  CA  LEU A 235     -29.035   0.753 -13.272  0.00  0.00           C
+ATOM   1807  C   LEU A 235     -29.903   1.968 -13.676  0.00  0.00           C
+ATOM   1809  CB  LEU A 235     -29.214  -0.418 -14.261  0.00  0.00           C
+ATOM   1810  CG  LEU A 235     -28.855  -0.138 -15.743  0.00  0.00           C
+ATOM   1811  CD1 LEU A 235     -27.395   0.255 -15.914  0.00  0.00           C
+ATOM   1813  N   GLU A 236     -29.293   3.162 -13.736  0.00  0.00           N
+ATOM   1814  CA  GLU A 236     -29.964   4.426 -14.081  0.00  0.00           C
+ATOM   1815  C   GLU A 236     -29.712   4.850 -15.533  0.00  0.00           C
+ATOM   1816  O   GLU A 236     -28.746   4.408 -16.138  0.00  0.00           O
+ATOM   1817  CB  GLU A 236     -29.490   5.544 -13.128  0.00  0.00           C
+ATOM   1818  CG  GLU A 236     -29.959   5.378 -11.693  0.00  0.00           C

@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -2.30  14.16  39.02 with max radius 6.41
+ATOM    151  CA  GLY A 358      -0.488  14.572  34.550  0.00  0.00           C
+ATOM    152  C   GLY A 358      -0.702  16.070  34.661  0.00  0.00           C
+ATOM    154  N   SER A 359      -1.288  16.481  35.788  0.00  0.00           N
+ATOM    155  CA  SER A 359      -1.433  17.892  36.176  0.00  0.00           C
+ATOM    158  CB  SER A 359      -0.072  18.578  36.219  0.00  0.00           C
+ATOM    159  OG  SER A 359       0.882  17.729  36.830  0.00  0.00           O
+ATOM    160  N   PHE A 360      -3.219  17.967  34.542  0.00  0.00           N
+ATOM    167  CD2 PHE A 360      -6.051  18.438  36.067  0.00  0.00           C
+ATOM    169  CE2 PHE A 360      -6.710  18.310  37.289  0.00  0.00           C
+ATOM   1052  CB  ASP A 468      -0.063  17.568  43.769  0.00  0.00           C
+ATOM   1053  CG  ASP A 468       0.817  16.581  43.019  0.00  0.00           C
+ATOM   1054  OD1 ASP A 468       1.213  16.900  41.882  0.00  0.00           O
+ATOM   1055  OD2 ASP A 468       1.115  15.494  43.555  0.00  0.00           O
+ATOM   1071  CE  LYS A 470       2.014  13.061  40.963  0.00  0.00           C
+ATOM   1072  NZ  LYS A 470       2.815  14.137  40.328  0.00  0.00           N
+ATOM   1217  CD1 LEU A 489      -2.818  18.440  41.252  0.00  0.00           C
+ATOM   1218  CD2 LEU A 489      -3.898  18.155  43.497  0.00  0.00           C
+ATOM   1245  N   THR A 506      -7.683  11.397  39.003  0.00  0.00           N
+ATOM   1246  CA  THR A 506      -6.497  10.592  39.343  0.00  0.00           C
+ATOM   1247  C   THR A 506      -5.764  11.098  40.596  0.00  0.00           C
+ATOM   1248  O   THR A 506      -5.307  12.245  40.650  0.00  0.00           O
+ATOM   1249  CB  THR A 506      -5.506  10.476  38.151  0.00  0.00           C
+ATOM   1250  OG1 THR A 506      -6.220  10.101  36.967  0.00  0.00           O
+ATOM   1251  CG2 THR A 506      -4.422   9.430  38.436  0.00  0.00           C
+ATOM   1253  CA  GLY A 507      -4.952  10.522  42.830  0.00  0.00           C
+ATOM   1254  C   GLY A 507      -3.641   9.763  42.886  0.00  0.00           C
+ATOM   1256  N   SER A 508      -2.591  10.454  43.320  0.00  0.00           N
+ATOM   1260  CB  SER A 508      -0.203  10.680  42.779  0.00  0.00           C
+ATOM   1261  OG  SER A 508      -0.371  12.063  43.042  0.00  0.00           O

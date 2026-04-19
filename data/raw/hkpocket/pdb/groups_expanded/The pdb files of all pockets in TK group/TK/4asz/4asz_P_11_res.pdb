@@ -1,0 +1,37 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 31 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  43.55  38.61  26.27 with max radius 6.60
+ATOM    187  OE1 GLU A 562      43.099  32.710  29.181  0.00  0.00           O
+ATOM    201  CA  GLY A 566      47.629  35.424  28.180  0.00  0.00           C
+ATOM    202  C   GLY A 566      47.170  34.584  27.004  0.00  0.00           C
+ATOM    204  N   LYS A 567      46.340  35.181  26.130  0.00  0.00           N
+ATOM    205  CA  LYS A 567      45.758  34.526  24.951  0.00  0.00           C
+ATOM    208  CB  LYS A 567      44.403  35.166  24.594  0.00  0.00           C
+ATOM    209  CG  LYS A 567      43.324  34.991  25.653  0.00  0.00           C
+ATOM    210  CD  LYS A 567      42.025  35.669  25.248  0.00  0.00           C
+ATOM    211  CE  LYS A 567      40.874  35.255  26.130  0.00  0.00           C
+ATOM    212  NZ  LYS A 567      39.586  35.821  25.650  0.00  0.00           N
+ATOM    228  CE1 PHE A 569      43.897  37.139  21.647  0.00  0.00           C
+ATOM    229  CE2 PHE A 569      41.934  36.440  20.482  0.00  0.00           C
+ATOM    230  CZ  PHE A 569      42.529  36.975  21.606  0.00  0.00           C
+ATOM    347  CA  THR A 589      48.598  39.049  24.056  0.00  0.00           C
+ATOM    348  C   THR A 589      48.845  39.051  25.566  0.00  0.00           C
+ATOM    349  O   THR A 589      48.875  37.990  26.194  0.00  0.00           O
+ATOM    350  CB  THR A 589      47.119  39.314  23.714  0.00  0.00           C
+ATOM    351  OG1 THR A 589      46.303  38.281  24.269  0.00  0.00           O
+ATOM    352  CG2 THR A 589      46.866  39.462  22.217  0.00  0.00           C
+ATOM    353  N   LEU A 590      49.017  40.256  26.138  0.00  0.00           N
+ATOM    354  CA  LEU A 590      49.217  40.491  27.567  0.00  0.00           C
+ATOM    355  C   LEU A 590      48.229  41.590  27.987  0.00  0.00           C
+ATOM    361  N   LYS A 591      47.144  41.181  28.670  0.00  0.00           N
+ATOM    362  CA  LYS A 591      46.034  42.043  29.087  0.00  0.00           C
+ATOM    365  CB  LYS A 591      44.700  41.310  28.851  0.00  0.00           C
+ATOM    366  CG  LYS A 591      43.462  42.206  28.880  0.00  0.00           C
+ATOM    367  CD  LYS A 591      42.165  41.402  28.758  0.00  0.00           C
+ATOM    368  CE  LYS A 591      41.583  40.972  30.088  0.00  0.00           C
+ATOM    666  CB  PRO A 628      45.938  42.912  25.338  0.00  0.00           C
+ATOM    667  CG  PRO A 628      45.065  42.857  24.123  0.00  0.00           C
+ATOM    668  CD  PRO A 628      44.283  44.154  24.147  0.00  0.00           C

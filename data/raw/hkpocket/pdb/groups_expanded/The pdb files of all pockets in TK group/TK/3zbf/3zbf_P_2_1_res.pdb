@@ -1,0 +1,49 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 43 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  21.19   1.25  -0.99 with max radius 7.84
+ATOM   1046  CB  GLU A2071      23.936   4.121   5.768  0.00  0.00           C
+ATOM   1047  CG  GLU A2071      22.717   3.222   5.690  0.00  0.00           C
+ATOM   1048  CD  GLU A2071      22.855   2.119   4.648  0.00  0.00           C
+ATOM   1049  OE1 GLU A2071      23.788   1.293   4.753  0.00  0.00           O
+ATOM   1050  OE2 GLU A2071      22.022   2.078   3.720  0.00  0.00           O
+ATOM   1508  C   THR A2140      21.825   6.048  -0.944  0.00  0.00           C
+ATOM   1509  O   THR A2140      22.956   5.574  -1.048  0.00  0.00           O
+ATOM   1510  CB  THR A2140      21.074   5.956   1.453  0.00  0.00           C
+ATOM   1511  OG1 THR A2140      22.091   4.958   1.608  0.00  0.00           O
+ATOM   1512  CG2 THR A2140      19.734   5.292   1.209  0.00  0.00           C
+ATOM   1513  N   GLN A2141      20.885   5.883  -1.871  0.00  0.00           N
+ATOM   1514  CA  GLN A2141      21.150   5.172  -3.112  0.00  0.00           C
+ATOM   1517  CB  GLN A2141      19.843   4.687  -3.747  0.00  0.00           C
+ATOM   1518  CG  GLN A2141      19.202   3.503  -3.046  0.00  0.00           C
+ATOM   1519  CD  GLN A2141      18.638   3.854  -1.678  0.00  0.00           C
+ATOM   1520  OE1 GLN A2141      18.583   3.011  -0.781  0.00  0.00           O
+ATOM   1540  CB  VAL A2144      25.217   3.472  -3.723  0.00  0.00           C
+ATOM   1541  CG1 VAL A2144      25.894   2.374  -4.518  0.00  0.00           C
+ATOM   1542  CG2 VAL A2144      24.893   2.960  -2.317  0.00  0.00           C
+ATOM   2013  C   PRO A2202      18.311   2.088  -6.947  0.00  0.00           C
+ATOM   2014  O   PRO A2202      19.130   1.835  -6.062  0.00  0.00           O
+ATOM   2019  CA  ASP A2203      17.034   0.119  -6.371  0.00  0.00           C
+ATOM   2020  C   ASP A2203      17.829  -1.112  -6.826  0.00  0.00           C
+ATOM   2021  O   ASP A2203      17.814  -2.146  -6.158  0.00  0.00           O
+ATOM   2036  CA  ARG A2205      22.363  -0.369  -6.739  0.00  0.00           C
+ATOM   2037  C   ARG A2205      22.511  -1.189  -5.461  0.00  0.00           C
+ATOM   2038  O   ARG A2205      21.548  -1.382  -4.718  0.00  0.00           O
+ATOM   2039  CB  ARG A2205      22.462   1.129  -6.420  0.00  0.00           C
+ATOM   2040  CG  ARG A2205      22.892   1.995  -7.593  0.00  0.00           C
+ATOM   2047  CA  PRO A2206      24.002  -2.472  -3.981  0.00  0.00           C
+ATOM   2048  C   PRO A2206      23.922  -1.594  -2.746  0.00  0.00           C
+ATOM   2049  O   PRO A2206      23.914  -0.375  -2.860  0.00  0.00           O
+ATOM   2053  N   THR A2207      23.867  -2.212  -1.570  0.00  0.00           N
+ATOM   2054  CA  THR A2207      23.874  -1.458  -0.317  0.00  0.00           C
+ATOM   2055  C   THR A2207      25.296  -1.337   0.230  0.00  0.00           C
+ATOM   2057  CB  THR A2207      23.003  -2.134   0.763  0.00  0.00           C
+ATOM   2059  CG2 THR A2207      21.635  -2.477   0.195  0.00  0.00           C
+ATOM   2060  N   PHE A2208      25.503  -0.393   1.140  0.00  0.00           N
+ATOM   2061  CA  PHE A2208      26.833  -0.175   1.699  0.00  0.00           C
+ATOM   2064  CB  PHE A2208      26.837   1.082   2.577  0.00  0.00           C
+ATOM   2065  CG  PHE A2208      26.882   2.363   1.786  0.00  0.00           C
+ATOM   2067  CD2 PHE A2208      25.813   3.243   1.798  0.00  0.00           C
+ATOM   2069  CE2 PHE A2208      25.842   4.404   1.053  0.00  0.00           C

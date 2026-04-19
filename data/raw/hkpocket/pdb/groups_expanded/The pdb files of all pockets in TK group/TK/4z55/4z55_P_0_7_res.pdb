@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -27.36   8.10  -7.41 with max radius 5.65
+ATOM    231  CG  LEU A1122     -24.232  10.901  -3.905  0.00  0.00           C
+ATOM    232  CD1 LEU A1122     -24.326  11.435  -5.336  0.00  0.00           C
+ATOM    233  CD2 LEU A1122     -25.173   9.706  -3.738  0.00  0.00           C
+ATOM    300  CB  GLU A1132     -28.160  12.382  -3.817  0.00  0.00           C
+ATOM    301  CG  GLU A1132     -29.392  12.345  -4.695  0.00  0.00           C
+ATOM    302  CD  GLU A1132     -30.259  11.119  -4.548  0.00  0.00           C
+ATOM    303  OE1 GLU A1132     -29.791  10.121  -3.956  0.00  0.00           O
+ATOM    770  CG  LEU A1198     -28.187  12.122  -9.227  0.00  0.00           C
+ATOM    771  CD1 LEU A1198     -27.053  12.249  -8.196  0.00  0.00           C
+ATOM    772  CD2 LEU A1198     -29.508  11.823  -8.535  0.00  0.00           C
+ATOM    773  N   MET A1199     -25.991  11.512 -11.782  0.00  0.00           N
+ATOM    775  C   MET A1199     -26.183   9.128 -11.695  0.00  0.00           C
+ATOM    776  O   MET A1199     -25.403   8.646 -10.866  0.00  0.00           O
+ATOM    781  N   ALA A1200     -27.442   8.713 -11.874  0.00  0.00           N
+ATOM    782  CA  ALA A1200     -28.130   7.695 -11.059  0.00  0.00           C
+ATOM    783  C   ALA A1200     -27.576   6.261 -11.194  0.00  0.00           C
+ATOM    784  O   ALA A1200     -28.017   5.341 -10.486  0.00  0.00           O
+ATOM    785  CB  ALA A1200     -29.617   7.730 -11.343  0.00  0.00           C
+ATOM    786  N   GLY A1201     -26.596   6.076 -12.068  0.00  0.00           N
+ATOM    787  CA  GLY A1201     -25.939   4.778 -12.195  0.00  0.00           C
+ATOM    788  C   GLY A1201     -24.629   4.709 -11.432  0.00  0.00           C
+ATOM    790  N   GLY A1202     -24.242   5.820 -10.805  0.00  0.00           N
+ATOM    791  CA  GLY A1202     -22.974   5.960 -10.095  0.00  0.00           C

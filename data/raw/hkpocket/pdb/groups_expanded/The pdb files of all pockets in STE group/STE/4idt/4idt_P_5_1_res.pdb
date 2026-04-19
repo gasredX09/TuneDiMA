@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at 112.32  54.69 104.65 with max radius 5.49
+ATOM   2589  CA  GLY A 497     113.181  51.722 109.162  0.00  0.00           C
+ATOM   2590  C   GLY A 497     111.768  51.514 108.646  0.00  0.00           C
+ATOM   2591  O   GLY A 497     111.246  52.329 107.888  0.00  0.00           O
+ATOM   2623  CA  LEU A 500     109.953  55.519 109.027  0.00  0.00           C
+ATOM   2624  C   LEU A 500     109.281  55.511 107.652  0.00  0.00           C
+ATOM   2625  O   LEU A 500     108.951  56.566 107.114  0.00  0.00           O
+ATOM   2626  CB  LEU A 500     111.460  55.744 108.899  0.00  0.00           C
+ATOM   2628  CD1 LEU A 500     113.678  55.939 110.060  0.00  0.00           C
+ATOM   2641  N   GLU A 501     109.072  54.324 107.090  0.00  0.00           N
+ATOM   2642  CA  GLU A 501     108.320  54.190 105.853  0.00  0.00           C
+ATOM   2645  CB  GLU A 501     108.325  52.737 105.384  0.00  0.00           C
+ATOM   2646  CG  GLU A 501     109.640  52.311 104.746  0.00  0.00           C
+ATOM   2647  CD  GLU A 501     109.766  50.801 104.579  0.00  0.00           C
+ATOM   2649  OE2 GLU A 501     110.916  50.314 104.455  0.00  0.00           O
+ATOM   2686  CB  GLU A 504     108.081  58.442 104.499  0.00  0.00           C
+ATOM   2688  CD  GLU A 504     109.236  58.166 102.284  0.00  0.00           C
+ATOM   2690  OE2 GLU A 504     109.938  57.286 102.829  0.00  0.00           O
+ATOM   4676  C   ALA A 644     112.031  59.889 106.673  0.00  0.00           C
+ATOM   4677  O   ALA A 644     112.651  58.842 106.859  0.00  0.00           O
+ATOM   4685  CA  ALA A 645     112.392  59.790 104.269  0.00  0.00           C
+ATOM   4686  C   ALA A 645     113.921  59.783 104.320  0.00  0.00           C
+ATOM   4687  O   ALA A 645     114.560  58.746 104.133  0.00  0.00           O
+ATOM   4688  CB  ALA A 645     111.908  60.531 103.040  0.00  0.00           C
+ATOM   4728  N   GLY A 648     115.061  57.474 106.948  0.00  0.00           N
+ATOM   4729  CA  GLY A 648     114.794  56.117 106.515  0.00  0.00           C
+ATOM   4730  C   GLY A 648     115.923  55.566 105.665  0.00  0.00           C
+ATOM   4731  O   GLY A 648     116.312  54.404 105.814  0.00  0.00           O
+ATOM   4735  N   GLY A 649     116.422  56.389 104.748  0.00  0.00           N
+ATOM   4736  CA  GLY A 649     117.547  56.008 103.915  0.00  0.00           C
+ATOM   4785  CG  ASN A 652     116.262  51.296 104.449  0.00  0.00           C
+ATOM   4786  OD1 ASN A 652     115.805  50.499 105.272  0.00  0.00           O
+ATOM   4787  ND2 ASN A 652     115.484  52.041 103.661  0.00  0.00           N

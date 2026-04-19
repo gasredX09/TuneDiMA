@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -36.30  28.80  14.14 with max radius 8.27
+ATOM   2754  CZ  ARG A 238     -30.368  33.609  13.327  0.00  0.00           C
+ATOM   2755  NH1 ARG A 238     -30.031  33.082  14.486  0.00  0.00           N
+ATOM   2756  NH2 ARG A 238     -31.221  32.995  12.534  0.00  0.00           N
+ATOM   2969  CA  PRO A 251     -36.078  26.560   9.384  0.00  0.00           C
+ATOM   2970  C   PRO A 251     -35.920  28.028   9.696  0.00  0.00           C
+ATOM   2971  O   PRO A 251     -36.782  28.816   9.281  0.00  0.00           O
+ATOM   2972  CB  PRO A 251     -36.681  25.769  10.559  0.00  0.00           C
+ATOM   2973  CG  PRO A 251     -35.519  25.094  11.225  0.00  0.00           C
+ATOM   2974  CD  PRO A 251     -34.567  24.785  10.113  0.00  0.00           C
+ATOM   2982  N   GLU A 252     -34.830  28.420  10.347  0.00  0.00           N
+ATOM   2983  CA  GLU A 252     -34.643  29.824  10.659  0.00  0.00           C
+ATOM   2986  CB  GLU A 252     -33.481  30.074  11.616  0.00  0.00           C
+ATOM   2987  CG  GLU A 252     -32.119  29.562  11.224  0.00  0.00           C
+ATOM   2988  CD  GLU A 252     -31.831  28.083  11.622  0.00  0.00           C
+ATOM   2989  OE1 GLU A 252     -32.827  27.337  11.828  0.00  0.00           O
+ATOM   3039  CB  THR A 255     -39.525  30.972  10.051  0.00  0.00           C
+ATOM   3040  OG1 THR A 255     -38.483  30.713  10.946  0.00  0.00           O
+ATOM   3041  CG2 THR A 255     -40.124  29.688   9.600  0.00  0.00           C
+ATOM   3054  CG  GLU A 256     -36.531  33.357  12.470  0.00  0.00           C
+ATOM   3055  CD  GLU A 256     -35.789  33.208  13.766  0.00  0.00           C
+ATOM   3056  OE1 GLU A 256     -34.544  33.092  13.761  0.00  0.00           O
+ATOM   3057  OE2 GLU A 256     -36.470  33.207  14.811  0.00  0.00           O
+ATOM   3640  CA  ILE A 295     -41.007  24.398   9.382  0.00  0.00           C
+ATOM   3641  C   ILE A 295     -41.878  23.707  10.415  0.00  0.00           C
+ATOM   3642  O   ILE A 295     -41.974  24.198  11.534  0.00  0.00           O
+ATOM   3643  CB  ILE A 295     -41.814  25.502   8.677  0.00  0.00           C
+ATOM   3645  CG1 ILE A 295     -40.867  26.406   7.907  0.00  0.00           C
+ATOM   3647  CG2 ILE A 295     -42.627  26.298   9.651  0.00  0.00           C
+ATOM   4077  CA  LEU A 319     -36.414  23.899  15.123  0.00  0.00           C
+ATOM   4078  C   LEU A 319     -35.688  25.099  15.706  0.00  0.00           C
+ATOM   4079  O   LEU A 319     -35.248  25.975  14.961  0.00  0.00           O
+ATOM   4080  CB  LEU A 319     -37.926  24.086  15.199  0.00  0.00           C
+ATOM   4081  CG  LEU A 319     -38.774  23.109  14.405  0.00  0.00           C
+ATOM   4082  CD1 LEU A 319     -40.265  23.355  14.655  0.00  0.00           C
+ATOM   4083  CD2 LEU A 319     -38.470  23.171  12.927  0.00  0.00           C
+ATOM   4095  N   ASP A 320     -35.546  25.161  17.020  0.00  0.00           N
+ATOM   4096  CA  ASP A 320     -34.856  26.275  17.687  0.00  0.00           C
+ATOM   4097  C   ASP A 320     -33.336  26.102  17.487  0.00  0.00           C
+ATOM   4099  CB  ASP A 320     -35.233  26.255  19.163  0.00  0.00           C
+ATOM   4100  CG  ASP A 320     -34.629  27.398  19.958  0.00  0.00           C
+ATOM   4101  OD1 ASP A 320     -33.640  28.014  19.517  0.00  0.00           O
+ATOM   4107  N   ALA A 321     -32.738  26.977  16.696  0.00  0.00           N
+ATOM   4108  CA  ALA A 321     -31.338  26.877  16.324  0.00  0.00           C
+ATOM   4109  C   ALA A 321     -30.420  26.994  17.515  0.00  0.00           C
+ATOM   4111  CB  ALA A 321     -30.979  27.961  15.344  0.00  0.00           C
+ATOM   4117  N   THR A 322     -30.892  27.546  18.639  0.00  0.00           N
+ATOM   4123  CG2 THR A 322     -30.577  30.116  19.971  0.00  0.00           C
+ATOM   4163  NH2 ARG A 324     -32.610  25.077  13.399  0.00  0.00           N

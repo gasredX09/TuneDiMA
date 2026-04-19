@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -23.74  31.47  -9.56 with max radius 6.80
+ATOM   1393  C   ILE A 235     -19.580  29.171 -12.138  0.00  0.00           C
+ATOM   1394  O   ILE A 235     -20.505  29.970 -12.322  0.00  0.00           O
+ATOM   1397  CG2 ILE A 235     -21.557  27.393 -10.956  0.00  0.00           C
+ATOM   1406  CD2 LEU A 236     -20.052  30.381  -8.146  0.00  0.00           C
+ATOM   1652  N   TYR A 268     -27.194  27.748 -13.083  0.00  0.00           N
+ATOM   1653  CA  TYR A 268     -26.058  27.710 -12.152  0.00  0.00           C
+ATOM   1654  C   TYR A 268     -26.402  27.972 -10.680  0.00  0.00           C
+ATOM   1655  O   TYR A 268     -25.690  27.500  -9.788  0.00  0.00           O
+ATOM   1656  CB  TYR A 268     -24.958  28.687 -12.586  0.00  0.00           C
+ATOM   1657  CG  TYR A 268     -24.065  28.216 -13.719  0.00  0.00           C
+ATOM   1659  CD2 TYR A 268     -23.487  29.137 -14.595  0.00  0.00           C
+ATOM   1664  N   ILE A 269     -27.469  28.731 -10.429  0.00  0.00           N
+ATOM   1665  CA  ILE A 269     -27.911  29.024  -9.059  0.00  0.00           C
+ATOM   1666  C   ILE A 269     -28.355  27.747  -8.340  0.00  0.00           C
+ATOM   1667  O   ILE A 269     -27.858  27.444  -7.252  0.00  0.00           O
+ATOM   1668  CB  ILE A 269     -29.000  30.150  -9.011  0.00  0.00           C
+ATOM   1669  CG1 ILE A 269     -28.353  31.537  -8.908  0.00  0.00           C
+ATOM   1671  CD1 ILE A 269     -27.836  32.107 -10.214  0.00  0.00           C
+ATOM   1690  CA  TRP A 272     -24.308  25.636  -6.893  0.00  0.00           C
+ATOM   1693  CB  TRP A 272     -23.900  27.113  -6.921  0.00  0.00           C
+ATOM   1694  CG  TRP A 272     -22.939  27.487  -5.820  0.00  0.00           C
+ATOM   1695  CD1 TRP A 272     -23.198  28.289  -4.745  0.00  0.00           C
+ATOM   1696  CD2 TRP A 272     -21.578  27.054  -5.678  0.00  0.00           C
+ATOM   1697  NE1 TRP A 272     -22.081  28.393  -3.950  0.00  0.00           N
+ATOM   1698  CE2 TRP A 272     -21.073  27.645  -4.498  0.00  0.00           C
+ATOM   1874  CG1 VAL A 294     -18.754  34.068  -8.062  0.00  0.00           C
+ATOM   1875  CG2 VAL A 294     -18.625  35.933  -9.718  0.00  0.00           C
+ATOM   1899  CB  TYR A 297     -23.225  35.703  -5.117  0.00  0.00           C
+ATOM   1900  CG  TYR A 297     -24.251  34.605  -5.302  0.00  0.00           C
+ATOM   1902  CD2 TYR A 297     -23.885  33.360  -5.814  0.00  0.00           C
+ATOM   1904  CE2 TYR A 297     -24.825  32.345  -5.976  0.00  0.00           C
+ATOM   1905  CZ  TYR A 297     -26.145  32.575  -5.625  0.00  0.00           C
+ATOM   1906  OH  TYR A 297     -27.082  31.577  -5.783  0.00  0.00           O
+ATOM   1913  CG2 VAL A 298     -19.958  32.018  -4.699  0.00  0.00           C

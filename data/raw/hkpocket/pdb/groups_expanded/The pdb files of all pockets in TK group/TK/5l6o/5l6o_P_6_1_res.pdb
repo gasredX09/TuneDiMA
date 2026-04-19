@@ -1,0 +1,57 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 51 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   8.19  -6.24 -32.18 with max radius 7.51
+ATOM   1377  CD2 TRP A 822       6.206  -9.716 -27.807  0.00  0.00           C
+ATOM   1378  NE1 TRP A 822       6.480  -7.517 -27.444  0.00  0.00           N
+ATOM   1379  CE2 TRP A 822       6.170  -8.435 -28.412  0.00  0.00           C
+ATOM   1381  CZ2 TRP A 822       5.879  -8.257 -29.765  0.00  0.00           C
+ATOM   1382  CZ3 TRP A 822       5.542 -10.667 -29.914  0.00  0.00           C
+ATOM   1383  CH2 TRP A 822       5.610  -9.392 -30.509  0.00  0.00           C
+ATOM   1411  CG1 ILE A 826       9.714  -5.382 -26.323  0.00  0.00           C
+ATOM   1413  CD1 ILE A 826       9.874  -4.996 -27.847  0.00  0.00           C
+ATOM   1524  CE1 TYR A 839       7.894  -2.328 -32.274  0.00  0.00           C
+ATOM   1525  CE2 TYR A 839       7.851  -1.843 -29.938  0.00  0.00           C
+ATOM   1526  CZ  TYR A 839       7.843  -2.757 -30.963  0.00  0.00           C
+ATOM   1527  OH  TYR A 839       7.783  -4.092 -30.669  0.00  0.00           O
+ATOM   1616  CB  ALA A 850       3.888  -2.133 -36.761  0.00  0.00           C
+ATOM   1617  N   VAL A 851       3.043  -4.684 -35.170  0.00  0.00           N
+ATOM   1618  CA  VAL A 851       3.323  -5.992 -34.542  0.00  0.00           C
+ATOM   1619  C   VAL A 851       2.354  -7.061 -35.092  0.00  0.00           C
+ATOM   1620  O   VAL A 851       2.788  -8.177 -35.435  0.00  0.00           O
+ATOM   1621  CB  VAL A 851       3.330  -5.914 -32.989  0.00  0.00           C
+ATOM   1622  CG1 VAL A 851       3.284  -7.314 -32.369  0.00  0.00           C
+ATOM   1623  CG2 VAL A 851       4.572  -5.148 -32.477  0.00  0.00           C
+ATOM   1652  C   TYR A 855       7.606  -6.314 -36.694  0.00  0.00           C
+ATOM   1653  O   TYR A 855       6.959  -6.565 -35.681  0.00  0.00           O
+ATOM   1654  CB  TYR A 855       6.407  -4.493 -37.864  0.00  0.00           C
+ATOM   1655  CG  TYR A 855       7.537  -3.533 -37.550  0.00  0.00           C
+ATOM   1657  CD2 TYR A 855       7.880  -3.232 -36.230  0.00  0.00           C
+ATOM   1659  CE2 TYR A 855       8.965  -2.403 -35.936  0.00  0.00           C
+ATOM   1662  N   ARG A 856       8.947  -6.311 -36.730  0.00  0.00           N
+ATOM   1663  CA  ARG A 856       9.785  -6.537 -35.552  0.00  0.00           C
+ATOM   1664  C   ARG A 856      10.906  -5.521 -35.580  0.00  0.00           C
+ATOM   1666  CB  ARG A 856      10.347  -7.974 -35.489  0.00  0.00           C
+ATOM   1667  CG  ARG A 856       9.284  -9.076 -35.335  0.00  0.00           C
+ATOM   1668  CD  ARG A 856       8.545  -9.021 -33.998  0.00  0.00           C
+ATOM   1669  NE  ARG A 856       7.599 -10.138 -33.848  0.00  0.00           N
+ATOM   1670  CZ  ARG A 856       6.318 -10.113 -34.195  0.00  0.00           C
+ATOM   1671  NH1 ARG A 856       5.794  -9.030 -34.758  0.00  0.00           N
+ATOM   1673  N   LEU A 857      11.296  -5.030 -34.386  0.00  0.00           N
+ATOM   1674  CA  LEU A 857      12.364  -4.035 -34.227  0.00  0.00           C
+ATOM   1677  CB  LEU A 857      12.600  -3.715 -32.733  0.00  0.00           C
+ATOM   1678  CG  LEU A 857      11.508  -2.877 -32.071  0.00  0.00           C
+ATOM   1679  CD1 LEU A 857      11.644  -2.904 -30.530  0.00  0.00           C
+ATOM   1680  CD2 LEU A 857      11.549  -1.414 -32.585  0.00  0.00           C
+ATOM   1812  CB  TRP A 875       9.412 -10.642 -30.816  0.00  0.00           C
+ATOM   1813  CG  TRP A 875      10.125  -9.623 -29.959  0.00  0.00           C
+ATOM   1814  CD1 TRP A 875       9.896  -9.326 -28.639  0.00  0.00           C
+ATOM   1815  CD2 TRP A 875      11.137  -8.718 -30.406  0.00  0.00           C
+ATOM   1816  NE1 TRP A 875      10.756  -8.335 -28.226  0.00  0.00           N
+ATOM   1817  CE2 TRP A 875      11.513  -7.925 -29.299  0.00  0.00           C
+ATOM   1818  CE3 TRP A 875      11.784  -8.514 -31.642  0.00  0.00           C
+ATOM   1819  CZ2 TRP A 875      12.541  -6.977 -29.376  0.00  0.00           C
+ATOM   1820  CZ3 TRP A 875      12.779  -7.546 -31.727  0.00  0.00           C
+ATOM   1821  CH2 TRP A 875      13.134  -6.777 -30.609  0.00  0.00           C

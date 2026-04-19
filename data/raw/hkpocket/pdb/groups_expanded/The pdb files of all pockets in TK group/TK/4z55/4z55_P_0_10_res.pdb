@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -0.70  -0.40 -21.31 with max radius 5.94
+ATOM   1613  CD1 TRP A1313      -1.602   5.396 -21.669  0.00  0.00           C
+ATOM   1614  CD2 TRP A1313      -0.124   4.929 -23.286  0.00  0.00           C
+ATOM   1615  NE1 TRP A1313      -0.774   4.400 -21.205  0.00  0.00           N
+ATOM   1616  CE2 TRP A1313       0.132   4.081 -22.186  0.00  0.00           C
+ATOM   1618  CZ2 TRP A1313       1.161   3.121 -22.201  0.00  0.00           C
+ATOM   1620  CH2 TRP A1313       1.966   3.076 -23.320  0.00  0.00           C
+ATOM   1648  CG2 VAL A1317      -3.971   2.778 -19.844  0.00  0.00           C
+ATOM   1759  CD2 TYR A1330       0.507  -2.387 -16.742  0.00  0.00           C
+ATOM   1760  CE1 TYR A1330      -0.918  -0.022 -16.992  0.00  0.00           C
+ATOM   1761  CE2 TYR A1330       0.573  -1.661 -17.929  0.00  0.00           C
+ATOM   1762  CZ  TYR A1330      -0.152  -0.485 -18.054  0.00  0.00           C
+ATOM   1763  OH  TYR A1330      -0.128   0.189 -19.244  0.00  0.00           O
+ATOM   1858  CG1 VAL A1342       4.269   2.759 -20.557  0.00  0.00           C
+ATOM   1859  CG2 VAL A1342       3.218   0.901 -19.233  0.00  0.00           C
+ATOM   1883  O   GLY A1346       3.918  -1.974 -21.635  0.00  0.00           O
+ATOM   1885  CA  ARG A1347       1.774  -3.725 -22.308  0.00  0.00           C
+ATOM   1886  C   ARG A1347       0.928  -4.771 -21.600  0.00  0.00           C
+ATOM   1888  CB  ARG A1347       1.346  -3.640 -23.801  0.00  0.00           C
+ATOM   1889  CG  ARG A1347       2.119  -2.599 -24.624  0.00  0.00           C
+ATOM   1890  CD  ARG A1347       1.904  -1.161 -24.145  0.00  0.00           C
+ATOM   1895  N   MET A1348      -0.285  -4.386 -21.136  0.00  0.00           N
+ATOM   1896  CA  MET A1348      -1.173  -5.360 -20.493  0.00  0.00           C
+ATOM   1898  O   MET A1348      -1.722  -6.197 -22.660  0.00  0.00           O
+ATOM   1899  CB  MET A1348      -2.444  -4.662 -19.940  0.00  0.00           C
+ATOM   1900  CG  MET A1348      -2.182  -3.880 -18.664  0.00  0.00           C
+ATOM   1902  CE  MET A1348      -3.968  -1.741 -18.798  0.00  0.00           C
+ATOM   2036  CB  TRP A1366      -0.685   1.042 -25.495  0.00  0.00           C
+ATOM   2037  CG  TRP A1366      -1.841   0.928 -24.554  0.00  0.00           C
+ATOM   2038  CD1 TRP A1366      -2.529   1.952 -23.967  0.00  0.00           C
+ATOM   2039  CD2 TRP A1366      -2.422  -0.290 -24.052  0.00  0.00           C
+ATOM   2040  NE1 TRP A1366      -3.514   1.447 -23.138  0.00  0.00           N
+ATOM   2041  CE2 TRP A1366      -3.484   0.077 -23.187  0.00  0.00           C
+ATOM   2042  CE3 TRP A1366      -2.182  -1.657 -24.282  0.00  0.00           C
+ATOM   2043  CZ2 TRP A1366      -4.281  -0.873 -22.534  0.00  0.00           C
+ATOM   2044  CZ3 TRP A1366      -3.003  -2.593 -23.671  0.00  0.00           C
+ATOM   2045  CH2 TRP A1366      -3.985  -2.203 -22.745  0.00  0.00           C

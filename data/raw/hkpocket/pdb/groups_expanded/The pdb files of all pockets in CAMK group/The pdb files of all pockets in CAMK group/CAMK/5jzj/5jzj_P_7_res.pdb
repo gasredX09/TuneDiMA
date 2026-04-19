@@ -1,0 +1,53 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 47 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  52.95  28.65  42.45 with max radius 7.43
+ATOM    966  C   ILE A 499      50.993  29.153  48.376  0.00  0.00           C
+ATOM    967  O   ILE A 499      51.399  28.095  47.880  0.00  0.00           O
+ATOM    970  CG2 ILE A 499      48.704  29.275  46.608  0.00  0.00           C
+ATOM    972  N   LYS A 500      51.735  30.254  48.423  0.00  0.00           N
+ATOM    973  CA  LYS A 500      53.123  30.242  47.915  0.00  0.00           C
+ATOM    974  C   LYS A 500      53.930  29.129  48.591  0.00  0.00           C
+ATOM    975  O   LYS A 500      54.650  28.391  47.924  0.00  0.00           O
+ATOM    976  CB  LYS A 500      53.769  31.615  48.200  0.00  0.00           C
+ATOM    977  CG  LYS A 500      55.271  31.613  47.906  0.00  0.00           C
+ATOM   1002  CA  HIS A 503      53.040  25.386  45.997  0.00  0.00           C
+ATOM   1003  C   HIS A 503      54.555  25.147  45.877  0.00  0.00           C
+ATOM   1004  O   HIS A 503      54.961  24.375  44.998  0.00  0.00           O
+ATOM   1005  CB  HIS A 503      52.561  26.528  45.086  0.00  0.00           C
+ATOM   1006  CG  HIS A 503      51.065  26.576  44.931  0.00  0.00           C
+ATOM   1007  ND1 HIS A 503      50.454  27.539  44.143  0.00  0.00           N
+ATOM   1009  CE1 HIS A 503      49.158  27.280  44.194  0.00  0.00           C
+ATOM   1011  N   SER A 504      55.376  25.726  46.810  0.00  0.00           N
+ATOM   1012  CA  SER A 504      56.821  25.454  46.813  0.00  0.00           C
+ATOM   1015  CB  SER A 504      57.548  26.352  47.811  0.00  0.00           C
+ATOM   1483  CA  LEU A 566      48.486  24.204  41.611  0.00  0.00           C
+ATOM   1484  C   LEU A 566      47.649  25.464  41.504  0.00  0.00           C
+ATOM   1485  O   LEU A 566      47.096  25.897  42.518  0.00  0.00           O
+ATOM   1486  CB  LEU A 566      49.946  24.613  41.842  0.00  0.00           C
+ATOM   1487  CG  LEU A 566      50.968  23.502  42.102  0.00  0.00           C
+ATOM   1488  CD1 LEU A 566      52.404  24.081  42.026  0.00  0.00           C
+ATOM   1490  N   LYS A 567      47.541  26.065  40.290  0.00  0.00           N
+ATOM   1491  CA  LYS A 567      46.865  27.345  40.168  0.00  0.00           C
+ATOM   1494  CB  LYS A 567      47.197  28.027  38.822  0.00  0.00           C
+ATOM   1495  CG  LYS A 567      48.642  28.520  38.777  0.00  0.00           C
+ATOM   1496  CD  LYS A 567      48.853  29.320  37.488  0.00  0.00           C
+ATOM   1497  CE  LYS A 567      50.274  29.821  37.340  0.00  0.00           C
+ATOM   1519  CG1 ILE A 570      47.369  30.974  42.368  0.00  0.00           C
+ATOM   1521  CD1 ILE A 570      47.787  31.598  43.712  0.00  0.00           C
+ATOM   2006  C   PHE A 636      49.338  33.413  39.160  0.00  0.00           C
+ATOM   2007  O   PHE A 636      48.453  32.616  39.468  0.00  0.00           O
+ATOM   2016  CA  SER A 637      51.127  32.314  40.455  0.00  0.00           C
+ATOM   2017  C   SER A 637      50.936  32.991  41.818  0.00  0.00           C
+ATOM   2019  CB  SER A 637      52.607  32.029  40.224  0.00  0.00           C
+ATOM   2020  OG  SER A 637      53.331  33.219  40.500  0.00  0.00           O
+ATOM   2021  N   ALA A 638      51.165  32.260  42.926  0.00  0.00           N
+ATOM   2022  CA  ALA A 638      51.098  32.909  44.257  0.00  0.00           C
+ATOM   2023  C   ALA A 638      52.171  34.000  44.386  0.00  0.00           C
+ATOM   2025  CB  ALA A 638      51.296  31.868  45.351  0.00  0.00           C
+ATOM   2026  N   VAL A 639      53.346  33.757  43.798  0.00  0.00           N
+ATOM   2027  CA  VAL A 639      54.461  34.723  43.793  0.00  0.00           C
+ATOM   2030  CB  VAL A 639      55.730  34.086  43.147  0.00  0.00           C
+ATOM   2032  CG2 VAL A 639      56.369  33.085  44.090  0.00  0.00           C

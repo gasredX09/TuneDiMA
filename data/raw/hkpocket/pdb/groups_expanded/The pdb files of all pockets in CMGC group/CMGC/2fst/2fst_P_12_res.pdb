@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -17.48   3.24   1.83 with max radius 7.48
+ATOM   1746  CA  THR X 241     -14.053   0.721   6.486  0.00  0.00           C
+ATOM   1747  C   THR X 241     -14.255   2.231   6.555  0.00  0.00           C
+ATOM   1748  O   THR X 241     -15.026   2.708   7.382  0.00  0.00           O
+ATOM   1749  CB  THR X 241     -14.807   0.138   5.258  0.00  0.00           C
+ATOM   1750  OG1 THR X 241     -16.220   0.213   5.471  0.00  0.00           O
+ATOM   1751  CG2 THR X 241     -14.522  -1.359   5.073  0.00  0.00           C
+ATOM   1752  N   PRO X 242     -13.557   2.984   5.712  0.00  0.00           N
+ATOM   1753  CA  PRO X 242     -13.663   4.452   5.746  0.00  0.00           C
+ATOM   1754  C   PRO X 242     -15.084   5.020   5.634  0.00  0.00           C
+ATOM   1755  O   PRO X 242     -15.854   4.587   4.769  0.00  0.00           O
+ATOM   1756  CB  PRO X 242     -12.841   4.874   4.536  0.00  0.00           C
+ATOM   1758  CD  PRO X 242     -12.570   2.545   4.706  0.00  0.00           C
+ATOM   1760  CA  GLY X 243     -16.637   6.759   6.354  0.00  0.00           C
+ATOM   1761  C   GLY X 243     -16.520   7.882   5.336  0.00  0.00           C
+ATOM   1762  O   GLY X 243     -15.465   8.104   4.741  0.00  0.00           O
+ATOM   1763  N   ALA X 244     -17.613   8.615   5.145  0.00  0.00           N
+ATOM   1764  CA  ALA X 244     -17.674   9.651   4.126  0.00  0.00           C
+ATOM   1767  CB  ALA X 244     -19.123  10.196   4.020  0.00  0.00           C
+ATOM   1789  CB  LEU X 247     -14.526   8.642   1.350  0.00  0.00           C
+ATOM   1790  CG  LEU X 247     -14.549   7.803   0.054  0.00  0.00           C
+ATOM   1791  CD1 LEU X 247     -15.654   8.278  -0.917  0.00  0.00           C
+ATOM   1883  CA  ILE X 259     -12.802   2.068  -1.094  0.00  0.00           C
+ATOM   1884  C   ILE X 259     -14.313   2.026  -1.357  0.00  0.00           C
+ATOM   1885  O   ILE X 259     -15.043   1.361  -0.632  0.00  0.00           O
+ATOM   1888  CG2 ILE X 259     -13.324   3.674   0.788  0.00  0.00           C
+ATOM   1890  N   GLN X 260     -14.780   2.697  -2.403  0.00  0.00           N
+ATOM   1891  CA  GLN X 260     -16.226   2.722  -2.669  0.00  0.00           C
+ATOM   1892  C   GLN X 260     -16.725   1.454  -3.382  0.00  0.00           C
+ATOM   1893  O   GLN X 260     -17.935   1.253  -3.510  0.00  0.00           O
+ATOM   1894  CB  GLN X 260     -16.647   4.010  -3.386  0.00  0.00           C
+ATOM   1905  N   LEU X 262     -15.784  -1.288  -1.866  0.00  0.00           N
+ATOM   1906  CA  LEU X 262     -15.815  -2.116  -0.652  0.00  0.00           C
+ATOM   1907  C   LEU X 262     -17.211  -2.221  -0.040  0.00  0.00           C
+ATOM   1908  O   LEU X 262     -18.037  -1.315  -0.185  0.00  0.00           O
+ATOM   1909  CB  LEU X 262     -14.865  -1.561   0.426  0.00  0.00           C
+ATOM   1911  CD1 LEU X 262     -12.630  -1.173   1.439  0.00  0.00           C
+ATOM   1913  N   THR X 263     -17.451  -3.326   0.664  0.00  0.00           N
+ATOM   1914  CA  THR X 263     -18.677  -3.508   1.433  0.00  0.00           C
+ATOM   1915  C   THR X 263     -18.526  -2.796   2.773  0.00  0.00           C
+ATOM   1916  O   THR X 263     -17.637  -3.134   3.553  0.00  0.00           O
+ATOM   1920  N   GLN X 264     -19.396  -1.821   3.034  0.00  0.00           N
+ATOM   1921  CA  GLN X 264     -19.342  -1.022   4.263  0.00  0.00           C
+ATOM   1924  CB  GLN X 264     -20.398   0.090   4.207  0.00  0.00           C
+ATOM   1925  CG  GLN X 264     -20.408   1.017   5.424  0.00  0.00           C
+ATOM   1926  CD  GLN X 264     -20.465   2.484   5.045  0.00  0.00           C
+ATOM   1927  OE1 GLN X 264     -19.457   3.063   4.633  0.00  0.00           O

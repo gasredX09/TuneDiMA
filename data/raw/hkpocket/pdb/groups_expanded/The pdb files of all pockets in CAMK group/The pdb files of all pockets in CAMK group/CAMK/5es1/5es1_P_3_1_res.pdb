@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -48.95  -4.24  -0.39 with max radius 5.12
+ATOM    794  CA  ALA A 157     -46.743  -0.775  -2.467  0.00  0.00           C
+ATOM    795  C   ALA A 157     -46.041  -2.139  -2.484  0.00  0.00           C
+ATOM    796  O   ALA A 157     -45.232  -2.411  -1.575  0.00  0.00           O
+ATOM    797  CB  ALA A 157     -48.241  -0.953  -2.272  0.00  0.00           C
+ATOM    798  N   LYS A 158     -46.261  -2.938  -3.586  0.00  0.00           N
+ATOM    799  CA  LYS A 158     -45.651  -4.263  -3.776  0.00  0.00           C
+ATOM    802  CB  LYS A 158     -46.236  -5.062  -4.995  0.00  0.00           C
+ATOM    803  CG  LYS A 158     -47.768  -5.111  -5.224  0.00  0.00           C
+ATOM    804  CD  LYS A 158     -48.518  -6.045  -4.311  0.00  0.00           C
+ATOM    805  CE  LYS A 158     -49.994  -6.135  -4.657  0.00  0.00           C
+ATOM    806  NZ  LYS A 158     -50.844  -5.274  -3.781  0.00  0.00           N
+ATOM    834  CG  GLN A 161     -43.958  -4.881   0.721  0.00  0.00           C
+ATOM    835  CD  GLN A 161     -45.228  -5.663   0.743  0.00  0.00           C
+ATOM    836  OE1 GLN A 161     -45.527  -6.442  -0.172  0.00  0.00           O
+ATOM    837  NE2 GLN A 161     -46.006  -5.454   1.795  0.00  0.00           N
+ATOM   1048  O   GLU A 189     -52.489  -7.232   1.788  0.00  0.00           O
+ATOM   1051  CA  ALA A 190     -52.032  -8.839  -0.674  0.00  0.00           C
+ATOM   1052  C   ALA A 190     -50.571  -8.370  -0.490  0.00  0.00           C
+ATOM   1053  O   ALA A 190     -50.085  -7.501  -1.232  0.00  0.00           O
+ATOM   1054  CB  ALA A 190     -52.826  -7.835  -1.514  0.00  0.00           C
+ATOM   1055  N   ASN A 191     -49.866  -8.978   0.471  0.00  0.00           N
+ATOM   1056  CA  ASN A 191     -48.461  -8.682   0.714  0.00  0.00           C
+ATOM   1059  CB  ASN A 191     -48.098  -8.721   2.203  0.00  0.00           C
+ATOM   1060  CG  ASN A 191     -48.705  -7.621   3.033  0.00  0.00           C
+ATOM   1061  OD1 ASN A 191     -48.511  -6.434   2.770  0.00  0.00           O

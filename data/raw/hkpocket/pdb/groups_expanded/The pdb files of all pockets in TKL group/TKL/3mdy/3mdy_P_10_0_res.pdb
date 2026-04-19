@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  41.17  10.62  42.48 with max radius 5.51
+ATOM    235  CB  MET A 206      39.197  14.454  44.948  0.00  0.00           C
+ATOM    236  CG  MET A 206      38.275  13.212  44.888  0.00  0.00           C
+ATOM    237  SD  MET A 206      38.243  12.223  46.446  0.00  0.00           S
+ATOM    238  CE  MET A 206      39.669  11.150  46.195  0.00  0.00           C
+ATOM    337  CG  TRP A 219      43.237  11.821  47.432  0.00  0.00           C
+ATOM    338  CD1 TRP A 219      44.010  10.732  47.169  0.00  0.00           C
+ATOM    339  CD2 TRP A 219      43.564  12.797  46.422  0.00  0.00           C
+ATOM    340  NE1 TRP A 219      44.815  10.970  46.085  0.00  0.00           N
+ATOM    341  CE2 TRP A 219      44.556  12.225  45.601  0.00  0.00           C
+ATOM    342  CE3 TRP A 219      43.138  14.102  46.158  0.00  0.00           C
+ATOM    343  CZ2 TRP A 219      45.109  12.898  44.510  0.00  0.00           C
+ATOM    345  CH2 TRP A 219      44.672  14.184  44.262  0.00  0.00           C
+ATOM    446  CB  VAL A 232      41.813   6.557  45.740  0.00  0.00           C
+ATOM    447  CG1 VAL A 232      41.414   6.398  44.256  0.00  0.00           C
+ATOM    448  CG2 VAL A 232      41.209   7.851  46.319  0.00  0.00           C
+ATOM    744  CE  LYS A 267      36.105   9.442  40.691  0.00  0.00           C
+ATOM    745  NZ  LYS A 267      36.852   9.103  39.422  0.00  0.00           N
+ATOM    794  CD  GLN A 274      40.606   7.110  40.948  0.00  0.00           C
+ATOM    795  OE1 GLN A 274      41.795   7.227  41.265  0.00  0.00           O
+ATOM    796  NE2 GLN A 274      39.762   8.143  40.879  0.00  0.00           N
+ATOM    813  CE1 TYR A 276      37.412   7.690  44.403  0.00  0.00           C
+ATOM    815  CZ  TYR A 276      36.741   8.889  44.433  0.00  0.00           C
+ATOM    816  OH  TYR A 276      37.127   9.853  43.550  0.00  0.00           O

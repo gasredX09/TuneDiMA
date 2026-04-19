@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -21.54 -22.64 -21.84 with max radius 6.70
+ATOM    908  O   ARG A  89     -18.233 -21.179 -15.115  0.00  0.00           O
+ATOM    911  CD  ARG A  89     -17.829 -18.216 -16.968  0.00  0.00           C
+ATOM    912  NE  ARG A  89     -18.745 -17.094 -17.195  0.00  0.00           N
+ATOM    913  CZ  ARG A  89     -20.077 -17.156 -17.261  0.00  0.00           C
+ATOM    914  NH1 ARG A  89     -20.707 -18.326 -17.160  0.00  0.00           N
+ATOM    964  CA  GLN A  92     -21.110 -23.655 -15.102  0.00  0.00           C
+ATOM    965  C   GLN A  92     -20.332 -24.202 -16.294  0.00  0.00           C
+ATOM    966  O   GLN A  92     -20.839 -25.103 -16.982  0.00  0.00           O
+ATOM    967  CB  GLN A  92     -21.784 -22.310 -15.481  0.00  0.00           C
+ATOM    968  CG  GLN A  92     -22.940 -22.479 -16.490  0.00  0.00           C
+ATOM    969  CD  GLN A  92     -23.998 -23.476 -16.030  0.00  0.00           C
+ATOM    980  N   ILE A  93     -19.091 -23.693 -16.520  0.00  0.00           N
+ATOM    981  CA  ILE A  93     -18.233 -24.155 -17.616  0.00  0.00           C
+ATOM    982  C   ILE A  93     -17.999 -25.633 -17.437  0.00  0.00           C
+ATOM    983  O   ILE A  93     -18.115 -26.401 -18.395  0.00  0.00           O
+ATOM    984  CB  ILE A  93     -16.866 -23.393 -17.683  0.00  0.00           C
+ATOM    985  CG1 ILE A  93     -17.065 -21.991 -18.234  0.00  0.00           C
+ATOM    986  CG2 ILE A  93     -15.820 -24.171 -18.506  0.00  0.00           C
+ATOM    987  CD1 ILE A  93     -15.962 -21.035 -17.869  0.00  0.00           C
+ATOM   1041  CA  ASP A  96     -21.290 -27.835 -19.527  0.00  0.00           C
+ATOM   1042  C   ASP A  96     -20.229 -28.509 -20.395  0.00  0.00           C
+ATOM   1044  CB  ASP A  96     -21.550 -26.420 -20.035  0.00  0.00           C
+ATOM   1045  CG  ASP A  96     -22.795 -25.782 -19.441  0.00  0.00           C
+ATOM   1046  OD1 ASP A  96     -23.631 -26.523 -18.866  0.00  0.00           O
+ATOM   1047  OD2 ASP A  96     -22.935 -24.557 -19.553  0.00  0.00           O
+ATOM   1057  CG  LEU A  97     -17.831 -26.505 -21.975  0.00  0.00           C
+ATOM   1058  CD1 LEU A  97     -16.894 -25.384 -22.250  0.00  0.00           C
+ATOM   1059  CD2 LEU A  97     -18.576 -26.847 -23.256  0.00  0.00           C
+ATOM   2064  CA  CYS A 168     -18.891 -24.342 -28.174  0.00  0.00           C
+ATOM   2065  C   CYS A 168     -19.838 -23.152 -28.458  0.00  0.00           C
+ATOM   2067  CB  CYS A 168     -18.828 -24.710 -26.698  0.00  0.00           C
+ATOM   2068  SG  CYS A 168     -18.456 -23.317 -25.627  0.00  0.00           S
+ATOM   2074  N   LYS A 169     -21.111 -23.329 -28.164  0.00  0.00           N
+ATOM   2075  CA  LYS A 169     -22.149 -22.316 -28.494  0.00  0.00           C
+ATOM   2076  C   LYS A 169     -21.928 -20.956 -27.828  0.00  0.00           C
+ATOM   2078  CB  LYS A 169     -23.559 -22.853 -28.224  0.00  0.00           C
+ATOM   2079  CG  LYS A 169     -23.925 -23.088 -26.785  0.00  0.00           C
+ATOM   2080  CD  LYS A 169     -25.301 -23.739 -26.800  0.00  0.00           C
+ATOM   2081  CE  LYS A 169     -25.899 -24.045 -25.472  0.00  0.00           C
+ATOM   2096  N   THR A 170     -21.288 -20.894 -26.643  0.00  0.00           N
+ATOM   2097  CA  THR A 170     -20.913 -19.617 -26.000  0.00  0.00           C
+ATOM   2098  C   THR A 170     -19.407 -19.706 -25.748  0.00  0.00           C
+ATOM   2099  O   THR A 170     -18.991 -20.231 -24.699  0.00  0.00           O
+ATOM   2100  CB  THR A 170     -21.752 -19.367 -24.741  0.00  0.00           C
+ATOM   2101  OG1 THR A 170     -23.124 -19.385 -25.117  0.00  0.00           O
+ATOM   2102  CG2 THR A 170     -21.389 -18.040 -24.069  0.00  0.00           C
+ATOM   2129  CG1 ILE A 172     -16.453 -21.126 -22.213  0.00  0.00           C
+ATOM   2131  CD1 ILE A 172     -17.208 -20.005 -21.587  0.00  0.00           C
+ATOM   2563  CB  ASN A 200     -18.593 -16.536 -21.995  0.00  0.00           C
+ATOM   2566  ND2 ASN A 200     -20.642 -16.450 -20.638  0.00  0.00           N

@@ -1,0 +1,48 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 42 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  33.12   4.58  21.41 with max radius 6.96
+ATOM    838  O   ASP A 114      27.322   2.242  20.810  0.00  0.00           O
+ATOM    858  CA  THR A 117      28.744   3.396  24.272  0.00  0.00           C
+ATOM    859  C   THR A 117      28.959   4.631  23.404  0.00  0.00           C
+ATOM    860  O   THR A 117      29.684   5.518  23.786  0.00  0.00           O
+ATOM    861  CB  THR A 117      29.888   2.367  24.099  0.00  0.00           C
+ATOM    862  OG1 THR A 117      29.819   1.791  22.821  0.00  0.00           O
+ATOM    863  CG2 THR A 117      29.809   1.260  25.098  0.00  0.00           C
+ATOM    864  N   GLN A 118      28.285   4.733  22.265  0.00  0.00           N
+ATOM    865  CA  GLN A 118      28.327   5.929  21.473  0.00  0.00           C
+ATOM    866  C   GLN A 118      27.744   7.130  22.212  0.00  0.00           C
+ATOM    867  O   GLN A 118      28.273   8.229  22.111  0.00  0.00           O
+ATOM    868  CB  GLN A 118      27.550   5.745  20.148  0.00  0.00           C
+ATOM    869  CG  GLN A 118      28.192   4.833  19.092  0.00  0.00           C
+ATOM    870  CD  GLN A 118      27.279   4.589  17.841  0.00  0.00           C
+ATOM    872  NE2 GLN A 118      27.908   4.069  16.827  0.00  0.00           N
+ATOM    892  N   LYS A 121      30.257   7.843  25.384  0.00  0.00           N
+ATOM    893  CA  LYS A 121      31.491   8.526  25.088  0.00  0.00           C
+ATOM    896  CB  LYS A 121      32.056   8.105  23.727  0.00  0.00           C
+ATOM    897  CG  LYS A 121      33.223   8.887  23.259  0.00  0.00           C
+ATOM    898  CD  LYS A 121      34.383   8.889  24.256  0.00  0.00           C
+ATOM    899  CE  LYS A 121      35.735   9.496  23.670  0.00  0.00           C
+ATOM    900  NZ  LYS A 121      36.522   8.738  24.675  0.00  0.00           N
+ATOM   2058  O   TRP A 274      33.288  -0.111  25.550  0.00  0.00           O
+ATOM   2070  CA  ILE A 275      34.031   2.394  26.383  0.00  0.00           C
+ATOM   2071  C   ILE A 275      34.901   2.369  25.149  0.00  0.00           C
+ATOM   2072  O   ILE A 275      34.498   2.797  24.065  0.00  0.00           O
+ATOM   2073  CB  ILE A 275      34.280   3.616  27.294  0.00  0.00           C
+ATOM   2075  CG2 ILE A 275      34.270   4.920  26.486  0.00  0.00           C
+ATOM   2077  N   LYS A 276      36.092   1.822  25.315  0.00  0.00           N
+ATOM   2078  CA  LYS A 276      37.049   1.742  24.225  0.00  0.00           C
+ATOM   2079  C   LYS A 276      36.741   0.612  23.244  0.00  0.00           C
+ATOM   2080  O   LYS A 276      37.239   0.632  22.132  0.00  0.00           O
+ATOM   2081  CB  LYS A 276      38.487   1.641  24.766  0.00  0.00           C
+ATOM   2082  CG  LYS A 276      38.883   2.838  25.640  0.00  0.00           C
+ATOM   2084  CE  LYS A 276      40.139   4.415  24.103  0.00  0.00           C
+ATOM   2090  N   ILE A 278      34.432  -0.312  21.112  0.00  0.00           N
+ATOM   2091  CA  ILE A 278      33.942   0.033  19.786  0.00  0.00           C
+ATOM   2092  C   ILE A 278      35.046   0.707  18.940  0.00  0.00           C
+ATOM   2094  CB  ILE A 278      32.646   0.919  19.877  0.00  0.00           C
+ATOM   2095  N   ARG A 279      35.912   1.496  19.584  0.00  0.00           N
+ATOM   2096  CA  ARG A 279      37.050   2.136  18.895  0.00  0.00           C
+ATOM   2099  CB  ARG A 279      37.667   3.255  19.759  0.00  0.00           C

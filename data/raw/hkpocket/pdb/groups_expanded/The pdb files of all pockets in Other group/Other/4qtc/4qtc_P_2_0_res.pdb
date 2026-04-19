@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  50.45  19.08  11.56 with max radius 8.21
+ATOM    111  C   LEU A 484      54.493  14.879   9.548  0.00  0.00           C
+ATOM    112  O   LEU A 484      54.139  16.037   9.767  0.00  0.00           O
+ATOM    115  CD1 LEU A 484      54.801  16.091   6.103  0.00  0.00           C
+ATOM    117  N   GLN A 485      53.947  13.854  10.164  0.00  0.00           N
+ATOM    118  CA  GLN A 485      52.868  14.029  11.139  0.00  0.00           C
+ATOM    119  C   GLN A 485      53.266  14.864  12.351  0.00  0.00           C
+ATOM    120  O   GLN A 485      52.411  15.494  12.977  0.00  0.00           O
+ATOM    121  CB  GLN A 485      52.392  12.651  11.622  0.00  0.00           C
+ATOM    126  N   ARG A 486      54.548  14.898  12.681  0.00  0.00           N
+ATOM    137  N   CYS A 487      55.410  17.415  12.215  0.00  0.00           N
+ATOM    138  CA  CYS A 487      55.829  18.767  11.822  0.00  0.00           C
+ATOM    139  C   CYS A 487      54.926  19.864  12.425  0.00  0.00           C
+ATOM    140  O   CYS A 487      53.671  19.806  12.310  0.00  0.00           O
+ATOM    141  CB  CYS A 487      55.872  18.937  10.329  0.00  0.00           C
+ATOM    144  CA  GLU A 488      54.927  22.108  13.465  0.00  0.00           C
+ATOM    148  CB  GLU A 488      54.995  22.213  14.995  0.00  0.00           C
+ATOM    150  CG  GLU A 488      54.380  23.499  15.581  0.00  0.00           C
+ATOM    152  CD  GLU A 488      54.469  23.596  17.104  0.00  0.00           C
+ATOM    811  CA  LEU A 572      50.182  17.611   6.306  0.00  0.00           C
+ATOM    812  C   LEU A 572      50.993  18.870   6.660  0.00  0.00           C
+ATOM    813  O   LEU A 572      50.799  19.461   7.705  0.00  0.00           O
+ATOM    814  CB  LEU A 572      50.868  16.373   6.800  0.00  0.00           C
+ATOM    815  CG  LEU A 572      49.906  15.174   7.024  0.00  0.00           C
+ATOM    816  CD1 LEU A 572      50.644  13.881   7.179  0.00  0.00           C
+ATOM    817  CD2 LEU A 572      49.087  15.433   8.256  0.00  0.00           C
+ATOM    818  N   LEU A 573      51.849  19.314   5.748  0.00  0.00           N
+ATOM    819  CA  LEU A 573      52.552  20.559   5.992  0.00  0.00           C
+ATOM    822  CB  LEU A 573      53.749  20.680   5.050  0.00  0.00           C
+ATOM    823  CG  LEU A 573      54.871  19.684   5.301  0.00  0.00           C
+ATOM    825  CD2 LEU A 573      55.267  19.687   6.764  0.00  0.00           C
+ATOM    835  CA  LYS A 575      47.778  21.688   7.940  0.00  0.00           C
+ATOM    836  C   LYS A 575      48.595  22.425   9.022  0.00  0.00           C
+ATOM    837  O   LYS A 575      48.116  23.280   9.738  0.00  0.00           O
+ATOM    838  CB  LYS A 575      47.505  20.263   8.350  0.00  0.00           C
+ATOM    839  CG  LYS A 575      46.724  20.132   9.640  0.00  0.00           C
+ATOM    840  CD  LYS A 575      45.855  18.881   9.581  0.00  0.00           C
+ATOM    841  CE  LYS A 575      44.956  18.793  10.802  0.00  0.00           C
+ATOM    842  NZ  LYS A 575      45.793  18.648  12.028  0.00  0.00           N
+ATOM    843  N   ALA A 576      49.892  22.148   9.080  0.00  0.00           N
+ATOM    844  CA  ALA A 576      50.741  22.879   9.988  0.00  0.00           C
+ATOM    845  C   ALA A 576      50.891  24.368   9.679  0.00  0.00           C
+ATOM    846  O   ALA A 576      50.918  25.226  10.568  0.00  0.00           O
+ATOM    847  CB  ALA A 576      52.103  22.212  10.082  0.00  0.00           C
+ATOM    874  CB  HIS A 579      48.141  24.973  13.059  0.00  0.00           C
+ATOM    875  CG  HIS A 579      48.175  25.120  14.537  0.00  0.00           C
+ATOM    877  CD2 HIS A 579      49.204  25.303  15.391  0.00  0.00           C

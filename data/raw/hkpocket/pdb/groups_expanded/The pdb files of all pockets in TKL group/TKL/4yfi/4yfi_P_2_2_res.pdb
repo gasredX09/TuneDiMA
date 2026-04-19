@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  21.28   8.64   3.86 with max radius 5.63
+ATOM    121  CE1 PHE A 456      24.437   9.016   7.042  0.00  0.00           C
+ATOM    122  CE2 PHE A 456      24.751   6.631   7.185  0.00  0.00           C
+ATOM    123  CZ  PHE A 456      24.336   7.754   6.466  0.00  0.00           C
+ATOM    512  C   LEU A 513      18.138   6.716   7.759  0.00  0.00           C
+ATOM    513  O   LEU A 513      18.236   7.240   6.646  0.00  0.00           O
+ATOM    519  CA  CYS A 514      20.237   5.522   7.398  0.00  0.00           C
+ATOM    520  C   CYS A 514      19.955   4.600   6.211  0.00  0.00           C
+ATOM    521  O   CYS A 514      20.834   4.415   5.379  0.00  0.00           O
+ATOM    522  CB  CYS A 514      21.397   4.980   8.249  0.00  0.00           C
+ATOM    526  C   GLN A 515      17.852   4.430   3.812  0.00  0.00           C
+ATOM    527  O   GLN A 515      17.780   4.073   2.637  0.00  0.00           O
+ATOM    533  N   LEU A 516      17.584   5.680   4.198  0.00  0.00           N
+ATOM    534  CA  LEU A 516      16.950   6.639   3.284  0.00  0.00           C
+ATOM    535  C   LEU A 516      17.924   7.278   2.303  0.00  0.00           C
+ATOM    536  O   LEU A 516      18.912   7.905   2.668  0.00  0.00           O
+ATOM    537  CB  LEU A 516      16.176   7.713   4.050  0.00  0.00           C
+ATOM    541  N   ASN A 517      17.625   7.093   1.033  0.00  0.00           N
+ATOM    542  CA  ASN A 517      18.408   7.668  -0.035  0.00  0.00           C
+ATOM    545  CB  ASN A 517      19.530   6.714  -0.435  0.00  0.00           C
+ATOM    546  CG  ASN A 517      20.394   7.266  -1.548  0.00  0.00           C
+ATOM    547  OD1 ASN A 517      20.479   8.461  -1.712  0.00  0.00           O
+ATOM    582  O   ILE A 522      16.306  11.790   4.322  0.00  0.00           O
+ATOM    588  CA  GLN A 523      18.639  13.378   4.219  0.00  0.00           C
+ATOM    589  C   GLN A 523      19.192  13.277   5.626  0.00  0.00           C
+ATOM    592  CG  GLN A 523      20.991  14.043   3.310  0.00  0.00           C
+ATOM    596  N   PHE A 524      19.443  12.046   6.061  0.00  0.00           N
+ATOM    597  CA  PHE A 524      20.088  11.797   7.342  0.00  0.00           C
+ATOM    598  C   PHE A 524      21.547  12.290   7.281  0.00  0.00           C
+ATOM    599  O   PHE A 524      22.230  12.088   6.281  0.00  0.00           O
+ATOM    600  CB  PHE A 524      20.010  10.303   7.665  0.00  0.00           C
+ATOM    601  CG  PHE A 524      20.581   9.927   8.996  0.00  0.00           C
+ATOM    603  CD2 PHE A 524      21.556   8.958   9.091  0.00  0.00           C

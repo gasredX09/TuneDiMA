@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  23.52   3.37   0.39 with max radius 7.70
+ATOM    591  CG  ASN A 675      19.798  -2.333   3.410  0.00  0.00           C
+ATOM    592  OD1 ASN A 675      20.525  -3.304   3.210  0.00  0.00           O
+ATOM    593  ND2 ASN A 675      20.239  -1.093   3.349  0.00  0.00           N
+ATOM    924  CA  GLN A 716      25.478   7.451  -4.358  0.00  0.00           C
+ATOM    925  C   GLN A 716      24.009   7.048  -4.479  0.00  0.00           C
+ATOM    926  O   GLN A 716      23.496   6.303  -3.632  0.00  0.00           O
+ATOM    927  CB  GLN A 716      25.570   8.845  -3.764  0.00  0.00           C
+ATOM    928  CG  GLN A 716      26.951   9.221  -3.272  0.00  0.00           C
+ATOM    947  N   GLY A 719      23.782   3.380  -4.788  0.00  0.00           N
+ATOM    948  CA  GLY A 719      23.960   2.746  -3.487  0.00  0.00           C
+ATOM    949  C   GLY A 719      22.705   2.778  -2.636  0.00  0.00           C
+ATOM    950  O   GLY A 719      22.383   1.808  -1.940  0.00  0.00           O
+ATOM    951  N   MET A 720      21.961   3.886  -2.694  0.00  0.00           N
+ATOM    952  CA  MET A 720      20.693   3.979  -1.981  0.00  0.00           C
+ATOM    953  C   MET A 720      19.731   2.926  -2.523  0.00  0.00           C
+ATOM    954  O   MET A 720      19.068   2.205  -1.772  0.00  0.00           O
+ATOM    955  CB  MET A 720      20.098   5.389  -2.136  0.00  0.00           C
+ATOM    956  CG  MET A 720      20.897   6.484  -1.436  0.00  0.00           C
+ATOM    957  SD  MET A 720      20.221   8.075  -1.848  0.00  0.00           S
+ATOM    958  CE  MET A 720      21.426   9.150  -1.109  0.00  0.00           C
+ATOM    969  C   ARG A 722      20.480  -1.490  -2.315  0.00  0.00           C
+ATOM    971  CB  ARG A 722      22.428  -1.166  -3.919  0.00  0.00           C
+ATOM    973  CD  ARG A 722      23.288  -3.162  -2.649  0.00  0.00           C
+ATOM    978  N   GLY A 723      20.602  -0.560  -1.355  0.00  0.00           N
+ATOM    979  CA  GLY A 723      20.145  -0.858  -0.010  0.00  0.00           C
+ATOM    980  C   GLY A 723      18.658  -1.141   0.048  0.00  0.00           C
+ATOM    982  N   ILE A 724      17.857  -0.355  -0.666  0.00  0.00           N
+ATOM   1225  O   ASN A 751      25.603   6.610   4.273  0.00  0.00           O
+ATOM   1231  CA  LEU A 752      22.950   7.509   3.708  0.00  0.00           C
+ATOM   1232  C   LEU A 752      22.433   6.094   3.509  0.00  0.00           C
+ATOM   1233  O   LEU A 752      21.979   5.769   2.403  0.00  0.00           O
+ATOM   1234  CB  LEU A 752      23.697   7.977   2.458  0.00  0.00           C
+ATOM   1235  CG  LEU A 752      24.204   9.420   2.540  0.00  0.00           C
+ATOM   1236  CD1 LEU A 752      24.747   9.846   1.185  0.00  0.00           C
+ATOM   1238  N   VAL A 753      22.495   5.241   4.540  0.00  0.00           N
+ATOM   1239  CA  VAL A 753      21.925   3.903   4.436  0.00  0.00           C
+ATOM   1240  C   VAL A 753      20.420   4.031   4.424  0.00  0.00           C
+ATOM   1242  CB  VAL A 753      22.392   3.004   5.589  0.00  0.00           C
+ATOM   1243  CG1 VAL A 753      21.751   1.631   5.484  0.00  0.00           C
+ATOM   1244  CG2 VAL A 753      23.902   2.838   5.568  0.00  0.00           C
+ATOM   1245  N   CYS A 754      19.799   3.386   3.443  0.00  0.00           N
+ATOM   1246  CA  CYS A 754      18.357   3.434   3.255  0.00  0.00           C
+ATOM   1247  C   CYS A 754      17.726   2.166   3.787  0.00  0.00           C
+ATOM   1248  O   CYS A 754      18.203   1.060   3.521  0.00  0.00           O
+ATOM   1249  CB  CYS A 754      18.035   3.557   1.769  0.00  0.00           C
+ATOM   1250  SG  CYS A 754      18.501   5.221   1.141  0.00  0.00           S

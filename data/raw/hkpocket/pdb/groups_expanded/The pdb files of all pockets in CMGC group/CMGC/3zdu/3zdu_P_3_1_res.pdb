@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  45.16  -6.55  63.59 with max radius 7.07
+ATOM   1496  CE1 TYR A 200      42.106  -1.753  62.329  0.00  0.00           C
+ATOM   1498  CZ  TYR A 200      41.768  -2.348  63.531  0.00  0.00           C
+ATOM   1499  OH  TYR A 200      42.546  -3.305  64.075  0.00  0.00           O
+ATOM   1606  C   LEU A 215      40.864  -9.795  63.295  0.00  0.00           C
+ATOM   1607  O   LEU A 215      42.084 -10.034  63.278  0.00  0.00           O
+ATOM   1613  CA  LYS A 216      41.294  -7.466  63.605  0.00  0.00           C
+ATOM   1614  C   LYS A 216      41.588  -7.032  65.079  0.00  0.00           C
+ATOM   1615  O   LYS A 216      42.632  -6.410  65.332  0.00  0.00           O
+ATOM   1616  CB  LYS A 216      40.702  -6.277  62.850  0.00  0.00           C
+ATOM   1617  CG  LYS A 216      40.624  -6.456  61.332  0.00  0.00           C
+ATOM   1618  CD  LYS A 216      40.351  -5.095  60.702  0.00  0.00           C
+ATOM   1812  CG1 VAL A 242      43.583 -13.386  64.449  0.00  0.00           C
+ATOM   1817  O   GLN A 243      46.398 -12.846  65.938  0.00  0.00           O
+ATOM   1820  CA  HIS A 244      46.794 -10.916  67.951  0.00  0.00           C
+ATOM   1823  CB  HIS A 244      45.640 -10.048  68.426  0.00  0.00           C
+ATOM   1824  CG  HIS A 244      44.382 -10.269  67.667  0.00  0.00           C
+ATOM   1826  CD2 HIS A 244      43.948  -9.761  66.492  0.00  0.00           C
+ATOM   1828  NE2 HIS A 244      42.730 -10.344  66.233  0.00  0.00           N
+ATOM   1834  CG  PRO A 245      50.135  -8.375  66.940  0.00  0.00           C
+ATOM   1835  CD  PRO A 245      48.748  -8.870  67.110  0.00  0.00           C
+ATOM   1875  C   LYS A 251      48.753  -3.174  65.769  0.00  0.00           C
+ATOM   1876  O   LYS A 251      47.909  -3.466  64.898  0.00  0.00           O
+ATOM   1878  CG  LYS A 251      46.975  -4.975  67.448  0.00  0.00           C
+ATOM   1879  CD  LYS A 251      46.185  -5.299  68.690  0.00  0.00           C
+ATOM   1880  CE  LYS A 251      44.809  -5.881  68.404  0.00  0.00           C
+ATOM   1888  CD1 TYR A 252      45.588  -0.848  65.610  0.00  0.00           C
+ATOM   1890  CE1 TYR A 252      44.474  -1.498  66.136  0.00  0.00           C

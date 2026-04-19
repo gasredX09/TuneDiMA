@@ -1,0 +1,34 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 28 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -15.33 -42.40  10.36 with max radius 5.48
+ATOM    198  CA  PRO A 184     -13.560 -46.426   9.413  0.00  0.00           C
+ATOM    199  C   PRO A 184     -13.235 -46.493   7.935  0.00  0.00           C
+ATOM    201  CB  PRO A 184     -12.538 -45.542  10.158  0.00  0.00           C
+ATOM    202  CG  PRO A 184     -12.094 -46.341  11.319  0.00  0.00           C
+ATOM    204  N   ILE A 185     -13.846 -45.601   7.137  0.00  0.00           N
+ATOM    205  CA  ILE A 185     -13.646 -45.457   5.697  0.00  0.00           C
+ATOM    208  CB  ILE A 185     -14.338 -44.138   5.260  0.00  0.00           C
+ATOM    209  CG1 ILE A 185     -15.848 -44.130   5.607  0.00  0.00           C
+ATOM    210  CG2 ILE A 185     -14.104 -43.855   3.783  0.00  0.00           C
+ATOM    211  CD1 ILE A 185     -16.648 -45.076   4.780  0.00  0.00           C
+ATOM    242  CA  LYS A 191     -18.251 -46.712   8.995  0.00  0.00           C
+ATOM    243  C   LYS A 191     -17.986 -45.213   8.846  0.00  0.00           C
+ATOM    244  O   LYS A 191     -16.822 -44.797   8.727  0.00  0.00           O
+ATOM    245  CB  LYS A 191     -17.657 -47.201  10.330  0.00  0.00           C
+ATOM    246  CG  LYS A 191     -18.295 -46.521  11.524  0.00  0.00           C
+ATOM    247  CD  LYS A 191     -17.742 -47.082  12.825  0.00  0.00           C
+ATOM    248  CE  LYS A 191     -18.274 -46.354  14.029  0.00  0.00           C
+ATOM    250  N   MET A 192     -19.041 -44.404   8.857  0.00  0.00           N
+ATOM    251  CA  MET A 192     -18.884 -42.949   8.722  0.00  0.00           C
+ATOM    252  C   MET A 192     -19.068 -42.239  10.066  0.00  0.00           C
+ATOM    253  O   MET A 192     -18.602 -41.118  10.262  0.00  0.00           O
+ATOM    254  CB  MET A 192     -19.918 -42.401   7.730  0.00  0.00           C
+ATOM    255  CG  MET A 192     -19.659 -42.849   6.295  0.00  0.00           C
+ATOM    258  N   GLY A 193     -19.802 -42.873  10.957  0.00  0.00           N
+ATOM    259  CA  GLY A 193     -20.071 -42.291  12.262  0.00  0.00           C
+ATOM    865  CD2 LEU A 277     -14.617 -37.688  13.051  0.00  0.00           C
+ATOM    871  CG  ASP A 278     -11.671 -38.920   9.639  0.00  0.00           C
+ATOM    873  OD2 ASP A 278     -12.895 -39.055   9.607  0.00  0.00           O

@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -14.41 -18.92 -21.28 with max radius 5.88
+ATOM    740  OE1 GLU A 139     -18.380 -22.013 -25.787  0.00  0.00           O
+ATOM    753  CB  PHE A 141     -17.353 -23.456 -20.550  0.00  0.00           C
+ATOM    754  CG  PHE A 141     -17.137 -22.556 -19.312  0.00  0.00           C
+ATOM    755  CD1 PHE A 141     -16.491 -23.078 -18.193  0.00  0.00           C
+ATOM    756  CD2 PHE A 141     -17.665 -21.270 -19.268  0.00  0.00           C
+ATOM    757  CE1 PHE A 141     -16.335 -22.295 -17.004  0.00  0.00           C
+ATOM    758  CE2 PHE A 141     -17.515 -20.457 -18.090  0.00  0.00           C
+ATOM    759  CZ  PHE A 141     -16.868 -20.984 -16.967  0.00  0.00           C
+ATOM   1084  C   LYS A 180     -12.009 -23.165 -25.187  0.00  0.00           C
+ATOM   1091  N   ALA A 181     -13.049 -22.528 -24.655  0.00  0.00           N
+ATOM   1092  CA  ALA A 181     -14.310 -23.242 -24.391  0.00  0.00           C
+ATOM   1095  CB  ALA A 181     -15.337 -22.309 -23.736  0.00  0.00           C
+ATOM   1110  OE1 GLU A 182     -14.619 -20.515 -27.262  0.00  0.00           O
+ATOM   1347  O   CYS A 213     -11.386 -14.565 -23.822  0.00  0.00           O
+ATOM   1351  CA  GLY A 214     -11.514 -17.048 -24.673  0.00  0.00           C
+ATOM   1352  C   GLY A 214     -10.261 -17.808 -24.318  0.00  0.00           C
+ATOM   1353  O   GLY A 214     -10.360 -18.792 -23.577  0.00  0.00           O
+ATOM   1371  CG  PRO A 217     -10.226 -17.470 -19.433  0.00  0.00           C
+ATOM   1372  CD  PRO A 217      -9.160 -17.119 -20.540  0.00  0.00           C
+ATOM   1380  CD2 TYR A 218      -9.885 -21.688 -21.537  0.00  0.00           C
+ATOM   1382  CE2 TYR A 218     -11.229 -21.805 -21.178  0.00  0.00           C
+ATOM   1383  CZ  TYR A 218     -11.645 -22.970 -20.541  0.00  0.00           C
+ATOM   1384  OH  TYR A 218     -12.967 -23.073 -20.190  0.00  0.00           O
+ATOM   1633  CG  LEU A 251     -12.758 -20.246 -15.781  0.00  0.00           C
+ATOM   1634  CD1 LEU A 251     -12.697 -18.950 -16.468  0.00  0.00           C
+ATOM   1635  CD2 LEU A 251     -12.060 -21.301 -16.577  0.00  0.00           C

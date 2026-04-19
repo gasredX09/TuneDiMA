@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  42.21  52.52  33.63 with max radius 5.94
+ATOM    825  CB  GLU A 118      40.105  51.092  28.859  0.00  0.00           C
+ATOM    826  CG  GLU A 118      39.897  49.935  29.813  0.00  0.00           C
+ATOM    827  CD  GLU A 118      41.112  49.653  30.663  0.00  0.00           C
+ATOM    828  OE1 GLU A 118      42.149  49.230  30.112  0.00  0.00           O
+ATOM    829  OE2 GLU A 118      41.028  49.854  31.889  0.00  0.00           O
+ATOM    864  CG2 VAL A 122      36.448  51.856  32.425  0.00  0.00           C
+ATOM   1889  CA  SER A 248      44.808  48.208  32.992  0.00  0.00           C
+ATOM   1892  CB  SER A 248      43.999  49.430  33.437  0.00  0.00           C
+ATOM   1893  OG  SER A 248      42.673  49.061  33.783  0.00  0.00           O
+ATOM   1906  CB  GLU A 250      41.829  48.927  37.797  0.00  0.00           C
+ATOM   1907  CG  GLU A 250      42.654  49.670  38.829  0.00  0.00           C
+ATOM   1908  CD  GLU A 250      43.976  50.189  38.283  0.00  0.00           C
+ATOM   1909  OE1 GLU A 250      44.236  50.059  37.066  0.00  0.00           O
+ATOM   2122  CA  TRP A 277      38.030  50.684  37.703  0.00  0.00           C
+ATOM   2124  O   TRP A 277      36.992  52.385  36.354  0.00  0.00           O
+ATOM   2127  CD1 TRP A 277      38.935  49.810  34.868  0.00  0.00           C
+ATOM   2129  NE1 TRP A 277      38.730  49.539  33.539  0.00  0.00           N
+ATOM   2130  CE2 TRP A 277      37.607  48.770  33.405  0.00  0.00           C
+ATOM   2132  CZ2 TRP A 277      37.004  48.239  32.256  0.00  0.00           C
+ATOM   2158  CD  GLN A 280      40.104  54.480  36.674  0.00  0.00           C
+ATOM   2159  OE1 GLN A 280      41.255  54.773  37.007  0.00  0.00           O
+ATOM   2160  NE2 GLN A 280      39.835  53.522  35.798  0.00  0.00           N
+ATOM   2189  C   ARG A 284      41.752  57.419  33.505  0.00  0.00           C
+ATOM   2190  O   ARG A 284      42.732  56.672  33.546  0.00  0.00           O
+ATOM   2199  CA  VAL A 285      40.624  55.976  31.920  0.00  0.00           C
+ATOM   2200  C   VAL A 285      41.299  56.181  30.570  0.00  0.00           C
+ATOM   2202  CB  VAL A 285      39.176  55.490  31.723  0.00  0.00           C
+ATOM   2203  CG1 VAL A 285      39.177  54.068  31.199  0.00  0.00           C
+ATOM   2204  CG2 VAL A 285      38.409  55.564  33.037  0.00  0.00           C
+ATOM   2205  N   SER A 286      42.081  55.185  30.173  0.00  0.00           N
+ATOM   2206  CA  SER A 286      42.821  55.218  28.927  0.00  0.00           C
+ATOM   2209  CB  SER A 286      43.785  54.038  28.856  0.00  0.00           C

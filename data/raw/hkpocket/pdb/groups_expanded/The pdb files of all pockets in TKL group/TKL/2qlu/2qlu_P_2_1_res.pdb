@@ -1,0 +1,47 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 41 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  39.74  62.82  38.67 with max radius 5.88
+ATOM   1715  CA  ALA A 402      40.719  60.426  34.942  0.00  0.00           C
+ATOM   1716  C   ALA A 402      41.464  61.605  35.531  0.00  0.00           C
+ATOM   1717  O   ALA A 402      41.387  61.808  36.768  0.00  0.00           O
+ATOM   1718  CB  ALA A 402      39.841  59.824  36.039  0.00  0.00           C
+ATOM   1719  N   ALA A 403      42.158  62.363  34.651  0.00  0.00           N
+ATOM   1720  CA  ALA A 403      43.264  63.355  34.985  0.00  0.00           C
+ATOM   1721  C   ALA A 403      43.925  63.427  36.416  0.00  0.00           C
+ATOM   1722  O   ALA A 403      44.551  64.474  36.744  0.00  0.00           O
+ATOM   1723  CB  ALA A 403      42.913  64.836  34.453  0.00  0.00           C
+ATOM   1724  N   ASP A 404      43.828  62.363  37.244  0.00  0.00           N
+ATOM   1725  CA  ASP A 404      44.382  62.393  38.645  0.00  0.00           C
+ATOM   1728  CB  ASP A 404      43.472  63.227  39.582  0.00  0.00           C
+ATOM   1732  N   GLY A 405      43.727  60.397  39.897  0.00  0.00           N
+ATOM   1733  CA  GLY A 405      43.905  59.205  40.719  0.00  0.00           C
+ATOM   2044  CA  HIS A 443      37.784  61.371  42.995  0.00  0.00           C
+ATOM   2045  C   HIS A 443      37.508  61.429  41.479  0.00  0.00           C
+ATOM   2046  O   HIS A 443      38.062  62.299  40.788  0.00  0.00           O
+ATOM   2047  CB  HIS A 443      39.172  60.770  43.303  0.00  0.00           C
+ATOM   2048  CG  HIS A 443      39.415  59.443  42.666  0.00  0.00           C
+ATOM   2050  CD2 HIS A 443      40.108  59.105  41.553  0.00  0.00           C
+ATOM   2052  NE2 HIS A 443      39.980  57.749  41.397  0.00  0.00           N
+ATOM   2053  N   TRP A 444      36.636  60.559  40.965  0.00  0.00           N
+ATOM   2054  CA  TRP A 444      36.290  60.633  39.534  0.00  0.00           C
+ATOM   2055  C   TRP A 444      35.557  61.944  39.248  0.00  0.00           C
+ATOM   2056  O   TRP A 444      35.726  62.509  38.185  0.00  0.00           O
+ATOM   2057  CB  TRP A 444      35.365  59.526  39.066  0.00  0.00           C
+ATOM   2058  CG  TRP A 444      35.851  58.137  38.994  0.00  0.00           C
+ATOM   2059  CD1 TRP A 444      37.114  57.678  39.231  0.00  0.00           C
+ATOM   2075  N   LYS A 446      36.014  64.936  40.222  0.00  0.00           N
+ATOM   2076  CA  LYS A 446      36.890  66.099  40.131  0.00  0.00           C
+ATOM   2077  C   LYS A 446      37.421  66.313  38.700  0.00  0.00           C
+ATOM   2078  O   LYS A 446      38.235  67.226  38.464  0.00  0.00           O
+ATOM   2079  CB  LYS A 446      38.040  65.952  41.142  0.00  0.00           C
+ATOM   2080  CG  LYS A 446      37.692  64.953  42.270  0.00  0.00           C
+ATOM   2084  N   HIS A 447      36.955  65.482  37.764  0.00  0.00           N
+ATOM   2085  CA  HIS A 447      37.186  65.683  36.313  0.00  0.00           C
+ATOM   2088  CB  HIS A 447      37.629  64.374  35.648  0.00  0.00           C
+ATOM   2089  CG  HIS A 447      38.119  64.537  34.238  0.00  0.00           C
+ATOM   2091  CD2 HIS A 447      39.346  64.807  33.734  0.00  0.00           C
+ATOM   2109  CB  LEU A 450      34.770  61.597  34.790  0.00  0.00           C
+ATOM   2111  CD1 LEU A 450      36.712  60.225  34.860  0.00  0.00           C

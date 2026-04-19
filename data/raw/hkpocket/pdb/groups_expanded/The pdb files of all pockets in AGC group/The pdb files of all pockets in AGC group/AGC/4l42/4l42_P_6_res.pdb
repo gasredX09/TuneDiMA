@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  26.36 -19.94  15.87 with max radius 6.90
+ATOM    440  CA  LYS A 118      28.079 -16.436  12.503  0.00  0.00           C
+ATOM    441  C   LYS A 118      27.126 -16.746  11.386  0.00  0.00           C
+ATOM    442  O   LYS A 118      26.416 -17.729  11.434  0.00  0.00           O
+ATOM    443  CB  LYS A 118      27.327 -15.646  13.537  0.00  0.00           C
+ATOM    444  CG  LYS A 118      27.975 -15.661  14.871  0.00  0.00           C
+ATOM    445  CD  LYS A 118      26.986 -15.216  15.922  0.00  0.00           C
+ATOM    446  CE  LYS A 118      27.690 -14.778  17.206  0.00  0.00           C
+ATOM    464  C   ARG A 121      26.621 -21.259   9.887  0.00  0.00           C
+ATOM    466  CB  ARG A 121      28.408 -20.637  11.527  0.00  0.00           C
+ATOM    467  CG  ARG A 121      28.849 -21.875  12.270  0.00  0.00           C
+ATOM    468  CD  ARG A 121      27.779 -22.907  12.251  0.00  0.00           C
+ATOM    469  NE  ARG A 121      27.607 -23.539  13.542  0.00  0.00           N
+ATOM    470  CZ  ARG A 121      26.674 -24.449  13.790  0.00  0.00           C
+ATOM    471  NH1 ARG A 121      25.837 -24.829  12.834  0.00  0.00           N
+ATOM    472  NH2 ARG A 121      26.573 -24.972  15.000  0.00  0.00           N
+ATOM    473  N   ASN A 122      25.695 -20.358  10.206  0.00  0.00           N
+ATOM    474  CA  ASN A 122      24.279 -20.645  10.040  0.00  0.00           C
+ATOM    478  CG  ASN A 122      23.289 -19.075  11.726  0.00  0.00           C
+ATOM    479  OD1 ASN A 122      23.734 -19.834  12.584  0.00  0.00           O
+ATOM    480  ND2 ASN A 122      22.661 -17.944  12.024  0.00  0.00           N
+ATOM    505  OE2 GLU A 125      23.235 -24.897  12.212  0.00  0.00           O
+ATOM   2293  N   PHE A 385      29.778 -17.254  20.214  0.00  0.00           N
+ATOM   2294  CA  PHE A 385      29.881 -18.480  19.446  0.00  0.00           C
+ATOM   2295  C   PHE A 385      29.444 -19.634  20.325  0.00  0.00           C
+ATOM   2296  O   PHE A 385      30.136 -20.632  20.442  0.00  0.00           O
+ATOM   2297  CB  PHE A 385      31.318 -18.684  18.951  0.00  0.00           C
+ATOM   2298  CG  PHE A 385      31.831 -17.556  18.108  0.00  0.00           C
+ATOM   2299  CD1 PHE A 385      31.112 -17.117  17.009  0.00  0.00           C
+ATOM   2301  CE1 PHE A 385      31.571 -16.071  16.236  0.00  0.00           C
+ATOM   2304  N   ARG A 386      28.292 -19.488  20.959  0.00  0.00           N
+ATOM   2305  CA  ARG A 386      27.865 -20.466  21.934  0.00  0.00           C
+ATOM   2306  C   ARG A 386      27.506 -21.794  21.304  0.00  0.00           C
+ATOM   2308  CB  ARG A 386      26.714 -19.931  22.786  0.00  0.00           C
+ATOM   2315  N   ASP A 387      26.476 -21.814  20.472  0.00  0.00           N
+ATOM   2316  CA  ASP A 387      26.086 -23.065  19.840  0.00  0.00           C
+ATOM   2317  C   ASP A 387      26.834 -23.261  18.532  0.00  0.00           C
+ATOM   2318  O   ASP A 387      26.257 -23.727  17.550  0.00  0.00           O
+ATOM   2319  CB  ASP A 387      24.572 -23.113  19.616  0.00  0.00           C
+ATOM   2320  CG  ASP A 387      23.780 -22.927  20.904  0.00  0.00           C
+ATOM   2323  N   PHE A 388      28.113 -22.906  18.527  0.00  0.00           N
+ATOM   2324  CA  PHE A 388      28.938 -23.091  17.355  0.00  0.00           C
+ATOM   2325  C   PHE A 388      29.075 -24.570  17.128  0.00  0.00           C
+ATOM   2327  CB  PHE A 388      30.320 -22.482  17.563  0.00  0.00           C
+ATOM   2328  CG  PHE A 388      31.075 -22.248  16.290  0.00  0.00           C
+ATOM   2329  CD1 PHE A 388      30.796 -21.143  15.505  0.00  0.00           C
+ATOM   2331  CE1 PHE A 388      31.492 -20.916  14.332  0.00  0.00           C

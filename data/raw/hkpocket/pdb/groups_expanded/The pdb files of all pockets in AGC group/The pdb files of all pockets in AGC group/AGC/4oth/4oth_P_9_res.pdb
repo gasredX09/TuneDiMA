@@ -1,0 +1,49 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 9 with 43 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -17.45 -14.88 -14.60 with max radius 8.27
+ATOM    547  CD2 HIS A 681     -15.268 -10.228 -12.068  0.00  0.00           C
+ATOM    548  CE1 HIS A 681     -15.560  -9.281 -14.022  0.00  0.00           C
+ATOM    549  NE2 HIS A 681     -15.781 -10.382 -13.328  0.00  0.00           N
+ATOM    945  CA  LEU A 732     -19.448 -10.485 -16.371  0.00  0.00           C
+ATOM    946  C   LEU A 732     -19.314  -9.673 -15.069  0.00  0.00           C
+ATOM    947  O   LEU A 732     -19.295 -10.258 -13.978  0.00  0.00           O
+ATOM    948  CB  LEU A 732     -18.098 -10.729 -17.028  0.00  0.00           C
+ATOM    949  CG  LEU A 732     -18.105 -11.727 -18.195  0.00  0.00           C
+ATOM    950  CD1 LEU A 732     -16.735 -11.765 -18.826  0.00  0.00           C
+ATOM    951  CD2 LEU A 732     -18.545 -13.119 -17.750  0.00  0.00           C
+ATOM    965  CA  GLN A 735     -22.311 -11.683 -12.553  0.00  0.00           C
+ATOM    966  C   GLN A 735     -21.561 -11.694 -11.212  0.00  0.00           C
+ATOM    967  O   GLN A 735     -22.054 -12.241 -10.205  0.00  0.00           O
+ATOM    968  CB  GLN A 735     -21.598 -12.598 -13.564  0.00  0.00           C
+ATOM    969  CG  GLN A 735     -21.429 -14.009 -12.982  0.00  0.00           C
+ATOM    970  CD  GLN A 735     -21.232 -15.048 -14.028  0.00  0.00           C
+ATOM    971  OE1 GLN A 735     -21.841 -16.115 -13.957  0.00  0.00           O
+ATOM    972  NE2 GLN A 735     -20.434 -14.747 -15.029  0.00  0.00           N
+ATOM    973  N   PHE A 736     -20.401 -11.026 -11.209  0.00  0.00           N
+ATOM    974  CA  PHE A 736     -19.516 -10.941 -10.061  0.00  0.00           C
+ATOM    977  CB  PHE A 736     -18.203 -10.271 -10.481  0.00  0.00           C
+ATOM    978  CG  PHE A 736     -17.257 -10.071  -9.334  0.00  0.00           C
+ATOM    979  CD1 PHE A 736     -16.396 -11.099  -8.937  0.00  0.00           C
+ATOM    981  CE1 PHE A 736     -15.527 -10.914  -7.845  0.00  0.00           C
+ATOM   1008  CD  GLU A 739     -20.112 -15.093  -9.204  0.00  0.00           C
+ATOM   1009  OE1 GLU A 739     -19.023 -14.449  -9.199  0.00  0.00           O
+ATOM   1010  OE2 GLU A 739     -20.447 -15.850 -10.170  0.00  0.00           O
+ATOM   1893  CE  LYS A 875     -21.071 -16.355 -18.557  0.00  0.00           C
+ATOM   1894  NZ  LYS A 875     -20.348 -16.817 -17.355  0.00  0.00           N
+ATOM   1973  CA  TRP A 885     -16.718 -15.745 -22.007  0.00  0.00           C
+ATOM   1974  C   TRP A 885     -15.420 -15.877 -21.221  0.00  0.00           C
+ATOM   1975  O   TRP A 885     -15.049 -14.978 -20.455  0.00  0.00           O
+ATOM   1976  CB  TRP A 885     -17.900 -16.317 -21.202  0.00  0.00           C
+ATOM   1977  CG  TRP A 885     -19.235 -16.021 -21.800  0.00  0.00           C
+ATOM   1978  CD1 TRP A 885     -20.039 -16.890 -22.519  0.00  0.00           C
+ATOM   1986  N   GLU A 886     -14.697 -16.977 -21.395  0.00  0.00           N
+ATOM   1987  CA  GLU A 886     -13.474 -17.111 -20.626  0.00  0.00           C
+ATOM   1990  CB  GLU A 886     -13.049 -18.578 -20.548  0.00  0.00           C
+ATOM   1991  CG  GLU A 886     -14.025 -19.501 -19.788  0.00  0.00           C
+ATOM   2012  CB  LEU A 889     -13.131 -13.719 -17.766  0.00  0.00           C
+ATOM   2013  CG  LEU A 889     -12.992 -13.553 -16.243  0.00  0.00           C
+ATOM   2014  CD1 LEU A 889     -13.770 -12.329 -15.836  0.00  0.00           C
+ATOM   2015  CD2 LEU A 889     -13.522 -14.782 -15.502  0.00  0.00           C

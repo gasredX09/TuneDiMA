@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 16 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   4.40  30.27   5.32 with max radius 6.00
+ATOM   1320  CG  LEU A 298       4.236  27.577   9.636  0.00  0.00           C
+ATOM   1321  CD1 LEU A 298       3.541  28.925   9.594  0.00  0.00           C
+ATOM   1322  CD2 LEU A 298       5.275  27.491   8.511  0.00  0.00           C
+ATOM   1398  CE1 PHE A 307       1.617  25.179   6.836  0.00  0.00           C
+ATOM   1400  CZ  PHE A 307       2.516  24.923   7.844  0.00  0.00           C
+ATOM   1428  CG  LEU A 311       4.775  25.857   2.182  0.00  0.00           C
+ATOM   1429  CD1 LEU A 311       5.495  27.074   1.722  0.00  0.00           C
+ATOM   1430  CD2 LEU A 311       3.550  26.291   3.009  0.00  0.00           C
+ATOM   1466  CE1 PHE A 315       8.404  27.296   5.336  0.00  0.00           C
+ATOM   1467  CE2 PHE A 315       6.927  25.471   5.075  0.00  0.00           C
+ATOM   1468  CZ  PHE A 315       7.150  26.766   5.417  0.00  0.00           C
+ATOM   1688  CD1 LEU A 343       7.159  31.226   9.221  0.00  0.00           C
+ATOM   1689  CD2 LEU A 343       8.924  30.000   8.080  0.00  0.00           C
+ATOM   1715  ND1 HIS A 346       3.649  33.928   8.847  0.00  0.00           N
+ATOM   1717  CE1 HIS A 346       2.931  32.937   9.337  0.00  0.00           C
+ATOM   1719  N   GLY A 347       4.774  34.919   6.707  0.00  0.00           N
+ATOM   1720  CA  GLY A 347       4.186  34.980   5.391  0.00  0.00           C
+ATOM   1721  C   GLY A 347       5.147  34.616   4.264  0.00  0.00           C
+ATOM   1722  O   GLY A 347       4.748  34.676   3.118  0.00  0.00           O
+ATOM   1723  N   ARG A 348       6.405  34.289   4.579  0.00  0.00           N
+ATOM   1724  CA  ARG A 348       7.401  33.899   3.601  0.00  0.00           C
+ATOM   1725  C   ARG A 348       8.076  32.618   4.049  0.00  0.00           C
+ATOM   1726  O   ARG A 348       8.140  32.329   5.214  0.00  0.00           O
+ATOM   1734  N   SER A 349       8.561  31.830   3.123  0.00  0.00           N
+ATOM   1735  CA  SER A 349       9.052  30.500   3.407  0.00  0.00           C
+ATOM   1738  CB  SER A 349       8.694  29.584   2.201  0.00  0.00           C

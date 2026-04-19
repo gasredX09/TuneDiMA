@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -17.06  41.93  39.41 with max radius 6.12
+ATOM    872  CD1 LEU A 709     -14.950  39.968  36.247  0.00  0.00           C
+ATOM    895  CB  PHE A 712     -19.100  41.074  34.348  0.00  0.00           C
+ATOM    896  CG  PHE A 712     -19.425  41.997  35.491  0.00  0.00           C
+ATOM    897  CD1 PHE A 712     -20.741  42.195  35.901  0.00  0.00           C
+ATOM    898  CD2 PHE A 712     -18.405  42.646  36.186  0.00  0.00           C
+ATOM    899  CE1 PHE A 712     -21.039  43.037  36.962  0.00  0.00           C
+ATOM    900  CE2 PHE A 712     -18.700  43.493  37.252  0.00  0.00           C
+ATOM    901  CZ  PHE A 712     -20.016  43.687  37.647  0.00  0.00           C
+ATOM    907  CG  LEU A 713     -14.365  42.997  34.098  0.00  0.00           C
+ATOM    909  CD2 LEU A 713     -14.759  44.018  35.159  0.00  0.00           C
+ATOM    983  CD1 ILE A 738     -15.762  46.189  38.131  0.00  0.00           C
+ATOM   1048  CG1 VAL A 746     -12.282  40.697  39.175  0.00  0.00           C
+ATOM   1049  CG2 VAL A 746     -13.808  42.267  40.412  0.00  0.00           C
+ATOM   1068  NE2 GLN A 749     -14.431  39.839  44.532  0.00  0.00           N
+ATOM   1263  CB  VAL A 774     -19.741  38.351  37.747  0.00  0.00           C
+ATOM   1264  CG1 VAL A 774     -20.020  39.490  38.712  0.00  0.00           C
+ATOM   1265  CG2 VAL A 774     -18.435  38.591  36.998  0.00  0.00           C
+ATOM   1288  CA  PHE A 778     -19.054  41.470  42.959  0.00  0.00           C
+ATOM   1289  C   PHE A 778     -18.252  40.235  43.380  0.00  0.00           C
+ATOM   1290  O   PHE A 778     -17.037  40.266  43.335  0.00  0.00           O
+ATOM   1291  CB  PHE A 778     -18.262  42.753  43.256  0.00  0.00           C
+ATOM   1292  CG  PHE A 778     -18.966  44.009  42.840  0.00  0.00           C
+ATOM   1294  CD2 PHE A 778     -18.762  44.542  41.582  0.00  0.00           C
+ATOM   1296  CE2 PHE A 778     -19.417  45.703  41.190  0.00  0.00           C
+ATOM   1310  CG1 ILE A 780     -14.744  38.220  41.104  0.00  0.00           C
+ATOM   1312  CD1 ILE A 780     -15.810  38.674  40.132  0.00  0.00           C

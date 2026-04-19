@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  36.66  77.37 -68.74 with max radius 7.12
+ATOM   1063  O   HIS A 163      36.917  72.639 -63.429  0.00  0.00           O
+ATOM   1084  O   GLN A 165      39.041  72.071 -66.463  0.00  0.00           O
+ATOM   1091  CA  LYS A 166      40.697  72.258 -68.713  0.00  0.00           C
+ATOM   1092  C   LYS A 166      40.403  71.875 -70.149  0.00  0.00           C
+ATOM   1094  CB  LYS A 166      42.108  72.833 -68.587  0.00  0.00           C
+ATOM   1095  CG  LYS A 166      42.198  73.842 -67.457  0.00  0.00           C
+ATOM   1099  N   PRO A 167      39.198  72.201 -70.645  0.00  0.00           N
+ATOM   1100  CA  PRO A 167      38.122  72.918 -69.992  0.00  0.00           C
+ATOM   1101  C   PRO A 167      37.428  72.049 -68.981  0.00  0.00           C
+ATOM   1103  CB  PRO A 167      37.186  73.274 -71.145  0.00  0.00           C
+ATOM   1104  CG  PRO A 167      37.399  72.201 -72.168  0.00  0.00           C
+ATOM   1105  CD  PRO A 167      38.789  71.640 -71.953  0.00  0.00           C
+ATOM   1110  CB  PRO A 168      35.094  72.885 -66.290  0.00  0.00           C
+ATOM   1111  CG  PRO A 168      35.889  74.148 -66.456  0.00  0.00           C
+ATOM   1112  CD  PRO A 168      36.470  74.084 -67.834  0.00  0.00           C
+ATOM   1345  CB  ILE A 198      34.316  73.603 -74.496  0.00  0.00           C
+ATOM   1346  CG1 ILE A 198      33.120  74.378 -73.950  0.00  0.00           C
+ATOM   1348  CD1 ILE A 198      33.481  75.688 -73.288  0.00  0.00           C
+ATOM   1371  CD1 TYR A 201      40.546  75.727 -73.588  0.00  0.00           C
+ATOM   1372  CD2 TYR A 201      38.169  75.785 -73.810  0.00  0.00           C
+ATOM   1373  CE1 TYR A 201      40.507  76.872 -72.809  0.00  0.00           C
+ATOM   1374  CE2 TYR A 201      38.122  76.920 -73.024  0.00  0.00           C
+ATOM   1375  CZ  TYR A 201      39.292  77.460 -72.529  0.00  0.00           C
+ATOM   1376  OH  TYR A 201      39.253  78.599 -71.756  0.00  0.00           O
+ATOM   1398  C   SER A 236      38.212  81.972 -69.257  0.00  0.00           C
+ATOM   1399  O   SER A 236      39.047  81.091 -69.049  0.00  0.00           O
+ATOM   1400  CB  SER A 236      36.937  82.026 -71.420  0.00  0.00           C
+ATOM   1401  OG  SER A 236      35.892  81.532 -70.584  0.00  0.00           O
+ATOM   1402  N   ASN A 237      37.382  82.423 -68.327  0.00  0.00           N
+ATOM   1403  CA  ASN A 237      36.719  81.507 -67.433  0.00  0.00           C
+ATOM   1404  C   ASN A 237      35.311  82.064 -67.146  0.00  0.00           C
+ATOM   1405  O   ASN A 237      35.043  82.724 -66.127  0.00  0.00           O
+ATOM   1406  CB  ASN A 237      37.553  81.175 -66.202  0.00  0.00           C
+ATOM   1410  N   PHE A 238      34.437  81.848 -68.129  0.00  0.00           N
+ATOM   1411  CA  PHE A 238      33.007  81.995 -67.967  0.00  0.00           C
+ATOM   1412  C   PHE A 238      32.487  80.711 -67.332  0.00  0.00           C
+ATOM   1413  O   PHE A 238      33.063  79.657 -67.549  0.00  0.00           O
+ATOM   1414  CB  PHE A 238      32.327  82.191 -69.328  0.00  0.00           C
+ATOM   1422  CA  PRO A 239      30.698  79.569 -66.150  0.00  0.00           C
+ATOM   1432  CB  ILE A 240      30.777  76.253 -69.434  0.00  0.00           C
+ATOM   1433  CG1 ILE A 240      31.696  75.336 -68.648  0.00  0.00           C
+ATOM   1434  CG2 ILE A 240      31.605  77.351 -70.025  0.00  0.00           C
+ATOM   1435  CD1 ILE A 240      32.475  74.373 -69.524  0.00  0.00           C
+ATOM   1446  CD  GLU A 242      32.233  75.480 -64.606  0.00  0.00           C
+ATOM   1447  OE1 GLU A 242      31.307  76.179 -65.105  0.00  0.00           O
+ATOM   1448  OE2 GLU A 242      33.433  75.598 -64.925  0.00  0.00           O

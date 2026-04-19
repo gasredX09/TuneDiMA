@@ -1,0 +1,25 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 19 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -7.85 -10.48 -31.66 with max radius 5.81
+ATOM   3599  CB  SER B 148      -7.160 -13.057 -27.273  0.00  0.00           C
+ATOM   3600  OG  SER B 148      -8.367 -12.726 -27.943  0.00  0.00           O
+ATOM   3601  N   PHE B 149      -7.629 -15.727 -29.069  0.00  0.00           N
+ATOM   3603  C   PHE B 149      -6.967 -15.713 -31.429  0.00  0.00           C
+ATOM   3604  O   PHE B 149      -7.689 -14.783 -31.800  0.00  0.00           O
+ATOM   3613  CA  MET B 150      -5.307 -15.292 -33.187  0.00  0.00           C
+ATOM   3618  SD  MET B 150      -4.269 -12.899 -31.256  0.00  0.00           S
+ATOM   3619  CE  MET B 150      -3.890 -12.725 -29.515  0.00  0.00           C
+ATOM   4036  CA  SER B 204      -5.165 -11.857 -35.472  0.00  0.00           C
+ATOM   4039  CB  SER B 204      -5.495 -10.787 -34.432  0.00  0.00           C
+ATOM   4040  OG  SER B 204      -5.148  -9.507 -34.922  0.00  0.00           O
+ATOM   4041  N   VAL B 205      -7.348 -11.852 -36.567  0.00  0.00           N
+ATOM   4047  CG2 VAL B 205      -9.958 -12.477 -35.817  0.00  0.00           C
+ATOM   4053  CG  ASP B 206      -7.921  -6.776 -36.129  0.00  0.00           C
+ATOM   4054  OD1 ASP B 206      -7.191  -7.669 -35.631  0.00  0.00           O
+ATOM   4066  CD  LYS B 208      -5.047  -5.377 -33.246  0.00  0.00           C
+ATOM   4085  CE2 TYR B 210      -2.819  -9.351 -31.774  0.00  0.00           C
+ATOM   4086  CZ  TYR B 210      -3.138  -8.529 -30.702  0.00  0.00           C
+ATOM   4087  OH  TYR B 210      -4.280  -7.779 -30.754  0.00  0.00           O

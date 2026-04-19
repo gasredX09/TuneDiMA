@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -2.54   3.41  29.53 with max radius 5.96
+ATOM     19  CB  SER A  37      -5.993   7.079  31.942  0.00  0.00           C
+ATOM    341  O   ILE A  90      -6.795   0.755  26.306  0.00  0.00           O
+ATOM    354  C   LEU A  93      -3.830  -0.819  25.298  0.00  0.00           C
+ATOM    357  N   LEU A  94      -4.051  -0.527  26.573  0.00  0.00           N
+ATOM    358  CA  LEU A  94      -2.950  -0.539  27.535  0.00  0.00           C
+ATOM    361  CB  LEU A  94      -3.448  -0.187  28.942  0.00  0.00           C
+ATOM    429  C   LEU A 104       1.906   2.665  26.051  0.00  0.00           C
+ATOM    431  CB  LEU A 104      -0.216   2.571  24.686  0.00  0.00           C
+ATOM    432  CG  LEU A 104      -1.169   3.574  25.351  0.00  0.00           C
+ATOM    433  CD1 LEU A 104      -0.713   5.006  25.138  0.00  0.00           C
+ATOM    434  CD2 LEU A 104      -2.603   3.380  24.842  0.00  0.00           C
+ATOM    437  C   LYS A 105       1.950   4.207  28.924  0.00  0.00           C
+ATOM    438  O   LYS A 105       1.654   3.503  29.889  0.00  0.00           O
+ATOM    444  N   GLU A 106       1.412   5.401  28.709  0.00  0.00           N
+ATOM    445  CA  GLU A 106       0.483   5.980  29.671  0.00  0.00           C
+ATOM    446  C   GLU A 106      -0.561   6.883  29.016  0.00  0.00           C
+ATOM    447  O   GLU A 106      -0.362   7.395  27.910  0.00  0.00           O
+ATOM    448  CB  GLU A 106       1.245   6.725  30.789  0.00  0.00           C
+ATOM    449  CG  GLU A 106       0.431   6.926  32.076  0.00  0.00           C
+ATOM    453  N   ILE A 107      -1.685   7.045  29.710  0.00  0.00           N
+ATOM    454  CA  ILE A 107      -2.763   7.929  29.281  0.00  0.00           C
+ATOM    456  O   ILE A 107      -3.447   8.576  31.485  0.00  0.00           O
+ATOM    457  CB  ILE A 107      -4.060   7.163  28.973  0.00  0.00           C
+ATOM    458  CG1 ILE A 107      -3.893   6.265  27.763  0.00  0.00           C
+ATOM    459  CG2 ILE A 107      -5.209   8.148  28.753  0.00  0.00           C
+ATOM    460  CD1 ILE A 107      -5.076   5.370  27.543  0.00  0.00           C

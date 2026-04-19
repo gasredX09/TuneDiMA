@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  45.56  34.54  34.32 with max radius 6.67
+ATOM   1838  CG  GLU A 302      39.967  30.947  33.478  0.00  0.00           C
+ATOM   1839  CD  GLU A 302      39.530  32.371  33.861  0.00  0.00           C
+ATOM   1841  OE2 GLU A 302      40.403  33.268  33.978  0.00  0.00           O
+ATOM   1999  CG  GLU A 319      50.882  31.417  33.807  0.00  0.00           C
+ATOM   2000  CD  GLU A 319      51.173  32.146  32.514  0.00  0.00           C
+ATOM   2001  OE1 GLU A 319      50.236  32.277  31.678  0.00  0.00           O
+ATOM   2036  CA  ARG A 325      47.510  31.689  38.753  0.00  0.00           C
+ATOM   2037  C   ARG A 325      47.596  31.622  37.211  0.00  0.00           C
+ATOM   2038  O   ARG A 325      48.220  32.488  36.565  0.00  0.00           O
+ATOM   2039  CB  ARG A 325      46.614  32.833  39.181  0.00  0.00           C
+ATOM   2040  CG  ARG A 325      45.136  32.514  39.185  0.00  0.00           C
+ATOM   2041  CD  ARG A 325      44.317  33.784  39.198  0.00  0.00           C
+ATOM   2042  NE  ARG A 325      42.958  33.517  38.755  0.00  0.00           N
+ATOM   2046  N   TYR A 326      47.040  30.572  36.617  0.00  0.00           N
+ATOM   2047  CA  TYR A 326      47.054  30.489  35.146  0.00  0.00           C
+ATOM   2048  C   TYR A 326      45.633  30.516  34.646  0.00  0.00           C
+ATOM   2049  O   TYR A 326      44.731  30.191  35.384  0.00  0.00           O
+ATOM   2050  CB  TYR A 326      47.845  29.237  34.647  0.00  0.00           C
+ATOM   2058  N   GLY A 327      45.450  30.915  33.388  0.00  0.00           N
+ATOM   2059  CA  GLY A 327      44.152  30.932  32.747  0.00  0.00           C
+ATOM   2060  C   GLY A 327      44.354  30.937  31.254  0.00  0.00           C
+ATOM   2061  O   GLY A 327      45.381  30.473  30.758  0.00  0.00           O
+ATOM   2062  N   MET A 328      43.397  31.479  30.521  0.00  0.00           N
+ATOM   2070  N   PRO A 329      45.480  32.825  29.081  0.00  0.00           N
+ATOM   2074  CB  PRO A 329      47.229  34.387  29.308  0.00  0.00           C
+ATOM   2075  CG  PRO A 329      45.971  34.974  29.871  0.00  0.00           C
+ATOM   2076  CD  PRO A 329      45.077  33.769  30.136  0.00  0.00           C
+ATOM   2083  CG2 ILE A 330      48.689  29.395  31.000  0.00  0.00           C
+ATOM   3000  CB  PRO A 447      49.299  35.785  31.987  0.00  0.00           C
+ATOM   3001  CG  PRO A 447      49.788  35.848  33.386  0.00  0.00           C
+ATOM   3002  CD  PRO A 447      51.098  36.576  33.329  0.00  0.00           C
+ATOM   3003  N   ALA A 448      48.634  39.026  32.215  0.00  0.00           N
+ATOM   3004  CA  ALA A 448      47.666  40.149  32.169  0.00  0.00           C
+ATOM   3007  CB  ALA A 448      47.577  40.849  33.517  0.00  0.00           C

@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   0.69  10.93  -5.83 with max radius 5.97
+ATOM   1882  O   PRO A 259      -4.499  11.664  -8.542  0.00  0.00           O
+ATOM   1887  CA  GLU A 260      -3.097   9.432  -7.825  0.00  0.00           C
+ATOM   1888  C   GLU A 260      -2.235   9.913  -8.994  0.00  0.00           C
+ATOM   1889  O   GLU A 260      -1.229  10.617  -8.788  0.00  0.00           O
+ATOM   1890  CB  GLU A 260      -2.608   8.061  -7.338  0.00  0.00           C
+ATOM   1891  CG  GLU A 260      -2.713   6.906  -8.320  0.00  0.00           C
+ATOM   1895  N   VAL A 261      -2.648   9.553 -10.212  0.00  0.00           N
+ATOM   1896  CA  VAL A 261      -1.907   9.939 -11.408  0.00  0.00           C
+ATOM   1911  CA  LYS A 263      -1.890  14.588  -8.633  0.00  0.00           C
+ATOM   1912  C   LYS A 263      -0.386  14.488  -8.840  0.00  0.00           C
+ATOM   1913  O   LYS A 263       0.350  15.403  -8.480  0.00  0.00           O
+ATOM   1914  CB  LYS A 263      -2.256  14.184  -7.195  0.00  0.00           C
+ATOM   1915  CG  LYS A 263      -1.663  14.992  -6.070  0.00  0.00           C
+ATOM   1916  CD  LYS A 263      -2.143  14.541  -4.699  0.00  0.00           C
+ATOM   1917  CE  LYS A 263      -1.479  15.337  -3.587  0.00  0.00           C
+ATOM   1918  NZ  LYS A 263      -1.944  14.912  -2.238  0.00  0.00           N
+ATOM   1919  N   SER A 264       0.069  13.382  -9.422  0.00  0.00           N
+ATOM   1920  CA  SER A 264       1.478  13.228  -9.768  0.00  0.00           C
+ATOM   1923  CB  SER A 264       1.704  11.916 -10.519  0.00  0.00           C
+ATOM   1941  O   GLY A 267       4.576  15.874  -7.169  0.00  0.00           O
+ATOM   1945  O   ASP A 268       5.455  13.036  -5.395  0.00  0.00           O
+ATOM   1951  CA  GLY A 269       4.471  11.711  -7.609  0.00  0.00           C
+ATOM   1952  C   GLY A 269       5.143  10.353  -7.627  0.00  0.00           C
+ATOM   1954  N   PHE A 270       4.832   9.523  -6.633  0.00  0.00           N
+ATOM   1955  CA  PHE A 270       5.364   8.162  -6.542  0.00  0.00           C
+ATOM   1956  C   PHE A 270       4.199   7.177  -6.569  0.00  0.00           C
+ATOM   1957  O   PHE A 270       3.575   6.937  -5.537  0.00  0.00           O
+ATOM   1965  N   TYR A 271       3.901   6.613  -7.742  0.00  0.00           N
+ATOM   1966  CA  TYR A 271       2.767   5.677  -7.878  0.00  0.00           C
+ATOM   1969  CB  TYR A 271       1.577   6.354  -8.568  0.00  0.00           C
+ATOM   1970  CG  TYR A 271       1.755   6.783 -10.005  0.00  0.00           C
+ATOM   1971  CD1 TYR A 271       2.283   8.035 -10.323  0.00  0.00           C
+ATOM   1972  CD2 TYR A 271       1.324   5.971 -11.052  0.00  0.00           C
+ATOM   1973  CE1 TYR A 271       2.417   8.450 -11.653  0.00  0.00           C
+ATOM   2493  CD  ARG A 336      -2.478   6.395  -3.886  0.00  0.00           C
+ATOM   2494  NE  ARG A 336      -1.234   6.271  -4.639  0.00  0.00           N
+ATOM   2495  CZ  ARG A 336      -0.046   6.749  -4.261  0.00  0.00           C
+ATOM   2496  NH1 ARG A 336       0.125   7.400  -3.114  0.00  0.00           N
+ATOM   2497  NH2 ARG A 336       0.996   6.572  -5.055  0.00  0.00           N

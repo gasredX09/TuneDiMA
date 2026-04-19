@@ -1,0 +1,27 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 21 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  34.78 -30.70   3.91 with max radius 5.11
+ATOM   1962  CB  GLU A 254      36.645 -32.158   8.425  0.00  0.00           C
+ATOM   1966  OE2 GLU A 254      37.558 -32.731   5.895  0.00  0.00           O
+ATOM   3821  CB  SER A 484      39.549 -28.959   4.463  0.00  0.00           C
+ATOM   3822  OG  SER A 484      38.361 -28.385   4.965  0.00  0.00           O
+ATOM   3844  CE  LYS A 487      37.285 -34.612   2.799  0.00  0.00           C
+ATOM   3845  NZ  LYS A 487      37.874 -33.247   3.138  0.00  0.00           N
+ATOM   3934  CA  TYR A 499      33.451 -36.234   5.502  0.00  0.00           C
+ATOM   3935  C   TYR A 499      32.978 -34.913   4.896  0.00  0.00           C
+ATOM   3936  O   TYR A 499      32.696 -33.950   5.622  0.00  0.00           O
+ATOM   3937  CB  TYR A 499      34.985 -36.328   5.427  0.00  0.00           C
+ATOM   3945  N   SER A 500      32.870 -34.875   3.569  0.00  0.00           N
+ATOM   3946  CA  SER A 500      32.442 -33.657   2.887  0.00  0.00           C
+ATOM   3947  C   SER A 500      30.989 -33.332   3.202  0.00  0.00           C
+ATOM   3948  O   SER A 500      30.644 -32.175   3.436  0.00  0.00           O
+ATOM   3949  CB  SER A 500      32.640 -33.784   1.368  0.00  0.00           C
+ATOM   3950  OG  SER A 500      34.019 -33.672   1.066  0.00  0.00           O
+ATOM   3972  CA  SER A 503      31.348 -30.807   7.462  0.00  0.00           C
+ATOM   3973  C   SER A 503      30.849 -29.576   6.744  0.00  0.00           C
+ATOM   3974  O   SER A 503      31.561 -28.962   5.956  0.00  0.00           O
+ATOM   3975  CB  SER A 503      32.882 -30.896   7.342  0.00  0.00           C
+ATOM   3976  OG  SER A 503      33.352 -32.173   7.771  0.00  0.00           O

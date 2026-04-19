@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  22.63  20.41  27.04 with max radius 6.09
+ATOM     91  CG  LYS A 363      24.832  20.379  21.505  0.00  0.00           C
+ATOM     92  CD  LYS A 363      25.931  21.335  22.004  0.00  0.00           C
+ATOM     93  CE  LYS A 363      25.465  22.057  23.286  0.00  0.00           C
+ATOM     94  NZ  LYS A 363      26.560  21.971  24.319  0.00  0.00           N
+ATOM    108  O   PHE A 366      17.395  18.917  21.710  0.00  0.00           O
+ATOM    116  N   GLY A 367      18.765  20.729  21.666  0.00  0.00           N
+ATOM    117  CA  GLY A 367      19.563  20.349  22.865  0.00  0.00           C
+ATOM    118  C   GLY A 367      20.745  19.422  22.527  0.00  0.00           C
+ATOM    119  O   GLY A 367      21.589  19.760  21.693  0.00  0.00           O
+ATOM    120  N   LYS A 368      20.775  18.217  23.111  0.00  0.00           N
+ATOM    121  CA  LYS A 368      21.974  17.358  23.033  0.00  0.00           C
+ATOM    123  O   LYS A 368      20.872  15.323  23.788  0.00  0.00           O
+ATOM    124  CB  LYS A 368      22.876  17.727  24.229  0.00  0.00           C
+ATOM    125  CG  LYS A 368      24.257  17.222  24.193  0.00  0.00           C
+ATOM    126  CD  LYS A 368      24.963  17.508  25.538  0.00  0.00           C
+ATOM    127  CE  LYS A 368      26.481  17.498  25.325  0.00  0.00           C
+ATOM    128  NZ  LYS A 368      27.258  17.766  26.562  0.00  0.00           N
+ATOM    143  CE  MET A 370      24.773  14.238  27.530  0.00  0.00           C
+ATOM    254  CA  VAL A 385      18.703  15.663  26.735  0.00  0.00           C
+ATOM    255  C   VAL A 385      18.265  17.097  26.373  0.00  0.00           C
+ATOM    256  O   VAL A 385      18.846  17.729  25.454  0.00  0.00           O
+ATOM    257  CB  VAL A 385      20.106  15.738  27.399  0.00  0.00           C
+ATOM    258  CG1 VAL A 385      20.106  16.739  28.578  0.00  0.00           C
+ATOM    259  CG2 VAL A 385      20.609  14.339  27.779  0.00  0.00           C
+ATOM    260  N   LEU A 386      17.244  17.590  27.066  0.00  0.00           N
+ATOM    261  CA  LEU A 386      16.713  18.917  26.767  0.00  0.00           C
+ATOM    262  C   LEU A 386      16.627  19.694  28.071  0.00  0.00           C
+ATOM    263  O   LEU A 386      16.271  19.133  29.137  0.00  0.00           O
+ATOM    264  CB  LEU A 386      15.291  18.834  26.203  0.00  0.00           C
+ATOM    267  CD2 LEU A 386      15.703  18.463  23.777  0.00  0.00           C
+ATOM    268  N   LYS A 387      16.884  20.991  27.980  0.00  0.00           N
+ATOM    269  CA  LYS A 387      16.916  21.804  29.207  0.00  0.00           C
+ATOM    272  CB  LYS A 387      17.990  22.878  29.130  0.00  0.00           C
+ATOM    273  CG  LYS A 387      19.359  22.309  29.300  0.00  0.00           C
+ATOM    274  CD  LYS A 387      20.353  23.199  28.598  0.00  0.00           C
+ATOM    275  CE  LYS A 387      21.769  22.702  28.804  0.00  0.00           C
+ATOM    276  NZ  LYS A 387      22.730  23.695  28.207  0.00  0.00           N
+ATOM    300  CG2 VAL A 390      16.597  24.640  26.551  0.00  0.00           C
+ATOM    607  CG  ARG A 428      18.515  18.755  32.172  0.00  0.00           C
+ATOM    608  CD  ARG A 428      19.794  17.972  32.128  0.00  0.00           C
+ATOM    609  NE  ARG A 428      20.815  18.771  31.455  0.00  0.00           N
+ATOM    610  CZ  ARG A 428      21.705  19.522  32.092  0.00  0.00           C
+ATOM    611  NH1 ARG A 428      22.577  20.255  31.386  0.00  0.00           N
+ATOM   2379  O   VAL A 654      27.443  16.886  28.960  0.00  0.00           O
+ATOM   2384  CA  LEU A 655      25.881  17.587  31.277  0.00  0.00           C
+ATOM   2385  C   LEU A 655      26.344  18.924  31.831  0.00  0.00           C
+ATOM   2387  CB  LEU A 655      24.827  16.980  32.220  0.00  0.00           C
+ATOM   2390  CD2 LEU A 655      23.372  16.162  30.377  0.00  0.00           C

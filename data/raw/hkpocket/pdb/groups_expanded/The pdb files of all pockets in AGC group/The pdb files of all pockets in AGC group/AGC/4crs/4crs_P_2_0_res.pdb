@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -13.12  34.33 220.20 with max radius 6.86
+ATOM    916  CA  PRO A 757     -17.090  39.006 219.476  0.00  0.00           C
+ATOM    917  C   PRO A 757     -16.791  38.147 218.237  0.00  0.00           C
+ATOM    918  O   PRO A 757     -15.809  37.411 218.233  0.00  0.00           O
+ATOM    919  CB  PRO A 757     -18.109  38.299 220.389  0.00  0.00           C
+ATOM    923  CA  ARG A 758     -17.388  37.510 215.952  0.00  0.00           C
+ATOM    943  CG1 VAL A 760     -13.578  39.356 218.925  0.00  0.00           C
+ATOM    944  CG2 VAL A 760     -11.353  40.431 218.798  0.00  0.00           C
+ATOM    945  N   PHE A 761     -12.851  37.638 216.350  0.00  0.00           N
+ATOM    946  CA  PHE A 761     -12.362  36.298 216.014  0.00  0.00           C
+ATOM    947  C   PHE A 761     -11.754  36.262 214.620  0.00  0.00           C
+ATOM    948  O   PHE A 761     -10.580  35.912 214.436  0.00  0.00           O
+ATOM    949  CB  PHE A 761     -13.490  35.266 216.090  0.00  0.00           C
+ATOM    950  CG  PHE A 761     -13.054  33.880 215.736  0.00  0.00           C
+ATOM    951  CD1 PHE A 761     -12.345  33.116 216.647  0.00  0.00           C
+ATOM    953  CE1 PHE A 761     -11.924  31.839 216.326  0.00  0.00           C
+ATOM    955  CZ  PHE A 761     -12.209  31.315 215.076  0.00  0.00           C
+ATOM    977  CB  ALA A 764      -8.052  36.750 216.254  0.00  0.00           C
+ATOM   2221  CA  LEU A 918     -10.391  37.562 225.147  0.00  0.00           C
+ATOM   2222  C   LEU A 918      -9.792  36.427 224.298  0.00  0.00           C
+ATOM   2223  O   LEU A 918     -10.352  35.326 224.256  0.00  0.00           O
+ATOM   2224  CB  LEU A 918     -11.895  37.669 224.842  0.00  0.00           C
+ATOM   2225  CG  LEU A 918     -12.855  37.979 225.994  0.00  0.00           C
+ATOM   2227  CD2 LEU A 918     -14.306  38.007 225.520  0.00  0.00           C
+ATOM   2229  CA  ILE A 919      -8.144  35.717 222.668  0.00  0.00           C
+ATOM   2230  C   ILE A 919      -6.851  35.025 223.114  0.00  0.00           C
+ATOM   2232  CB  ILE A 919      -8.014  36.388 221.281  0.00  0.00           C
+ATOM   2233  CG1 ILE A 919      -9.394  36.408 220.627  0.00  0.00           C
+ATOM   2234  CG2 ILE A 919      -7.021  35.664 220.372  0.00  0.00           C
+ATOM   2235  CD1 ILE A 919      -9.570  37.501 219.605  0.00  0.00           C
+ATOM   2236  N   ASP A 920      -6.946  33.704 223.236  0.00  0.00           N
+ATOM   2239  O   ASP A 920      -5.703  31.763 221.334  0.00  0.00           O
+ATOM   2273  CB  LEU A 924      -6.407  31.006 217.911  0.00  0.00           C
+ATOM   2274  CG  LEU A 924      -7.165  31.494 216.677  0.00  0.00           C
+ATOM   2275  CD1 LEU A 924      -8.593  30.969 216.671  0.00  0.00           C
+ATOM   2276  CD2 LEU A 924      -7.154  33.015 216.623  0.00  0.00           C
+ATOM   2312  CB  VAL A 929     -10.402  29.090 219.840  0.00  0.00           C
+ATOM   2313  CG1 VAL A 929     -11.516  30.083 220.168  0.00  0.00           C
+ATOM   2314  CG2 VAL A 929      -9.111  29.458 220.573  0.00  0.00           C
+ATOM   2317  C   LYS A 930     -14.890  28.616 218.469  0.00  0.00           C
+ATOM   2318  O   LYS A 930     -14.930  29.722 219.003  0.00  0.00           O
+ATOM   2322  CA  PRO A 931     -15.526  29.563 216.308  0.00  0.00           C
+ATOM   2323  C   PRO A 931     -16.913  30.088 216.640  0.00  0.00           C
+ATOM   2324  O   PRO A 931     -17.752  29.321 217.096  0.00  0.00           O
+ATOM   2328  N   PRO A 932     -17.153  31.387 216.393  0.00  0.00           N
+ATOM   2329  CA  PRO A 932     -18.411  32.076 216.712  0.00  0.00           C
+ATOM   2332  CB  PRO A 932     -17.989  33.549 216.749  0.00  0.00           C
+ATOM   2333  CG  PRO A 932     -16.874  33.627 215.761  0.00  0.00           C
+ATOM   2334  CD  PRO A 932     -16.141  32.319 215.856  0.00  0.00           C

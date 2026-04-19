@@ -1,0 +1,56 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 50 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  25.56  28.74  10.73 with max radius 6.38
+ATOM   1230  CA  TRP A 166      24.348  24.611  12.532  0.00  0.00           C
+ATOM   1231  C   TRP A 166      23.818  25.830  13.249  0.00  0.00           C
+ATOM   1232  O   TRP A 166      24.584  26.760  13.498  0.00  0.00           O
+ATOM   1233  CB  TRP A 166      24.577  24.938  11.053  0.00  0.00           C
+ATOM   1234  CG  TRP A 166      25.320  23.868  10.309  0.00  0.00           C
+ATOM   1235  CD1 TRP A 166      25.932  22.759  10.830  0.00  0.00           C
+ATOM   1236  CD2 TRP A 166      25.537  23.821   8.894  0.00  0.00           C
+ATOM   1238  CE2 TRP A 166      26.293  22.655   8.624  0.00  0.00           C
+ATOM   1239  CE3 TRP A 166      25.202  24.675   7.829  0.00  0.00           C
+ATOM   1241  CZ3 TRP A 166      25.598  24.321   6.542  0.00  0.00           C
+ATOM   1243  N   TYR A 167      22.507  25.817  13.581  0.00  0.00           N
+ATOM   1244  CA  TYR A 167      21.829  26.958  14.222  0.00  0.00           C
+ATOM   1248  CG  TYR A 167      20.982  27.602  11.957  0.00  0.00           C
+ATOM   1249  CD1 TYR A 167      21.609  28.788  11.584  0.00  0.00           C
+ATOM   1250  CD2 TYR A 167      20.855  26.597  10.994  0.00  0.00           C
+ATOM   1251  CE1 TYR A 167      22.038  28.996  10.281  0.00  0.00           C
+ATOM   1252  CE2 TYR A 167      21.289  26.790   9.694  0.00  0.00           C
+ATOM   1253  CZ  TYR A 167      21.908  27.978   9.349  0.00  0.00           C
+ATOM   1254  OH  TYR A 167      22.339  28.177   8.068  0.00  0.00           O
+ATOM   1425  CA  CYS A 190      24.178  32.723  12.965  0.00  0.00           C
+ATOM   1426  C   CYS A 190      23.791  33.166  11.557  0.00  0.00           C
+ATOM   1427  O   CYS A 190      24.616  33.169  10.639  0.00  0.00           O
+ATOM   1428  CB  CYS A 190      23.794  31.260  13.192  0.00  0.00           C
+ATOM   1429  SG  CYS A 190      24.424  30.534  14.711  0.00  0.00           S
+ATOM   1430  N   ILE A 191      22.525  33.538  11.384  0.00  0.00           N
+ATOM   1431  CA  ILE A 191      21.988  33.990  10.107  0.00  0.00           C
+ATOM   1458  CB  GLU A 194      24.584  33.097   7.145  0.00  0.00           C
+ATOM   1459  CG  GLU A 194      24.879  31.872   6.329  0.00  0.00           C
+ATOM   1460  CD  GLU A 194      23.992  30.671   6.566  0.00  0.00           C
+ATOM   1461  OE1 GLU A 194      23.960  30.166   7.717  0.00  0.00           O
+ATOM   1496  O   ARG A 200      28.101  31.811   6.324  0.00  0.00           O
+ATOM   1505  CA  PRO A 201      27.519  29.365   7.428  0.00  0.00           C
+ATOM   1506  C   PRO A 201      28.637  29.666   8.423  0.00  0.00           C
+ATOM   1508  CB  PRO A 201      27.125  27.880   7.471  0.00  0.00           C
+ATOM   1511  N   LEU A 202      28.258  30.142   9.606  0.00  0.00           N
+ATOM   1512  CA  LEU A 202      29.252  30.502  10.598  0.00  0.00           C
+ATOM   1513  C   LEU A 202      29.848  29.287  11.286  0.00  0.00           C
+ATOM   1515  CB  LEU A 202      28.637  31.494  11.604  0.00  0.00           C
+ATOM   1518  CD2 LEU A 202      28.761  32.909  13.673  0.00  0.00           C
+ATOM   1519  N   PHE A 203      28.991  28.368  11.740  0.00  0.00           N
+ATOM   1520  CA  PHE A 203      29.422  27.182  12.473  0.00  0.00           C
+ATOM   1521  C   PHE A 203      28.917  25.929  11.755  0.00  0.00           C
+ATOM   1522  O   PHE A 203      27.928  25.313  12.175  0.00  0.00           O
+ATOM   1523  CB  PHE A 203      28.934  27.219  13.957  0.00  0.00           C
+ATOM   1524  CG  PHE A 203      29.299  28.458  14.751  0.00  0.00           C
+ATOM   1526  CD2 PHE A 203      28.308  29.270  15.303  0.00  0.00           C
+ATOM   1530  N   PRO A 204      29.592  25.490  10.675  0.00  0.00           N
+ATOM   1531  CA  PRO A 204      29.101  24.296   9.962  0.00  0.00           C
+ATOM   1534  CB  PRO A 204      29.555  24.562   8.524  0.00  0.00           C
+ATOM   1536  CD  PRO A 204      30.744  26.098   9.971  0.00  0.00           C

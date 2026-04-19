@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.03  14.81   5.38 with max radius 5.97
+ATOM    948  CA  ASP A 144       0.666   9.064   6.857  0.00  0.00           C
+ATOM    949  C   ASP A 144       2.124   9.327   6.425  0.00  0.00           C
+ATOM    953  OD1 ASP A 144       0.290  10.627   9.259  0.00  0.00           O
+ATOM    955  N   LEU A 145       2.332   9.665   5.144  0.00  0.00           N
+ATOM    956  CA  LEU A 145       3.706   9.842   4.611  0.00  0.00           C
+ATOM    957  C   LEU A 145       4.346  11.120   5.126  0.00  0.00           C
+ATOM    958  O   LEU A 145       3.962  12.210   4.702  0.00  0.00           O
+ATOM    960  CG  LEU A 145       5.054  10.279   2.466  0.00  0.00           C
+ATOM    962  CD2 LEU A 145       4.874  10.553   0.996  0.00  0.00           C
+ATOM    964  CA  LYS A 146       6.039  12.042   6.688  0.00  0.00           C
+ATOM    967  CB  LYS A 146       6.016  11.769   8.218  0.00  0.00           C
+ATOM    968  CG  LYS A 146       4.624  11.647   8.827  0.00  0.00           C
+ATOM    978  CD  PRO A 147       7.528  14.602   6.841  0.00  0.00           C
+ATOM   1415  CE3 TRP A 204      -1.855  16.438   2.148  0.00  0.00           C
+ATOM   1417  CZ3 TRP A 204      -1.689  17.222   3.298  0.00  0.00           C
+ATOM   1420  CA  SER A 205       1.440  14.180   1.047  0.00  0.00           C
+ATOM   1421  C   SER A 205       2.738  14.412   0.303  0.00  0.00           C
+ATOM   1422  O   SER A 205       3.571  15.187   0.755  0.00  0.00           O
+ATOM   1423  CB  SER A 205       1.545  12.859   1.798  0.00  0.00           C
+ATOM   1424  OG  SER A 205       0.391  12.665   2.570  0.00  0.00           O
+ATOM   1438  CA  VAL A 208       3.573  18.782   0.704  0.00  0.00           C
+ATOM   1439  C   VAL A 208       5.079  18.663   0.931  0.00  0.00           C
+ATOM   1441  CB  VAL A 208       2.800  18.394   2.016  0.00  0.00           C
+ATOM   1442  CG1 VAL A 208       3.376  19.128   3.239  0.00  0.00           C
+ATOM   1443  CG2 VAL A 208       1.345  18.711   1.854  0.00  0.00           C
+ATOM   1444  N   ILE A 209       5.596  17.438   0.792  0.00  0.00           N
+ATOM   1445  CA  ILE A 209       7.003  17.165   0.974  0.00  0.00           C
+ATOM   1448  CB  ILE A 209       7.283  15.669   1.000  0.00  0.00           C
+ATOM   1449  CG1 ILE A 209       6.628  15.037   2.274  0.00  0.00           C
+ATOM   1451  CD1 ILE A 209       6.575  13.541   2.271  0.00  0.00           C

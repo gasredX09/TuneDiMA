@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 12 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  48.78  75.60  35.10 with max radius 5.62
+ATOM   1482  O   ILE A 197      45.778  79.186  31.778  0.00  0.00           O
+ATOM   1489  C   LEU A 198      44.936  76.915  33.436  0.00  0.00           C
+ATOM   1490  O   LEU A 198      45.580  76.949  34.482  0.00  0.00           O
+ATOM   1495  N   ASN A 199      45.178  76.044  32.462  0.00  0.00           N
+ATOM   1496  CA  ASN A 199      46.217  75.042  32.566  0.00  0.00           C
+ATOM   1497  C   ASN A 199      47.276  75.249  31.508  0.00  0.00           C
+ATOM   1498  O   ASN A 199      47.615  74.329  30.782  0.00  0.00           O
+ATOM   1499  CB  ASN A 199      45.614  73.642  32.428  0.00  0.00           C
+ATOM   1500  CG  ASN A 199      46.574  72.559  32.856  0.00  0.00           C
+ATOM   1501  OD1 ASN A 199      47.741  72.839  33.178  0.00  0.00           O
+ATOM   1502  ND2 ASN A 199      46.092  71.315  32.879  0.00  0.00           N
+ATOM   1503  N   TRP A 200      47.823  76.454  31.459  0.00  0.00           N
+ATOM   1504  CA  TRP A 200      48.861  76.824  30.496  0.00  0.00           C
+ATOM   1505  C   TRP A 200      49.845  75.687  30.219  0.00  0.00           C
+ATOM   1506  O   TRP A 200      50.379  75.081  31.153  0.00  0.00           O
+ATOM   1507  CB  TRP A 200      49.623  78.037  31.019  0.00  0.00           C
+ATOM   1508  CG  TRP A 200      50.569  78.629  30.051  0.00  0.00           C
+ATOM   1509  CD1 TRP A 200      51.938  78.625  30.125  0.00  0.00           C
+ATOM   1530  CG  ARG A 202      51.028  71.375  31.726  0.00  0.00           C
+ATOM   1531  CD  ARG A 202      51.303  71.081  33.186  0.00  0.00           C
+ATOM   1533  CZ  ARG A 202      53.184  72.441  34.034  0.00  0.00           C
+ATOM   1534  NH1 ARG A 202      52.361  73.459  34.275  0.00  0.00           N
+ATOM   1922  CD2 LEU A 253      44.272  77.395  37.943  0.00  0.00           C
+ATOM   1923  N   GLN A 254      48.424  77.955  38.963  0.00  0.00           N
+ATOM   1924  CA  GLN A 254      49.830  78.175  38.690  0.00  0.00           C
+ATOM   1925  C   GLN A 254      50.021  79.454  37.877  0.00  0.00           C
+ATOM   1927  CB  GLN A 254      50.369  76.983  37.901  0.00  0.00           C
+ATOM   1928  CG  GLN A 254      51.660  76.409  38.424  0.00  0.00           C
+ATOM   1929  CD  GLN A 254      52.749  77.440  38.513  0.00  0.00           C
+ATOM   1931  NE2 GLN A 254      53.118  78.014  37.368  0.00  0.00           N
+ATOM   1932  N   SER A 255      49.205  79.614  36.838  0.00  0.00           N
+ATOM   1933  CA  SER A 255      49.284  80.793  35.987  0.00  0.00           C
+ATOM   1936  CB  SER A 255      48.452  80.600  34.715  0.00  0.00           C

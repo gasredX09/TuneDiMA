@@ -1,0 +1,42 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 36 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  42.67  14.08  39.02 with max radius 6.07
+ATOM   3138  CD1 TRP A 556      36.920  15.120  37.372  0.00  0.00           C
+ATOM   3140  NE1 TRP A 556      38.096  14.446  37.171  0.00  0.00           N
+ATOM   3141  CE2 TRP A 556      38.029  13.239  37.818  0.00  0.00           C
+ATOM   3143  CZ2 TRP A 556      38.937  12.188  37.856  0.00  0.00           C
+ATOM   3145  CH2 TRP A 556      38.579  11.069  38.546  0.00  0.00           C
+ATOM   3200  CG2 VAL A 560      39.931  18.012  37.793  0.00  0.00           C
+ATOM   3437  CE1 TYR A 573      44.872  14.315  35.769  0.00  0.00           C
+ATOM   3438  CE2 TYR A 573      43.436  16.148  35.281  0.00  0.00           C
+ATOM   3439  CZ  TYR A 573      43.694  15.003  35.986  0.00  0.00           C
+ATOM   3440  OH  TYR A 573      42.750  14.514  36.878  0.00  0.00           O
+ATOM   3600  CE  MET A 584      47.802  11.483  37.219  0.00  0.00           C
+ATOM   3616  CD1 LEU A 585      40.971  11.269  34.881  0.00  0.00           C
+ATOM   3617  CD2 LEU A 585      42.401  10.925  36.914  0.00  0.00           C
+ATOM   3676  O   GLU A 589      44.845   9.114  38.801  0.00  0.00           O
+ATOM   3689  CA  ARG A 590      45.837  11.145  40.465  0.00  0.00           C
+ATOM   3690  C   ARG A 590      46.985  12.131  40.550  0.00  0.00           C
+ATOM   3692  CB  ARG A 590      44.970  11.275  41.740  0.00  0.00           C
+ATOM   3693  CG  ARG A 590      43.797  10.325  41.817  0.00  0.00           C
+ATOM   3694  CD  ARG A 590      42.710  10.678  40.849  0.00  0.00           C
+ATOM   3695  NE  ARG A 590      41.522   9.826  41.003  0.00  0.00           N
+ATOM   3712  N   MET A 591      46.686  13.401  40.214  0.00  0.00           N
+ATOM   3713  CA  MET A 591      47.679  14.453  40.405  0.00  0.00           C
+ATOM   3716  CB  MET A 591      47.086  15.811  40.009  0.00  0.00           C
+ATOM   3717  CG  MET A 591      46.837  15.954  38.521  0.00  0.00           C
+ATOM   3718  SD  MET A 591      46.433  17.650  38.079  0.00  0.00           S
+ATOM   3719  CE  MET A 591      44.841  17.704  38.640  0.00  0.00           C
+ATOM   3976  CB  TRP A 609      39.598  12.626  41.947  0.00  0.00           C
+ATOM   3977  CG  TRP A 609      39.978  14.034  41.604  0.00  0.00           C
+ATOM   3978  CD1 TRP A 609      39.245  14.945  40.911  0.00  0.00           C
+ATOM   3979  CD2 TRP A 609      41.217  14.654  41.899  0.00  0.00           C
+ATOM   3980  NE1 TRP A 609      39.950  16.125  40.804  0.00  0.00           N
+ATOM   3981  CE2 TRP A 609      41.168  15.968  41.386  0.00  0.00           C
+ATOM   3982  CE3 TRP A 609      42.372  14.228  42.576  0.00  0.00           C
+ATOM   3983  CZ2 TRP A 609      42.250  16.848  41.492  0.00  0.00           C
+ATOM   3984  CZ3 TRP A 609      43.457  15.091  42.667  0.00  0.00           C
+ATOM   3985  CH2 TRP A 609      43.378  16.392  42.148  0.00  0.00           C

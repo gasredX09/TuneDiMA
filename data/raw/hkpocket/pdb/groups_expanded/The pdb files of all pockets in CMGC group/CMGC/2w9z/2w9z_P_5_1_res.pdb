@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  26.03  25.44  29.63 with max radius 4.81
+ATOM   2378  CA  LEU B  59      21.737  24.442  29.229  0.00  0.00           C
+ATOM   2379  C   LEU B  59      21.947  25.080  27.863  0.00  0.00           C
+ATOM   2380  O   LEU B  59      22.636  26.089  27.741  0.00  0.00           O
+ATOM   2381  CB  LEU B  59      22.854  23.459  29.571  0.00  0.00           C
+ATOM   2382  CG  LEU B  59      22.828  23.142  31.069  0.00  0.00           C
+ATOM   2383  CD1 LEU B  59      23.705  21.957  31.436  0.00  0.00           C
+ATOM   2384  CD2 LEU B  59      23.193  24.389  31.878  0.00  0.00           C
+ATOM   2385  N   LEU B  60      21.324  24.505  26.839  0.00  0.00           N
+ATOM   2406  C   ARG B  62      22.196  29.035  28.279  0.00  0.00           C
+ATOM   2407  O   ARG B  62      22.946  28.143  28.699  0.00  0.00           O
+ATOM   2410  CD  ARG B  62      23.029  28.985  31.472  0.00  0.00           C
+ATOM   2412  CZ  ARG B  62      23.826  27.880  33.525  0.00  0.00           C
+ATOM   2413  NH1 ARG B  62      24.872  27.381  32.879  0.00  0.00           N
+ATOM   2416  CA  LEU B  63      23.789  29.805  26.601  0.00  0.00           C
+ATOM   2419  CB  LEU B  63      23.881  28.459  25.882  0.00  0.00           C
+ATOM   2420  CG  LEU B  63      25.265  27.838  25.670  0.00  0.00           C
+ATOM   2422  CD2 LEU B  63      26.248  28.340  26.718  0.00  0.00           C
+ATOM   2445  CE1 PHE B  66      26.878  31.019  29.523  0.00  0.00           C
+ATOM   2991  CA  ASN B 134      30.839  25.448  28.868  0.00  0.00           C
+ATOM   2992  C   ASN B 134      30.544  23.955  28.882  0.00  0.00           C
+ATOM   2993  O   ASN B 134      29.402  23.538  29.045  0.00  0.00           O
+ATOM   2994  CB  ASN B 134      29.697  26.202  28.179  0.00  0.00           C
+ATOM   2995  CG  ASN B 134      29.766  27.699  28.410  0.00  0.00           C
+ATOM   2997  ND2 ASN B 134      28.670  28.272  28.888  0.00  0.00           N
+ATOM   3009  CG1 ILE B 136      27.572  23.012  26.037  0.00  0.00           C
+ATOM   3011  CD1 ILE B 136      26.545  24.053  25.620  0.00  0.00           C

@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   8.40  34.47 -15.15 with max radius 5.56
+ATOM   2074  CB  PRO A1313       8.084  33.614 -10.311  0.00  0.00           C
+ATOM   2075  CG  PRO A1313       9.340  34.268  -9.975  0.00  0.00           C
+ATOM   2089  CB  SER A1315       6.277  29.764 -13.077  0.00  0.00           C
+ATOM   2090  OG  SER A1315       7.274  30.752 -12.894  0.00  0.00           O
+ATOM   2322  CA  ILE A1344      11.869  30.495 -15.712  0.00  0.00           C
+ATOM   2325  CB  ILE A1344      11.565  30.025 -14.269  0.00  0.00           C
+ATOM   2326  CG1 ILE A1344      10.351  29.095 -14.273  0.00  0.00           C
+ATOM   2327  CG2 ILE A1344      11.296  31.203 -13.342  0.00  0.00           C
+ATOM   2343  CA  ALA A1347      11.130  33.889 -19.134  0.00  0.00           C
+ATOM   2344  C   ALA A1347      10.864  35.106 -18.237  0.00  0.00           C
+ATOM   2345  O   ALA A1347       9.914  35.855 -18.472  0.00  0.00           O
+ATOM   2346  CB  ALA A1347      10.078  32.814 -18.852  0.00  0.00           C
+ATOM   2347  N   LEU A1348      11.691  35.297 -17.211  0.00  0.00           N
+ATOM   2348  CA  LEU A1348      11.440  36.320 -16.190  0.00  0.00           C
+ATOM   2349  C   LEU A1348      11.309  37.721 -16.801  0.00  0.00           C
+ATOM   2351  CB  LEU A1348      12.553  36.313 -15.130  0.00  0.00           C
+ATOM   2352  CG  LEU A1348      12.090  36.526 -13.691  0.00  0.00           C
+ATOM   2353  CD1 LEU A1348      11.449  35.260 -13.144  0.00  0.00           C
+ATOM   2355  N   LEU A1349      10.197  38.393 -16.506  0.00  0.00           N
+ATOM   2356  CA  LEU A1349       9.960  39.754 -16.987  0.00  0.00           C
+ATOM   2359  CB  LEU A1349       8.500  39.940 -17.415  0.00  0.00           C
+ATOM   2360  CG  LEU A1349       8.034  39.045 -18.568  0.00  0.00           C
+ATOM   2361  CD1 LEU A1349       6.529  39.164 -18.749  0.00  0.00           C

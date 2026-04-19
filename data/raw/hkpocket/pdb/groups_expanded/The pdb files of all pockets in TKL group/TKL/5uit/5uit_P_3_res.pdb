@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -39.75 -42.40  22.26 with max radius 7.52
+ATOM    451  CA  GLU A 225     -38.254 -48.937  22.264  0.00  0.00           C
+ATOM    452  C   GLU A 225     -37.384 -48.589  21.062  0.00  0.00           C
+ATOM    453  O   GLU A 225     -37.415 -47.457  20.585  0.00  0.00           O
+ATOM    454  CB  GLU A 225     -37.581 -48.459  23.564  0.00  0.00           C
+ATOM    455  CG  GLU A 225     -38.404 -48.719  24.814  0.00  0.00           C
+ATOM    456  CD  GLU A 225     -38.004 -47.862  26.001  0.00  0.00           C
+ATOM    457  OE1 GLU A 225     -37.125 -46.985  25.832  0.00  0.00           O
+ATOM    477  CA  GLN A 228     -40.406 -47.178  18.469  0.00  0.00           C
+ATOM    478  C   GLN A 228     -39.682 -45.977  17.865  0.00  0.00           C
+ATOM    479  O   GLN A 228     -40.319 -45.117  17.264  0.00  0.00           O
+ATOM    480  CB  GLN A 228     -40.672 -46.946  19.945  0.00  0.00           C
+ATOM    481  N   GLN A 229     -38.364 -45.894  18.053  0.00  0.00           N
+ATOM    482  CA  GLN A 229     -37.570 -44.807  17.482  0.00  0.00           C
+ATOM    485  CB  GLN A 229     -36.218 -44.712  18.180  0.00  0.00           C
+ATOM    486  CG  GLN A 229     -36.358 -44.372  19.662  0.00  0.00           C
+ATOM    487  CD  GLN A 229     -35.022 -44.107  20.303  0.00  0.00           C
+ATOM    489  NE2 GLN A 229     -35.030 -43.819  21.594  0.00  0.00           N
+ATOM    513  CB  GLN A 232     -40.522 -41.791  16.224  0.00  0.00           C
+ATOM    514  CG  GLN A 232     -40.666 -40.287  16.489  0.00  0.00           C
+ATOM    515  CD  GLN A 232     -42.118 -39.863  16.603  0.00  0.00           C
+ATOM    516  OE1 GLN A 232     -43.034 -40.650  16.370  0.00  0.00           O
+ATOM    517  NE2 GLN A 232     -42.364 -38.600  16.952  0.00  0.00           N
+ATOM   1129  NH2 ARG A 310     -39.079 -38.067  23.491  0.00  0.00           N
+ATOM   1287  C   GLY A 331     -36.848 -40.311  17.981  0.00  0.00           C
+ATOM   1288  O   GLY A 331     -37.749 -41.023  18.417  0.00  0.00           O
+ATOM   1289  N   LEU A 332     -36.425 -39.216  18.622  0.00  0.00           N
+ATOM   1290  CA  LEU A 332     -37.037 -38.784  19.884  0.00  0.00           C
+ATOM   1291  C   LEU A 332     -37.979 -37.591  19.685  0.00  0.00           C
+ATOM   1292  O   LEU A 332     -38.440 -37.025  20.676  0.00  0.00           O
+ATOM   1293  CB  LEU A 332     -35.943 -38.338  20.875  0.00  0.00           C
+ATOM   1294  CG  LEU A 332     -34.725 -39.232  21.023  0.00  0.00           C
+ATOM   1296  CD2 LEU A 332     -35.078 -40.537  21.727  0.00  0.00           C
+ATOM   1297  N   ALA A 333     -38.213 -37.161  18.432  0.00  0.00           N
+ATOM   1298  CA  ALA A 333     -39.060 -35.989  18.187  0.00  0.00           C
+ATOM   1299  C   ALA A 333     -40.474 -36.155  18.755  0.00  0.00           C
+ATOM   1300  O   ALA A 333     -41.017 -37.252  18.781  0.00  0.00           O
+ATOM   1307  CG  ARG A 334     -41.961 -35.913  22.216  0.00  0.00           C
+ATOM   1308  CD  ARG A 334     -43.099 -36.931  22.206  0.00  0.00           C
+ATOM   1309  NE  ARG A 334     -42.629 -38.201  22.739  0.00  0.00           N
+ATOM   1310  CZ  ARG A 334     -42.675 -38.508  24.025  0.00  0.00           C
+ATOM   1312  NH2 ARG A 334     -42.189 -39.662  24.452  0.00  0.00           N
+ATOM   1371  CB  ARG A 347     -38.949 -41.710  29.134  0.00  0.00           C
+ATOM   1372  CG  ARG A 347     -39.330 -43.054  29.737  0.00  0.00           C
+ATOM   1373  CD  ARG A 347     -39.659 -44.094  28.690  0.00  0.00           C
+ATOM   1391  CG1 VAL A 349     -35.331 -40.068  26.166  0.00  0.00           C
+ATOM   1392  CG2 VAL A 349     -35.936 -37.941  24.977  0.00  0.00           C

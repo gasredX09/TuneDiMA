@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -6.03  15.21 -15.29 with max radius 4.93
+ATOM    325  CB  VAL A  45      -8.262  19.005 -14.408  0.00  0.00           C
+ATOM    326  CG1 VAL A  45      -7.731  19.829 -15.576  0.00  0.00           C
+ATOM    327  CG2 VAL A  45      -7.090  18.521 -13.528  0.00  0.00           C
+ATOM    636  CA  SER A  82      -2.785  12.745 -13.819  0.00  0.00           C
+ATOM    637  C   SER A  82      -3.627  11.657 -14.459  0.00  0.00           C
+ATOM    639  CB  SER A  82      -2.021  13.533 -14.891  0.00  0.00           C
+ATOM    641  N   SER A  83      -4.875  11.561 -14.008  0.00  0.00           N
+ATOM    642  CA  SER A  83      -5.735  10.425 -14.303  0.00  0.00           C
+ATOM    643  C   SER A  83      -7.196  10.848 -14.151  0.00  0.00           C
+ATOM    644  O   SER A  83      -7.493  11.758 -13.375  0.00  0.00           O
+ATOM    651  C   ASP A  84      -9.598  11.984 -15.330  0.00  0.00           C
+ATOM    653  O   ASP A  84      -8.993  12.385 -16.324  0.00  0.00           O
+ATOM    663  N   GLY A  85     -10.324  12.782 -14.556  0.00  0.00           N
+ATOM    664  CA  GLY A  85     -10.411  14.217 -14.814  0.00  0.00           C
+ATOM    665  C   GLY A  85      -9.693  14.908 -13.667  0.00  0.00           C
+ATOM    666  O   GLY A  85      -9.871  16.108 -13.436  0.00  0.00           O
+ATOM    667  N   MET A  86      -8.872  14.134 -12.953  0.00  0.00           N
+ATOM    668  CA  MET A  86      -8.276  14.566 -11.690  0.00  0.00           C
+ATOM    669  C   MET A  86      -6.763  14.723 -11.733  0.00  0.00           C
+ATOM    670  O   MET A  86      -6.056  14.013 -12.456  0.00  0.00           O
+ATOM    675  N   LEU A  87      -6.277  15.651 -10.918  0.00  0.00           N
+ATOM    676  CA  LEU A  87      -4.866  15.745 -10.620  0.00  0.00           C
+ATOM    679  CB  LEU A  87      -4.375  17.182 -10.839  0.00  0.00           C

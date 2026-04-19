@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  29.61  40.47  41.52 with max radius 4.40
+ATOM    155  CA  TYR A 157      25.533  42.701  44.154  0.00  0.00           C
+ATOM    156  C   TYR A 157      25.893  43.556  42.972  0.00  0.00           C
+ATOM    157  O   TYR A 157      27.018  43.507  42.494  0.00  0.00           O
+ATOM    158  CB  TYR A 157      24.599  41.573  43.715  0.00  0.00           C
+ATOM    159  CG  TYR A 157      25.305  40.508  42.926  0.00  0.00           C
+ATOM    160  CD1 TYR A 157      25.559  40.670  41.623  0.00  0.00           C
+ATOM    161  CD2 TYR A 157      25.648  39.291  43.522  0.00  0.00           C
+ATOM    162  CE1 TYR A 157      26.224  39.701  40.888  0.00  0.00           C
+ATOM    163  CE2 TYR A 157      26.257  38.285  42.801  0.00  0.00           C
+ATOM    164  CZ  TYR A 157      26.540  38.495  41.475  0.00  0.00           C
+ATOM    165  OH  TYR A 157      27.162  37.514  40.712  0.00  0.00           O
+ATOM    185  CA  LEU A 160      30.264  45.344  43.200  0.00  0.00           C
+ATOM    186  C   LEU A 160      30.476  44.964  41.711  0.00  0.00           C
+ATOM    188  CB  LEU A 160      30.338  44.100  44.045  0.00  0.00           C
+ATOM    189  CG  LEU A 160      31.606  43.229  43.969  0.00  0.00           C
+ATOM    191  CD2 LEU A 160      31.467  42.061  44.953  0.00  0.00           C
+ATOM    192  N   GLU A 161      29.445  44.368  41.094  0.00  0.00           N
+ATOM    193  CA  GLU A 161      29.511  43.894  39.719  0.00  0.00           C
+ATOM    196  CB  GLU A 161      28.155  43.200  39.431  0.00  0.00           C
+ATOM    197  CG  GLU A 161      27.969  42.535  38.057  0.00  0.00           C
+ATOM    198  CD  GLU A 161      26.525  42.137  37.850  0.00  0.00           C
+ATOM    200  OE2 GLU A 161      26.225  40.949  37.653  0.00  0.00           O
+ATOM    369  CB  ILE A 182      29.392  37.912  45.614  0.00  0.00           C
+ATOM    370  CG1 ILE A 182      30.391  37.405  44.579  0.00  0.00           C
+ATOM    372  CD1 ILE A 182      29.784  36.694  43.390  0.00  0.00           C

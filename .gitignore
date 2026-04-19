@@ -100,4 +100,21 @@ ruff_cache/
 
 # OS/editor
 .DS_Store
-.vscode/
+.vscode/__pycache__/
+*.py[cod]
+
+# Large raw datasets should stay outside normal Git history.
+data/raw/chembl/
+data/raw/bindingdb/
+data/raw/pdb/
+
+# Keep lightweight metadata and templates.
+!data/raw/kinase_complexes/
+!data/raw/kinase_complexes/README.txt
+!data/raw/klifs/
+data/raw/klifs/*.json
+!data/raw/klifs/README.txt
+!data/raw/klifs/pdb_codes.txt
+!data/raw/klifs/structures_list.csv
+!data/raw/manifests/
+!data/raw/manifests/kinase_complex_manifest.csv

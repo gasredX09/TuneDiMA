@@ -1,0 +1,52 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 46 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -0.42  27.50  42.49 with max radius 7.05
+ATOM   2001  CA  ALA A 389      -4.376  28.174  40.001  0.00  0.00           C
+ATOM   2002  C   ALA A 389      -3.414  27.860  38.870  0.00  0.00           C
+ATOM   2003  O   ALA A 389      -2.216  28.122  38.937  0.00  0.00           O
+ATOM   2004  CB  ALA A 389      -4.486  26.974  40.935  0.00  0.00           C
+ATOM   2022  CA  GLU A 392      -1.231  31.614  38.059  0.00  0.00           C
+ATOM   2023  C   GLU A 392       0.138  31.022  37.806  0.00  0.00           C
+ATOM   2025  CB  GLU A 392      -1.633  31.692  39.531  0.00  0.00           C
+ATOM   2026  CG  GLU A 392      -2.775  32.713  39.704  0.00  0.00           C
+ATOM   2028  OE1 GLU A 392      -2.523  32.723  42.084  0.00  0.00           O
+ATOM   2030  N   ARG A 393       0.203  29.706  37.713  0.00  0.00           N
+ATOM   2031  CA  ARG A 393       1.492  29.052  37.508  0.00  0.00           C
+ATOM   2034  CB  ARG A 393       1.348  27.562  37.811  0.00  0.00           C
+ATOM   2035  CG  ARG A 393       2.633  26.747  37.723  0.00  0.00           C
+ATOM   2036  CD  ARG A 393       2.588  25.580  38.685  0.00  0.00           C
+ATOM   2037  NE  ARG A 393       3.832  24.848  38.640  0.00  0.00           N
+ATOM   2038  CZ  ARG A 393       4.890  25.097  39.401  0.00  0.00           C
+ATOM   2039  NH1 ARG A 393       4.878  26.072  40.306  0.00  0.00           N
+ATOM   2249  CB  LEU A 417      -5.686  31.772  44.426  0.00  0.00           C
+ATOM   2250  CG  LEU A 417      -6.671  30.877  43.670  0.00  0.00           C
+ATOM   2252  CD2 LEU A 417      -5.921  29.948  42.690  0.00  0.00           C
+ATOM   2265  CB  TRP A 419      -4.647  27.900  45.903  0.00  0.00           C
+ATOM   2266  CG  TRP A 419      -4.176  26.740  45.074  0.00  0.00           C
+ATOM   2267  CD1 TRP A 419      -2.899  26.328  44.882  0.00  0.00           C
+ATOM   2268  CD2 TRP A 419      -5.002  25.888  44.331  0.00  0.00           C
+ATOM   2269  NE1 TRP A 419      -2.879  25.227  44.037  0.00  0.00           N
+ATOM   2270  CE2 TRP A 419      -4.166  24.910  43.714  0.00  0.00           C
+ATOM   2272  CZ2 TRP A 419      -4.663  23.912  42.950  0.00  0.00           C
+ATOM   2284  CA  GLU A 421      -0.421  23.813  47.140  0.00  0.00           C
+ATOM   2287  CB  GLU A 421       0.871  24.631  47.128  0.00  0.00           C
+ATOM   2288  CG  GLU A 421       1.455  24.900  45.740  0.00  0.00           C
+ATOM   2289  CD  GLU A 421       2.893  25.425  45.842  0.00  0.00           C
+ATOM   2291  OE2 GLU A 421       3.077  26.577  46.326  0.00  0.00           O
+ATOM   2317  O   ALA A 425      -3.431  20.425  42.151  0.00  0.00           O
+ATOM   2320  CA  GLY A 426      -2.210  21.443  44.457  0.00  0.00           C
+ATOM   2321  C   GLY A 426      -0.940  20.746  43.953  0.00  0.00           C
+ATOM   2322  O   GLY A 426      -0.235  21.277  43.098  0.00  0.00           O
+ATOM   2347  CA  VAL A 429      -1.036  21.771  39.359  0.00  0.00           C
+ATOM   2348  C   VAL A 429       0.479  22.055  39.327  0.00  0.00           C
+ATOM   2349  O   VAL A 429       0.974  22.541  38.297  0.00  0.00           O
+ATOM   2350  CB  VAL A 429      -1.834  22.926  40.014  0.00  0.00           C
+ATOM   2351  CG1 VAL A 429      -1.383  24.270  39.455  0.00  0.00           C
+ATOM   2352  CG2 VAL A 429      -3.297  22.703  39.695  0.00  0.00           C
+ATOM   2353  N   SER A 430       1.165  21.798  40.419  0.00  0.00           N
+ATOM   2354  CA  SER A 430       2.607  22.011  40.528  0.00  0.00           C
+ATOM   2357  CB  SER A 430       3.121  21.760  41.947  0.00  0.00           C
+ATOM   2358  OG  SER A 430       2.596  22.774  42.800  0.00  0.00           O

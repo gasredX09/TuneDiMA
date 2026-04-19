@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   8.80  65.21  77.51 with max radius 5.58
+ATOM   1420  CA  PRO A 409      12.791  63.079  79.881  0.00  0.00           C
+ATOM   1421  C   PRO A 409      11.497  62.906  80.643  0.00  0.00           C
+ATOM   1422  O   PRO A 409      11.425  63.271  81.807  0.00  0.00           O
+ATOM   1423  CB  PRO A 409      12.689  64.185  78.837  0.00  0.00           C
+ATOM   1424  CG  PRO A 409      13.791  63.853  77.886  0.00  0.00           C
+ATOM   1425  CD  PRO A 409      13.575  62.330  77.706  0.00  0.00           C
+ATOM   1426  N   GLU A 410      10.460  62.394  79.989  0.00  0.00           N
+ATOM   1427  CA  GLU A 410       9.169  62.201  80.675  0.00  0.00           C
+ATOM   1430  CB  GLU A 410       8.100  61.709  79.705  0.00  0.00           C
+ATOM   1431  CG  GLU A 410       8.302  60.285  79.208  0.00  0.00           C
+ATOM   1432  CD  GLU A 410       9.158  60.157  77.949  0.00  0.00           C
+ATOM   1433  OE1 GLU A 410       9.883  61.116  77.527  0.00  0.00           O
+ATOM   1455  ND2 ASN A 413      11.434  66.458  82.163  0.00  0.00           N
+ATOM   1463  CD2 TYR A 414       6.149  64.043  82.495  0.00  0.00           C
+ATOM   1465  CE2 TYR A 414       6.247  65.200  81.720  0.00  0.00           C
+ATOM   1466  CZ  TYR A 414       6.336  66.425  82.358  0.00  0.00           C
+ATOM   1467  OH  TYR A 414       6.444  67.606  81.635  0.00  0.00           O
+ATOM   1995  CA  GLU A 479      10.683  65.403  72.316  0.00  0.00           C
+ATOM   1996  C   GLU A 479       9.395  64.709  72.746  0.00  0.00           C
+ATOM   1997  O   GLU A 479       9.262  64.285  73.901  0.00  0.00           O
+ATOM   1998  CB  GLU A 479      10.367  66.888  72.128  0.00  0.00           C
+ATOM   1999  CG  GLU A 479       9.793  67.492  73.360  0.00  0.00           C
+ATOM   2000  CD  GLU A 479      10.841  67.919  74.321  0.00  0.00           C
+ATOM   2001  OE1 GLU A 479      12.025  67.617  74.055  0.00  0.00           O
+ATOM   2002  OE2 GLU A 479      10.513  68.633  75.277  0.00  0.00           O
+ATOM   2014  N   PRO A 481       7.033  61.699  73.085  0.00  0.00           N
+ATOM   2019  CG  PRO A 481       6.910  60.886  75.309  0.00  0.00           C
+ATOM   2020  CD  PRO A 481       6.681  62.127  74.445  0.00  0.00           C
+ATOM   2048  NH2 ARG A 484      10.650  61.435  74.772  0.00  0.00           N

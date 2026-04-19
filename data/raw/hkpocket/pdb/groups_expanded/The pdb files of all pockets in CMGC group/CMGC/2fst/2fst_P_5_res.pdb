@@ -1,0 +1,64 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 58 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -8.20  -8.65  17.56 with max radius 8.37
+ATOM   1537  C   ALA X 214      -2.953  -4.713  23.812  0.00  0.00           C
+ATOM   1538  O   ALA X 214      -3.493  -5.496  24.594  0.00  0.00           O
+ATOM   1539  CB  ALA X 214      -4.166  -3.476  22.056  0.00  0.00           C
+ATOM   1569  CB  THR X 218      -5.066  -8.721  25.067  0.00  0.00           C
+ATOM   1570  OG1 THR X 218      -4.082  -8.474  24.067  0.00  0.00           O
+ATOM   1571  CG2 THR X 218      -6.099  -7.594  24.929  0.00  0.00           C
+ATOM   1577  CA  ARG X 220      -1.910 -10.966  22.337  0.00  0.00           C
+ATOM   1578  C   ARG X 220      -1.714  -9.792  21.382  0.00  0.00           C
+ATOM   1579  O   ARG X 220      -2.230  -8.696  21.626  0.00  0.00           O
+ATOM   1580  CB  ARG X 220      -3.297 -11.575  22.101  0.00  0.00           C
+ATOM   1581  CG  ARG X 220      -3.642 -12.729  23.069  0.00  0.00           C
+ATOM   1582  CD  ARG X 220      -5.113 -13.100  23.115  0.00  0.00           C
+ATOM   1583  NE  ARG X 220      -5.616 -13.430  21.781  0.00  0.00           N
+ATOM   1584  CZ  ARG X 220      -5.546 -14.629  21.202  0.00  0.00           C
+ATOM   1586  NH2 ARG X 220      -6.037 -14.784  19.981  0.00  0.00           N
+ATOM   1589  C   THR X 221      -2.195  -8.635  18.723  0.00  0.00           C
+ATOM   1590  O   THR X 221      -3.031  -9.472  18.407  0.00  0.00           O
+ATOM   1594  N   LEU X 222      -2.428  -7.330  18.618  0.00  0.00           N
+ATOM   1595  CA  LEU X 222      -3.718  -6.830  18.175  0.00  0.00           C
+ATOM   1596  C   LEU X 222      -3.982  -7.167  16.722  0.00  0.00           C
+ATOM   1597  O   LEU X 222      -5.042  -7.670  16.400  0.00  0.00           O
+ATOM   1598  CB  LEU X 222      -3.768  -5.314  18.341  0.00  0.00           C
+ATOM   1599  CG  LEU X 222      -5.131  -4.678  18.081  0.00  0.00           C
+ATOM   1600  CD1 LEU X 222      -6.259  -5.333  18.883  0.00  0.00           C
+ATOM   1603  CA  PHE X 223      -3.136  -7.055  14.405  0.00  0.00           C
+ATOM   1608  CD1 PHE X 223      -5.574  -5.074  14.002  0.00  0.00           C
+ATOM   1610  CE1 PHE X 223      -6.553  -4.160  14.380  0.00  0.00           C
+ATOM   1692  CA  LEU X 234      -7.007  -7.157  10.039  0.00  0.00           C
+ATOM   1693  C   LEU X 234      -7.333  -5.802  10.673  0.00  0.00           C
+ATOM   1694  O   LEU X 234      -8.235  -5.696  11.517  0.00  0.00           O
+ATOM   1695  CB  LEU X 234      -5.831  -7.808  10.753  0.00  0.00           C
+ATOM   1696  CG  LEU X 234      -5.470  -9.251  10.364  0.00  0.00           C
+ATOM   1697  CD1 LEU X 234      -4.337  -9.715  11.241  0.00  0.00           C
+ATOM   1698  CD2 LEU X 234      -6.665 -10.187  10.493  0.00  0.00           C
+ATOM   1716  CA  ARG X 237     -11.796  -5.605  10.639  0.00  0.00           C
+ATOM   1717  C   ARG X 237     -12.167  -4.961  11.974  0.00  0.00           C
+ATOM   1718  O   ARG X 237     -13.330  -4.968  12.355  0.00  0.00           O
+ATOM   1719  CB  ARG X 237     -11.235  -7.015  10.872  0.00  0.00           C
+ATOM   1720  CG  ARG X 237     -12.299  -8.074  11.009  0.00  0.00           C
+ATOM   1721  CD  ARG X 237     -11.778  -9.412  11.490  0.00  0.00           C
+ATOM   1722  NE  ARG X 237     -11.714 -10.401  10.411  0.00  0.00           N
+ATOM   1724  NH1 ARG X 237     -12.883 -12.074  11.528  0.00  0.00           N
+ATOM   1726  N   LEU X 238     -11.191  -4.391  12.682  0.00  0.00           N
+ATOM   1727  CA  LEU X 238     -11.469  -3.734  13.952  0.00  0.00           C
+ATOM   1730  CB  LEU X 238     -10.185  -3.604  14.803  0.00  0.00           C
+ATOM   1731  CG  LEU X 238     -10.372  -2.949  16.179  0.00  0.00           C
+ATOM   1732  CD1 LEU X 238     -11.145  -3.849  17.126  0.00  0.00           C
+ATOM   1733  CD2 LEU X 238      -9.038  -2.531  16.803  0.00  0.00           C
+ATOM   1959  SD  MET X 268     -13.910  -6.578  15.331  0.00  0.00           S
+ATOM   1960  CE  MET X 268     -13.770  -7.027  16.967  0.00  0.00           C
+ATOM   1995  C   VAL X 273     -11.290  -6.936  23.376  0.00  0.00           C
+ATOM   1996  O   VAL X 273     -10.393  -7.774  23.477  0.00  0.00           O
+ATOM   1997  CB  VAL X 273     -11.586  -5.944  21.076  0.00  0.00           C
+ATOM   1998  CG1 VAL X 273     -10.208  -6.426  20.659  0.00  0.00           C
+ATOM   1999  CG2 VAL X 273     -12.517  -5.840  19.878  0.00  0.00           C
+ATOM   2006  CD1 PHE X 274      -8.078  -4.743  24.210  0.00  0.00           C
+ATOM   2008  CE1 PHE X 274      -7.315  -4.466  23.098  0.00  0.00           C
+ATOM   2010  CZ  PHE X 274      -7.782  -3.611  22.124  0.00  0.00           C

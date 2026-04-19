@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  80.01 -22.61  89.14 with max radius 7.62
+ATOM    684  OH  TYR A 101      84.617 -17.460  85.929  0.00  0.00           O
+ATOM    695  C   GLY A 103      85.273 -21.055  88.853  0.00  0.00           C
+ATOM    696  O   GLY A 103      84.258 -21.463  88.308  0.00  0.00           O
+ATOM    698  CA  GLY A 104      84.765 -22.327  90.819  0.00  0.00           C
+ATOM    699  C   GLY A 104      83.611 -21.717  91.561  0.00  0.00           C
+ATOM    700  O   GLY A 104      82.710 -22.430  92.013  0.00  0.00           O
+ATOM    701  N   GLY A 105      83.652 -20.394  91.713  0.00  0.00           N
+ATOM    702  CA  GLY A 105      82.705 -19.661  92.561  0.00  0.00           C
+ATOM    739  CD2 LEU A 110      80.119 -23.592  94.297  0.00  0.00           C
+ATOM   2058  CA  ILE A 288      81.215 -27.150  92.365  0.00  0.00           C
+ATOM   2059  C   ILE A 288      80.139 -27.946  91.591  0.00  0.00           C
+ATOM   2060  O   ILE A 288      79.166 -27.369  91.098  0.00  0.00           O
+ATOM   2061  CB  ILE A 288      82.523 -27.092  91.528  0.00  0.00           C
+ATOM   2063  CG2 ILE A 288      82.272 -26.379  90.167  0.00  0.00           C
+ATOM   2085  CA  PHE A 291      76.090 -26.355  92.523  0.00  0.00           C
+ATOM   2086  C   PHE A 291      75.564 -26.455  91.120  0.00  0.00           C
+ATOM   2088  CB  PHE A 291      77.088 -25.204  92.638  0.00  0.00           C
+ATOM   2089  CG  PHE A 291      76.562 -23.901  92.158  0.00  0.00           C
+ATOM   2090  CD1 PHE A 291      75.845 -23.069  93.008  0.00  0.00           C
+ATOM   2091  CD2 PHE A 291      76.773 -23.495  90.849  0.00  0.00           C
+ATOM   2093  CE2 PHE A 291      76.279 -22.281  90.402  0.00  0.00           C
+ATOM   2094  CZ  PHE A 291      75.561 -21.458  91.265  0.00  0.00           C
+ATOM   2095  N   LYS A 292      76.250 -27.219  90.262  0.00  0.00           N
+ATOM   2096  CA  LYS A 292      75.810 -27.397  88.874  0.00  0.00           C
+ATOM   2099  CB  LYS A 292      76.852 -28.116  88.007  0.00  0.00           C
+ATOM   2100  CG  LYS A 292      78.093 -27.281  87.714  0.00  0.00           C
+ATOM   2101  CD  LYS A 292      79.063 -28.010  86.788  0.00  0.00           C
+ATOM   2102  CE  LYS A 292      80.486 -27.458  86.900  0.00  0.00           C
+ATOM   2103  NZ  LYS A 292      80.596 -26.044  86.421  0.00  0.00           N

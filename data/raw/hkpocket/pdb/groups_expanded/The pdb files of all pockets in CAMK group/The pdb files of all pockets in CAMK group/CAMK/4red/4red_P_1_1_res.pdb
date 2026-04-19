@@ -1,0 +1,39 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 33 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -25.75   6.24  -8.20 with max radius 6.59
+ATOM   1546  CE1 PHE A 216     -24.515  11.076  -4.177  0.00  0.00           C
+ATOM   1547  CE2 PHE A 216     -26.100  10.006  -2.764  0.00  0.00           C
+ATOM   1548  CZ  PHE A 216     -25.355  10.024  -3.921  0.00  0.00           C
+ATOM   1642  CA  ILE A 232     -21.887   9.385  -7.883  0.00  0.00           C
+ATOM   1645  CB  ILE A 232     -21.449   7.888  -7.932  0.00  0.00           C
+ATOM   1647  CG2 ILE A 232     -22.297   7.118  -8.932  0.00  0.00           C
+ATOM   1656  CD2 PHE A 233     -22.731   7.005  -4.348  0.00  0.00           C
+ATOM   1658  CE2 PHE A 233     -22.936   5.667  -4.602  0.00  0.00           C
+ATOM   1659  CZ  PHE A 233     -22.007   4.738  -4.189  0.00  0.00           C
+ATOM   1774  CA  LYS A 248     -23.905   1.745  -5.914  0.00  0.00           C
+ATOM   1775  C   LYS A 248     -25.302   1.356  -6.412  0.00  0.00           C
+ATOM   1776  O   LYS A 248     -26.009   2.163  -7.010  0.00  0.00           O
+ATOM   1777  CB  LYS A 248     -22.826   1.344  -6.936  0.00  0.00           C
+ATOM   1778  CG  LYS A 248     -21.715   2.370  -7.062  0.00  0.00           C
+ATOM   1779  CD  LYS A 248     -20.707   1.996  -8.142  0.00  0.00           C
+ATOM   1800  N   LEU A 251     -28.005   2.987  -4.067  0.00  0.00           N
+ATOM   1801  CA  LEU A 251     -28.043   4.450  -4.136  0.00  0.00           C
+ATOM   1802  C   LEU A 251     -28.397   4.985  -5.520  0.00  0.00           C
+ATOM   1803  O   LEU A 251     -28.281   6.183  -5.777  0.00  0.00           O
+ATOM   1804  CB  LEU A 251     -26.724   5.050  -3.650  0.00  0.00           C
+ATOM   1806  CD1 LEU A 251     -25.147   5.428  -1.767  0.00  0.00           C
+ATOM   1808  N   GLN A 252     -28.831   4.098  -6.407  0.00  0.00           N
+ATOM   1809  CA  GLN A 252     -29.324   4.509  -7.719  0.00  0.00           C
+ATOM   1810  C   GLN A 252     -30.355   5.621  -7.632  0.00  0.00           C
+ATOM   1812  CB  GLN A 252     -29.934   3.311  -8.464  0.00  0.00           C
+ATOM   1813  CG  GLN A 252     -28.911   2.490  -9.221  0.00  0.00           C
+ATOM   1814  CD  GLN A 252     -28.450   3.169 -10.500  0.00  0.00           C
+ATOM   1815  OE1 GLN A 252     -28.866   4.282 -10.816  0.00  0.00           O
+ATOM   1816  NE2 GLN A 252     -27.566   2.509 -11.226  0.00  0.00           N
+ATOM   1817  N   VAL A 253     -30.146   6.665  -8.418  0.00  0.00           N
+ATOM   1818  CA  VAL A 253     -31.052   7.797  -8.463  0.00  0.00           C
+ATOM   1821  CB  VAL A 253     -30.425   8.980  -9.224  0.00  0.00           C
+ATOM   1823  CG2 VAL A 253     -28.963   9.139  -8.828  0.00  0.00           C

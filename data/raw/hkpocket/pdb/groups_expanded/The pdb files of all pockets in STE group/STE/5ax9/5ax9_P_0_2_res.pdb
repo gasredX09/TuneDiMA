@@ -1,0 +1,32 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 26 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -7.17 -54.32 -37.71 with max radius 6.45
+ATOM    161  C   ASN A  33      -6.373 -57.921 -33.926  0.00  0.00           C
+ATOM    162  O   ASN A  33      -7.240 -57.070 -34.143  0.00  0.00           O
+ATOM    167  N   GLY A  34      -5.087 -57.631 -33.763  0.00  0.00           N
+ATOM    168  CA  GLY A  34      -4.584 -56.278 -33.882  0.00  0.00           C
+ATOM    169  C   GLY A  34      -3.385 -56.259 -34.804  0.00  0.00           C
+ATOM    170  O   GLY A  34      -3.071 -57.263 -35.442  0.00  0.00           O
+ATOM    171  N   THR A  35      -2.710 -55.118 -34.876  0.00  0.00           N
+ATOM    177  CG2 THR A  35      -2.370 -52.685 -36.207  0.00  0.00           C
+ATOM   1133  CG  ASP A 153      -5.602 -49.757 -38.852  0.00  0.00           C
+ATOM   1134  OD1 ASP A 153      -6.215 -49.816 -39.944  0.00  0.00           O
+ATOM   1135  OD2 ASP A 153      -5.274 -50.775 -38.199  0.00  0.00           O
+ATOM   1149  CG  LYS A 155     -10.446 -50.127 -39.098  0.00  0.00           C
+ATOM   1150  CD  LYS A 155      -9.805 -51.287 -39.850  0.00  0.00           C
+ATOM   1151  CE  LYS A 155     -10.852 -52.237 -40.398  0.00  0.00           C
+ATOM   1152  NZ  LYS A 155     -10.240 -53.475 -40.977  0.00  0.00           N
+ATOM   1159  C   GLN A 157     -12.123 -51.839 -35.005  0.00  0.00           C
+ATOM   1160  O   GLN A 157     -11.954 -52.424 -33.934  0.00  0.00           O
+ATOM   1161  CB  GLN A 157     -12.179 -53.524 -36.819  0.00  0.00           C
+ATOM   1162  CG  GLN A 157     -13.005 -54.397 -37.752  0.00  0.00           C
+ATOM   1163  CD  GLN A 157     -12.147 -55.363 -38.540  0.00  0.00           C
+ATOM   1164  OE1 GLN A 157     -10.931 -55.188 -38.639  0.00  0.00           O
+ATOM   1171  CG  ASN A 158      -8.382 -50.412 -35.313  0.00  0.00           C
+ATOM   1172  OD1 ASN A 158      -8.287 -51.437 -34.630  0.00  0.00           O
+ATOM   1173  ND2 ASN A 158      -7.548 -50.134 -36.316  0.00  0.00           N
+ATOM   1273  OD2 ASP A 171      -4.763 -52.886 -33.948  0.00  0.00           O
+ATOM   1311  OG1 THR A 191      -7.233 -52.952 -44.016  0.00  0.00           O

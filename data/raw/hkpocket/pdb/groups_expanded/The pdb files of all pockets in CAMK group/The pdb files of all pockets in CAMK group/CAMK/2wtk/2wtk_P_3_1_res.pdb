@@ -1,0 +1,38 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 32 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -60.48  38.57  31.25 with max radius 5.93
+ATOM   5546  CG2 ILE C  99     -61.887  43.458  28.683  0.00  0.00           C
+ATOM   5574  CA  ARG C 103     -56.736  43.000  32.533  0.00  0.00           C
+ATOM   5577  CB  ARG C 103     -56.852  42.852  31.011  0.00  0.00           C
+ATOM   5578  CG  ARG C 103     -57.923  41.862  30.607  0.00  0.00           C
+ATOM   5579  CD  ARG C 103     -58.149  41.813  29.127  0.00  0.00           C
+ATOM   5580  NE  ARG C 103     -59.368  41.074  28.807  0.00  0.00           N
+ATOM   5581  CZ  ARG C 103     -59.789  40.814  27.572  0.00  0.00           C
+ATOM   5583  NH2 ARG C 103     -60.909  40.130  27.377  0.00  0.00           N
+ATOM   5666  CA  LEU C 113     -62.135  40.118  35.880  0.00  0.00           C
+ATOM   5667  C   LEU C 113     -61.562  38.746  35.557  0.00  0.00           C
+ATOM   5668  O   LEU C 113     -60.346  38.583  35.408  0.00  0.00           O
+ATOM   5669  CB  LEU C 113     -61.995  41.069  34.687  0.00  0.00           C
+ATOM   5670  CG  LEU C 113     -62.690  40.715  33.366  0.00  0.00           C
+ATOM   5671  CD1 LEU C 113     -64.185  40.437  33.570  0.00  0.00           C
+ATOM   5672  CD2 LEU C 113     -62.489  41.817  32.341  0.00  0.00           C
+ATOM   5673  N   VAL C 114     -62.449  37.762  35.456  0.00  0.00           N
+ATOM   5674  CA  VAL C 114     -62.036  36.379  35.282  0.00  0.00           C
+ATOM   5675  C   VAL C 114     -62.014  36.016  33.807  0.00  0.00           C
+ATOM   5676  O   VAL C 114     -61.077  35.362  33.339  0.00  0.00           O
+ATOM   5680  N   ASP C 115     -63.042  36.451  33.079  0.00  0.00           N
+ATOM   5681  CA  ASP C 115     -63.208  36.079  31.679  0.00  0.00           C
+ATOM   5682  C   ASP C 115     -64.218  36.981  30.978  0.00  0.00           C
+ATOM   5683  O   ASP C 115     -65.088  37.566  31.628  0.00  0.00           O
+ATOM   5684  CB  ASP C 115     -63.684  34.626  31.597  0.00  0.00           C
+ATOM   5685  CG  ASP C 115     -62.891  33.801  30.601  0.00  0.00           C
+ATOM   5686  OD1 ASP C 115     -62.334  34.371  29.634  0.00  0.00           O
+ATOM   5688  N   VAL C 116     -64.095  37.087  29.653  0.00  0.00           N
+ATOM   5689  CA  VAL C 116     -65.072  37.794  28.819  0.00  0.00           C
+ATOM   5690  C   VAL C 116     -65.599  36.843  27.746  0.00  0.00           C
+ATOM   5691  O   VAL C 116     -64.813  36.205  27.041  0.00  0.00           O
+ATOM   5692  CB  VAL C 116     -64.479  39.081  28.178  0.00  0.00           C
+ATOM   5694  CG2 VAL C 116     -64.163  40.123  29.248  0.00  0.00           C

@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -19.60  23.05 -29.78 with max radius 5.75
+ATOM   1681  CB  GLU A 203     -17.272  21.442 -24.779  0.00  0.00           C
+ATOM   2205  CD1 TRP A 267     -23.216  24.499 -26.903  0.00  0.00           C
+ATOM   2207  NE1 TRP A 267     -22.154  23.643 -26.759  0.00  0.00           N
+ATOM   2208  CE2 TRP A 267     -21.994  23.288 -25.463  0.00  0.00           C
+ATOM   2210  CZ2 TRP A 267     -21.068  22.451 -24.855  0.00  0.00           C
+ATOM   2223  CA  ASP A 269     -24.511  22.345 -30.359  0.00  0.00           C
+ATOM   2224  C   ASP A 269     -24.330  21.410 -29.189  0.00  0.00           C
+ATOM   2225  O   ASP A 269     -23.560  20.461 -29.302  0.00  0.00           O
+ATOM   2226  CB  ASP A 269     -23.121  22.701 -30.892  0.00  0.00           C
+ATOM   2227  CG  ASP A 269     -23.155  23.175 -32.321  0.00  0.00           C
+ATOM   2229  OD2 ASP A 269     -22.167  23.805 -32.753  0.00  0.00           O
+ATOM   2262  SD  MET A 273     -19.932  18.943 -26.708  0.00  0.00           S
+ATOM   2263  CE  MET A 273     -20.235  19.716 -28.286  0.00  0.00           C
+ATOM   2650  CG  ASP A 319     -21.913  27.469 -27.697  0.00  0.00           C
+ATOM   2651  OD1 ASP A 319     -20.875  26.877 -28.073  0.00  0.00           O
+ATOM   2652  OD2 ASP A 319     -22.874  27.705 -28.462  0.00  0.00           O
+ATOM   2658  CG  PRO A 320     -17.575  25.127 -27.030  0.00  0.00           C
+ATOM   2659  CD  PRO A 320     -18.690  25.485 -26.094  0.00  0.00           C
+ATOM   2666  CG2 ILE A 321     -18.209  27.450 -31.403  0.00  0.00           C
+ATOM   2667  CD1 ILE A 321     -21.082  28.535 -32.053  0.00  0.00           C

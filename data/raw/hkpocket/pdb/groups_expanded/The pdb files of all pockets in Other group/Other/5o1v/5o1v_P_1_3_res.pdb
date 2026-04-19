@@ -1,0 +1,24 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 18 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  36.36  24.95  -1.57 with max radius 5.60
+ATOM    819  CE2 TYR A 238      40.340  22.018  -2.593  0.00  0.00           C
+ATOM    820  CZ  TYR A 238      41.236  21.814  -1.562  0.00  0.00           C
+ATOM    821  OH  TYR A 238      40.800  21.795  -0.255  0.00  0.00           O
+ATOM    911  CA  VAL A 249      31.924  24.932  -4.275  0.00  0.00           C
+ATOM    912  C   VAL A 249      32.065  25.614  -5.634  0.00  0.00           C
+ATOM    913  O   VAL A 249      32.841  26.563  -5.791  0.00  0.00           O
+ATOM    914  CB  VAL A 249      32.686  23.593  -4.241  0.00  0.00           C
+ATOM    915  CG1 VAL A 249      34.127  23.774  -4.670  0.00  0.00           C
+ATOM    916  CG2 VAL A 249      32.615  22.956  -2.840  0.00  0.00           C
+ATOM    940  CB  SER A 252      32.628  29.406  -3.383  0.00  0.00           C
+ATOM    941  OG  SER A 252      33.793  30.013  -2.839  0.00  0.00           O
+ATOM    948  CD1 TRP A 253      36.252  27.271  -4.992  0.00  0.00           C
+ATOM    950  NE1 TRP A 253      36.852  26.214  -4.328  0.00  0.00           N
+ATOM    951  CE2 TRP A 253      37.218  25.269  -5.252  0.00  0.00           C
+ATOM    953  CZ2 TRP A 253      37.839  24.031  -5.078  0.00  0.00           C
+ATOM   1206  CD1 ILE A 283      40.384  26.045  -3.636  0.00  0.00           C
+ATOM   1232  N   GLY A 288      39.849  28.500   1.143  0.00  0.00           N
+ATOM   1233  CA  GLY A 288      39.009  28.516  -0.036  0.00  0.00           C

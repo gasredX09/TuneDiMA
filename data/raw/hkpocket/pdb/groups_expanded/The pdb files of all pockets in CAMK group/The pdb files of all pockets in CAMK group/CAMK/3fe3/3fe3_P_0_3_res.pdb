@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 3 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.55 -23.89 -34.42 with max radius 7.43
+ATOM    443  OE2 GLU A 103      -4.293 -24.633 -39.898  0.00  0.00           O
+ATOM   1040  C   VAL A 175      -1.628 -28.501 -31.004  0.00  0.00           C
+ATOM   1041  O   VAL A 175      -1.463 -27.864 -32.073  0.00  0.00           O
+ATOM   1045  N   HIS A 176      -2.517 -28.140 -30.084  0.00  0.00           N
+ATOM   1046  CA  HIS A 176      -3.392 -27.003 -30.339  0.00  0.00           C
+ATOM   1047  C   HIS A 176      -2.827 -25.702 -29.829  0.00  0.00           C
+ATOM   1048  O   HIS A 176      -2.770 -24.711 -30.563  0.00  0.00           O
+ATOM   1049  CB  HIS A 176      -4.779 -27.270 -29.762  0.00  0.00           C
+ATOM   1050  CG  HIS A 176      -5.826 -26.287 -30.196  0.00  0.00           C
+ATOM   1051  ND1 HIS A 176      -6.110 -26.041 -31.517  0.00  0.00           N
+ATOM   1052  CD2 HIS A 176      -6.723 -25.571 -29.483  0.00  0.00           C
+ATOM   1053  CE1 HIS A 176      -7.098 -25.161 -31.600  0.00  0.00           C
+ATOM   1054  NE2 HIS A 176      -7.499 -24.878 -30.382  0.00  0.00           N
+ATOM   1062  NE  ARG A 177       0.929 -23.796 -31.829  0.00  0.00           N
+ATOM   1063  CZ  ARG A 177       0.266 -22.731 -32.307  0.00  0.00           C
+ATOM   1064  NH1 ARG A 177      -0.521 -22.006 -31.529  0.00  0.00           N
+ATOM   1065  NH2 ARG A 177       0.404 -22.373 -33.586  0.00  0.00           N
+ATOM   1070  CB  ASP A 178      -4.956 -21.866 -29.537  0.00  0.00           C
+ATOM   1071  CG  ASP A 178      -5.615 -20.506 -29.600  0.00  0.00           C
+ATOM   1073  OD2 ASP A 178      -6.306 -20.205 -30.626  0.00  0.00           O
+ATOM   1232  N   GLY A 198      -6.266 -28.156 -33.485  0.00  0.00           N
+ATOM   1233  CA  GLY A 198      -5.096 -28.088 -34.414  0.00  0.00           C
+ATOM   1234  C   GLY A 198      -5.307 -27.244 -35.658  0.00  0.00           C
+ATOM   1235  O   GLY A 198      -4.499 -27.254 -36.600  0.00  0.00           O
+ATOM   1236  N   PHE A 199      -6.417 -26.522 -35.688  0.00  0.00           N
+ATOM   1237  CA  PHE A 199      -6.811 -25.772 -36.864  0.00  0.00           C
+ATOM   1238  C   PHE A 199      -6.713 -24.265 -36.534  0.00  0.00           C
+ATOM   1239  O   PHE A 199      -6.894 -23.888 -35.367  0.00  0.00           O
+ATOM   1247  N   SER A 200      -6.398 -23.429 -37.523  0.00  0.00           N
+ATOM   1248  CA  SER A 200      -6.351 -21.975 -37.327  0.00  0.00           C
+ATOM   1249  C   SER A 200      -7.700 -21.334 -37.104  0.00  0.00           C
+ATOM   1251  CB  SER A 200      -5.764 -21.288 -38.567  0.00  0.00           C
+ATOM   1252  OG  SER A 200      -4.638 -22.029 -38.883  0.00  0.00           O
+ATOM   1253  N   ASN A 201      -7.679 -20.313 -36.261  0.00  0.00           N
+ATOM   1254  CA  ASN A 201      -8.837 -19.498 -36.009  0.00  0.00           C
+ATOM   1257  CB  ASN A 201      -8.581 -18.449 -34.886  0.00  0.00           C
+ATOM   1258  CG  ASN A 201      -8.447 -19.095 -33.479  0.00  0.00           C
+ATOM   1259  OD1 ASN A 201      -9.238 -19.985 -33.113  0.00  0.00           O
+ATOM   1260  ND2 ASN A 201      -7.454 -18.618 -32.669  0.00  0.00           N

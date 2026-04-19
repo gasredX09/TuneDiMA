@@ -1,0 +1,62 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 13 with 56 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  78.40  49.75 121.42 with max radius 6.68
+ATOM    635  CD  GLU A 375      73.697  52.954 124.140  0.00  0.00           C
+ATOM    636  OE1 GLU A 375      74.223  52.199 123.296  0.00  0.00           O
+ATOM    637  OE2 GLU A 375      74.129  53.091 125.305  0.00  0.00           O
+ATOM    663  ND2 ASN A 377      75.319  51.449 116.244  0.00  0.00           N
+ATOM    917  CA  TYR A 393      75.845  47.311 114.038  0.00  0.00           C
+ATOM    918  C   TYR A 393      76.102  47.608 115.507  0.00  0.00           C
+ATOM    919  O   TYR A 393      76.669  48.642 115.865  0.00  0.00           O
+ATOM    920  CB  TYR A 393      77.056  47.655 113.163  0.00  0.00           C
+ATOM    921  CG  TYR A 393      78.102  46.561 113.104  0.00  0.00           C
+ATOM    923  CD2 TYR A 393      79.386  46.775 113.585  0.00  0.00           C
+ATOM    925  CE2 TYR A 393      80.344  45.788 113.521  0.00  0.00           C
+ATOM    937  N   ARG A 394      75.703  46.670 116.352  0.00  0.00           N
+ATOM    938  CA  ARG A 394      75.533  46.913 117.772  0.00  0.00           C
+ATOM    939  C   ARG A 394      76.237  45.825 118.524  0.00  0.00           C
+ATOM    940  O   ARG A 394      76.153  44.650 118.169  0.00  0.00           O
+ATOM    961  N   GLU A 395      76.967  46.226 119.549  0.00  0.00           N
+ATOM    962  CA  GLU A 395      77.689  45.278 120.366  0.00  0.00           C
+ATOM    965  CB  GLU A 395      78.535  46.020 121.394  0.00  0.00           C
+ATOM    966  CG  GLU A 395      79.420  45.116 122.209  0.00  0.00           C
+ATOM    967  CD  GLU A 395      80.505  45.872 122.938  0.00  0.00           C
+ATOM    969  OE2 GLU A 395      80.438  47.117 122.967  0.00  0.00           O
+ATOM   1031  CD1 TRP A 399      79.326  44.979 116.543  0.00  0.00           C
+ATOM   1033  NE1 TRP A 399      79.582  46.100 117.293  0.00  0.00           N
+ATOM   1034  CE2 TRP A 399      80.623  45.837 118.140  0.00  0.00           C
+ATOM   1036  CZ2 TRP A 399      81.244  46.654 119.087  0.00  0.00           C
+ATOM   1525  CD  LYS A 430      83.372  50.406 124.515  0.00  0.00           C
+ATOM   1526  CE  LYS A 430      83.133  49.043 123.872  0.00  0.00           C
+ATOM   1527  NZ  LYS A 430      81.832  49.067 123.152  0.00  0.00           N
+ATOM   1978  CA  VAL A 459      80.654  52.702 114.659  0.00  0.00           C
+ATOM   1979  C   VAL A 459      80.395  53.251 116.047  0.00  0.00           C
+ATOM   1980  O   VAL A 459      81.038  52.863 117.027  0.00  0.00           O
+ATOM   1981  CB  VAL A 459      80.000  51.317 114.520  0.00  0.00           C
+ATOM   1982  CG1 VAL A 459      78.522  51.388 114.918  0.00  0.00           C
+ATOM   1983  CG2 VAL A 459      80.144  50.813 113.088  0.00  0.00           C
+ATOM   1995  C   ARG A 460      77.784  54.142 117.937  0.00  0.00           C
+ATOM   2017  N   GLU A 461      77.843  53.811 119.222  0.00  0.00           N
+ATOM   2018  CA  GLU A 461      76.650  53.469 119.991  0.00  0.00           C
+ATOM   2019  C   GLU A 461      76.522  54.439 121.159  0.00  0.00           C
+ATOM   2020  O   GLU A 461      77.283  54.368 122.120  0.00  0.00           O
+ATOM   2021  CB  GLU A 461      76.709  52.047 120.532  0.00  0.00           C
+ATOM   2022  CG  GLU A 461      76.534  50.962 119.500  0.00  0.00           C
+ATOM   2023  CD  GLU A 461      76.533  49.589 120.131  0.00  0.00           C
+ATOM   2024  OE1 GLU A 461      75.605  49.313 120.922  0.00  0.00           O
+ATOM   2025  OE2 GLU A 461      77.466  48.800 119.853  0.00  0.00           O
+ATOM   2057  CB  TRP A 464      80.561  53.824 123.167  0.00  0.00           C
+ATOM   2058  CG  TRP A 464      80.422  53.758 124.648  0.00  0.00           C
+ATOM   2059  CD1 TRP A 464      79.267  53.704 125.368  0.00  0.00           C
+ATOM   2061  NE1 TRP A 464      79.549  53.664 126.714  0.00  0.00           N
+ATOM   2096  O   ASN A 466      84.236  51.901 116.026  0.00  0.00           O
+ATOM   2097  CB  ASN A 466      83.026  50.477 118.349  0.00  0.00           C
+ATOM   2098  CG  ASN A 466      82.238  50.309 119.634  0.00  0.00           C
+ATOM   2099  OD1 ASN A 466      82.807  50.039 120.691  0.00  0.00           O
+ATOM   2100  ND2 ASN A 466      80.923  50.465 119.548  0.00  0.00           N
+ATOM   2134  CE1 PHE A 468      83.900  47.184 115.992  0.00  0.00           C
+ATOM   2135  CE2 PHE A 468      82.977  48.739 114.449  0.00  0.00           C
+ATOM   2136  CZ  PHE A 468      82.842  47.961 115.568  0.00  0.00           C

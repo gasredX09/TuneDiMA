@@ -1,0 +1,69 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 63 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  23.67   7.15   3.67 with max radius 8.98
+ATOM   1010  CA  CYS A2067      29.475   5.155   4.569  0.00  0.00           C
+ATOM   1011  C   CYS A2067      28.423   4.278   5.242  0.00  0.00           C
+ATOM   1012  O   CYS A2067      27.276   4.678   5.408  0.00  0.00           O
+ATOM   1013  CB  CYS A2067      29.533   4.817   3.080  0.00  0.00           C
+ATOM   1014  SG  CYS A2067      30.548   5.917   2.082  0.00  0.00           S
+ATOM   1035  CA  LEU A2070      26.733   7.386   8.040  0.00  0.00           C
+ATOM   1036  C   LEU A2070      25.298   6.919   7.807  0.00  0.00           C
+ATOM   1037  O   LEU A2070      24.352   7.565   8.262  0.00  0.00           O
+ATOM   1038  CB  LEU A2070      27.242   8.133   6.803  0.00  0.00           C
+ATOM   1039  CG  LEU A2070      28.512   8.967   6.998  0.00  0.00           C
+ATOM   1040  CD1 LEU A2070      28.764   9.800   5.755  0.00  0.00           C
+ATOM   1042  N   GLU A2071      25.143   5.797   7.105  0.00  0.00           N
+ATOM   1043  CA  GLU A2071      23.819   5.245   6.806  0.00  0.00           C
+ATOM   1044  C   GLU A2071      23.128   4.705   8.058  0.00  0.00           C
+ATOM   1045  O   GLU A2071      21.928   4.893   8.249  0.00  0.00           O
+ATOM   1046  CB  GLU A2071      23.936   4.121   5.768  0.00  0.00           C
+ATOM   1047  CG  GLU A2071      22.717   3.222   5.690  0.00  0.00           C
+ATOM   1048  CD  GLU A2071      22.855   2.119   4.648  0.00  0.00           C
+ATOM   1050  OE2 GLU A2071      22.022   2.078   3.720  0.00  0.00           O
+ATOM   1070  N   HIS A2074      21.545   7.422   9.670  0.00  0.00           N
+ATOM   1071  CA  HIS A2074      20.465   8.033   8.905  0.00  0.00           C
+ATOM   1072  C   HIS A2074      20.883   9.347   8.287  0.00  0.00           C
+ATOM   1080  N   PHE A2075      22.158   9.440   7.933  0.00  0.00           N
+ATOM   1081  CA  PHE A2075      22.650  10.598   7.208  0.00  0.00           C
+ATOM   1082  C   PHE A2075      23.022  10.252   5.778  0.00  0.00           C
+ATOM   1083  O   PHE A2075      23.567   9.181   5.505  0.00  0.00           O
+ATOM   1084  CB  PHE A2075      23.854  11.202   7.930  0.00  0.00           C
+ATOM   1091  N   ILE A2076      22.706  11.170   4.873  0.00  0.00           N
+ATOM   1092  CA  ILE A2076      23.139  11.100   3.488  0.00  0.00           C
+ATOM   1093  C   ILE A2076      24.205  12.174   3.295  0.00  0.00           C
+ATOM   1095  CB  ILE A2076      21.961  11.380   2.536  0.00  0.00           C
+ATOM   1096  CG1 ILE A2076      22.439  11.349   1.086  0.00  0.00           C
+ATOM   1098  CD1 ILE A2076      21.381  11.794   0.089  0.00  0.00           C
+ATOM   1099  N   HIS A2077      25.283  11.841   2.590  0.00  0.00           N
+ATOM   1100  CA  HIS A2077      26.420  12.752   2.496  0.00  0.00           C
+ATOM   1103  CB  HIS A2077      27.728  11.970   2.305  0.00  0.00           C
+ATOM   1133  CG  LEU A2080      30.569   9.426  -0.550  0.00  0.00           C
+ATOM   1134  CD1 LEU A2080      30.530  10.250   0.726  0.00  0.00           C
+ATOM   1135  CD2 LEU A2080      29.343   8.512  -0.664  0.00  0.00           C
+ATOM   1290  CD1 ILE A2100      32.491   8.663   4.505  0.00  0.00           C
+ATOM   1354  CB  ILE A2109      17.682  10.910   5.016  0.00  0.00           C
+ATOM   1355  CG1 ILE A2109      18.824   9.930   5.308  0.00  0.00           C
+ATOM   1356  CG2 ILE A2109      18.154  11.976   4.037  0.00  0.00           C
+ATOM   1357  CD1 ILE A2109      18.388   8.612   5.920  0.00  0.00           C
+ATOM   1501  C   THR A2139      20.478   8.763  -0.903  0.00  0.00           C
+ATOM   1502  O   THR A2139      21.567   9.077  -1.387  0.00  0.00           O
+ATOM   1506  N   THR A2140      20.334   7.771  -0.035  0.00  0.00           N
+ATOM   1507  CA  THR A2140      21.438   6.885   0.279  0.00  0.00           C
+ATOM   1508  C   THR A2140      21.825   6.048  -0.944  0.00  0.00           C
+ATOM   1509  O   THR A2140      22.956   5.574  -1.048  0.00  0.00           O
+ATOM   1510  CB  THR A2140      21.074   5.956   1.453  0.00  0.00           C
+ATOM   1511  OG1 THR A2140      22.091   4.958   1.608  0.00  0.00           O
+ATOM   1512  CG2 THR A2140      19.734   5.292   1.209  0.00  0.00           C
+ATOM   1532  CB  ASP A2143      25.167   8.040  -0.731  0.00  0.00           C
+ATOM   1533  CG  ASP A2143      25.153   9.398  -0.016  0.00  0.00           C
+ATOM   1534  OD1 ASP A2143      25.112  10.459  -0.680  0.00  0.00           O
+ATOM   1535  OD2 ASP A2143      25.188   9.396   1.233  0.00  0.00           O
+ATOM   2065  CG  PHE A2208      26.882   2.363   1.786  0.00  0.00           C
+ATOM   2066  CD1 PHE A2208      27.991   2.674   1.010  0.00  0.00           C
+ATOM   2067  CD2 PHE A2208      25.813   3.243   1.798  0.00  0.00           C
+ATOM   2068  CE1 PHE A2208      28.026   3.837   0.261  0.00  0.00           C
+ATOM   2069  CE2 PHE A2208      25.842   4.404   1.053  0.00  0.00           C
+ATOM   2070  CZ  PHE A2208      26.948   4.704   0.284  0.00  0.00           C

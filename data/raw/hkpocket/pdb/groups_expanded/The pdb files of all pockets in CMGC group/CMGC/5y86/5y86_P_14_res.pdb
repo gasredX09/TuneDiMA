@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 14 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   8.29  18.22  17.63 with max radius 6.51
+ATOM   1295  CA  TYR A 296       6.835  23.837  14.963  0.00  0.00           C
+ATOM   1298  CB  TYR A 296       7.413  23.350  16.262  0.00  0.00           C
+ATOM   1299  CG  TYR A 296       6.368  22.738  17.110  0.00  0.00           C
+ATOM   1300  CD1 TYR A 296       5.797  21.518  16.768  0.00  0.00           C
+ATOM   1302  CE1 TYR A 296       4.782  20.987  17.498  0.00  0.00           C
+ATOM   1637  CB  LYS A 337      13.809  19.193  15.808  0.00  0.00           C
+ATOM   1639  CD  LYS A 337      13.895  19.690  18.249  0.00  0.00           C
+ATOM   1642  N   PRO A 338      11.900  20.775  13.967  0.00  0.00           N
+ATOM   1643  CA  PRO A 338      11.139  21.920  13.586  0.00  0.00           C
+ATOM   1646  CB  PRO A 338       9.647  21.415  13.618  0.00  0.00           C
+ATOM   1647  CG  PRO A 338       9.792  19.918  13.375  0.00  0.00           C
+ATOM   1648  CD  PRO A 338      11.097  19.542  14.070  0.00  0.00           C
+ATOM   1649  N   GLU A 339      11.459  22.915  15.813  0.00  0.00           N
+ATOM   1650  CA  GLU A 339      11.625  24.059  16.703  0.00  0.00           C
+ATOM   1653  CB  GLU A 339      11.579  23.603  18.179  0.00  0.00           C
+ATOM   1654  CG  GLU A 339      10.212  23.162  18.626  0.00  0.00           C
+ATOM   1655  CD  GLU A 339      10.345  22.209  19.863  0.00  0.00           C
+ATOM   1656  OE1 GLU A 339      10.554  20.962  19.721  0.00  0.00           O
+ATOM   1956  CD2 PHE A 374       8.627  13.468  17.817  0.00  0.00           C
+ATOM   1958  CE2 PHE A 374       7.671  13.394  18.813  0.00  0.00           C
+ATOM   1969  CE2 TYR A 375      11.613  16.138  15.988  0.00  0.00           C
+ATOM   1970  CZ  TYR A 375      10.832  16.286  14.912  0.00  0.00           C
+ATOM   1971  OH  TYR A 375       9.532  16.722  15.077  0.00  0.00           O
+ATOM   2173  CD  GLU A 401       6.979  16.890  12.996  0.00  0.00           C
+ATOM   2174  OE1 GLU A 401       8.136  16.309  13.055  0.00  0.00           O
+ATOM   2175  OE2 GLU A 401       6.399  17.439  14.003  0.00  0.00           O
+ATOM   2216  CB  PRO A 407       6.565  12.987  14.656  0.00  0.00           C
+ATOM   2217  CG  PRO A 407       5.659  13.835  15.455  0.00  0.00           C
+ATOM   2218  CD  PRO A 407       4.364  13.936  14.695  0.00  0.00           C

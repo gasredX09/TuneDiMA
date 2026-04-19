@@ -1,0 +1,33 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 27 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  81.35   0.26  87.90 with max radius 6.43
+ATOM    140  C   PHE A  35      82.413   0.180  93.481  0.00  0.00           C
+ATOM    141  O   PHE A  35      82.316   1.224  92.794  0.00  0.00           O
+ATOM    150  CA  GLY A  36      81.584  -1.260  91.658  0.00  0.00           C
+ATOM    151  C   GLY A  36      81.382  -2.740  91.295  0.00  0.00           C
+ATOM    153  N   GLU A  37      81.655  -3.045  90.039  0.00  0.00           N
+ATOM    154  CA  GLU A  37      81.325  -4.328  89.517  0.00  0.00           C
+ATOM    156  O   GLU A  37      83.575  -4.466  88.693  0.00  0.00           O
+ATOM    157  CB  GLU A  37      80.424  -4.153  88.311  0.00  0.00           C
+ATOM    158  CG  GLU A  37      79.286  -3.134  88.514  0.00  0.00           C
+ATOM    159  CD  GLU A  37      78.397  -3.022  87.290  0.00  0.00           C
+ATOM    161  OE2 GLU A  37      78.436  -1.954  86.646  0.00  0.00           O
+ATOM    178  CE2 PHE A  39      81.827  -4.834  84.991  0.00  0.00           C
+ATOM    179  CZ  PHE A  39      80.542  -5.149  84.509  0.00  0.00           C
+ATOM    291  C   ILE A  54      85.509  -0.561  88.982  0.00  0.00           C
+ATOM    292  O   ILE A  54      84.444  -0.823  89.509  0.00  0.00           O
+ATOM    293  CB  ILE A  54      85.264  -1.268  86.611  0.00  0.00           C
+ATOM    294  CG1 ILE A  54      85.863  -2.099  85.449  0.00  0.00           C
+ATOM    295  CG2 ILE A  54      85.236   0.198  86.264  0.00  0.00           C
+ATOM    296  CD1 ILE A  54      85.048  -2.054  84.191  0.00  0.00           C
+ATOM    298  CA  ILE A  55      85.795   1.414  90.365  0.00  0.00           C
+ATOM    299  C   ILE A  55      85.870   2.850  89.870  0.00  0.00           C
+ATOM    305  N   ASP A  56      84.777   3.597  90.042  0.00  0.00           N
+ATOM    306  CA  ASP A  56      84.737   5.016  89.651  0.00  0.00           C
+ATOM    309  CB  ASP A  56      83.307   5.489  89.348  0.00  0.00           C
+ATOM    615  CD  LYS A  94      83.849   3.525  84.964  0.00  0.00           C
+ATOM    616  CE  LYS A  94      82.395   3.839  85.309  0.00  0.00           C
+ATOM    617  NZ  LYS A  94      81.640   2.528  85.466  0.00  0.00           N

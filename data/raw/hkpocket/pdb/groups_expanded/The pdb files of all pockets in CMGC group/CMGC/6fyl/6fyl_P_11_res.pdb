@@ -1,0 +1,49 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 11 with 43 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -5.27 108.50  22.86 with max radius 6.23
+ATOM   1621  O   HIS A 338      -4.813 109.068  29.052  0.00  0.00           O
+ATOM   1622  CB  HIS A 338      -6.387 106.611  28.298  0.00  0.00           C
+ATOM   1625  CD2 HIS A 338      -7.365 104.360  27.451  0.00  0.00           C
+ATOM   1631  O   SER A 339      -2.827 107.675  26.761  0.00  0.00           O
+ATOM   1635  CA  THR A 340      -1.962 110.008  25.590  0.00  0.00           C
+ATOM   1636  C   THR A 340      -1.045 109.106  24.761  0.00  0.00           C
+ATOM   1637  O   THR A 340      -1.505 108.426  23.852  0.00  0.00           O
+ATOM   1638  CB  THR A 340      -1.691 111.487  25.318  0.00  0.00           C
+ATOM   1640  CG2 THR A 340      -1.843 111.785  23.828  0.00  0.00           C
+ATOM   1726  CA  GLU A 351      -3.603 105.106  16.356  0.00  0.00           C
+ATOM   1727  C   GLU A 351      -3.046 105.834  17.592  0.00  0.00           C
+ATOM   1728  O   GLU A 351      -3.555 106.894  17.971  0.00  0.00           O
+ATOM   1729  CB  GLU A 351      -4.857 104.274  16.701  0.00  0.00           C
+ATOM   1730  CG  GLU A 351      -4.664 103.177  17.772  0.00  0.00           C
+ATOM   1734  N   VAL A 352      -1.996 105.284  18.200  0.00  0.00           N
+ATOM   1735  CA  VAL A 352      -1.334 105.942  19.325  0.00  0.00           C
+ATOM   1736  C   VAL A 352      -0.473 107.102  18.819  0.00  0.00           C
+ATOM   1737  O   VAL A 352      -0.584 108.216  19.325  0.00  0.00           O
+ATOM   1738  CB  VAL A 352      -0.471 104.975  20.202  0.00  0.00           C
+ATOM   1739  CG1 VAL A 352       0.197 105.739  21.352  0.00  0.00           C
+ATOM   1740  CG2 VAL A 352      -1.315 103.803  20.748  0.00  0.00           C
+ATOM   1757  N   GLU A 355      -2.626 109.880  17.704  0.00  0.00           N
+ATOM   1758  CA  GLU A 355      -3.503 110.358  18.775  0.00  0.00           C
+ATOM   1759  C   GLU A 355      -4.982 110.272  18.405  0.00  0.00           C
+ATOM   1760  O   GLU A 355      -5.743 111.224  18.600  0.00  0.00           O
+ATOM   1761  CB  GLU A 355      -3.139 111.791  19.201  0.00  0.00           C
+ATOM   1762  CG  GLU A 355      -1.744 111.935  19.831  0.00  0.00           C
+ATOM   1766  N   LEU A 356      -5.380 109.117  17.879  0.00  0.00           N
+ATOM   1767  CA  LEU A 356      -6.762 108.888  17.474  0.00  0.00           C
+ATOM   1768  C   LEU A 356      -7.610 108.263  18.580  0.00  0.00           C
+ATOM   1774  N   GLY A 357      -6.998 108.047  19.743  0.00  0.00           N
+ATOM   1775  CA  GLY A 357      -7.603 107.264  20.816  0.00  0.00           C
+ATOM   1776  C   GLY A 357      -7.107 105.828  20.703  0.00  0.00           C
+ATOM   1777  O   GLY A 357      -6.855 105.334  19.609  0.00  0.00           O
+ATOM   1778  N   TRP A 358      -6.938 105.161  21.837  0.00  0.00           N
+ATOM   1779  CA  TRP A 358      -6.483 103.780  21.817  0.00  0.00           C
+ATOM   1781  O   TRP A 358      -7.697 103.507  23.874  0.00  0.00           O
+ATOM   1782  CB  TRP A 358      -4.955 103.698  22.022  0.00  0.00           C
+ATOM   1783  CG  TRP A 358      -4.491 104.311  23.307  0.00  0.00           C
+ATOM   1784  CD1 TRP A 358      -4.006 105.574  23.483  0.00  0.00           C
+ATOM   1786  NE1 TRP A 358      -3.714 105.790  24.813  0.00  0.00           N
+ATOM   1787  CE2 TRP A 358      -3.995 104.650  25.519  0.00  0.00           C
+ATOM   1789  CZ2 TRP A 358      -3.848 104.377  26.880  0.00  0.00           C

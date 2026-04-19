@@ -1,0 +1,31 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 25 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at   2.64  27.31  21.41 with max radius 5.88
+ATOM    198  CE1 PHE A 731       3.593  20.996  20.277  0.00  0.00           C
+ATOM    199  CE2 PHE A 731       4.334  21.276  22.562  0.00  0.00           C
+ATOM    200  CZ  PHE A 731       3.349  21.428  21.582  0.00  0.00           C
+ATOM    440  CE  LYS A 762       4.242  30.985  17.112  0.00  0.00           C
+ATOM    441  NZ  LYS A 762       4.541  30.760  18.570  0.00  0.00           N
+ATOM   1080  CZ  ARG A 844       4.923  28.474  25.726  0.00  0.00           C
+ATOM   1081  NH1 ARG A 844       5.217  27.856  24.589  0.00  0.00           N
+ATOM   1082  NH2 ARG A 844       3.648  28.675  26.065  0.00  0.00           N
+ATOM   1251  CD2 LEU A 866       5.223  24.341  24.351  0.00  0.00           C
+ATOM   1264  NE  ARG A 868       7.553  29.690  22.439  0.00  0.00           N
+ATOM   1267  NH2 ARG A 868       6.758  27.678  21.677  0.00  0.00           N
+ATOM   1341  CE1 TYR A 877       4.853  31.806  24.219  0.00  0.00           C
+ATOM   1343  CZ  TYR A 877       5.421  32.289  23.036  0.00  0.00           C
+ATOM   1344  OH  TYR A 877       5.216  31.641  21.842  0.00  0.00           O
+ATOM   1356  CA  ALA A 879       1.255  31.811  24.010  0.00  0.00           C
+ATOM   1357  C   ALA A 879       0.339  31.799  22.784  0.00  0.00           C
+ATOM   1359  CB  ALA A 879       0.924  30.641  24.930  0.00  0.00           C
+ATOM   1360  N   GLY A 882      -1.522  26.175  21.080  0.00  0.00           N
+ATOM   1361  CA  GLY A 882      -0.479  25.179  21.306  0.00  0.00           C
+ATOM   1362  C   GLY A 882      -0.652  24.465  22.638  0.00  0.00           C
+ATOM   1363  O   GLY A 882      -0.989  25.100  23.646  0.00  0.00           O
+ATOM   1364  N   LYS A 883      -0.412  23.148  22.641  0.00  0.00           N
+ATOM   1366  C   LYS A 883       0.296  22.556  25.016  0.00  0.00           C
+ATOM   1367  O   LYS A 883       1.520  22.676  24.867  0.00  0.00           O
+ATOM   1378  CG1 VAL A 884       0.542  25.578  26.769  0.00  0.00           C

@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 6 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -9.33  26.10  -2.48 with max radius 7.62
+ATOM   1634  CZ2 TRP A 905      -8.762  20.727  -4.539  0.00  0.00           C
+ATOM   1636  CH2 TRP A 905      -9.668  20.945  -5.543  0.00  0.00           C
+ATOM   1693  O   LYS A 913     -12.367  23.066  -6.600  0.00  0.00           O
+ATOM   1700  CA  PRO A 914     -10.128  24.217  -7.704  0.00  0.00           C
+ATOM   1701  C   PRO A 914     -10.604  25.594  -7.244  0.00  0.00           C
+ATOM   1706  N   TYR A 915     -10.223  25.983  -6.029  0.00  0.00           N
+ATOM   1707  CA  TYR A 915     -10.662  27.252  -5.446  0.00  0.00           C
+ATOM   1708  C   TYR A 915     -12.173  27.386  -5.607  0.00  0.00           C
+ATOM   1710  CB  TYR A 915      -9.954  28.429  -6.123  0.00  0.00           C
+ATOM   1711  CG  TYR A 915      -8.470  28.216  -6.319  0.00  0.00           C
+ATOM   1712  CD1 TYR A 915      -7.565  28.437  -5.285  0.00  0.00           C
+ATOM   1714  CE1 TYR A 915      -6.204  28.246  -5.472  0.00  0.00           C
+ATOM   1718  N   ASP A 916     -12.872  26.333  -5.206  0.00  0.00           N
+ATOM   1719  CA  ASP A 916     -14.294  26.163  -5.463  0.00  0.00           C
+ATOM   1720  C   ASP A 916     -15.126  27.307  -4.898  0.00  0.00           C
+ATOM   1721  O   ASP A 916     -15.044  27.611  -3.712  0.00  0.00           O
+ATOM   1722  CB  ASP A 916     -14.734  24.837  -4.844  0.00  0.00           C
+ATOM   1735  CG1 ILE A 918     -12.790  30.642  -3.299  0.00  0.00           C
+ATOM   1737  CD1 ILE A 918     -11.434  30.288  -2.733  0.00  0.00           C
+ATOM   1797  CG2 ILE A 926      -5.785  32.048  -2.030  0.00  0.00           C
+ATOM   1833  CB  GLU A 931      -3.866  30.566   0.387  0.00  0.00           C
+ATOM   1837  OE2 GLU A 931      -6.351  31.339   1.255  0.00  0.00           O
+ATOM   1839  CA  ARG A 932      -2.710  26.941  -2.115  0.00  0.00           C
+ATOM   1840  C   ARG A 932      -3.844  25.934  -1.961  0.00  0.00           C
+ATOM   1841  O   ARG A 932      -4.448  25.826  -0.892  0.00  0.00           O
+ATOM   1849  N   LEU A 933      -4.129  25.192  -3.026  0.00  0.00           N
+ATOM   1850  CA  LEU A 933      -5.137  24.135  -2.968  0.00  0.00           C
+ATOM   1851  C   LEU A 933      -4.783  23.125  -1.880  0.00  0.00           C
+ATOM   1853  CB  LEU A 933      -5.237  23.436  -4.325  0.00  0.00           C
+ATOM   1854  CG  LEU A 933      -5.729  24.332  -5.468  0.00  0.00           C
+ATOM   1856  CD2 LEU A 933      -7.227  24.566  -5.328  0.00  0.00           C
+ATOM   1857  N   PRO A 934      -5.800  22.577  -1.199  0.00  0.00           N
+ATOM   1862  CG  PRO A 934      -7.917  21.894  -0.472  0.00  0.00           C
+ATOM   1863  CD  PRO A 934      -7.232  22.841  -1.430  0.00  0.00           C

@@ -1,0 +1,54 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 48 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -18.77 -51.23  34.66 with max radius 6.00
+ATOM   1406  CE1 TYR A 185     -15.572 -48.531  34.975  0.00  0.00           C
+ATOM   1408  CZ  TYR A 185     -14.599 -48.993  34.108  0.00  0.00           C
+ATOM   1409  OH  TYR A 185     -14.935 -49.962  33.188  0.00  0.00           O
+ATOM   1413  O   VAL A 186     -18.969 -47.162  39.068  0.00  0.00           O
+ATOM   1419  C   VAL A 187     -19.089 -46.690  35.867  0.00  0.00           C
+ATOM   1420  O   VAL A 187     -18.185 -47.516  35.974  0.00  0.00           O
+ATOM   1424  N   THR A 188     -20.016 -46.730  34.925  0.00  0.00           N
+ATOM   1425  CA  THR A 188     -20.080 -47.724  33.877  0.00  0.00           C
+ATOM   1426  C   THR A 188     -19.254 -47.260  32.672  0.00  0.00           C
+ATOM   1428  CB  THR A 188     -21.571 -47.908  33.508  0.00  0.00           C
+ATOM   1429  OG1 THR A 188     -22.117 -49.004  34.262  0.00  0.00           O
+ATOM   1430  CG2 THR A 188     -21.755 -48.130  32.038  0.00  0.00           C
+ATOM   1431  N   ARG A 189     -18.496 -48.181  32.066  0.00  0.00           N
+ATOM   1432  CA  ARG A 189     -17.749 -47.883  30.830  0.00  0.00           C
+ATOM   1433  C   ARG A 189     -17.805 -49.012  29.781  0.00  0.00           C
+ATOM   1434  O   ARG A 189     -16.783 -49.616  29.423  0.00  0.00           O
+ATOM   1435  CB  ARG A 189     -16.305 -47.468  31.145  0.00  0.00           C
+ATOM   1442  N   TYR A 190     -19.008 -49.262  29.272  0.00  0.00           N
+ATOM   1443  CA  TYR A 190     -19.298 -50.444  28.457  0.00  0.00           C
+ATOM   1447  CG  TYR A 190     -21.550 -50.902  29.649  0.00  0.00           C
+ATOM   1448  CD1 TYR A 190     -20.995 -51.685  30.668  0.00  0.00           C
+ATOM   1450  CE1 TYR A 190     -21.697 -51.918  31.858  0.00  0.00           C
+ATOM   1452  CZ  TYR A 190     -22.962 -51.371  32.014  0.00  0.00           C
+ATOM   1453  OH  TYR A 190     -23.675 -51.577  33.168  0.00  0.00           O
+ATOM   1716  O   PHE A 225     -19.901 -54.223  28.460  0.00  0.00           O
+ATOM   1725  CA  GLN A 226     -21.747 -55.340  30.230  0.00  0.00           C
+ATOM   1726  C   GLN A 226     -21.040 -55.822  31.492  0.00  0.00           C
+ATOM   1733  N   GLY A 227     -19.857 -55.259  31.744  0.00  0.00           N
+ATOM   1734  CA  GLY A 227     -19.040 -55.644  32.889  0.00  0.00           C
+ATOM   1735  C   GLY A 227     -19.603 -55.095  34.189  0.00  0.00           C
+ATOM   1736  O   GLY A 227     -20.137 -53.989  34.207  0.00  0.00           O
+ATOM   1737  N   THR A 228     -19.483 -55.876  35.266  0.00  0.00           N
+ATOM   1738  CA  THR A 228     -19.951 -55.479  36.601  0.00  0.00           C
+ATOM   1739  C   THR A 228     -19.070 -54.388  37.195  0.00  0.00           C
+ATOM   1740  O   THR A 228     -19.538 -53.561  37.978  0.00  0.00           O
+ATOM   1744  N   ASP A 229     -17.787 -54.427  36.849  0.00  0.00           N
+ATOM   1745  CA  ASP A 229     -16.839 -53.399  37.226  0.00  0.00           C
+ATOM   1746  C   ASP A 229     -15.744 -53.303  36.159  0.00  0.00           C
+ATOM   1747  O   ASP A 229     -15.818 -53.977  35.126  0.00  0.00           O
+ATOM   1748  CB  ASP A 229     -16.279 -53.640  38.651  0.00  0.00           C
+ATOM   1752  N   HIS A 230     -14.738 -52.473  36.417  0.00  0.00           N
+ATOM   1753  CA  HIS A 230     -13.655 -52.210  35.468  0.00  0.00           C
+ATOM   1778  N   GLN A 233     -15.177 -56.066  32.850  0.00  0.00           N
+ATOM   1779  CA  GLN A 233     -15.304 -55.599  31.471  0.00  0.00           C
+ATOM   1782  CB  GLN A 233     -14.914 -54.119  31.375  0.00  0.00           C
+ATOM   1783  CG  GLN A 233     -15.348 -53.428  30.076  0.00  0.00           C
+ATOM   1784  CD  GLN A 233     -16.861 -53.385  29.888  0.00  0.00           C
+ATOM   1785  OE1 GLN A 233     -17.611 -53.144  30.834  0.00  0.00           O

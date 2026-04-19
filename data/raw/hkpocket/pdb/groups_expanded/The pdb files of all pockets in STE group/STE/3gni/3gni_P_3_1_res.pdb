@@ -1,0 +1,57 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 51 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  16.91  -2.42 -26.23 with max radius 6.62
+ATOM   3862  C   LEU B 183      11.418  -4.914 -27.050  0.00  0.00           C
+ATOM   3863  O   LEU B 183      12.156  -4.996 -26.062  0.00  0.00           O
+ATOM   3868  N   ASP B 184      11.079  -3.753 -27.606  0.00  0.00           N
+ATOM   3869  CA  ASP B 184      11.470  -2.464 -27.051  0.00  0.00           C
+ATOM   3870  C   ASP B 184      10.880  -2.351 -25.642  0.00  0.00           C
+ATOM   3871  O   ASP B 184      11.591  -2.040 -24.682  0.00  0.00           O
+ATOM   3872  CB  ASP B 184      10.941  -1.347 -27.965  0.00  0.00           C
+ATOM   3873  CG  ASP B 184      11.560   0.023 -27.679  0.00  0.00           C
+ATOM   3874  OD1 ASP B 184      12.695   0.099 -27.156  0.00  0.00           O
+ATOM   3897  CA  HIS B 187      13.748  -4.562 -22.927  0.00  0.00           C
+ATOM   3898  C   HIS B 187      13.781  -3.379 -21.958  0.00  0.00           C
+ATOM   3899  O   HIS B 187      14.623  -3.350 -21.056  0.00  0.00           O
+ATOM   3900  CB  HIS B 187      14.637  -4.291 -24.149  0.00  0.00           C
+ATOM   3901  CG  HIS B 187      14.867  -5.494 -25.022  0.00  0.00           C
+ATOM   3902  ND1 HIS B 187      15.241  -5.390 -26.346  0.00  0.00           N
+ATOM   3904  CE1 HIS B 187      15.367  -6.598 -26.867  0.00  0.00           C
+ATOM   3905  NE2 HIS B 187      15.086  -7.486 -25.927  0.00  0.00           N
+ATOM   3906  N   HIS B 188      12.876  -2.412 -22.129  0.00  0.00           N
+ATOM   3907  CA  HIS B 188      12.769  -1.286 -21.190  0.00  0.00           C
+ATOM   3910  CB  HIS B 188      11.797  -0.219 -21.702  0.00  0.00           C
+ATOM   3911  CG  HIS B 188      12.440   0.810 -22.579  0.00  0.00           C
+ATOM   3912  ND1 HIS B 188      12.669   0.610 -23.925  0.00  0.00           N
+ATOM   3913  CD2 HIS B 188      12.916   2.048 -22.299  0.00  0.00           C
+ATOM   3914  CE1 HIS B 188      13.251   1.681 -24.436  0.00  0.00           C
+ATOM   4471  CA  ALA B 258      18.820  -7.640 -24.801  0.00  0.00           C
+ATOM   4472  C   ALA B 258      19.219  -7.742 -26.273  0.00  0.00           C
+ATOM   4473  O   ALA B 258      18.413  -8.117 -27.122  0.00  0.00           O
+ATOM   4474  CB  ALA B 258      18.114  -6.329 -24.540  0.00  0.00           C
+ATOM   4475  N   LYS B 259      20.468  -7.403 -26.581  0.00  0.00           N
+ATOM   4476  CA  LYS B 259      20.927  -7.407 -27.969  0.00  0.00           C
+ATOM   4479  CB  LYS B 259      22.208  -6.580 -28.104  0.00  0.00           C
+ATOM   4480  CG  LYS B 259      21.937  -5.067 -28.135  0.00  0.00           C
+ATOM   4481  CD  LYS B 259      23.056  -4.308 -27.470  0.00  0.00           C
+ATOM   4482  CE  LYS B 259      23.246  -2.925 -28.082  0.00  0.00           C
+ATOM   4503  CG1 ILE B 262      18.183  -6.344 -30.640  0.00  0.00           C
+ATOM   4505  CD1 ILE B 262      16.715  -6.114 -31.000  0.00  0.00           C
+ATOM   4901  C   PRO B 368      20.347  -2.261 -31.677  0.00  0.00           C
+ATOM   4902  O   PRO B 368      19.991  -3.438 -31.729  0.00  0.00           O
+ATOM   4906  N   SER B 369      19.850  -1.378 -30.811  0.00  0.00           N
+ATOM   4907  CA  SER B 369      18.706  -1.681 -29.958  0.00  0.00           C
+ATOM   4908  C   SER B 369      17.428  -1.745 -30.802  0.00  0.00           C
+ATOM   4910  CB  SER B 369      18.557  -0.619 -28.869  0.00  0.00           C
+ATOM   4911  OG  SER B 369      18.084   0.592 -29.425  0.00  0.00           O
+ATOM   4912  N   ALA B 370      16.366  -2.312 -30.232  0.00  0.00           N
+ATOM   4913  CA  ALA B 370      15.082  -2.423 -30.930  0.00  0.00           C
+ATOM   4914  C   ALA B 370      14.488  -1.058 -31.291  0.00  0.00           C
+ATOM   4916  CB  ALA B 370      14.090  -3.254 -30.117  0.00  0.00           C
+ATOM   4917  N   SER B 371      14.733  -0.044 -30.463  0.00  0.00           N
+ATOM   4918  CA  SER B 371      14.167   1.277 -30.723  0.00  0.00           C
+ATOM   4921  CB  SER B 371      14.225   2.184 -29.481  0.00  0.00           C
+ATOM   4922  OG  SER B 371      15.501   2.771 -29.311  0.00  0.00           O

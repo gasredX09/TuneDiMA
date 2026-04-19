@@ -1,0 +1,28 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 22 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -118.05 -12.51  55.17 with max radius 5.51
+ATOM    479  CA  ILE A 666    -115.851 -16.413  51.972  0.00  0.00           C
+ATOM    482  CB  ILE A 666    -115.350 -15.817  53.301  0.00  0.00           C
+ATOM    484  CG2 ILE A 666    -116.185 -16.323  54.468  0.00  0.00           C
+ATOM    485  CD1 ILE A 666    -113.264 -15.312  54.665  0.00  0.00           C
+ATOM    504  CD  GLN A 669    -119.938 -13.457  51.344  0.00  0.00           C
+ATOM    505  OE1 GLN A 669    -118.959 -13.447  52.091  0.00  0.00           O
+ATOM    506  NE2 GLN A 669    -121.179 -13.306  51.788  0.00  0.00           N
+ATOM    515  CE1 PHE A 670    -115.677 -11.288  51.659  0.00  0.00           C
+ATOM    517  CZ  PHE A 670    -114.598 -11.724  52.399  0.00  0.00           C
+ATOM   1035  C   MET A 733    -118.822  -7.987  54.948  0.00  0.00           C
+ATOM   1036  O   MET A 733    -118.991  -9.198  55.120  0.00  0.00           O
+ATOM   1037  CB  MET A 733    -118.218  -8.217  52.509  0.00  0.00           C
+ATOM   1040  CE  MET A 733    -120.110  -9.974  50.334  0.00  0.00           C
+ATOM   1042  CA  ASN A 734    -118.402  -7.570  57.337  0.00  0.00           C
+ATOM   1043  C   ASN A 734    -117.189  -8.452  57.585  0.00  0.00           C
+ATOM   1044  O   ASN A 734    -117.223  -9.342  58.447  0.00  0.00           O
+ATOM   1045  CB  ASN A 734    -119.687  -8.240  57.845  0.00  0.00           C
+ATOM   1049  N   TYR A 735    -116.107  -8.210  56.853  0.00  0.00           N
+ATOM   1050  CA  TYR A 735    -114.883  -8.979  57.016  0.00  0.00           C
+ATOM   1053  CB  TYR A 735    -114.462  -9.656  55.713  0.00  0.00           C
+ATOM   1054  CG  TYR A 735    -113.299 -10.572  55.957  0.00  0.00           C
+ATOM   1055  CD1 TYR A 735    -113.491 -11.810  56.549  0.00  0.00           C

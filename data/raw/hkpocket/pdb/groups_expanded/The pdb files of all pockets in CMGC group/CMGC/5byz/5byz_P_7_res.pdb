@@ -1,0 +1,59 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 7 with 53 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  23.42 -34.68  18.02 with max radius 6.67
+ATOM   1953  O   LEU A 271      19.009 -34.409  13.413  0.00  0.00           O
+ATOM   1959  CA  GLN A 272      18.880 -36.457  15.323  0.00  0.00           C
+ATOM   1960  C   GLN A 272      19.661 -37.147  14.200  0.00  0.00           C
+ATOM   1961  O   GLN A 272      20.881 -37.005  14.112  0.00  0.00           O
+ATOM   1962  CB  GLN A 272      18.408 -37.485  16.368  0.00  0.00           C
+ATOM   1963  CG  GLN A 272      18.062 -36.866  17.722  0.00  0.00           C
+ATOM   1964  CD  GLN A 272      17.582 -37.872  18.770  0.00  0.00           C
+ATOM   1965  OE1 GLN A 272      17.782 -37.665  19.968  0.00  0.00           O
+ATOM   1984  CA  MET A 275      22.744 -34.058  12.807  0.00  0.00           C
+ATOM   1985  C   MET A 275      23.856 -35.094  13.006  0.00  0.00           C
+ATOM   1986  O   MET A 275      25.030 -34.719  13.115  0.00  0.00           O
+ATOM   1987  CB  MET A 275      22.309 -33.473  14.147  0.00  0.00           C
+ATOM   1988  CG  MET A 275      21.498 -32.201  13.984  0.00  0.00           C
+ATOM   1989  SD  MET A 275      21.098 -31.393  15.528  0.00  0.00           S
+ATOM   1990  CE  MET A 275      19.987 -32.592  16.277  0.00  0.00           C
+ATOM   1991  N   MET A 276      23.505 -36.381  13.033  0.00  0.00           N
+ATOM   1992  CA  MET A 276      24.517 -37.450  13.121  0.00  0.00           C
+ATOM   1995  CB  MET A 276      23.872 -38.839  13.318  0.00  0.00           C
+ATOM   1996  CG  MET A 276      23.328 -39.108  14.730  0.00  0.00           C
+ATOM   1997  SD  MET A 276      24.571 -39.183  16.040  0.00  0.00           S
+ATOM   2015  CA  GLY A 279      26.927 -32.203  12.663  0.00  0.00           C
+ATOM   2016  C   GLY A 279      25.915 -31.237  13.244  0.00  0.00           C
+ATOM   2017  O   GLY A 279      24.778 -31.140  12.759  0.00  0.00           O
+ATOM   2018  N   THR A 280      26.330 -30.533  14.294  0.00  0.00           N
+ATOM   2019  CA  THR A 280      25.497 -29.515  14.931  0.00  0.00           C
+ATOM   2020  C   THR A 280      25.307 -28.354  13.957  0.00  0.00           C
+ATOM   2022  CB  THR A 280      26.157 -28.971  16.219  0.00  0.00           C
+ATOM   2023  OG1 THR A 280      26.684 -30.058  16.988  0.00  0.00           O
+ATOM   2024  CG2 THR A 280      25.151 -28.182  17.051  0.00  0.00           C
+ATOM   2031  CD  PRO A 281      22.792 -28.300  14.401  0.00  0.00           C
+ATOM   2151  CA  ILE A 298      19.370 -28.560  19.747  0.00  0.00           C
+ATOM   2152  C   ILE A 298      20.562 -28.100  20.608  0.00  0.00           C
+ATOM   2153  O   ILE A 298      21.608 -28.745  20.616  0.00  0.00           O
+ATOM   2154  CB  ILE A 298      19.291 -27.760  18.416  0.00  0.00           C
+ATOM   2156  CG2 ILE A 298      20.643 -27.725  17.710  0.00  0.00           C
+ATOM   2174  CA  LEU A 301      22.864 -31.810  22.766  0.00  0.00           C
+ATOM   2175  C   LEU A 301      24.337 -31.402  22.723  0.00  0.00           C
+ATOM   2176  O   LEU A 301      24.640 -30.224  22.511  0.00  0.00           O
+ATOM   2177  CB  LEU A 301      22.427 -32.234  21.359  0.00  0.00           C
+ATOM   2178  CG  LEU A 301      20.983 -32.707  21.182  0.00  0.00           C
+ATOM   2179  CD1 LEU A 301      20.665 -32.900  19.698  0.00  0.00           C
+ATOM   2180  CD2 LEU A 301      20.729 -33.988  21.958  0.00  0.00           C
+ATOM   2181  N   PRO A 302      25.259 -32.374  22.903  0.00  0.00           N
+ATOM   2182  CA  PRO A 302      26.686 -32.048  22.844  0.00  0.00           C
+ATOM   2183  C   PRO A 302      27.153 -31.703  21.422  0.00  0.00           C
+ATOM   2184  O   PRO A 302      26.574 -32.216  20.458  0.00  0.00           O
+ATOM   2186  CG  PRO A 302      26.410 -34.410  23.068  0.00  0.00           C
+ATOM   2187  CD  PRO A 302      25.038 -33.807  23.180  0.00  0.00           C
+ATOM   2203  CB  ARG A 304      28.073 -33.641  16.747  0.00  0.00           C
+ATOM   2205  CG  ARG A 304      28.242 -34.683  15.664  0.00  0.00           C
+ATOM   2207  CD  ARG A 304      27.108 -35.693  15.680  0.00  0.00           C
+ATOM   2209  NE  ARG A 304      27.418 -36.837  16.531  0.00  0.00           N
+ATOM   2211  CZ  ARG A 304      27.927 -37.978  16.078  0.00  0.00           C

@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -59.42  28.29 -21.50 with max radius 6.26
+ATOM   1820  CA  HIS A 680     -58.908  23.901 -20.914  0.00  0.00           C
+ATOM   1821  C   HIS A 680     -58.675  23.854 -22.418  0.00  0.00           C
+ATOM   1822  O   HIS A 680     -58.743  24.890 -23.087  0.00  0.00           O
+ATOM   1823  CB  HIS A 680     -57.592  24.152 -20.180  0.00  0.00           C
+ATOM   1824  CG  HIS A 680     -57.765  24.486 -18.732  0.00  0.00           C
+ATOM   1826  CD2 HIS A 680     -58.857  24.863 -18.025  0.00  0.00           C
+ATOM   1867  N   ASN A 683     -61.581  25.242 -24.231  0.00  0.00           N
+ATOM   1868  CA  ASN A 683     -61.968  26.587 -23.801  0.00  0.00           C
+ATOM   1869  C   ASN A 683     -63.091  26.534 -22.766  0.00  0.00           C
+ATOM   1870  O   ASN A 683     -64.020  27.344 -22.788  0.00  0.00           O
+ATOM   1871  CB  ASN A 683     -62.364  27.472 -24.989  0.00  0.00           C
+ATOM   1872  CG  ASN A 683     -61.184  27.841 -25.866  0.00  0.00           C
+ATOM   1873  OD1 ASN A 683     -60.029  27.677 -25.479  0.00  0.00           O
+ATOM   1881  N   ILE A 684     -63.001  25.571 -21.850  0.00  0.00           N
+ATOM   1882  CA  ILE A 684     -63.886  25.476 -20.694  0.00  0.00           C
+ATOM   1883  C   ILE A 684     -63.053  25.739 -19.449  0.00  0.00           C
+ATOM   1884  O   ILE A 684     -61.991  25.133 -19.267  0.00  0.00           O
+ATOM   1900  N   VAL A 685     -63.541  26.631 -18.591  0.00  0.00           N
+ATOM   1901  CA  VAL A 685     -62.904  26.950 -17.319  0.00  0.00           C
+ATOM   1906  CG2 VAL A 685     -61.678  28.867 -18.374  0.00  0.00           C
+ATOM   2554  O   PRO A 751     -61.610  32.371 -18.342  0.00  0.00           O
+ATOM   2566  CA  THR A 752     -58.839  32.126 -18.192  0.00  0.00           C
+ATOM   2567  C   THR A 752     -58.520  30.881 -17.372  0.00  0.00           C
+ATOM   2569  CB  THR A 752     -57.548  32.814 -18.640  0.00  0.00           C
+ATOM   2571  CG2 THR A 752     -57.860  34.020 -19.503  0.00  0.00           C
+ATOM   2579  N   TYR A 753     -57.792  29.956 -18.002  0.00  0.00           N
+ATOM   2580  CA  TYR A 753     -57.400  28.720 -17.335  0.00  0.00           C
+ATOM   2583  CB  TYR A 753     -56.550  27.873 -18.284  0.00  0.00           C
+ATOM   2584  CG  TYR A 753     -55.190  28.479 -18.558  0.00  0.00           C
+ATOM   2585  CD1 TYR A 753     -55.040  29.530 -19.454  0.00  0.00           C

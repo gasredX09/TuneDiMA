@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 0 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  33.52  18.42 -11.92 with max radius 6.57
+ATOM   1156  NH2 ARG A2083      33.881  16.843  -6.998  0.00  0.00           N
+ATOM   1370  N   LEU A2123      31.090  20.937  -9.692  0.00  0.00           N
+ATOM   1371  CA  LEU A2123      29.757  21.248 -10.203  0.00  0.00           C
+ATOM   1374  CB  LEU A2123      29.620  20.777 -11.651  0.00  0.00           C
+ATOM   1375  CG  LEU A2123      30.195  21.779 -12.657  0.00  0.00           C
+ATOM   1377  CD2 LEU A2123      31.667  22.039 -12.368  0.00  0.00           C
+ATOM   1379  CA  PRO A2124      29.916  18.518  -9.053  0.00  0.00           C
+ATOM   1380  C   PRO A2124      29.248  17.434  -9.891  0.00  0.00           C
+ATOM   1381  O   PRO A2124      28.986  16.329  -9.414  0.00  0.00           O
+ATOM   1382  CB  PRO A2124      30.387  18.002  -7.703  0.00  0.00           C
+ATOM   1385  N   VAL A2125      28.956  17.762 -11.140  0.00  0.00           N
+ATOM   1386  CA  VAL A2125      28.058  16.938 -11.934  0.00  0.00           C
+ATOM   1387  C   VAL A2125      28.630  15.542 -12.173  0.00  0.00           C
+ATOM   1391  CG2 VAL A2125      29.013  17.843 -14.084  0.00  0.00           C
+ATOM   1392  N   ARG A2126      29.954  15.453 -12.253  0.00  0.00           N
+ATOM   1393  CA  ARG A2126      30.628  14.197 -12.569  0.00  0.00           C
+ATOM   1396  CB  ARG A2126      32.121  14.454 -12.814  0.00  0.00           C
+ATOM   1397  CG  ARG A2126      32.374  15.326 -14.035  0.00  0.00           C
+ATOM   1398  CD  ARG A2126      33.820  15.794 -14.158  0.00  0.00           C
+ATOM   1399  NE  ARG A2126      33.932  16.854 -15.160  0.00  0.00           N
+ATOM   1400  CZ  ARG A2126      34.150  16.650 -16.459  0.00  0.00           C
+ATOM   1413  CE3 TRP A2127      32.695  15.083  -9.400  0.00  0.00           C
+ATOM   1415  CZ3 TRP A2127      33.817  15.722  -9.902  0.00  0.00           C
+ATOM   1416  CH2 TRP A2127      35.113  15.242  -9.622  0.00  0.00           C
+ATOM   1676  CD  GLN A2160      37.600  16.259 -13.949  0.00  0.00           C
+ATOM   1677  OE1 GLN A2160      37.753  16.039 -12.743  0.00  0.00           O
+ATOM   1678  NE2 GLN A2160      37.080  17.393 -14.412  0.00  0.00           N
+ATOM   1685  CD  PRO A2161      36.530  12.595 -12.384  0.00  0.00           C
+ATOM   1731  CG  ASN A2167      31.929  21.126 -16.285  0.00  0.00           C
+ATOM   1732  OD1 ASN A2167      32.577  20.141 -15.924  0.00  0.00           O

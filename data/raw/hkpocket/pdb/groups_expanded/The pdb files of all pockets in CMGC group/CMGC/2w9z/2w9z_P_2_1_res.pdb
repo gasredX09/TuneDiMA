@@ -1,0 +1,49 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 43 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  24.35   9.92  11.85 with max radius 7.54
+ATOM   2073  N   ALA B  16      21.540  14.289  10.067  0.00  0.00           N
+ATOM   2074  CA  ALA B  16      21.405  13.267  11.103  0.00  0.00           C
+ATOM   2076  O   ALA B  16      19.692  12.687  12.695  0.00  0.00           O
+ATOM   2077  CB  ALA B  16      22.736  13.055  11.815  0.00  0.00           C
+ATOM   3045  CG  ASP B 140      27.172  15.185  13.085  0.00  0.00           C
+ATOM   3046  OD1 ASP B 140      28.089  14.639  12.433  0.00  0.00           O
+ATOM   3047  OD2 ASP B 140      25.964  15.125  12.755  0.00  0.00           O
+ATOM   3063  CE  LYS B 142      27.003  15.562   9.734  0.00  0.00           C
+ATOM   3064  NZ  LYS B 142      25.634  15.055   9.456  0.00  0.00           N
+ATOM   3264  CA  MET B 169      19.475   7.751  16.305  0.00  0.00           C
+ATOM   3265  C   MET B 169      19.689   6.251  16.518  0.00  0.00           C
+ATOM   3266  O   MET B 169      20.489   5.617  15.818  0.00  0.00           O
+ATOM   3267  CB  MET B 169      20.790   8.515  16.440  0.00  0.00           C
+ATOM   3268  CG  MET B 169      20.644  10.021  16.266  0.00  0.00           C
+ATOM   3269  SD  MET B 169      22.190  10.914  16.552  0.00  0.00           S
+ATOM   3270  CE  MET B 169      22.529  10.479  18.275  0.00  0.00           C
+ATOM   3290  CA  PRO B 173      19.732   5.272  12.367  0.00  0.00           C
+ATOM   3291  C   PRO B 173      19.462   5.870  10.993  0.00  0.00           C
+ATOM   3293  CB  PRO B 173      20.817   4.192  12.259  0.00  0.00           C
+ATOM   3296  N   VAL B 174      20.357   6.736  10.539  0.00  0.00           N
+ATOM   3297  CA  VAL B 174      20.255   7.285   9.196  0.00  0.00           C
+ATOM   3298  C   VAL B 174      21.636   7.620   8.671  0.00  0.00           C
+ATOM   3299  O   VAL B 174      22.601   7.647   9.435  0.00  0.00           O
+ATOM   3300  CB  VAL B 174      19.345   8.528   9.155  0.00  0.00           C
+ATOM   3302  CG2 VAL B 174      19.793   9.553  10.183  0.00  0.00           C
+ATOM   3303  N   VAL B 175      21.735   7.754   7.351  0.00  0.00           N
+ATOM   3304  CA  VAL B 175      22.793   8.534   6.722  0.00  0.00           C
+ATOM   3305  C   VAL B 175      24.175   8.264   7.303  0.00  0.00           C
+ATOM   3306  O   VAL B 175      24.446   7.189   7.845  0.00  0.00           O
+ATOM   3307  CB  VAL B 175      22.478  10.041   6.837  0.00  0.00           C
+ATOM   3308  CG1 VAL B 175      23.217  10.840   5.767  0.00  0.00           C
+ATOM   3309  CG2 VAL B 175      20.978  10.282   6.775  0.00  0.00           C
+ATOM   3310  N   VAL B 176      25.037   9.263   7.144  0.00  0.00           N
+ATOM   3311  CA  VAL B 176      26.300   9.396   7.860  0.00  0.00           C
+ATOM   3312  C   VAL B 176      27.119  10.400   7.070  0.00  0.00           C
+ATOM   3313  O   VAL B 176      26.580  11.119   6.229  0.00  0.00           O
+ATOM   3314  CB  VAL B 176      27.056   8.057   8.035  0.00  0.00           C
+ATOM   3316  CG2 VAL B 176      27.925   8.093   9.291  0.00  0.00           C
+ATOM   3317  N   THR B 177      28.418  10.428   7.335  0.00  0.00           N
+ATOM   3323  CG2 THR B 177      28.442  13.315   7.701  0.00  0.00           C
+ATOM   3365  NE  ARG B 181      30.245  11.496  12.589  0.00  0.00           N
+ATOM   3366  CZ  ARG B 181      29.319  10.637  13.001  0.00  0.00           C
+ATOM   3368  NH2 ARG B 181      28.141  11.079  13.420  0.00  0.00           N

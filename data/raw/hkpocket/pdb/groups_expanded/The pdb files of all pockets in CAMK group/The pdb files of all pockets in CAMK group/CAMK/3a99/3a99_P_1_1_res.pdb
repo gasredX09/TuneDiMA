@@ -1,0 +1,26 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 20 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -18.75  85.67  -0.49 with max radius 5.85
+ATOM    116  O   PHE A  49     -17.913  88.111  -4.779  0.00  0.00           O
+ATOM    125  CA  GLY A  50     -15.593  87.010  -3.823  0.00  0.00           C
+ATOM    126  C   GLY A  50     -14.739  88.259  -3.740  0.00  0.00           C
+ATOM    128  N   SER A  51     -14.272  88.579  -2.536  0.00  0.00           N
+ATOM    253  CE  LYS A  67     -13.879  83.823   2.182  0.00  0.00           C
+ATOM    257  C   HIS A  68     -15.935  89.033   2.664  0.00  0.00           C
+ATOM    258  O   HIS A  68     -16.016  88.499   1.558  0.00  0.00           O
+ATOM    266  CA  VAL A  69     -17.992  87.990   3.428  0.00  0.00           C
+ATOM    267  C   VAL A  69     -19.268  88.808   3.609  0.00  0.00           C
+ATOM    269  CB  VAL A  69     -17.989  86.823   4.433  0.00  0.00           C
+ATOM    270  CG1 VAL A  69     -19.208  85.941   4.212  0.00  0.00           C
+ATOM    271  CG2 VAL A  69     -16.708  86.009   4.274  0.00  0.00           C
+ATOM    272  N   GLU A  70     -20.136  88.763   2.602  0.00  0.00           N
+ATOM    276  CB  GLU A  70     -21.994  89.543   1.211  0.00  0.00           C
+ATOM    277  CG  GLU A  70     -21.129  90.252   0.191  0.00  0.00           C
+ATOM    278  CD  GLU A  70     -21.530  89.908  -1.229  0.00  0.00           C
+ATOM    279  OE1 GLU A  70     -21.246  88.774  -1.670  0.00  0.00           O
+ATOM    302  CB  ARG A  73     -23.534  86.018   0.509  0.00  0.00           C
+ATOM    303  CG  ARG A  73     -23.710  87.029  -0.613  0.00  0.00           C
+ATOM    304  CD  ARG A  73     -24.633  86.498  -1.697  0.00  0.00           C

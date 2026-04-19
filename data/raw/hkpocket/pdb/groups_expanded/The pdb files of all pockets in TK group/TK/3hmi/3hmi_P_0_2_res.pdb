@@ -1,0 +1,45 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 39 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -22.33   5.64   2.50 with max radius 8.65
+ATOM    391  CA  GLU A 328     -25.331   2.089   4.748  0.00  0.00           C
+ATOM    392  C   GLU A 328     -26.322   2.871   3.850  0.00  0.00           C
+ATOM    393  O   GLU A 328     -26.103   4.046   3.487  0.00  0.00           O
+ATOM    394  CB  GLU A 328     -24.543   1.043   3.942  0.00  0.00           C
+ATOM    395  CG  GLU A 328     -23.518   1.605   2.974  0.00  0.00           C
+ATOM    396  CD  GLU A 328     -22.755   0.533   2.177  0.00  0.00           C
+ATOM    398  OE2 GLU A 328     -22.659   0.674   0.936  0.00  0.00           O
+ATOM    419  CA  LYS A 331     -26.331   6.930   5.646  0.00  0.00           C
+ATOM    420  C   LYS A 331     -26.292   7.714   4.315  0.00  0.00           C
+ATOM    421  O   LYS A 331     -26.117   8.939   4.292  0.00  0.00           O
+ATOM    422  CB  LYS A 331     -24.973   6.284   5.950  0.00  0.00           C
+ATOM    423  CG  LYS A 331     -24.767   5.906   7.450  0.00  0.00           C
+ATOM    424  CD  LYS A 331     -23.558   4.968   7.690  0.00  0.00           C
+ATOM    425  N   GLU A 332     -26.471   6.984   3.224  0.00  0.00           N
+ATOM    426  CA  GLU A 332     -26.573   7.543   1.888  0.00  0.00           C
+ATOM    429  CB  GLU A 332     -26.865   6.368   0.941  0.00  0.00           C
+ATOM    430  CG  GLU A 332     -26.781   6.655  -0.461  0.00  0.00           C
+ATOM    431  CD  GLU A 332     -26.717   5.380  -1.315  0.00  0.00           C
+ATOM    432  OE1 GLU A 332     -26.063   4.381  -0.901  0.00  0.00           O
+ATOM    450  CG2 VAL A 335     -24.012  11.840   3.499  0.00  0.00           C
+ATOM   1055  NH2 ARG A 408     -18.824   4.370  -1.376  0.00  0.00           N
+ATOM   1213  N   GLY A 429     -24.969   7.252  -3.257  0.00  0.00           N
+ATOM   1214  CA  GLY A 429     -23.661   6.677  -2.941  0.00  0.00           C
+ATOM   1215  C   GLY A 429     -22.588   7.608  -2.388  0.00  0.00           C
+ATOM   1216  O   GLY A 429     -21.392   7.246  -2.407  0.00  0.00           O
+ATOM   1217  N   LEU A 430     -22.994   8.750  -1.843  0.00  0.00           N
+ATOM   1218  CA  LEU A 430     -22.052   9.688  -1.248  0.00  0.00           C
+ATOM   1219  C   LEU A 430     -21.718   9.284   0.183  0.00  0.00           C
+ATOM   1220  O   LEU A 430     -22.440   8.480   0.789  0.00  0.00           O
+ATOM   1225  N   SER A 431     -20.612   9.838   0.700  0.00  0.00           N
+ATOM   1226  CA  SER A 431     -20.130   9.538   2.055  0.00  0.00           C
+ATOM   1227  C   SER A 431     -19.666  10.821   2.755  0.00  0.00           C
+ATOM   1229  CB  SER A 431     -18.915   8.605   2.001  0.00  0.00           C
+ATOM   1230  OG  SER A 431     -19.298   7.303   1.643  0.00  0.00           O
+ATOM   1231  N   ARG A 432     -19.883  10.898   4.064  0.00  0.00           N
+ATOM   1235  CB  ARG A 432     -19.845  11.995   6.252  0.00  0.00           C
+ATOM   1236  CG  ARG A 432     -21.324  12.322   6.230  0.00  0.00           C
+ATOM   1237  CD  ARG A 432     -21.832  12.563   7.664  0.00  0.00           C
+ATOM   1299  OH  TYR A 439     -17.288   3.367   1.536  0.00  0.00           O

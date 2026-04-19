@@ -1,0 +1,29 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 23 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -3.95  36.38   7.98 with max radius 5.81
+ATOM   2162  OE1 GLU A 285      -8.166  39.181   8.791  0.00  0.00           O
+ATOM   3206  CB  SER A 413      -7.891  40.201   4.955  0.00  0.00           C
+ATOM   3207  OG  SER A 413      -8.231  38.851   5.281  0.00  0.00           O
+ATOM   3216  CA  GLN A 415      -7.339  35.345   3.457  0.00  0.00           C
+ATOM   3219  CB  GLN A 415      -6.216  35.243   4.457  0.00  0.00           C
+ATOM   3220  CG  GLN A 415      -4.877  35.340   3.807  0.00  0.00           C
+ATOM   3221  CD  GLN A 415      -4.442  34.052   3.097  0.00  0.00           C
+ATOM   3451  C   PRO A 446      -3.952  31.931   7.495  0.00  0.00           C
+ATOM   3452  O   PRO A 446      -3.294  32.565   8.271  0.00  0.00           O
+ATOM   3453  CB  PRO A 446      -2.976  31.463   5.247  0.00  0.00           C
+ATOM   3456  N   LEU A 447      -5.253  32.118   7.391  0.00  0.00           N
+ATOM   3457  CA  LEU A 447      -5.925  33.083   8.218  0.00  0.00           C
+ATOM   3458  C   LEU A 447      -5.594  32.861   9.690  0.00  0.00           C
+ATOM   3459  O   LEU A 447      -5.500  33.832  10.450  0.00  0.00           O
+ATOM   3460  CB  LEU A 447      -7.416  33.020   8.000  0.00  0.00           C
+ATOM   3461  CG  LEU A 447      -8.205  33.998   8.879  0.00  0.00           C
+ATOM   3462  CD1 LEU A 447      -7.861  35.394   8.500  0.00  0.00           C
+ATOM   3479  CB  LYS A 449      -0.799  33.051  10.151  0.00  0.00           C
+ATOM   3480  CG  LYS A 449      -0.101  33.015   8.794  0.00  0.00           C
+ATOM   3481  CD  LYS A 449       0.504  34.446   8.565  0.00  0.00           C
+ATOM   3483  NZ  LYS A 449       0.547  34.367   6.165  0.00  0.00           N
+ATOM   3491  CE  LYS A 450      -2.136  37.925  12.472  0.00  0.00           C
+ATOM   3492  NZ  LYS A 450      -2.398  39.437  12.671  0.00  0.00           N

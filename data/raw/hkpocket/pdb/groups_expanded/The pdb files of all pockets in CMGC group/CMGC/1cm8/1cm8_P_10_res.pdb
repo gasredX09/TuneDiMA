@@ -1,0 +1,40 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 10 with 34 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  32.77  60.07   4.63 with max radius 7.95
+ATOM    563  C   GLU A  84      37.833  60.441   5.429  0.00  0.00           C
+ATOM    564  O   GLU A  84      37.189  61.159   4.658  0.00  0.00           O
+ATOM    565  CB  GLU A  84      37.147  58.026   5.038  0.00  0.00           C
+ATOM    566  CG  GLU A  84      36.066  58.171   3.928  0.00  0.00           C
+ATOM    567  CD  GLU A  84      36.529  57.735   2.501  0.00  0.00           C
+ATOM    569  OE2 GLU A  84      36.821  58.623   1.654  0.00  0.00           O
+ATOM    575  CG  ASN A  85      35.616  61.070   8.105  0.00  0.00           C
+ATOM    576  OD1 ASN A  85      35.427  59.943   8.573  0.00  0.00           O
+ATOM    577  ND2 ASN A  85      34.741  61.671   7.307  0.00  0.00           N
+ATOM    954  CE1 PHE A 132      27.502  60.463   6.947  0.00  0.00           C
+ATOM    955  CE2 PHE A 132      27.111  62.096   5.206  0.00  0.00           C
+ATOM    956  CZ  PHE A 132      27.651  60.874   5.621  0.00  0.00           C
+ATOM    979  CD2 TYR A 135      29.116  58.979  11.408  0.00  0.00           C
+ATOM    981  CE2 TYR A 135      29.470  57.620  11.436  0.00  0.00           C
+ATOM    989  CG  GLN A 136      30.982  62.473   8.514  0.00  0.00           C
+ATOM    990  CD  GLN A 136      30.897  62.878   7.070  0.00  0.00           C
+ATOM    991  OE1 GLN A 136      31.781  62.556   6.285  0.00  0.00           O
+ATOM   1016  CE  LYS A 139      33.274  57.390  10.137  0.00  0.00           C
+ATOM   1017  NZ  LYS A 139      33.193  56.167   9.254  0.00  0.00           N
+ATOM   1193  ND2 ASN A 162      32.779  65.150  -0.920  0.00  0.00           N
+ATOM   1218  CA  GLU A 166      31.156  64.314   3.156  0.00  0.00           C
+ATOM   1219  C   GLU A 166      32.117  65.345   3.744  0.00  0.00           C
+ATOM   1221  CB  GLU A 166      31.810  63.479   2.065  0.00  0.00           C
+ATOM   1222  CG  GLU A 166      30.799  62.576   1.368  0.00  0.00           C
+ATOM   1223  CD  GLU A 166      31.419  61.668   0.323  0.00  0.00           C
+ATOM   1224  OE1 GLU A 166      32.019  62.190  -0.637  0.00  0.00           O
+ATOM   1225  OE2 GLU A 166      31.286  60.429   0.453  0.00  0.00           O
+ATOM   1226  N   LEU A 167      32.735  64.998   4.864  0.00  0.00           N
+ATOM   1227  CA  LEU A 167      33.616  65.930   5.530  0.00  0.00           C
+ATOM   1228  C   LEU A 167      35.027  65.419   5.676  0.00  0.00           C
+ATOM   1229  O   LEU A 167      35.252  64.219   5.774  0.00  0.00           O
+ATOM   1239  CG  LYS A 168      37.872  64.560   3.787  0.00  0.00           C
+ATOM   1240  CD  LYS A 168      38.198  64.587   2.296  0.00  0.00           C
+ATOM   1241  CE  LYS A 168      38.285  63.188   1.673  0.00  0.00           C

@@ -1,0 +1,25 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 1 with 19 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  31.23 -57.31 -41.02 with max radius 6.02
+ATOM   1963  OG1 THR A 448      33.256 -53.171 -41.913  0.00  0.00           O
+ATOM   1964  CG2 THR A 448      33.422 -53.179 -39.527  0.00  0.00           C
+ATOM   2089  CA  ARG A 469      35.039 -60.116 -41.569  0.00  0.00           C
+ATOM   2090  C   ARG A 469      34.579 -60.709 -40.240  0.00  0.00           C
+ATOM   2091  O   ARG A 469      33.705 -60.129 -39.595  0.00  0.00           O
+ATOM   2092  CB  ARG A 469      34.248 -60.770 -42.718  0.00  0.00           C
+ATOM   2093  CG  ARG A 469      34.322 -60.098 -44.044  0.00  0.00           C
+ATOM   2094  CD  ARG A 469      33.673 -60.983 -45.125  0.00  0.00           C
+ATOM   2095  NE  ARG A 469      32.817 -60.223 -46.047  0.00  0.00           N
+ATOM   2115  CA  TRP A 472      34.270 -57.493 -37.003  0.00  0.00           C
+ATOM   2116  C   TRP A 472      32.747 -57.601 -36.923  0.00  0.00           C
+ATOM   2117  O   TRP A 472      32.045 -56.623 -37.172  0.00  0.00           O
+ATOM   2118  CB  TRP A 472      34.648 -56.671 -38.237  0.00  0.00           C
+ATOM   2128  N   TYR A 473      32.229 -58.771 -36.581  0.00  0.00           N
+ATOM   2129  CA  TYR A 473      30.802 -58.902 -36.366  0.00  0.00           C
+ATOM   2134  CD1 TYR A 473      30.304 -60.698 -38.674  0.00  0.00           C
+ATOM   2136  CE1 TYR A 473      30.517 -61.455 -39.826  0.00  0.00           C
+ATOM   2145  CG  PRO A 474      27.827 -55.735 -36.441  0.00  0.00           C
+ATOM   2146  CD  PRO A 474      28.579 -57.013 -36.663  0.00  0.00           C

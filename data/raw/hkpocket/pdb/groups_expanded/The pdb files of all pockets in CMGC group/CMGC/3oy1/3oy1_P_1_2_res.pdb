@@ -1,0 +1,35 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 2 with 29 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at -25.37  -0.47  -7.81 with max radius 5.44
+ATOM    895  CA  GLU A 160     -25.124  -1.836 -12.813  0.00  0.00           C
+ATOM    896  C   GLU A 160     -23.641  -1.822 -12.599  0.00  0.00           C
+ATOM    898  CB  GLU A 160     -25.790  -3.068 -12.234  0.00  0.00           C
+ATOM    899  CG  GLU A 160     -25.934  -2.953 -10.794  0.00  0.00           C
+ATOM    900  CD  GLU A 160     -26.277  -4.216 -10.110  0.00  0.00           C
+ATOM    901  OE1 GLU A 160     -26.955  -4.084  -9.091  0.00  0.00           O
+ATOM    902  OE2 GLU A 160     -25.879  -5.300 -10.567  0.00  0.00           O
+ATOM    903  N   LEU A 161     -23.263  -1.282 -11.446  0.00  0.00           N
+ATOM    904  CA  LEU A 161     -21.906  -0.891 -11.157  0.00  0.00           C
+ATOM    906  O   LEU A 161     -21.304  -2.776  -9.976  0.00  0.00           O
+ATOM    907  CB  LEU A 161     -21.855   0.077  -9.985  0.00  0.00           C
+ATOM    908  CG  LEU A 161     -20.511   0.290  -9.323  0.00  0.00           C
+ATOM    910  CD2 LEU A 161     -20.733   0.770  -7.944  0.00  0.00           C
+ATOM   1553  O   MET A 256     -23.336   3.743 -10.768  0.00  0.00           O
+ATOM   1559  CA  VAL A 257     -22.909   4.886  -8.248  0.00  0.00           C
+ATOM   1560  C   VAL A 257     -24.333   5.225  -7.802  0.00  0.00           C
+ATOM   1561  O   VAL A 257     -25.115   4.331  -7.469  0.00  0.00           O
+ATOM   1583  CD2 HIS A 259     -27.122   3.153 -10.051  0.00  0.00           C
+ATOM   1584  CE1 HIS A 259     -26.386   2.637 -12.050  0.00  0.00           C
+ATOM   1585  NE2 HIS A 259     -26.372   2.266 -10.783  0.00  0.00           N
+ATOM   2058  O   SER A 316     -26.223  -0.699  -2.437  0.00  0.00           O
+ATOM   2062  CA  LEU A 317     -24.856   1.499  -3.503  0.00  0.00           C
+ATOM   2063  C   LEU A 317     -23.688   0.728  -4.120  0.00  0.00           C
+ATOM   2064  O   LEU A 317     -23.534   0.691  -5.345  0.00  0.00           O
+ATOM   2065  CB  LEU A 317     -24.657   3.005  -3.709  0.00  0.00           C
+ATOM   2068  CD2 LEU A 317     -26.984   3.748  -4.378  0.00  0.00           C
+ATOM   2069  N   PHE A 318     -22.870   0.121  -3.262  0.00  0.00           N
+ATOM   2085  CG  PRO A 319     -20.832  -3.842  -6.456  0.00  0.00           C
+ATOM   2086  CD  PRO A 319     -20.689  -2.598  -5.652  0.00  0.00           C
