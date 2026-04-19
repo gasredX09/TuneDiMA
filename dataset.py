@@ -5,15 +5,26 @@ import re
 from torch.utils.data import Dataset
 from torch_geometric.data import Data
 
-from .features import (
-    featurize_ligand,
-    extract_pocket_features,
-    extract_pocket_features_from_site,
-    find_pocket_centers,
-    build_pocket_edge_index,
-    build_pocket_edge_attr,
-    resolve_pdb_file,
-)
+try:
+    from .features import (
+        featurize_ligand,
+        extract_pocket_features,
+        extract_pocket_features_from_site,
+        find_pocket_centers,
+        build_pocket_edge_index,
+        build_pocket_edge_attr,
+        resolve_pdb_file,
+    )
+except ImportError:
+    from features import (
+        featurize_ligand,
+        extract_pocket_features,
+        extract_pocket_features_from_site,
+        find_pocket_centers,
+        build_pocket_edge_index,
+        build_pocket_edge_attr,
+        resolve_pdb_file,
+    )
 
 
 def load_manifest_records(manifest_path):
@@ -24,7 +35,8 @@ def load_manifest_records(manifest_path):
         raise ValueError(f"Manifest missing required columns: {sorted(missing)}")
     records = []
     for row in frame.itertuples(index=False):
-        records.append((str(row.ligand_smiles), str(row.pdb_path), float(row.label_value)))
+        normalized_pdb = resolve_pdb_file(str(row.pdb_path))
+        records.append((str(row.ligand_smiles), normalized_pdb, float(row.label_value)))
     return records
 
 

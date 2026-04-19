@@ -8,9 +8,14 @@ from torch_geometric.loader import DataLoader
 from rdkit import Chem
 from rdkit.Chem.Scaffolds import MurckoScaffold
 
-from .config import DEFAULTS, SEED
-from .dataset import collate_fn
-from .evaluate import evaluate_regression, evaluate_classification
+try:
+    from .config import DEFAULTS, SEED
+    from .dataset import collate_fn
+    from .evaluate import evaluate_regression, evaluate_classification
+except ImportError:
+    from config import DEFAULTS, SEED
+    from dataset import collate_fn
+    from evaluate import evaluate_regression, evaluate_classification
 
 
 def set_seed(seed: int = SEED):

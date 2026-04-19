@@ -152,8 +152,17 @@ def get_structure(pdb_file: str):
 
 
 def resolve_pdb_file(pdb_file: str):
+    project_root = Path(__file__).resolve().parents[1]
     path = Path(pdb_file)
     candidates = [path]
+
+    # Legacy manifests from other clones can contain absolute paths rooted at
+    # /ocean/projects/.../<user>/projects. Remap through the local project root.
+    path_str = str(path)
+    data_marker = "/data/"
+    if data_marker in path_str:
+        rel_from_data = path_str.split(data_marker, 1)[1]
+        candidates.append(project_root / "data" / rel_from_data)
 
     if path.suffix:
         candidates.append(path.with_suffix('.pdb'))

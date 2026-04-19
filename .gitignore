@@ -1,114 +1,84 @@
-# Top-level experiment outputs
-/logs/
-/artifacts/
-/runs/
-/conda_pkgs/
-
-# Keep report docs tracked but ignore generated assets
-/reports/*.png
-/reports/*.jpg
-/reports/*.pdf
-
-# DiMA runtime outputs and caches
-/DiMA/outputs/
-/DiMA/wandb/
-/DiMA/wandb_artifacts/
-/DiMA/.cache/
-/DiMA/generated_sequences/
-/DiMA/pdb_files/
-/DiMA/exps/
-
-# Downloaded datasets and heavy intermediates
-/DiMA/data/AFDB-v2/
-/DiMA/data/swissprot/
-/DiMA/data/**/*.arrow
-/DiMA/data/**/dataset_info.json
-/DiMA/data/**/state.json
-
-# Binary model/checkpoint files
-*.pth
-*.pt
-*.ckpt
-*.pkl
-
-# Job and runtime logs
-*.out
-*.err
-slurm-*.out
-slurm-*.err
-
-# Python and notebook noise
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-
-# Environment and local machine files
-.env
-.env.*
-.venv/
-venv/
-.DS_Store
-Thumbs.db
-
-# Temporary files
-tmp*/
-*.tmp
-
-
-
-# Python
+# Python bytecode and build artifacts
 __pycache__/
 *.py[cod]
 *.so
 *.egg-info/
 .build/
-dist/
 build/
+dist/
+
+# Virtual environments and local config
 .venv/
 venv/
 env/
 .python-version
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Virtual env / local configs
 .env
 .env.*
 *.local
 
-# Logs / outputs
-logs/
-*.log
-*.out
-*.err
-
-# Training artifacts
-artifacts/
-wandb/
-runs/
-checkpoints/
-*.pth
-*.pt
-*.ckpt
-
-# Cache
+# Notebook/runtime cache
+.ipynb_checkpoints/
 .cache/
 .pytest_cache/
 .mypy_cache/
-ruff_cache/
+.ruff_cache/
 
-# OS/editor
+# OS/editor files
 .DS_Store
+Thumbs.db
 .vscode/__pycache__/
-*.py[cod]
 
-# Large raw datasets should stay outside normal Git history.
+# Project runtime outputs
+logs/
+artifacts/
+runs/
+checkpoints/
+wandb/
+conda_pkgs/
+DiMA/outputs/
+DiMA/wandb/
+DiMA/wandb_artifacts/
+DiMA/.cache/
+DiMA/generated_sequences/
+DiMA/pdb_files/
+DiMA/exps/
+
+# Large model and checkpoint binaries
+*.pth
+*.pt
+*.ckpt
+*.pkl
+
+# Job/runtime logs
+*.out
+*.err
+*.log
+slurm-*.out
+slurm-*.err
+slurm_*.out
+slurm_*.err
+!archive/
+!archive/root_slurm_logs/
+!archive/root_slurm_logs/slurm_*.out
+!archive/root_slurm_logs/slurm_*.err
+
+# Temporary files
+tmp*/
+*.tmp
+
+# Heavy downloaded datasets and cache-like intermediate files
+DiMA/data/AFDB-v2/
+DiMA/data/swissprot/
+DiMA/data/**/*.arrow
+DiMA/data/**/dataset_info.json
+DiMA/data/**/state.json
+
+# Large raw assay/structure datasets
 data/raw/chembl/
 data/raw/bindingdb/
 data/raw/pdb/
 
-# Keep lightweight metadata and templates.
+# Keep lightweight manifests and metadata
 !data/raw/kinase_complexes/
 !data/raw/kinase_complexes/README.txt
 !data/raw/klifs/
@@ -118,3 +88,8 @@ data/raw/klifs/*.json
 !data/raw/klifs/structures_list.csv
 !data/raw/manifests/
 !data/raw/manifests/kinase_complex_manifest.csv
+
+# Keep report markdown/csv tracked, ignore rendered binaries if regenerated
+reports/*.png
+reports/*.jpg
+reports/*.pdf

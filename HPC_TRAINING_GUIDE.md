@@ -10,7 +10,7 @@
 ## Step 1: Setup on HPC
 
 ```bash
-cd /ocean/projects/cis260039p/mjaju/projects
+cd /ocean/projects/cis260039p/aguda1/nndl/project
 
 # Activate your environment
 conda activate nn
@@ -68,7 +68,7 @@ Create `train_job.sh`:
 #SBATCH --time=04:00:00
 #SBATCH --gpus=1
 
-cd /ocean/projects/cis260039p/mjaju/projects
+cd /ocean/projects/cis260039p/aguda1/nndl/project
 conda activate nn
 python train_model.py --epochs 20 --batch-size 16 --device cuda
 ```
@@ -80,6 +80,6 @@ sbatch train_job.sh
 
 ## Questions?
 
-The model architecture is defined in `projects/models/ligand_pocket.py`.
-The dataset loader is in `projects/dataset.py`.
-Training logic is in `projects/training.py`.
+The model architecture is defined in `models/ligand_pocket.py`.
+The dataset loader is in `dataset.py`.
+Training logic is in `training.py`.

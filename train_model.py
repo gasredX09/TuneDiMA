@@ -22,10 +22,10 @@ import torch
 import torch.nn as nn
 from torch_geometric.loader import DataLoader
 
-# Import from projects package
-from projects.dataset import LigandPocketDataset, load_manifest_records, collate_fn
-from projects.models.ligand_pocket import LigandPocketNet
-from projects.training import train, set_seed
+from dataset import LigandPocketDataset, load_manifest_records, collate_fn
+from models.ligand_pocket import LigandPocketNet
+from training import train, set_seed
+from features import resolve_pdb_file
 
 
 def prepare_training_data_if_needed():
@@ -54,7 +54,11 @@ def prepare_training_data_if_needed():
                 continue
 
             pdb_path = row.get("pdb_path", "").strip()
-            if not pdb_path or not Path(pdb_path).exists():
+            if not pdb_path:
+                continue
+
+            resolved_pdb_path = resolve_pdb_file(pdb_path)
+            if not Path(resolved_pdb_path).exists():
                 continue
 
             ligand_res = row.get("ligand_resname", "").strip() or "LIG"
@@ -62,7 +66,7 @@ def prepare_training_data_if_needed():
 
             rows.append({
                 "ligand_smiles": smiles,
-                "pdb_path": pdb_path,
+                "pdb_path": resolved_pdb_path,
                 "label_value": label,
             })
 

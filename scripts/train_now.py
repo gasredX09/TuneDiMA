@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import random
 from pathlib import Path
+import sys
 
 import torch
 import torch.nn as nn
@@ -12,6 +13,11 @@ from torch_geometric.data import DataLoader
 
 ROOT = Path(__file__).resolve().parents[1]
 PROCESSED_DIR = ROOT / "data" / "processed"
+
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from features import resolve_pdb_file
 
 INPUT_MANIFEST = PROCESSED_DIR / "combined_structure_ligand_manifest_all.csv"
 OUTPUT_MANIFEST = PROCESSED_DIR / "training_manifest.csv"
@@ -33,7 +39,11 @@ def prepare_training_data() -> None:
                 continue
 
             pdb_path = row.get("pdb_path", "").strip()
-            if not pdb_path or not Path(pdb_path).exists():
+            if not pdb_path:
+                continue
+
+            resolved_pdb_path = resolve_pdb_file(pdb_path)
+            if not Path(resolved_pdb_path).exists():
                 continue
 
             # Use ligand residue name as placeholder SMILES (or generate simple one)
@@ -44,7 +54,7 @@ def prepare_training_data() -> None:
             rows.append({
                 "complex_id": row.get("complex_id", ""),
                 "ligand_smiles": smiles,
-                "pdb_path": pdb_path,
+                "pdb_path": resolved_pdb_path,
                 "label_value": label,
             })
 
@@ -60,9 +70,9 @@ def prepare_training_data() -> None:
 
 def train_model() -> None:
     """Load training data and run a quick training loop."""
-    from projects.dataset import LigandPocketDataset, load_manifest_records, collate_fn
-    from projects.models.ligand_pocket import LigandPocketNet
-    from projects.training import train
+    from dataset import LigandPocketDataset, load_manifest_records, collate_fn
+    from models.ligand_pocket import LigandPocketNet
+    from training import train
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}")
@@ -90,12 +100,15 @@ def train_model() -> None:
 
     # Build model
     model = LigandPocketNet(
-        ligand_dim=9,
-        pocket_dim=20,
-        interaction_dim=4,
+        lig_in=16,
+        poc_in=25,
+        int_in=25,
+        edge_dim=10,
+        int_edge_dim=3,
         hidden_dim=64,
         num_layers=2,
         dropout=0.1,
+        mol_desc_dim=17,
     ).to(device)
 
     # Train

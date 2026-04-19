@@ -11,6 +11,7 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 from collections import Counter
+import sys
 
 try:
     from Bio import PDB
@@ -22,6 +23,11 @@ except ImportError as e:
 ROOT = Path(__file__).resolve().parents[1]
 RAW_DIR = ROOT / "data" / "raw"
 PROCESSED_DIR = ROOT / "data" / "processed"
+
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from features import resolve_pdb_file
 
 INPUT_MANIFEST = PROCESSED_DIR / "combined_structure_ligand_manifest_all.csv"
 OUTPUT_MANIFEST = PROCESSED_DIR / "training_manifest.csv"
@@ -112,7 +118,10 @@ def load_and_filter_manifest(manifest_path: Path) -> list[dict]:
                     continue
 
                 pdb_path = row.get("pdb_path", "").strip()
-                if not pdb_path or not Path(pdb_path).exists():
+                if not pdb_path:
+                    continue
+                resolved_pdb_path = resolve_pdb_file(pdb_path)
+                if not Path(resolved_pdb_path).exists():
                     continue
 
                 ligand_resname = row.get("ligand_resname", "").strip()
@@ -125,7 +134,7 @@ def load_and_filter_manifest(manifest_path: Path) -> list[dict]:
                 rows.append({
                     "complex_id": row.get("complex_id", ""),
                     "ligand_smiles": smiles,
-                    "pdb_path": pdb_path,
+                    "pdb_path": resolved_pdb_path,
                     "label_value": label_val,
                     "label_type": row.get("label_type", ""),
                     "data_source": row.get("data_source", ""),
@@ -181,14 +190,17 @@ def main() -> None:
                 except (ValueError, TypeError):
                     continue
                 pdb_path = row.get("pdb_path", "").strip()
-                if not pdb_path or not Path(pdb_path).exists():
+                if not pdb_path:
+                    continue
+                resolved_pdb_path = resolve_pdb_file(pdb_path)
+                if not Path(resolved_pdb_path).exists():
                     continue
                 # Use residue name as a placeholder SMILES
                 ligand_resname = row.get("ligand_resname", "UNK").strip() or "UNK"
                 rows.append({
                     "complex_id": row.get("complex_id", ""),
                     "ligand_smiles": ligand_resname,  # Placeholder
-                    "pdb_path": pdb_path,
+                    "pdb_path": resolved_pdb_path,
                     "label_value": label_val,
                     "label_type": row.get("label_type", ""),
                     "data_source": row.get("data_source", ""),
