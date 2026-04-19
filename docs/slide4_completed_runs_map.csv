@@ -1,0 +1,9 @@
+Category,Run ID,Run Name,Represents
+Reference baselines,38107929,reference_dima_eval (improved),Full-model 5000-step quality anchor (valid ref)
+Reference baselines,38110284,reference_dima_eval (validated),Reference replicate for anchor stability
+Reference baselines,38112128,reference_dima_eval (validated),Second replicate for consistency
+Partial FT,38134593,ft_last2_from_ref_5k_r8_noamp_lr3e6_noselfcond_safe,Last-2-layer fine-tuning from ref checkpoint
+Checkpoint comparison,38128244,selected_step4500_eval,Step-4500 checkpoint compared against step-5000 refs
+Domain-adaptive resume,38067100,domain_adaptive_denoiser (resume),More aggressive domain-specific adaptation
+Eval guards,38147436,eval_only_nan_guard_5000_v2,Reproducibility sanity check (AMP on)
+Eval guards,38147492,eval_only_nan_guard_5000_v3_safe,Reproducibility sanity check (AMP off)

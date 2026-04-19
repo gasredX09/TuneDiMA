@@ -1,0 +1,8 @@
+Experiment Arm,Init,Train Scope,Purpose,Representative Runs
+Full Fine-Tuning,Pretrained DiMA reference checkpoint,All trainable model blocks,Reference adaptation baseline,39304863
+Partial FT (Last-2),Reference checkpoint (step 5000),Last-2 encoder/output blocks,Parameter-efficient adaptation,39239209
+Partial FT (Last-4),Reference checkpoint (step 5000),Last-4 encoder/output blocks,Wider partial adaptation,39239214
+Domain-Adaptive Resume,Reference baseline pipeline,Domain-adaptive single-GPU rerun,Adapt to domain subset,39304863
+Self-Cond Ablation,Reference checkpoint (step 5000),use_self_cond=0,Assess self-conditioning impact,39306277
+Noise Schedule Ablation,Linear scheduler rerun (no incompatible init),scheduler=linear,Assess scheduler sensitivity,39310722
+Eval Guard / Checkpoint Compare,Reference + eval-only guards,Evaluation-only checks,Sanity + reproducibility validation,"38147436, 38147492"
