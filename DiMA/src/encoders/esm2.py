@@ -35,6 +35,11 @@ class ESM2EncoderModel(Encoder):
 
         self.tokenizer = EsmTokenizer.from_pretrained(config.encoder_model_name)
         self._special_token_ids = set(self.tokenizer.all_special_ids)
+        self._protein_token_ids = []
+        for token in list("ACDEFGHIKLMNPQRSTVWYBXZUO"):
+            token_id = self.tokenizer.convert_tokens_to_ids(token)
+            if token_id is not None and token_id not in self._special_token_ids:
+                self._protein_token_ids.append(token_id)
         self.encoder = esm_model.esm.to(device)
         self.lm_head_decoder = esm_model.lm_head.to(device)
         
@@ -71,6 +76,11 @@ class ESM2EncoderModel(Encoder):
         
         for token_id in self._special_token_ids:
             logits[..., token_id] = torch.finfo(logits.dtype).min
+
+        if self._protein_token_ids:
+            allowed_mask = torch.full_like(logits, torch.finfo(logits.dtype).min)
+            allowed_mask[..., self._protein_token_ids] = logits[..., self._protein_token_ids]
+            logits = allowed_mask
         
         # Debug: check what tokens are winning after masking
         top_tokens_post = logits[0, :5].argsort(descending=True).tolist()
@@ -82,6 +92,7 @@ class ESM2EncoderModel(Encoder):
         print(f"[DEBUG] Top 5 tokens before mask: {top_tokens_pre}, after: {top_tokens_post}")
 
         token_ids = logits.argmax(dim=-1).detach().cpu().tolist()
+
         if attention_mask is not None:
             for i, t in enumerate(token_ids):
                 seq_len = int(attention_mask[i].sum().item())

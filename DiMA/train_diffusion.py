@@ -1,6 +1,7 @@
 import hydra
 import torch
 import wandb
+import os
 import torch.distributed as dist
 from src.diffusion.base_trainer import BaseDiffusionTrainer
 from src.utils import seed_everything, setup_ddp, print_config
@@ -24,21 +25,28 @@ def main(config):
     seed = config.project.seed + config.ddp.global_rank
     seed_everything(seed)
 
-    # ✅ Initialize Weights and Biases
+    # ✅ Initialize Weights and Biases (optional for offline/eval SLURM jobs)
+    disable_wandb = os.getenv("DISABLE_WANDB", "0").lower() in {"1", "true", "yes", "on"}
+    wandb_mode_env = os.getenv("WANDB_MODE", "online").lower()
+    use_wandb = not disable_wandb and wandb_mode_env not in {"disabled", "offline"}
+
     if not config.ddp.enabled or config.ddp.global_rank == 0:
-        name = config.project.checkpoints_prefix
-        wandb.init(
-            project=config.project.wandb_project,
-            name=name,
-            mode="online"
-        )
-        config_to_wandb(config)
+        if use_wandb:
+            name = config.project.checkpoints_prefix
+            wandb.init(
+                project=config.project.wandb_project,
+                name=name,
+                mode="online"
+            )
+            config_to_wandb(config)
+        else:
+            print("[INFO] W&B disabled for this run")
 
     device = torch.device(f"cuda:{config.ddp.local_rank}") if config.ddp.enabled else torch.device("cuda")
     trainer = BaseDiffusionTrainer(config, device)
     trainer.train()
 
-    if config.ddp.global_rank == 0:
+    if config.ddp.global_rank == 0 and use_wandb:
         wandb.finish()
 
 if __name__ == "__main__":

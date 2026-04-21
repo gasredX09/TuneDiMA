@@ -5,6 +5,10 @@ from typing import Dict, List, Union
 import os
 
 
+def _wandb_active() -> bool:
+    return wandb.run is not None
+
+
 def print_config(cfg: DictConfig):
     """Print Hydra configuration accurately."""
     
@@ -12,6 +16,9 @@ def print_config(cfg: DictConfig):
 
 
 def config_to_wandb(cfg: DictConfig):
+    if not _wandb_active():
+        return
+
     os.makedirs("wandb_artifacts", exist_ok=True)
     config_path = "wandb_artifacts/config.yaml"
     with open(config_path, "w") as f:
@@ -25,6 +32,9 @@ def config_to_wandb(cfg: DictConfig):
 
 def log_batch_of_tensors_to_wandb(batch_of_tensors: Dict[str, torch.Tensor]):
     """Log a batch of tensors to W&B."""
+    if not _wandb_active():
+        return
+
     batch_index = 0
     columns = sorted(batch_of_tensors.keys())
     seq_len = batch_of_tensors[columns[0]].shape[1]
@@ -35,6 +45,9 @@ def log_batch_of_tensors_to_wandb(batch_of_tensors: Dict[str, torch.Tensor]):
 
 
 def log_batch_of_texts_to_wandb(batch_of_texts: List[str]):
+    if not _wandb_active():
+        return
+
     # Convert list of strings to list of tuples for wandb.Table
     table = wandb.Table(columns=["text"])
     for text in batch_of_texts:
@@ -42,4 +55,6 @@ def log_batch_of_texts_to_wandb(batch_of_texts: List[str]):
     wandb.log({"generated_texts": table})
 
 def log_metric(metric_name: str, loader_name: str, value: Union[float, torch.Tensor, wandb.Image], step: int):    
+    if not _wandb_active():
+        return
     wandb.log({f'{metric_name}/{loader_name}': value}, step=step)
